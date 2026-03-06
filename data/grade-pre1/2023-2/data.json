@@ -1,0 +1,931 @@
+{
+  "title": "2023年度 第2回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Why are you reading that paperback book, Dad? I just gave you an e-reader for your birthday!"
+            },
+            {
+              "speaker": "male",
+              "text": "I already finished the book you downloaded for me."
+            },
+            {
+              "speaker": "female",
+              "text": "There's more where that came from. And there are a lot of free e-books on the Internet."
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah, I know. But downloading them is the problem."
+            },
+            {
+              "speaker": "female",
+              "text": "I'm always happy to help, Dad."
+            },
+            {
+              "speaker": "male",
+              "text": "That would be great. And while you're at it, can you show me how to make the letters bigger on the reader?"
+            },
+            {
+              "speaker": "female",
+              "text": "Of course."
+            }
+          ],
+          "question": "What is the man's problem?",
+          "choices": [
+            "He cannot find his e-reader.",
+            "He does not want to buy e-books.",
+            "He has broken his e-reader.",
+            "He finds it hard to download e-books."
+          ],
+          "explanation": "男性は電子書籍をダウンロードすることが問題だと言っています。",
+          "highlights": [
+            "downloading them is the problem"
+          ],
+          "choiceAnalysis": "選択肢1「見つからない」→言及なし。選択肢2「買いたくない」→無料のものがある。選択肢3「壊れた」→言及なし。選択肢4「ダウンロードが難しい」→正解。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 4
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "It's nice to see you coming to yoga class more regularly, José."
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah, I've been getting into it a little more lately. Still, the poses don't seem to get any easier."
+            },
+            {
+              "speaker": "female",
+              "text": "Be patient with yourself; change happens gradually."
+            },
+            {
+              "speaker": "male",
+              "text": "Sometimes I feel embarrassed because the other students are so much more flexible."
+            },
+            {
+              "speaker": "female",
+              "text": "Don't worry about comparing yourself with anyone. Yoga is a holistic mind-and-body practice, not a competition."
+            },
+            {
+              "speaker": "male",
+              "text": "I'll try to keep that in mind next time I fall over in class."
+            }
+          ],
+          "question": "What will the man probably do?",
+          "choices": [
+            "Take private yoga classes.",
+            "Find a different activity.",
+            "Continue with his current class.",
+            "Join another yoga group."
+          ],
+          "explanation": "男性は最近もっとヨガにのめり込んでおり、次のクラスでも心がけると言っています。",
+          "highlights": [
+            "I'll try to keep that in mind next time I fall over in class"
+          ],
+          "choiceAnalysis": "選択肢1「プライベートレッスン」→言及なし。選択肢2「別の活動」→続ける意思。選択肢3「現在のクラスを続ける」→正解。選択肢4「別のグループ」→言及なし。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 3
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Have you met the new boss?"
+            },
+            {
+              "speaker": "female",
+              "text": "I have. We discovered we're from the same hometown. We even went to the same high school, though she was a few years ahead of me."
+            },
+            {
+              "speaker": "male",
+              "text": "Small world! What did you think of her?"
+            },
+            {
+              "speaker": "female",
+              "text": "She's very knowledgeable about the publishing business. She has some interesting plans, and that's what our division needs."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, that's exciting. We need a supportive leader."
+            }
+          ],
+          "question": "What is one thing we learn about the new boss?",
+          "choices": [
+            "She has some new ideas for the division.",
+            "She knows little about publishing.",
+            "She was an excellent student.",
+            "She wants to increase staff salaries."
+          ],
+          "explanation": "新しい上司は出版業界に詳しく、興味深い計画を持っています。",
+          "highlights": [
+            "She has some interesting plans"
+          ],
+          "choiceAnalysis": "選択肢1「部門に新しいアイデアがある」→正解。選択肢2「出版に詳しくない」→逆。選択肢3「優秀な学生だった」→言及なし。選択肢4「給料アップ」→言及なし。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 1
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Why are all of your clothes piled up on the bed?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm sorting through them to see which items I want to donate."
+            },
+            {
+              "speaker": "male",
+              "text": "Didn't you do that about a month ago for a school fund-raiser? It's not like your size has changed since then."
+            },
+            {
+              "speaker": "female",
+              "text": "No, but the community center is gathering clothes for a family who just had a house fire. They lost everything."
+            },
+            {
+              "speaker": "male",
+              "text": "That's terrible. Do they need men's clothes? I could part with a few items myself."
+            }
+          ],
+          "question": "Why is the woman giving away her clothes?",
+          "choices": [
+            "She wants to help a family in need.",
+            "They no longer fit her well.",
+            "There is an event at her school.",
+            "She does not have storage space for them."
+          ],
+          "explanation": "火事で全てを失った家族のために服を寄付しようとしています。",
+          "highlights": [
+            "the community center is gathering clothes for a family who just had a house fire"
+          ],
+          "choiceAnalysis": "選択肢1「困っている家族を助けたい」→正解。選択肢2「サイズが合わない」→サイズは変わっていない。選択肢3「学校のイベント」→先月の話。選択肢4「収納スペースがない」→言及なし。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 1
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Did you see the latest newsletter? It seems our merger with Evan's Real Estate is now official."
+            },
+            {
+              "speaker": "female",
+              "text": "I'm dreading moving our offices, but I admit it makes sense."
+            },
+            {
+              "speaker": "male",
+              "text": "I agree. We've been working with their agents for years. This will just reduce our operating expenses and strengthen our market position."
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah. But I've heard that some of our staff have decided to leave to work on their own."
+            },
+            {
+              "speaker": "male",
+              "text": "I think the merger is just convenient timing for them. They've wanted to become independent for a while."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I'll still be sad to see them go."
+            }
+          ],
+          "question": "What is one thing the man says about the merger?",
+          "choices": [
+            "It will help reduce his workload.",
+            "It will mean more work with independent agents.",
+            "It will make his company more successful.",
+            "It will lead to many staff being fired."
+          ],
+          "explanation": "合併により経費削減と市場でのポジション強化が実現すると言っています。",
+          "highlights": [
+            "reduce our operating expenses and strengthen our market position"
+          ],
+          "choiceAnalysis": "選択肢1「仕事量減少」→言及なし。選択肢2「独立エージェントとの仕事」→辞める人の話。選択肢3「より成功する」→正解。選択肢4「多くの解雇」→自主退職。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 3
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "What do you think about installing solar panels on our roof? The initial costs are a little high, but we'd save a lot on energy bills."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, panels are becoming more efficient, and they're eco-friendly. But I don't think they'd be a good match for us."
+            },
+            {
+              "speaker": "female",
+              "text": "Why not?"
+            },
+            {
+              "speaker": "male",
+              "text": "It would take something like 15 years to make our money back on the investment, but we won't be living in this house that long."
+            },
+            {
+              "speaker": "female",
+              "text": "But wouldn't solar panels make the place worth more when we sell it?"
+            },
+            {
+              "speaker": "male",
+              "text": "Not by much. By then, our panels would be outdated."
+            }
+          ],
+          "question": "What does the man say about solar panels?",
+          "choices": [
+            "They will become less expensive in the future.",
+            "They would not save the couple money.",
+            "They need to be replaced after a few years.",
+            "They do not have many environmental benefits."
+          ],
+          "explanation": "投資回収に15年かかるが、そんなに長くこの家に住まないので節約にならないと言っています。",
+          "highlights": [
+            "It would take something like 15 years to make our money back",
+            "we won't be living in this house that long"
+          ],
+          "choiceAnalysis": "選択肢1「将来安くなる」→言及なし。選択肢2「節約にならない」→正解。選択肢3「数年で交換が必要」→15年で古くなる。選択肢4「環境メリットなし」→エコフレンドリーと認めている。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 2
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Could you have a look at this translation, Jared?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure. Is it the one that Miki did for LTR Chemicals?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes. Please give it extra attention because they're very particular about accuracy. We can't afford to lose them as a client."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. Is the deadline urgent?"
+            },
+            {
+              "speaker": "female",
+              "text": "No, we're ahead of schedule and still have a few days until it's due. Miki has a tendency to rush to get things back to me quickly, even though I ask her to take her time."
+            },
+            {
+              "speaker": "male",
+              "text": "OK, I'll give it a thorough check."
+            }
+          ],
+          "question": "What does the woman imply?",
+          "choices": [
+            "Miki has not completed her translation work.",
+            "The deadline is likely to change.",
+            "The client has made a number of mistakes.",
+            "Miki often does not work carefully enough."
+          ],
+          "explanation": "Mikiは急いで仕事を返す傾向があり、時間をかけるよう頼んでもそうしないと言っています。",
+          "highlights": [
+            "Miki has a tendency to rush to get things back to me quickly"
+          ],
+          "choiceAnalysis": "選択肢1「まだ完了していない」→完了して確認依頼。選択肢2「締め切りが変わる」→余裕がある。選択肢3「クライアントのミス」→言及なし。選択肢4「Mikiは十分に注意しない」→正解。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 4
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Honey, the travel agent just called. He said the cruise is nearly sold out, so we have to decide soon."
+            },
+            {
+              "speaker": "male",
+              "text": "Actually, I've been having second thoughts. I was looking at reviews on several websites, and there seem to be a lot of dissatisfied customers."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? A few of the ones I saw were very positive. Well, we don't have to go. I just think you should get some kind of reward for working so hard lately."
+            },
+            {
+              "speaker": "male",
+              "text": "How about increasing our budget a bit and booking a cruise with a better reputation?"
+            },
+            {
+              "speaker": "female",
+              "text": "OK. I'll talk to the agent."
+            }
+          ],
+          "question": "Why is the man worried about their holiday?",
+          "choices": [
+            "He found many online complaints.",
+            "The cost of the cruise has increased.",
+            "He cannot get time off from work.",
+            "He is unable to book another cruise."
+          ],
+          "explanation": "男性は複数のウェブサイトで不満のある顧客のレビューを多く見つけました。",
+          "highlights": [
+            "there seem to be a lot of dissatisfied customers"
+          ],
+          "choiceAnalysis": "選択肢1「オンラインでの不満が多い」→正解。選択肢2「費用が上がった」→言及なし。選択肢3「休みが取れない」→言及なし。選択肢4「予約できない」→別のクルーズを提案。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 1
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Did you watch the season finale of Shield Force last night?"
+            },
+            {
+              "speaker": "female",
+              "text": "Of course! I thought that was the best episode of the entire season."
+            },
+            {
+              "speaker": "male",
+              "text": "What did you think of the scene where Agent Martinez was revealed to be the traitor?"
+            },
+            {
+              "speaker": "female",
+              "text": "That was such a shocker. I was so sure it was going to be Agent Turner, but the way they explained it made perfect sense."
+            },
+            {
+              "speaker": "male",
+              "text": "Totally. The writing on that show is just fantastic."
+            },
+            {
+              "speaker": "female",
+              "text": "I can't wait to see what happens next season."
+            }
+          ],
+          "question": "What do the speakers imply about Shield Force?",
+          "choices": [
+            "It has a lot of unique characters.",
+            "The show's writing has improved greatly.",
+            "The plot was hard to predict.",
+            "It may not be renewed for another season."
+          ],
+          "explanation": "裏切り者が予想外の人物で衝撃だったが、説明に納得できたことから、展開が予測困難であることを示唆しています。",
+          "highlights": [
+            "That was such a shocker. I was so sure it was going to be Agent Turner"
+          ],
+          "choiceAnalysis": "選択肢1「ユニークなキャラクター」→言及なし。選択肢2「脚本が改善」→ずっと素晴らしい。選択肢3「展開が予測困難」→正解。選択肢4「更新されない」→次シーズンを楽しみに。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 3
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "I've been thinking about assigning Mark to manage the new software project."
+            },
+            {
+              "speaker": "female",
+              "text": "Do you think he can handle it? I know he's bright, but he's only been with the firm for 18 months."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, I was originally considering Genevieve, but she's really got her hands full these days. That leaves either Mark or Yasuhiro."
+            },
+            {
+              "speaker": "female",
+              "text": "In that case, I guess we have no choice but to give it to Mark. The last time we put Yasuhiro in charge of a project, things quickly went off the rails."
+            }
+          ],
+          "question": "What does the woman imply about Mark?",
+          "choices": [
+            "He is busier than Yasuhiro.",
+            "He does not get along with Genevieve.",
+            "He often makes poor decisions.",
+            "He may not have enough experience."
+          ],
+          "explanation": "女性はMarkが優秀だが18ヶ月しか在籍していないことを懸念しています。",
+          "highlights": [
+            "he's only been with the firm for 18 months"
+          ],
+          "choiceAnalysis": "選択肢1「Yasuhiroより忙しい」→逆にGenevieveが忙しい。選択肢2「Genevieveと合わない」→言及なし。選択肢3「判断が下手」→Yasuhiroの問題。選択肢4「経験不足かも」→正解。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 4
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, did you take Professor Ritter's Politics 302 class last semester?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah. Some of the lectures were interesting, but I wouldn't really recommend it."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh. I heard it involves a lot of reading. Was that the problem?"
+            },
+            {
+              "speaker": "male",
+              "text": "Actually, the workload seemed reasonable to me. My issue was that when she was marking papers, Professor Ritter seemed to favor students who share her political views."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, really?"
+            },
+            {
+              "speaker": "male",
+              "text": "If I were you, I'd sign up for Professor Tamura's or Professor Wilson's class instead."
+            }
+          ],
+          "question": "What is the man's opinion of Professor Ritter?",
+          "choices": [
+            "Her lectures tend to be long.",
+            "She gives too much homework.",
+            "Her political views are extreme.",
+            "She does not grade fairly."
+          ],
+          "explanation": "男性はRitter教授が自分の政治的見解を共有する学生を採点で優遇すると不満を持っています。",
+          "highlights": [
+            "Professor Ritter seemed to favor students who share her political views"
+          ],
+          "choiceAnalysis": "選択肢1「講義が長い」→面白いものもあった。選択肢2「宿題が多い」→適度だと思った。選択肢3「極端な政治的見解」→言及なし。選択肢4「採点が公平でない」→正解。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 4
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "We need to do something about the dogs. Their barking is becoming a real problem."
+            },
+            {
+              "speaker": "male",
+              "text": "I don't know. Most dogs bark at strangers, no?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, but ours bark every time someone goes past the house. We'll get complaints from the neighbors if this keeps up."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, we've already tried every training method we could find online. I'm not sure what else we can do."
+            },
+            {
+              "speaker": "female",
+              "text": "I think we should hire a proper dog trainer. I know it'll be expensive, but it'll be worth it for some peace and quiet."
+            },
+            {
+              "speaker": "male",
+              "text": "I guess you're right."
+            }
+          ],
+          "question": "What will the man and woman probably do?",
+          "choices": [
+            "Search for solutions online.",
+            "Get help from a professional.",
+            "Ask their neighbors for advice.",
+            "Move to a quieter neighborhood."
+          ],
+          "explanation": "女性はプロのドッグトレーナーを雇うことを提案し、男性も同意しています。",
+          "highlights": [
+            "we should hire a proper dog trainer",
+            "I guess you're right"
+          ],
+          "choiceAnalysis": "選択肢1「オンラインで検索」→既にやった。選択肢2「プロに頼む」→正解。選択肢3「隣人に相談」→言及なし。選択肢4「引っ越す」→言及なし。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Sukkoth is a religious holiday celebrated by Jewish people around the world. It originated thousands of years ago as a harvest festival. During the festival, people demonstrated their appreciation to their god for the year's crops. Later, the holiday became connected with the time immediately after the ancient Jewish people had escaped from slavery in Egypt. According to tradition, the Jewish people wandered in the desert and had to live in fragile shelters called sukkahs that protected them from the heat of the sun."
+            }
+          ],
+          "question": "Why did people originally celebrate Sukkoth?",
+          "choices": [
+            "To improve the quality of their crops.",
+            "To give thanks for the food they grew.",
+            "To pray they could leave the desert.",
+            "To celebrate their time in Egypt."
+          ],
+          "explanation": "もともとは収穫祭として、その年の作物への感謝を示していました。",
+          "highlights": [
+            "people demonstrated their appreciation to their god for the year's crops"
+          ],
+          "choiceAnalysis": "選択肢1「作物の品質向上」→感謝。選択肢2「食べ物への感謝」→正解。選択肢3「砂漠を出る祈り」→後の伝統。選択肢4「エジプト時代を祝う」→逆に脱出後。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 2
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Today, Jewish people celebrate the holiday by building a sukkah in their backyards or on balconies. Sukkahs generally have three walls, and the roof is made with leaves and has openings so that the stars are visible above. During the festival's seven days, people consume their meals in the sukkah, and if they live in a warm climate, they sleep in it as well."
+            }
+          ],
+          "question": "What is one thing we learn about modern sukkah buildings?",
+          "choices": [
+            "They have desert images on the walls.",
+            "They are covered to keep them cool.",
+            "Meals must be cooked in them.",
+            "People can see the sky from inside them."
+          ],
+          "explanation": "屋根は葉で作られ、星が見えるように開口部があります。",
+          "highlights": [
+            "the roof is made with leaves and has openings so that the stars are visible above"
+          ],
+          "choiceAnalysis": "選択肢1「砂漠の絵」→言及なし。選択肢2「涼しくする覆い」→開口部がある。選択肢3「料理する」→食事をする。選択肢4「空が見える」→正解。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 4
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Vultures are birds well-known for their diet, which consists of the remains of dead animals. This association has given many people a negative impression of the birds, but we in fact owe much gratitude to vultures. By eating dead animals, the birds prevent disease-causing germs from entering the environment, including water sources. And because the strong acid in their stomachs is so good at killing germs, vultures are unlikely to pass on diseases to humans."
+            }
+          ],
+          "question": "What does the speaker say about disease-causing germs?",
+          "choices": [
+            "Vultures help stop them from affecting humans.",
+            "Vultures often spread them to other animals.",
+            "They can be deadly to vultures.",
+            "They survive in vultures' stomachs."
+          ],
+          "explanation": "ハゲタカは死んだ動物を食べて病原菌が環境に入るのを防ぎ、胃酸で菌を殺すため人間に病気をうつしにくいです。",
+          "highlights": [
+            "vultures are unlikely to pass on diseases to humans"
+          ],
+          "choiceAnalysis": "選択肢1「人間への影響を防ぐ」→正解。選択肢2「他の動物に広げる」→逆。選択肢3「ハゲタカに致命的」→胃酸で殺す。選択肢4「胃の中で生存」→殺される。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 1
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The bodies of dead animals do more than spread disease—they also release CO2 and other greenhouse gases as they decay on the ground. When vultures feed, they prevent this from happening. However, in many parts of the world today, vulture populations have declined significantly, resulting in millions of tons of extra greenhouse-gas emissions entering the atmosphere. Ensuring vulture populations remain healthy is therefore an important step in combating climate change."
+            }
+          ],
+          "question": "What is suggested about climate change?",
+          "choices": [
+            "Vultures' feeding habits help to reduce its effects.",
+            "It has increased vulture populations worldwide.",
+            "Vultures' food sources have changed because of it.",
+            "It has forced vultures to find new habitats."
+          ],
+          "explanation": "ハゲタカが死体を食べることで温室効果ガスの排出を防いでいます。",
+          "highlights": [
+            "When vultures feed, they prevent this from happening"
+          ],
+          "choiceAnalysis": "選択肢1「ハゲタカの食習慣が効果を減らす」→正解。選択肢2「個体数が増えた」→減少している。選択肢3「食料源が変わった」→言及なし。選択肢4「新しい生息地」→言及なし。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 1
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Everyone knows that praise is important for motivating employees and increasing their satisfaction. Surprisingly, however, according to researchers, praise can improve employee performance even when the employee does not earn the praise. When researchers gave praise to random workers, the quality of the workers' output increased dramatically compared to those who were not praised."
+            }
+          ],
+          "question": "What is one thing research found about praising employees?",
+          "choices": [
+            "Workers often think they do not deserve praise.",
+            "Random praise can improve performance.",
+            "Too much praise can hurt performance.",
+            "Most bosses do not give enough praise."
+          ],
+          "explanation": "ランダムに褒めても、褒められなかった人と比較して仕事の質が劇的に向上しました。",
+          "highlights": [
+            "praise can improve employee performance even when the employee does not earn the praise"
+          ],
+          "choiceAnalysis": "選択肢1「褒められる価値がないと思う」→言及なし。選択肢2「ランダムな称賛でも効果的」→正解。選択肢3「褒めすぎは悪影響」→言及なし。選択肢4「上司が十分に褒めない」→言及なし。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 2
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Another study suggests that some kinds of praise are more effective than others. The study identifies two kinds of mindsets. Those with a so-called fixed mindset think they are born with a certain level of ability and that they are unlikely to get better at things. On the other hand, those with a so-called growth mindset feel that they have the capability to acquire new skills and talents. It seems that praising effort rather than results may have a positive effect because it encourages a growth mindset in unhappy employees who would otherwise be frustrated with their jobs."
+            }
+          ],
+          "question": "What does the speaker suggest about unhappy employees?",
+          "choices": [
+            "They tend to react negatively to praise.",
+            "They worry too much about their work.",
+            "They may benefit from having a growth mindset.",
+            "They affect the mindsets of workers around them."
+          ],
+          "explanation": "不満のある従業員には成長マインドセットを促すことが有効で、努力を褒めることでそれが実現できます。",
+          "highlights": [
+            "encourages a growth mindset in unhappy employees"
+          ],
+          "choiceAnalysis": "選択肢1「褒めに否定的」→言及なし。選択肢2「仕事を心配しすぎ」→言及なし。選択肢3「成長マインドセットが有益」→正解。選択肢4「周囲に影響」→言及なし。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 3
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "During World War II, there was great fear that Britain would be invaded by Nazi Germany. In this environment, it was decided that paintings from the National Gallery in London should be moved somewhere safer. At first, it was suggested that they be shipped to Canada, but British leaders worried about the threat from the German submarines that were sinking thousands of ships. Eventually, the art treasures were stored in an old mine in a remote area of Wales called Manod."
+            }
+          ],
+          "question": "Why did British leaders reject the original plan?",
+          "choices": [
+            "They believed an invasion would not happen.",
+            "They worried that the art would be destroyed.",
+            "They thought Canada was likely to be invaded.",
+            "They feared Germans would be able to steal the art."
+          ],
+          "explanation": "ドイツの潜水艦が何千もの船を沈めていたため、カナダへの輸送中に芸術品が破壊されることを心配しました。",
+          "highlights": [
+            "British leaders worried about the threat from the German submarines"
+          ],
+          "choiceAnalysis": "選択肢1「侵攻がないと思った」→恐れがあった。選択肢2「芸術品が破壊される心配」→正解。選択肢3「カナダが侵攻される」→言及なし。選択肢4「盗まれる恐れ」→沈められる恐れ。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 2
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Transporting the art was extremely difficult as many of the works were large and had to be moved carefully through the small mine entrance. Furthermore, there was great concern that moisture and cold temperatures would damage the paintings, so special air-conditioned structures were built in the mine to contain them. Thanks to the project at Manod, the paintings survived the war, and much was learned about preserving art."
+            }
+          ],
+          "question": "What was learned from the experience at Manod?",
+          "choices": [
+            "The importance of art during wartime.",
+            "A way to create larger mines.",
+            "The effects of low temperatures on paintings.",
+            "Ways of keeping art in good condition."
+          ],
+          "explanation": "Manodのプロジェクトから美術品の保存について多くのことが学ばれました。",
+          "highlights": [
+            "much was learned about preserving art"
+          ],
+          "choiceAnalysis": "選択肢1「戦時中の芸術の重要性」→保存方法。選択肢2「大きな鉱山を作る方法」→言及なし。選択肢3「低温の影響」→一部だが主題は保存。選択肢4「芸術品を良い状態に保つ方法」→正解。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 4
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "On the night of April 26, 1777, during the American Revolution, a messenger arrived at American commander Henry Ludington's house. The messenger warned of a coming British attack, but Ludington's soldiers were scattered around the region. The commander's daughter, Sybil, bravely volunteered to alert them. Though just 16 years old, Sybil rode on horseback for over 65 kilometers in stormy weather. Thanks to her night ride, the troops assembled and drove away the British. After the war, however, Sybil was forgotten for many years."
+            }
+          ],
+          "question": "What was the purpose of Sybil Ludington's ride?",
+          "choices": [
+            "To help warn about an attack.",
+            "To check the location of British soldiers.",
+            "To gather supplies for American troops.",
+            "To lead her father away from danger."
+          ],
+          "explanation": "Sybilは英国軍の攻撃が迫っていることを散らばった兵士たちに警告するために馬に乗りました。",
+          "highlights": [
+            "Sybil, bravely volunteered to alert them"
+          ],
+          "choiceAnalysis": "選択肢1「攻撃を警告する」→正解。選択肢2「英国軍の位置確認」→兵士を招集。選択肢3「物資を集める」→言及なし。選択肢4「父を逃がす」→言及なし。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 1
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Some historians question whether Sybil's ride ever really happened. While documents show that the British attack occurred, there are no official records of Sybil's journey. It appeared in a history book published in the 1800s, but the book failed to give sources to confirm it. Nevertheless, the story has been widely accepted, and Sybil has become a symbol of the role of women in the American Revolution."
+            }
+          ],
+          "question": "What is one reason some historians doubt Sybil's ride?",
+          "choices": [
+            "There is evidence a different woman rode that night.",
+            "There are no records of an attack by the British army.",
+            "It was not officially documented.",
+            "A history book claims it did not happen."
+          ],
+          "explanation": "Sybilの旅についての公式記録がなく、出典も示されていません。",
+          "highlights": [
+            "there are no official records of Sybil's journey"
+          ],
+          "choiceAnalysis": "選択肢1「別の女性の証拠」→言及なし。選択肢2「攻撃の記録なし」→攻撃は記録されている。選択肢3「公式に記録されていない」→正解。選択肢4「歴史書が否定」→歴史書には載っている。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 3
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "During the economic boom of the 1950s in the US and Canada, interest in recreational activities increased dramatically. One activity that grew in popularity was skiing. However, many ski resorts found that they needed more snow on their mountains to meet customer demand. Machines were developed to create snow artificially using water and compressed air, enabling ski resorts to operate even without a lot of natural snowfall."
+            }
+          ],
+          "question": "What does the speaker say about many ski resorts in the 1950s?",
+          "choices": [
+            "They had to relocate to more-populated areas.",
+            "They had to close due to unhappy customers.",
+            "They were not receiving enough snow.",
+            "They were opposed to using artificial snow."
+          ],
+          "explanation": "多くのスキーリゾートは顧客の需要を満たすためにもっと雪が必要でした。",
+          "highlights": [
+            "they needed more snow on their mountains to meet customer demand"
+          ],
+          "choiceAnalysis": "選択肢1「移転」→言及なし。選択肢2「閉鎖」→言及なし。選択肢3「雪が足りない」→正解。選択肢4「人工雪に反対」→開発して使用。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 3
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "However, snowmaking requires significant energy consumption as well as water from reservoirs and lakes. A Canadian ski resort known as Banff Sunshine Village relies instead on a method called snow farming. The resort takes advantage of the area's windy conditions by putting up fences at high altitudes to catch snow that blows in from surrounding mountains. Later, the snow is transported down to slopes that need it. This allows the resort to maximize snow cover in an environmentally sustainable and energy-efficient way."
+            }
+          ],
+          "question": "What is true about Banff Sunshine Village?",
+          "choices": [
+            "The use of artificial snow has hurt its business.",
+            "It makes use of the wind to help it operate.",
+            "It provides snow to other ski resorts in its local area.",
+            "Its slopes are at unusually high altitudes."
+          ],
+          "explanation": "風の強い条件を利用してフェンスで雪を捕らえる「スノーファーミング」という方法を使っています。",
+          "highlights": [
+            "takes advantage of the area's windy conditions by putting up fences"
+          ],
+          "choiceAnalysis": "選択肢1「人工雪がビジネスに悪影響」→言及なし。選択肢2「風を利用」→正解。選択肢3「他のリゾートに提供」→言及なし。選択肢4「異常に高い標高」→言及なし。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You are staying at a hotel. It is 6:30 p.m. now, and you want to have dinner at a nearby restaurant around 7:00 p.m. The concierge tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "We're near the harbor, so there are a lot of good seafood options. Kingsley's is a very popular lobster restaurant and bar, but it doesn't open until eight. Shrimp Lover is a seafood restaurant that just opened one month ago. It's about 45 minutes away by train. Randy's is a unique Mexican restaurant just a block away. They only have counter seats, but I'm sure you can be seated right away, even at dinner time. Then, there's Boca here in the hotel, but it's very difficult to get a table if you haven't booked at least a day in advance."
+            }
+          ],
+          "question": "Which restaurant should you choose?",
+          "choices": [
+            "Kingsley's.",
+            "Shrimp Lover.",
+            "Randy's.",
+            "Boca."
+          ],
+          "explanation": "7時頃に近くで夕食をとりたい。Kingsley's→8時開店。Shrimp Lover→電車で45分。Boca→前日予約必要。Randy's→1ブロック先ですぐ座れる。",
+          "highlights": [
+            "Randy's is a unique Mexican restaurant just a block away",
+            "I'm sure you can be seated right away"
+          ],
+          "choiceAnalysis": "選択肢1「Kingsley's」→8時まで開かない。選択肢2「Shrimp Lover」→45分かかる。選択肢3「Randy's」→正解。近くてすぐ座れる。選択肢4「Boca」→前日予約必要。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 3
+        },
+        {
+          "number": 26,
+          "situation": "You have decided to sell half of your collection of 500 music CDs. You call a shop that buys and sells used CDs and hear the following recorded message.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome to CD Masters. This holiday season, don't miss out on our \"CD Surprise\" boxes with 30 random CDs inside. Additionally, to sell up to 99 CDs, any registered member can log into their account on our website and start the sales procedure. If you don't have an account, you can register today just by filling out the form on our website. If you would prefer to register over the phone, press 1. If you are looking to sell 100 or more CDs at once, press 2. A representative will speak with you to schedule a home visit to assess your CD collection."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Start the sales procedure online.",
+            "Begin packing your CDs into boxes.",
+            "Download a form from the website.",
+            "Make an appointment for an assessment."
+          ],
+          "explanation": "500枚の半分=250枚を売りたい→100枚以上なので2を押す→自宅訪問で査定の予約をする。",
+          "highlights": [
+            "If you are looking to sell 100 or more CDs at once, press 2",
+            "schedule a home visit to assess your CD collection"
+          ],
+          "choiceAnalysis": "選択肢1「オンラインで手続き」→99枚まで。選択肢2「箱に詰める」→言及なし。選択肢3「フォームをダウンロード」→登録用。選択肢4「査定の予約」→正解。250枚は100枚以上。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 4
+        },
+        {
+          "number": 27,
+          "situation": "You are a college student. You want to learn about ancient Greeks and Romans and do not like group work. You are listening to an academic adviser's explanation.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In History 103, students can learn about European history in the eighteenth and nineteenth centuries. This class has no group projects, and there is an option available to take it online. Next, Philosophy 105 is for those who want to grasp the gist of Western philosophy, including that of ancient Greece and Rome. Students are expected to take part in spirited team debates in each class. History 202 is a lecture-based class and is non-interactive. It focuses primarily on ancient Egyptian, Greek, and Roman history. Finally, Latin 102 focuses exclusively on ancient Rome. In that class, you'll learn Latin by reading ancient Roman plays."
+            }
+          ],
+          "question": "Which class should you take?",
+          "choices": [
+            "History 103.",
+            "Philosophy 105.",
+            "History 202.",
+            "Latin 102."
+          ],
+          "explanation": "古代ギリシャ・ローマについて学びたい＆グループワークが嫌い。History 103→18-19世紀。Philosophy 105→チーム討論あり。History 202→講義形式でギリシャ・ローマ史→条件を満たす。Latin 102→ローマのみ。",
+          "highlights": [
+            "History 202 is a lecture-based class and is non-interactive",
+            "ancient Egyptian, Greek, and Roman history"
+          ],
+          "choiceAnalysis": "選択肢1「History 103」→時代が異なる。選択肢2「Philosophy 105」→グループ討論あり。選択肢3「History 202」→正解。選択肢4「Latin 102」→ローマのみでラテン語。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 3
+        },
+        {
+          "number": 28,
+          "situation": "The tablet computer you bought for your daughter two weeks ago has broken. It has a one-year warranty. You call the product manufacturer and hear the following recorded message.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thank you for calling the TSS Electronics help desk. For corporate customers who have questions regarding the details of their contracts, press 1. For technical support or to request a replacement for any of our products currently under warranty, press 2. To arrange for a repair or check the repair status of a product outside of warranty, press 3. For information about the different tablet models and data plans that we provide, press 4. For all other inquiries, please remain on the line until a representative becomes available."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Press 1.",
+            "Press 2.",
+            "Press 3.",
+            "Press 4."
+          ],
+          "explanation": "2週間前に購入→1年保証期間内→保証期間内の製品の交換依頼は2番。",
+          "highlights": [
+            "to request a replacement for any of our products currently under warranty, press 2"
+          ],
+          "choiceAnalysis": "選択肢1「1番」→法人顧客向け。選択肢2「2番」→正解。保証期間内の交換。選択肢3「3番」→保証外の修理。選択肢4「4番」→製品情報。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 2
+        },
+        {
+          "number": 29,
+          "situation": "You and your seven-year-old son are at a science museum. You want to take a tour. You must leave the museum in 45 minutes. You hear the following announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Several tours will be starting shortly. First, Spark of Genius is an hour-long tour about electricity that includes an exciting 30-minute 3D movie. We also have The Age of Dinos, which is a tour that explores the fascinating period when dinosaurs ruled the earth. It takes half an hour. Deep into the Sea is a 40-minute tour that looks at amazing deep-sea creatures. It can be a little scary, so this tour is not recommended for children under the age of 10. Finally, don't forget you can make reservations for our Museum after Dark overnight tour to experience an unforgettable night among our amazing exhibits."
+            }
+          ],
+          "question": "Which tour should you choose?",
+          "choices": [
+            "Spark of Genius.",
+            "The Age of Dinos.",
+            "Deep into the Sea.",
+            "Museum after Dark."
+          ],
+          "explanation": "45分以内＆7歳の息子と一緒。Spark of Genius→1時間で超過。Deep into the Sea→10歳未満不推奨。Museum after Dark→夜のツアーで予約制。Age of Dinos→30分で条件を満たす。",
+          "highlights": [
+            "The Age of Dinos",
+            "It takes half an hour"
+          ],
+          "choiceAnalysis": "選択肢1「Spark of Genius」→1時間で超過。選択肢2「The Age of Dinos」→正解。30分。選択肢3「Deep into the Sea」→10歳未満不推奨。選択肢4「Museum after Dark」→夜の予約制ツアー。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

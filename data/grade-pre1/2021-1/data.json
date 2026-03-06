@@ -1,0 +1,948 @@
+{
+  "title": "2021年度 第1回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。対話と質問は一度だけ放送されます。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, honey, did you mail my mom's present like I asked you to?"
+            },
+            {
+              "speaker": "male",
+              "text": "Uh, I'll do it tomorrow on my way to work."
+            },
+            {
+              "speaker": "female",
+              "text": "I can't believe it. This is the third time I've reminded you."
+            },
+            {
+              "speaker": "male",
+              "text": "I know. I know. I just got busy and it slipped my mind. Sorry. It won't happen again."
+            },
+            {
+              "speaker": "female",
+              "text": "It happens almost every time I ask you to do something."
+            }
+          ],
+          "question": "What does the woman imply?",
+          "choices": [
+            "The man should be more apologetic.",
+            "The man should have bought a present.",
+            "The man worries too much.",
+            "The man is not very reliable."
+          ],
+          "explanation": "女性は3回もリマインドしたのに忘れられた、何かを頼むたびにこうなると言っており、男性が頼りにならないことを暗示しています。",
+          "highlights": [
+            "This is the third time I've reminded you",
+            "It happens almost every time I ask you to do something"
+          ],
+          "choiceAnalysis": "選択肢1「もっと謝るべき」→言及なし。選択肢2「プレゼントを買うべきだった」→郵送の話。選択肢3「心配しすぎ」→逆。選択肢4「あまり頼りにならない」→正解。毎回忘れると示唆。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 4
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I finally found the ideal spot for my new hair salon. I just signed the lease today."
+            },
+            {
+              "speaker": "male",
+              "text": "You're opening another shop? The first one must be doing quite well."
+            },
+            {
+              "speaker": "female",
+              "text": "Business is great. My new salon will have a special focus, though. We'll offer haircuts exclusively for children."
+            },
+            {
+              "speaker": "male",
+              "text": "I didn't know there was a demand for that."
+            },
+            {
+              "speaker": "female",
+              "text": "The children's beauty market is so hot now. I just figure I can't lose."
+            },
+            {
+              "speaker": "male",
+              "text": "I'd be wary of trends. They often don't last long. Anyway, how does one make the haircutting experience different for children?"
+            },
+            {
+              "speaker": "female",
+              "text": "We make the environment fun. The salon chairs will be in the shape of animals, and kids can choose from various scented shampoos."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, I wish you luck!"
+            }
+          ],
+          "question": "How does the woman feel about her new business project?",
+          "choices": [
+            "She is confident.",
+            "She is cautious.",
+            "She is worried.",
+            "She is disappointed."
+          ],
+          "explanation": "女性は「負けるはずがない」と言い、子供向け美容市場が好調だと確信しています。",
+          "highlights": [
+            "I just figure I can't lose",
+            "The children's beauty market is so hot now"
+          ],
+          "choiceAnalysis": "選択肢1「自信がある」→正解。「負けるはずがない」と発言。選択肢2「慎重」→慎重なのは男性。選択肢3「心配」→言及なし。選択肢4「がっかり」→言及なし。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 1
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, John. Did you hear whether Stacey got the job or not? I haven't seen her for a while."
+            },
+            {
+              "speaker": "male",
+              "text": "I had lunch with her yesterday. Apparently, the company offered her the job, but she turned them down."
+            },
+            {
+              "speaker": "female",
+              "text": "You're kidding! She seemed really interested when I last spoke to her."
+            },
+            {
+              "speaker": "male",
+              "text": "I know, but after the interview, she reconsidered and decided she's better off where she is now."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I did wonder why she wanted to change jobs in the first place."
+            }
+          ],
+          "question": "What do we learn about Stacey?",
+          "choices": [
+            "She is looking for a new job.",
+            "She is keeping her current job.",
+            "She failed her job interview.",
+            "She started a new job."
+          ],
+          "explanation": "Staceyは内定をもらったが辞退し、今の仕事の方が良いと判断しました。",
+          "highlights": [
+            "she turned them down",
+            "decided she's better off where she is now"
+          ],
+          "choiceAnalysis": "選択肢1「新しい仕事を探している」→辞退済み。選択肢2「今の仕事を続ける」→正解。選択肢3「面接に落ちた」→内定は出た。選択肢4「新しい仕事を始めた」→辞退。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 2
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Is it boiling in here or is it just me?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm all right, but we can open a window if you want."
+            },
+            {
+              "speaker": "male",
+              "text": "No, it'll be too noisy. Why don't we just turn on the air conditioner?"
+            },
+            {
+              "speaker": "female",
+              "text": "Company policy. The air conditioner is set to come on automatically at 28 degrees."
+            },
+            {
+              "speaker": "male",
+              "text": "Really? It feels like an oven in here. I can't concentrate."
+            },
+            {
+              "speaker": "female",
+              "text": "Tell you what. I'll turn on the fan."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. At least it'll move the air around."
+            }
+          ],
+          "question": "What is the man's complaint?",
+          "choices": [
+            "The noise is disturbing his work.",
+            "The air conditioner is broken.",
+            "The heat is making him uncomfortable.",
+            "The window cannot be opened."
+          ],
+          "explanation": "男性はオフィスが暑すぎて集中できないと訴えています。",
+          "highlights": [
+            "Is it boiling in here",
+            "It feels like an oven in here. I can't concentrate"
+          ],
+          "choiceAnalysis": "選択肢1「騒音が仕事の邪魔」→騒音を理由に窓を開けたくないが不満の原因ではない。選択肢2「エアコンが壊れている」→28度で自動設定。選択肢3「暑さで不快」→正解。選択肢4「窓が開かない」→開けられるが騒音で嫌。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 3
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Frank. I'm sorry to bother you at work. Did you do something to our home computer? I'm trying to get a report done, and the whole system is really slow."
+            },
+            {
+              "speaker": "male",
+              "text": "The security software expired a few days ago, and I haven't had a chance to renew it yet. We may have picked up a virus or something."
+            },
+            {
+              "speaker": "female",
+              "text": "We'd better renew it right away. I'd do it, but I don't really know how."
+            },
+            {
+              "speaker": "male",
+              "text": "I'll do it when I get home this evening."
+            }
+          ],
+          "question": "What will Frank do tonight?",
+          "choices": [
+            "Purchase a new computer.",
+            "Renew their security program.",
+            "Help the woman with her report.",
+            "Take the computer in for repairs."
+          ],
+          "explanation": "Frankは今晩帰宅したらセキュリティソフトを更新すると言っています。",
+          "highlights": [
+            "I'll do it when I get home this evening",
+            "The security software expired"
+          ],
+          "choiceAnalysis": "選択肢1「新しいPC購入」→言及なし。選択肢2「セキュリティプログラムを更新」→正解。選択肢3「レポートを手伝う」→言及なし。選択肢4「PCを修理に出す」→自分で更新。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 2
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Vince. Come in and have a seat. I heard you're concerned about your future university expenses."
+            },
+            {
+              "speaker": "male",
+              "text": "That's right, Ms. Merkley. My parents can't really afford to help me much."
+            },
+            {
+              "speaker": "female",
+              "text": "I see. Instead of taking out a big loan, you might want to consider a community college for your first two years. The tuition is very reasonable, and you could continue to live at home."
+            },
+            {
+              "speaker": "male",
+              "text": "I've thought about that. It's not my first choice, but that's probably what I'll end up doing."
+            }
+          ],
+          "question": "What does the woman advise Vince to do?",
+          "choices": [
+            "Take out a loan for university expenses.",
+            "Attend a community college.",
+            "Work full time for two years.",
+            "Go to a university out of town."
+          ],
+          "explanation": "女性は最初の2年間コミュニティカレッジに通うことを勧めています。学費が手頃で自宅から通えます。",
+          "highlights": [
+            "you might want to consider a community college for your first two years",
+            "The tuition is very reasonable"
+          ],
+          "choiceAnalysis": "選択肢1「ローンを借りる」→ローンの代わりの提案。選択肢2「コミュニティカレッジに通う」→正解。選択肢3「2年間フルタイム」→言及なし。選択肢4「遠くの大学」→自宅から通う提案。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 2
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Are you OK, Matt? You keep sneezing and coughing."
+            },
+            {
+              "speaker": "male",
+              "text": "I think my allergies are acting up."
+            },
+            {
+              "speaker": "female",
+              "text": "I used to have bad allergies, too. Every spring."
+            },
+            {
+              "speaker": "male",
+              "text": "Did you have to take a lot of prescription medicine?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, several different types. Then I tried Dr. Gage, my naturopathic doctor."
+            },
+            {
+              "speaker": "male",
+              "text": "And it was Dr. Gage who cured you?"
+            },
+            {
+              "speaker": "female",
+              "text": "After using her herbal remedies for a few years, my symptoms gradually decreased, then disappeared."
+            },
+            {
+              "speaker": "male",
+              "text": "That's amazing. Maybe I should schedule a consultation."
+            }
+          ],
+          "question": "What is the man considering doing?",
+          "choices": [
+            "Getting a new prescription from his doctor.",
+            "Starting to eat more healthily.",
+            "Going to see the woman's doctor.",
+            "Stopping his prescription medicine."
+          ],
+          "explanation": "男性は女性の自然療法医Dr. Gageに相談を予約しようかと考えています。",
+          "highlights": [
+            "Maybe I should schedule a consultation",
+            "Dr. Gage, my naturopathic doctor"
+          ],
+          "choiceAnalysis": "選択肢1「新しい処方箋」→自然療法を検討。選択肢2「食事改善」→言及なし。選択肢3「女性の医者に行く」→正解。Dr. Gageへの相談を検討。選択肢4「処方薬を止める」→言及なし。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 3
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Honey, what are you doing on the 17th?"
+            },
+            {
+              "speaker": "male",
+              "text": "This Saturday? Uh, I was thinking about going fishing with Ronan."
+            },
+            {
+              "speaker": "female",
+              "text": "Could you go on Sunday? There's an all-day teachers conference that I'd like to attend. I was hoping you could watch the kids."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. Maybe I'll take them to a movie, and then grab some dinner on our way home."
+            },
+            {
+              "speaker": "female",
+              "text": "I appreciate it, honey."
+            }
+          ],
+          "question": "What will the man do on the 17th?",
+          "choices": [
+            "Go fishing with Ronan.",
+            "Attend a teaching conference.",
+            "Take his wife to a movie.",
+            "Look after the children."
+          ],
+          "explanation": "男性は17日に子供の面倒を見ることに同意しました。妻が教師のカンファレンスに出席するためです。",
+          "highlights": [
+            "I was hoping you could watch the kids",
+            "OK. Maybe I'll take them to a movie"
+          ],
+          "choiceAnalysis": "選択肢1「Ronanと釣り」→日曜に変更。選択肢2「教師会議に出席」→妻が出席。選択肢3「妻を映画に連れて行く」→子供を映画に。選択肢4「子供の面倒を見る」→正解。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 4
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "It looks like more snow is forecast, Nadia. I guess I'll be clearing the driveway again."
+            },
+            {
+              "speaker": "female",
+              "text": "Maybe you should finally give in and hire that snow removal service we saw advertised."
+            },
+            {
+              "speaker": "male",
+              "text": "I know, but I hate to spend the money. And shoveling isn't bad exercise."
+            },
+            {
+              "speaker": "female",
+              "text": "True, but you're not getting any younger. You don't want to strain your back again."
+            },
+            {
+              "speaker": "male",
+              "text": "You've got a point. I'll call them for an estimate."
+            }
+          ],
+          "question": "What is the man considering doing?",
+          "choices": [
+            "Paying to have the driveway cleared.",
+            "Looking for a new snow shovel.",
+            "Starting to exercise more regularly.",
+            "Having his back checked by a doctor."
+          ],
+          "explanation": "男性は除雪サービスに見積もりを頼むことを検討し始めています。",
+          "highlights": [
+            "hire that snow removal service",
+            "I'll call them for an estimate"
+          ],
+          "choiceAnalysis": "選択肢1「除雪の依頼」→正解。見積もりを取ると言及。選択肢2「新しいシャベル」→言及なし。選択肢3「運動を始める」→雪かきが運動と言及するが主旨ではない。選択肢4「腰の検査」→言及なし。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 1
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Did you see this promotion for cable TV? We can get 100 channels for the same price we're paying for 30 channels now."
+            },
+            {
+              "speaker": "female",
+              "text": "Don't you think we already spend enough time watching TV?"
+            },
+            {
+              "speaker": "male",
+              "text": "But we'd get more educational programs for the kids. And you'd like to have more movie channels, wouldn't you?"
+            },
+            {
+              "speaker": "female",
+              "text": "OK, you win. But let's agree to at least talk about limiting how much we watch."
+            },
+            {
+              "speaker": "male",
+              "text": "Fair enough."
+            }
+          ],
+          "question": "What does the couple decide to do?",
+          "choices": [
+            "Increase the number of channels.",
+            "Stop paying for the movie channels.",
+            "Keep their current cable plan.",
+            "Let their children watch only educational TV."
+          ],
+          "explanation": "女性は男性の提案を受け入れ、チャンネル数を増やすことに同意しました。",
+          "highlights": [
+            "OK, you win",
+            "We can get 100 channels for the same price"
+          ],
+          "choiceAnalysis": "選択肢1「チャンネル数を増やす」→正解。100チャンネルに変更。選択肢2「映画チャンネル解約」→逆に増える。選択肢3「現プラン維持」→変更に同意。選択肢4「教育番組だけ」→言及なし。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 1
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "How was the concert last night, Pierre?"
+            },
+            {
+              "speaker": "male",
+              "text": "Well, the band usually puts on a good performance, but I felt like they let down the audience a bit."
+            },
+            {
+              "speaker": "female",
+              "text": "How so? Didn't they play enough of their hit songs?"
+            },
+            {
+              "speaker": "male",
+              "text": "The music itself was fantastic. There was a good mix of hits from their old stuff and songs from their new album. It's just that our city was one of the last stops on the tour. They looked exhausted."
+            },
+            {
+              "speaker": "female",
+              "text": "I can imagine. Maybe they should've shortened their tour schedule."
+            }
+          ],
+          "question": "Why was the man disappointed?",
+          "choices": [
+            "The band did not play many hits.",
+            "The band's performance lacked energy.",
+            "The band's tour schedule changed.",
+            "The band was rude to the audience."
+          ],
+          "explanation": "バンドはツアーの最後の方で疲れ切っていたため、エネルギーのないパフォーマンスだったと男性は感じました。",
+          "highlights": [
+            "They looked exhausted",
+            "they let down the audience a bit"
+          ],
+          "choiceAnalysis": "選択肢1「ヒット曲を演奏しなかった」→ヒット曲は十分。選択肢2「パフォーマンスにエネルギーがなかった」→正解。疲労が原因。選択肢3「ツアー日程が変更」→言及なし。選択肢4「観客に失礼」→言及なし。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 2
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I don't know what's wrong with my dog these days. His behavior is getting worse."
+            },
+            {
+              "speaker": "male",
+              "text": "What do you mean?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, he barks for no reason, and he even ran out into the street yesterday. He's never done that before!"
+            },
+            {
+              "speaker": "male",
+              "text": "Why not take him to obedience classes?"
+            },
+            {
+              "speaker": "female",
+              "text": "He's probably too old to learn anything now."
+            },
+            {
+              "speaker": "male",
+              "text": "I wouldn't be so sure. I have a great book I used with my dog. It has tips for dealing with older dogs. I can lend it to you if you'd like."
+            },
+            {
+              "speaker": "female",
+              "text": "I suppose it couldn't hurt."
+            }
+          ],
+          "question": "What does the man imply?",
+          "choices": [
+            "The woman should train her dog.",
+            "The woman should buy a dog-training book.",
+            "The woman's dog may have a medical problem.",
+            "The woman's dog is too old to train."
+          ],
+          "explanation": "男性は犬のしつけの本を貸すと提案しており、年齢に関係なくトレーニングできると示唆しています。",
+          "highlights": [
+            "I wouldn't be so sure",
+            "It has tips for dealing with older dogs"
+          ],
+          "choiceAnalysis": "選択肢1「犬をトレーニングすべき」→正解。しつけ本を勧めている。選択肢2「本を買うべき」→貸すと提案。選択肢3「医療問題かも」→言及なし。選択肢4「犬は年を取りすぎ」→男性は逆の立場。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。英文と質問は一度だけ放送されます。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The idea of eating bugs is not socially accepted in many countries. It can therefore shock people to learn that some food products in their supermarkets contain a coloring made from insects. The insects, called cochineals, produce a substance known as carminic acid. To make the color, the insects are first harvested from cactus plants. The insects are then dried and processed to turn the carminic acid into carmine, a red dye that can be used as a food coloring."
+            }
+          ],
+          "question": "What is one thing we learn about carminic acid?",
+          "choices": [
+            "It gives food a bitter taste.",
+            "It is produced by drying plants.",
+            "It gives some plants their color.",
+            "It is found in a type of insect."
+          ],
+          "explanation": "カルミン酸はコチニールという昆虫が生産する物質です。",
+          "highlights": [
+            "The insects, called cochineals, produce a substance known as carminic acid"
+          ],
+          "choiceAnalysis": "選択肢1「苦い味」→言及なし。選択肢2「植物を乾燥して生産」→昆虫を乾燥。選択肢3「植物に色を与える」→食品着色料。選択肢4「昆虫に含まれる」→正解。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 4
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Because of the quality dye that can be produced from cochineals, they were highly valued by ancient civilizations in the Americas. These societies used the dye to color clothing, food, and body paint. Today, it is used in some cosmetics as well as food. Some people, such as vegans and vegetarians, think that dyes made from plant sources like strawberries and beets should be used instead."
+            }
+          ],
+          "question": "What do some people think about the dye made from cochineals?",
+          "choices": [
+            "It should be replaced with other options.",
+            "It can be harmful to plants.",
+            "It should be used as a medicine.",
+            "It is too valuable to use in cosmetics."
+          ],
+          "explanation": "ビーガンやベジタリアンはイチゴやビートなどの植物由来の染料を代わりに使うべきだと考えています。",
+          "highlights": [
+            "dyes made from plant sources like strawberries and beets should be used instead"
+          ],
+          "choiceAnalysis": "選択肢1「他の選択肢で代替すべき」→正解。植物由来を推奨。選択肢2「植物に有害」→言及なし。選択肢3「薬として使用」→言及なし。選択肢4「化粧品に使うには高価」→言及なし。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 1
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "For centuries, people in Iceland used turf—clumps of grass and dirt—to construct their houses. Turf was a durable material that could withstand the harsh climate and help keep people warm. Wood was in short supply and often needed to be imported, so it could not be replaced easily. For this reason, more-available materials such as turf and stones were used whenever possible. Turf not only provided insulation, it also protected Icelandic people from some natural disasters."
+            }
+          ],
+          "question": "What was one reason Icelandic people built turf houses?",
+          "choices": [
+            "They lasted longer than wooden houses.",
+            "They were easier to rebuild than stone houses.",
+            "They were well suited to the environment.",
+            "They could be constructed very quickly."
+          ],
+          "explanation": "芝は厳しい気候に耐え、保温性に優れ、自然災害からも保護する環境に適した素材でした。",
+          "highlights": [
+            "could withstand the harsh climate",
+            "help keep people warm",
+            "protected Icelandic people from some natural disasters"
+          ],
+          "choiceAnalysis": "選択肢1「木造より長持ち」→直接比較なし。選択肢2「石造より再建が容易」→言及なし。選択肢3「環境に適していた」→正解。気候・保温・防災に優れる。選択肢4「素早く建てられた」→言及なし。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 3
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Turf houses were usually dug into the side of a hill. While they looked like individual buildings from the front, they were often joined together by a corridor at the back. This unusual feature allowed people to move from building to building without being exposed to the cold. Though almost no one lives in turf houses in Iceland today, many have been converted into museums and have become popular tourist attractions."
+            }
+          ],
+          "question": "What does the speaker say about turf houses?",
+          "choices": [
+            "They no longer exist today.",
+            "They were often connected to each other.",
+            "They could only be built on hilltops.",
+            "They were also popular in other countries."
+          ],
+          "explanation": "芝の家は背面の廊下で互いにつながっていることが多く、寒さに晒されずに建物間を移動できました。",
+          "highlights": [
+            "they were often joined together by a corridor at the back"
+          ],
+          "choiceAnalysis": "選択肢1「現存しない」→博物館として残っている。選択肢2「互いにつながっていた」→正解。背面の廊下で接続。選択肢3「丘の頂上にのみ」→丘の側面に掘られた。選択肢4「他国でも人気」→言及なし。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 2
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Wet wipes are causing problems in sewer tunnels around the world. In 2015, for example, workers in London had to clear an enormous 10-ton lump of fat from one sewer tunnel. Experts blame wet wipes that are being flushed down toilets for causing such problems. Although the wipes can pass through pipes in homes without any issues, they mix with grease in sewer tunnels to create serious blockages. Cleaning up these obstructions has been estimated to cost billions of dollars worldwide."
+            }
+          ],
+          "question": "What is one problem caused by wet wipes?",
+          "choices": [
+            "They combine with grease to block sewer tunnels.",
+            "They endanger people working in sewer tunnels.",
+            "They block household pipes when flushed.",
+            "They cannot be recycled cheaply."
+          ],
+          "explanation": "ウェットワイプは下水トンネルで油脂と混ざり、深刻な詰まりを引き起こします。",
+          "highlights": [
+            "they mix with grease in sewer tunnels to create serious blockages"
+          ],
+          "choiceAnalysis": "選択肢1「油脂と合わさって下水トンネルを詰まらせる」→正解。選択肢2「下水作業員を危険に」→言及なし。選択肢3「家庭の配管を詰まらせる」→家庭では問題なし。選択肢4「安くリサイクルできない」→言及なし。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 1
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "As a result, new industry standards were set for labeling a product \"flushable\" based on how quickly it breaks down. Environmental groups, however, claim these standards are not useful because flushable wipes do not break down in sewer tunnels the way they do in laboratory tests. The environmental groups therefore created guidelines telling consumers which products do not create blockages."
+            }
+          ],
+          "question": "Why do environmental groups criticize the new industry standards?",
+          "choices": [
+            "They were not created using laboratory tests.",
+            "They are not based on actual sewer-tunnel conditions.",
+            "The damage to sewer tunnels was not addressed.",
+            "The blockage issue cannot be solved with guidelines."
+          ],
+          "explanation": "環境団体は、研究室テストでの分解と実際の下水トンネルでの分解が異なるため、基準が有用でないと主張しています。",
+          "highlights": [
+            "flushable wipes do not break down in sewer tunnels the way they do in laboratory tests"
+          ],
+          "choiceAnalysis": "選択肢1「研究室テスト不使用」→研究室テストは使用されたが不十分。選択肢2「実際の下水条件に基づいていない」→正解。実験室と実際の条件が異なる。選択肢3「下水トンネルの損傷に対処せず」→言及なし。選択肢4「ガイドラインでは解決不可」→環境団体はガイドラインを作成した。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 2
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Angora rabbits are raised around the world for their wool because it is softer and much warmer than sheep wool. Due to the animals' small size and the need to constantly care for their coats, raising Angora rabbits for wool is best done on a small scale. More owners of small farms are becoming interested in raising the animals, as their wool is more profitable than sheep wool."
+            }
+          ],
+          "question": "What is one thing the speaker says about Angora rabbits?",
+          "choices": [
+            "Farmers are more interested in larger ones.",
+            "Caring for their wool requires much effort.",
+            "Raising them is no longer profitable.",
+            "The quality of their wool can vary."
+          ],
+          "explanation": "アンゴラウサギは毛のケアを常に行う必要があり、小規模での飼育が最適です。",
+          "highlights": [
+            "the need to constantly care for their coats",
+            "best done on a small scale"
+          ],
+          "choiceAnalysis": "選択肢1「大きい個体に興味」→言及なし。選択肢2「毛のケアに多くの労力が必要」→正解。常にケアが必要。選択肢3「もう利益がない」→逆に羊毛より利益が高い。選択肢4「毛の品質にばらつき」→言及なし。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 2
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Removing the wool of some breeds of Angora rabbit requires cutting the wool once every few months. With other breeds, the wool can be easily removed by hand. The wool needs to be removed often because Angora rabbits clean themselves using their tongues, like cats. If they are not brushed regularly, they will swallow too much of their wool, which can cause death. Luckily, Angora rabbits can be easily trained to sit calmly while being brushed or having their wool cut."
+            }
+          ],
+          "question": "What is one problem with wool from Angora rabbits?",
+          "choices": [
+            "The rabbits often spoil it by chewing it.",
+            "It has to be cut at least once a month.",
+            "It can cause harm to the rabbits.",
+            "The rabbits do not like having it removed."
+          ],
+          "explanation": "アンゴラウサギは猫のように舌で毛づくろいするため、定期的にブラッシングしないと毛を飲み込みすぎて死に至ることがあります。",
+          "highlights": [
+            "they will swallow too much of their wool, which can cause death"
+          ],
+          "choiceAnalysis": "選択肢1「噛んで台無しにする」→言及なし。選択肢2「月1回以上カット」→数ヶ月ごと。選択肢3「ウサギに害を及ぼす」→正解。飲み込むと死因になる。選択肢4「除去を嫌がる」→おとなしく座るよう訓練可能。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 3
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "When Franklin D. Roosevelt became president of the United States in 1933, the country was suffering from an economic crisis. A quarter of the population was unemployed, people were hungry, and trust in the government was rapidly declining. Roosevelt decided to use a radio broadcast to help calm the growing feeling of panic. He wanted to talk directly to the American people and tell them that the government was addressing their concerns."
+            }
+          ],
+          "question": "Why did Franklin D. Roosevelt decide to make radio broadcasts?",
+          "choices": [
+            "To raise money to help hungry people.",
+            "To share his concerns about the government.",
+            "To encourage citizens to work harder.",
+            "To address public worries about the economy."
+          ],
+          "explanation": "Rooseveltは経済危機によるパニックを鎮めるため、政府が国民の懸念に対応していると直接伝えようとしました。",
+          "highlights": [
+            "help calm the growing feeling of panic",
+            "tell them that the government was addressing their concerns"
+          ],
+          "choiceAnalysis": "選択肢1「飢えた人を助ける資金集め」→言及なし。選択肢2「政府への懸念を共有」→懸念に「対応」している。選択肢3「市民に働くよう促す」→言及なし。選択肢4「経済への国民の不安に対処」→正解。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 4
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The speech was an immediate success. Roosevelt made similar broadcasts, known as fireside chats, throughout his presidency. The talks often mentioned respected figures like Abraham Lincoln and ended with the national anthem. However, it was Roosevelt's conversational, informal style that set his fireside chats apart from usual political speeches. People felt as if the president was in their homes, giving them updates on everything from World War II to farming."
+            }
+          ],
+          "question": "How were the fireside chats different from regular political speeches?",
+          "choices": [
+            "Roosevelt used casual language.",
+            "Roosevelt interviewed famous people.",
+            "Roosevelt performed patriotic music.",
+            "Roosevelt visited people's homes."
+          ],
+          "explanation": "Rooseveltの炉辺談話は「会話調でインフォーマルなスタイル」が通常の政治演説と異なっていました。",
+          "highlights": [
+            "Roosevelt's conversational, informal style that set his fireside chats apart"
+          ],
+          "choiceAnalysis": "選択肢1「カジュアルな言葉遣い」→正解。会話調・非公式スタイル。選択肢2「有名人にインタビュー」→リンカーンなどに言及したが面接ではない。選択肢3「愛国的な音楽を演奏」→国家が流れたがRoosevelt自身ではない。選択肢4「家庭を訪問」→ラジオ放送。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 1
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The Bajau people live on boats in the waters around Malaysia, Indonesia, and the Philippines, and spend most of their lives at sea. Some Bajau divers can fish beneath the ocean surface for up to 13 minutes without scuba equipment. Researchers found that Bajau people have larger-than-average spleens. The spleen is an organ that provides oxygen to the blood when the breath is held, so a larger spleen likely benefits the divers."
+            }
+          ],
+          "question": "What did researchers discover about the Bajau people?",
+          "choices": [
+            "They no longer use traditional fishing equipment.",
+            "They often have their spleens removed.",
+            "They have a physical advantage when under the water.",
+            "They practice holding their breath on land."
+          ],
+          "explanation": "研究者はBajau族が平均より大きな脾臓を持ち、息を止めるとき血液に酸素を供給する利点があることを発見しました。",
+          "highlights": [
+            "Bajau people have larger-than-average spleens",
+            "a larger spleen likely benefits the divers"
+          ],
+          "choiceAnalysis": "選択肢1「伝統的漁具を使わなくなった」→言及なし。選択肢2「脾臓を除去することが多い」→逆に大きい。選択肢3「水中で身体的優位性がある」→正解。大きな脾臓が有利。選択肢4「陸上で息止め練習」→言及なし。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 3
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Bajau people with no diving experience also have larger spleens, so the researchers suspect the divers' abilities are partly genetic. In addition, DNA samples from Bajau people showed they commonly have genes that help more oxygen get to organs like the heart and lungs. The researchers want to learn more about how Bajau people have adapted to their environment. They hope that such knowledge will lead to better treatments for conditions such as heart disease."
+            }
+          ],
+          "question": "What is one thing the researchers want to do?",
+          "choices": [
+            "Help Bajau people adapt to new lifestyles.",
+            "Study Bajau people in more detail.",
+            "Help protect the local environment.",
+            "Study divers from around the world."
+          ],
+          "explanation": "研究者はBajau族が環境にどう適応したかをさらに学び、心臓病などの治療改善につなげたいと考えています。",
+          "highlights": [
+            "want to learn more about how Bajau people have adapted",
+            "lead to better treatments for conditions such as heart disease"
+          ],
+          "choiceAnalysis": "選択肢1「新しい生活様式への適応支援」→言及なし。選択肢2「Bajau族をより詳しく研究」→正解。さらに学びたいと表明。選択肢3「地元環境の保護」→言及なし。選択肢4「世界中のダイバーを研究」→Bajau族のみ。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You want an apartment that is just a short walk from a train station. You need at least two bedrooms. A real estate agent tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "We have a few apartments. There's one in Wilson Heights, just a few minutes from the train station on foot. It's a studio apartment, so everything is in one room, but it's quite spacious. Right next door to that, in Downtown Hills, there's an older two-bedroom apartment available. Bronte Towers has a three-bedroom apartment available. It's right beside a bus stop, and a 25-minute ride to the station. Lastly, and just a short walk from the same bus stop, there's a spacious two-bedroom apartment for rent in Norton Villas."
+            }
+          ],
+          "question": "Which apartment should you look at?",
+          "choices": [
+            "The one in Wilson Heights.",
+            "The one in Downtown Hills.",
+            "The one in Bronte Towers.",
+            "The one in Norton Villas."
+          ],
+          "explanation": "駅から徒歩圏内で2ベッドルーム以上の条件を満たすのはDowntown Hillsです。Wilson Heightsはスタジオ、Bronte Towersはバス25分、Norton Villasもバス停近く。",
+          "highlights": [
+            "Downtown Hills, there's an older two-bedroom apartment",
+            "just a few minutes from the train station on foot"
+          ],
+          "choiceAnalysis": "選択肢1「Wilson Heights」→スタジオ（1部屋）。選択肢2「Downtown Hills」→正解。駅徒歩圏内・2ベッドルーム。選択肢3「Bronte Towers」→バスで25分。選択肢4「Norton Villas」→バス停近く（駅から遠い）。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 2
+        },
+        {
+          "number": 26,
+          "situation": "You have had stomach pain for a few days. You are busy for the next two days. You call your doctor, and he tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Well, from what you've told me, it sounds like it could be another kidney stone. You can't be too careful with this kind of thing. Ideally, I'd like you to come in for an examination first thing in the morning. If you can't come tomorrow, take one of the pills I gave you last time right away. If it is a kidney stone, that will help your body deal with it. If not, at least it will help relieve the pain until I can examine you."
+            }
+          ],
+          "question": "What should you do first?",
+          "choices": [
+            "Get some additional pain medication.",
+            "Take the medicine you received earlier.",
+            "Call your doctor again at a later date.",
+            "Book an appointment with a specialist."
+          ],
+          "explanation": "2日間忙しいので明日行けない→以前もらった薬をすぐ飲むべきです。",
+          "highlights": [
+            "If you can't come tomorrow, take one of the pills I gave you last time right away"
+          ],
+          "choiceAnalysis": "選択肢1「追加の鎮痛剤を入手」→以前の薬がある。選択肢2「以前もらった薬を飲む」→正解。明日行けないので薬を服用。選択肢3「後日電話」→すぐ対応が必要。選択肢4「専門医を予約」→言及なし。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 2
+        },
+        {
+          "number": 27,
+          "situation": "You are checking in at a resort hotel. You made a reservation online through ExTravel because they offered a 20 percent discount on a spa treatment. A receptionist tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "I'm sorry, ExTravel hasn't notified us about the spa treatment offer. I'm sure your information is accurate, but we first need confirmation of the offer. The easiest solution would be for us to have a copy of your e-mail from ExTravel. We'll need a paper copy for our records, so please use the printer in our Business Center. After that, you'll be able to book your treatment, and we can follow up on the miscommunication between us and ExTravel. As you're a regular customer, I'll also try to get a room upgrade for you."
+            }
+          ],
+          "question": "What should you do first?",
+          "choices": [
+            "Make a reservation at the spa.",
+            "Contact ExTravel for confirmation.",
+            "Ask the manager for a room upgrade.",
+            "Print the e-mail containing the offer."
+          ],
+          "explanation": "まずExTravelからのメールをビジネスセンターのプリンターで印刷する必要があります。",
+          "highlights": [
+            "please use the printer in our Business Center",
+            "We'll need a paper copy for our records"
+          ],
+          "choiceAnalysis": "選択肢1「スパを予約」→まず確認が必要。選択肢2「ExTravelに連絡」→メール印刷で十分。選択肢3「部屋のアップグレードを依頼」→受付が自発的に試みる。選択肢4「メールを印刷」→正解。紙のコピーが必要。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 4
+        },
+        {
+          "number": 28,
+          "situation": "You are enrolling your daughter in a new school. She is allergic to dairy products. The school principal tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "I'd like to cover a few points about food and drink. We do many outdoor activities, so students should bring a water bottle, as drinking water isn't available outside. Also, we prepare lunch on the premises and expect all children to eat school lunch unless they have special dietary requirements. We have many students, so we can't cover everyone's needs. All meals include meat, eggs, and cheese. A doctor's letter is required to opt out of school lunch, in which case you won't be charged for it. In such cases, students are required to bring a home-prepared lunch."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Get a letter from a doctor.",
+            "List your daughter's requirements.",
+            "Pay for school lunch.",
+            "Sign up for special meals."
+          ],
+          "explanation": "娘は乳製品アレルギーなので、給食を免除してもらうために医師の手紙が必要です（チーズが含まれるため）。",
+          "highlights": [
+            "A doctor's letter is required to opt out of school lunch",
+            "All meals include meat, eggs, and cheese"
+          ],
+          "choiceAnalysis": "選択肢1「医師の手紙を入手」→正解。給食免除に必要。選択肢2「要件をリストアップ」→医師の手紙が必要。選択肢3「給食費を支払う」→免除される。選択肢4「特別食に申し込む」→特別食は提供不可。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 1
+        },
+        {
+          "number": 29,
+          "situation": "It is winter, and you want to visit Alexandra Park by car this weekend. You do not own tires that can be used in the snow. You call Park Information and hear the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thank you for calling Alexandra Park. Due to winter weather conditions, not all roads in the park are open. Taylor Road and Grand Point Road are closed due to heavy snowfall and will remain closed for at least two weeks. Bryant Pass Road is open, although snow chains are required on all vehicles due to its high elevation. Chains can be purchased at the Valley Garage in Campton City. There are no rental chains available within the park. Please be aware that studded tires are not allowed to be used in the park."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Purchase snow chains for your tires.",
+            "Take Grand Point Road.",
+            "Change your tires to studded tires.",
+            "Rent chains in Alexandra Park."
+          ],
+          "explanation": "Bryant Pass Roadが唯一開通中ですがチェーンが必要です。スタッドタイヤは禁止、公園内のレンタルはなし。Valley Garageで購入が必要。",
+          "highlights": [
+            "snow chains are required on all vehicles",
+            "Chains can be purchased at the Valley Garage",
+            "studded tires are not allowed"
+          ],
+          "choiceAnalysis": "選択肢1「スノーチェーンを購入」→正解。Valley Garageで購入可能。選択肢2「Grand Point Road」→閉鎖中。選択肢3「スタッドタイヤに変更」→公園内禁止。選択肢4「公園でチェーンをレンタル」→レンタルなし。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

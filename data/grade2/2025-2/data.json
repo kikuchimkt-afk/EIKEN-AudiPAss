@@ -1,0 +1,919 @@
+{
+  "title": "2025年度 第2回検定一次試験 英検2級 リスニング",
+  "audioFile": "2Q-part1.mp3",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 15",
+      "questions": [
+        {
+          "number": 1,
+          "audioFile": "audio/segment_06.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "So, how are the wedding preparations going, Gordon? Have you and your fiancée finished planning everything?"
+            },
+            {
+              "speaker": "male",
+              "text": "We've done a lot, but there's still so much left to do."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, you still have six weeks left. Have you decided where to go on your honeymoon?"
+            },
+            {
+              "speaker": "male",
+              "text": "Actually, we've both been so busy that we haven't had time to think about it yet."
+            }
+          ],
+          "question": "What is one thing the man says?",
+          "choices": [
+            "The time of the wedding has been changed.",
+            "The wedding plans are not finished yet.",
+            "The honeymoon was not enjoyable.",
+            "The honeymoon plans were made six weeks ago."
+          ],
+          "answer": 2,
+          "explanation": "男性は結婚式の準備がまだ終わっていないと言い、ハネムーンについてもまだ考えていないと述べています。「there's still so much left to do」が「準備がまだ終わっていない」ことの根拠です。",
+          "highlights": [
+            "there's still so much left to do",
+            "we haven't had time to think about it yet"
+          ],
+          "choiceAnalysis": "選択肢1「結婚式の時間が変更された」→言及なし。選択肢2「結婚式の準備がまだ終わっていない」→正解。「still so much left to do」が根拠。選択肢3「ハネムーンが楽しくなかった」→まだ行っていない。選択肢4「ハネムーンの計画は6週間前に立てた」→6週間は残り期間であり計画時期ではない。"
+        },
+        {
+          "number": 2,
+          "audioFile": "audio/segment_07.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi. My name is Austin Grant. I'm moving into Apartment 409 tomorrow."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, hi. I'm Belinda Davis, the building manager. What can I do for you?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'd like to know where I can park. I'm going to rent a moving truck."
+            },
+            {
+              "speaker": "female",
+              "text": "You should park by the stairs behind the building. That way, it'll be easy for you to move your things into your apartment."
+            }
+          ],
+          "question": "What does the man want to know?",
+          "choices": [
+            "Whether he can move into Apartment 409.",
+            "Which moving company he should use.",
+            "When he can move into his apartment.",
+            "Where he can put the moving truck."
+          ],
+          "answer": 4,
+          "explanation": "男性は引越しトラックをどこに停められるか知りたいと言っています。「I'd like to know where I can park」がポイントです。",
+          "highlights": [
+            "I'd like to know where I can park",
+            "I'm going to rent a moving truck"
+          ],
+          "choiceAnalysis": "選択肢1「409号室に入居できるか」→既に明日入居予定。選択肢2「どの引越し業者を使うべきか」→言及なし。選択肢3「いつ入居できるか」→明日と分かっている。選択肢4「引越しトラックをどこに置けるか」→正解。「where I can park」が直接の根拠。"
+        },
+        {
+          "number": 3,
+          "audioFile": "audio/segment_08.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I saw a TV show about food in the United States yesterday. There was a cooking contest where people were making a kind of meat-and-bean stew called chili."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, I love chili. It's a really popular food there. Many people have their own recipes for making it. I make it sometimes, too."
+            },
+            {
+              "speaker": "female",
+              "text": "I'd love to try it. I wonder if they sell it in Japan. It looks really good."
+            },
+            {
+              "speaker": "male",
+              "text": "Great. I'll make some for you, then."
+            }
+          ],
+          "question": "What do we learn about the woman?",
+          "choices": [
+            "She will teach the man to cook chili.",
+            "She wants to try chili.",
+            "She won a chili-cooking contest.",
+            "She is good at making chili."
+          ],
+          "answer": 2,
+          "explanation": "女性はテレビでチリ（肉と豆のシチュー）を見て「試してみたい」と言っています。「I'd love to try it」が正解の決め手です。",
+          "highlights": [
+            "I'd love to try it",
+            "It looks really good"
+          ],
+          "choiceAnalysis": "選択肢1「男性にチリの作り方を教える」→男性が作ってくれると言っている。選択肢2「チリを試してみたい」→正解。「I'd love to try it」が根拠。選択肢3「チリ料理コンテストで優勝した」→テレビで見ただけ。選択肢4「チリ作りが得意」→男性が得意。"
+        },
+        {
+          "number": 4,
+          "audioFile": "audio/segment_09.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me. Where can I find the special exhibition of modern art?"
+            },
+            {
+              "speaker": "male",
+              "text": "It's on the third floor, next to the museum shop. But you'd better hurry. The museum is closing in half an hour."
+            },
+            {
+              "speaker": "female",
+              "text": "All right. Do I have to pay extra to go in?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. Special exhibition tickets are five dollars. It's our most popular event this year."
+            }
+          ],
+          "question": "Why does the man say the woman should hurry?",
+          "choices": [
+            "It is the last day of the exhibition.",
+            "It is nearly closing time.",
+            "Exhibition tickets will sell out soon.",
+            "The museum shop is having a special sale."
+          ],
+          "answer": 2,
+          "explanation": "男性が「急いだ方がいい」と言った理由は「博物館があと30分で閉まる」からです。「The museum is closing in half an hour」がキーフレーズです。",
+          "highlights": [
+            "The museum is closing in half an hour",
+            "you'd better hurry"
+          ],
+          "choiceAnalysis": "選択肢1「展覧会の最終日」→言及なし。選択肢2「もうすぐ閉館時間」→正解。「closing in half an hour」が根拠。選択肢3「チケットがすぐ売り切れる」→言及なし。選択肢4「ミュージアムショップがセール中」→言及なし。"
+        },
+        {
+          "number": 5,
+          "audioFile": "audio/segment_10.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Oh, you didn't drive to work today, Greg?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, I didn't. I've been taking the bus lately."
+            },
+            {
+              "speaker": "female",
+              "text": "Why? What's wrong with your car?"
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, my car is fine. It's just that gas prices are so high that it's cheaper for me to take the bus."
+            }
+          ],
+          "question": "Why has the man been taking the bus?",
+          "choices": [
+            "A new bus station was built near his home.",
+            "Something is wrong with his car.",
+            "The buses are always on time.",
+            "It costs less than driving."
+          ],
+          "answer": 4,
+          "explanation": "男性はバスに乗るようになった理由として「ガソリン代が高すぎてバスの方が安い」と説明しています。",
+          "highlights": [
+            "gas prices are so high",
+            "it's cheaper for me to take the bus"
+          ],
+          "choiceAnalysis": "選択肢1「新しいバス停が自宅近くにできた」→言及なし。選択肢2「車に何か問題がある」→車は問題ないと明言。選択肢3「バスはいつも時間通り」→言及なし。選択肢4「運転より費用が安い」→正解。「gas prices are so high」「cheaper for me to take the bus」が根拠。"
+        },
+        {
+          "number": 6,
+          "audioFile": "audio/segment_11.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi. I bought this shirt here a few days ago, but I'd like to exchange it. I hope that's possible."
+            },
+            {
+              "speaker": "female",
+              "text": "That's fine. What is the problem with it?"
+            },
+            {
+              "speaker": "male",
+              "text": "I bought it for my father, but it didn't fit him. Do you have one in a smaller size?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, we do. We also have some new styles that just arrived this week. You might want to have a look at them as well."
+            }
+          ],
+          "question": "Why is the man exchanging the shirt?",
+          "choices": [
+            "It is too big for his father.",
+            "His father doesn't like the color.",
+            "He wants his money back.",
+            "He wants a shirt in a different style."
+          ],
+          "answer": 1,
+          "explanation": "男性は父親にシャツを買ったが「サイズが合わなかった」ため交換したいと言っています。「it didn't fit him」がポイントです。",
+          "highlights": [
+            "it didn't fit him",
+            "Do you have one in a smaller size"
+          ],
+          "choiceAnalysis": "選択肢1「父には大きすぎる」→正解。「it didn't fit him」「smaller size」が根拠。選択肢2「父が色を気に入らない」→言及なし。選択肢3「返金を望んでいる」→交換を希望。選択肢4「別のスタイルのシャツが欲しい」→サイズ違いを希望。"
+        },
+        {
+          "number": 7,
+          "audioFile": "audio/segment_12.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Dad, I'm thinking about quitting the drama club at school."
+            },
+            {
+              "speaker": "male",
+              "text": "Why, Leah? I thought you loved the drama club."
+            },
+            {
+              "speaker": "female",
+              "text": "I do, Dad, but sometimes I don't feel like I'm very good at acting. I always get nervous and forget my lines. The other members are so much better."
+            },
+            {
+              "speaker": "male",
+              "text": "That's not true—you were great in last year's play. I don't think you should give up on something you enjoy."
+            }
+          ],
+          "question": "What does the man tell his daughter?",
+          "choices": [
+            "She should practice acting more.",
+            "She should have been in last year's play.",
+            "She should find a club she enjoys.",
+            "She should remain in the drama club."
+          ],
+          "answer": 4,
+          "explanation": "父親は娘に「楽しんでいることを諦めるべきではない」と伝えています。「I don't think you should give up on something you enjoy」がキーフレーズです。",
+          "highlights": [
+            "you were great in last year's play",
+            "I don't think you should give up on something you enjoy"
+          ],
+          "choiceAnalysis": "選択肢1「もっと演技の練習をすべき」→言及なし。選択肢2「去年の劇に出るべきだった」→出演済み。選択肢3「楽しめるクラブを見つけるべき」→演劇部が好き。選択肢4「演劇部に残るべき」→正解。「should not give up on something you enjoy」が根拠。"
+        },
+        {
+          "number": 8,
+          "audioFile": "audio/segment_13.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, James. I heard your wife just had a baby. Congratulations!"
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks, Janice. We're still trying to get used to having a baby around the house. We certainly don't sleep as much as we used to."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I remember when my husband and I had our first child. It's a lot of work at first, but you'll get used to it."
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah. I'm sure you're right. Thanks for the encouragement."
+            }
+          ],
+          "question": "What is one thing the man says?",
+          "choices": [
+            "He has several children.",
+            "He has not been sleeping much.",
+            "He has not found a new house yet.",
+            "He has been at his office a lot."
+          ],
+          "answer": 2,
+          "explanation": "男性は赤ちゃんが生まれて「以前ほど眠れなくなった」と言っています。「We certainly don't sleep as much as we used to」がポイントです。",
+          "highlights": [
+            "We certainly don't sleep as much as we used to",
+            "We're still trying to get used to having a baby"
+          ],
+          "choiceAnalysis": "選択肢1「子供が数人いる」→最初の子という文脈。選択肢2「あまり眠れていない」→正解。「don't sleep as much as we used to」が根拠。選択肢3「新しい家がまだ見つかっていない」→言及なし。選択肢4「オフィスにたくさんいる」→言及なし。"
+        },
+        {
+          "number": 9,
+          "audioFile": "audio/segment_14.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Jeff, can you send me the data so that I can put together last month's report?"
+            },
+            {
+              "speaker": "male",
+              "text": "The data on the last month's sales, right? Hold on."
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah, I only got the data on the production costs from the other team but not the sales data."
+            },
+            {
+              "speaker": "male",
+              "text": "OK, done. I thought I had sent it already. Sorry about that, Emily."
+            }
+          ],
+          "question": "What is the man doing while talking with the woman?",
+          "choices": [
+            "Writing the report for her.",
+            "Sending her what she needs.",
+            "Checking the cost of last month.",
+            "Calling the production team."
+          ],
+          "answer": 2,
+          "explanation": "男性は女性と話しながら先月の売上データをメールで送っています。「OK, done. I thought I had sent it already」からデータを送信中だったことが分かります。",
+          "highlights": [
+            "can you send me the data",
+            "OK, done. I thought I had sent it already"
+          ],
+          "choiceAnalysis": "選択肢1「彼女のためにレポートを書いている」→レポートを書くのは女性。選択肢2「彼女が必要なものを送っている」→正解。「OK, done」とデータを送信したことが根拠。選択肢3「先月のコストを確認している」→言及なし。選択肢4「製造チームに電話している」→言及なし。"
+        },
+        {
+          "number": 10,
+          "audioFile": "audio/segment_15.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi, Kumiko. This is Mark. I wanted to surprise you by calling from Paris!"
+            },
+            {
+              "speaker": "female",
+              "text": "Wow, how nice! What time is it over there now?"
+            },
+            {
+              "speaker": "male",
+              "text": "It's seven in the morning, and I'm taking a nice, quiet walk around my hotel."
+            },
+            {
+              "speaker": "female",
+              "text": "That's wonderful! I wish I could go out like that, but it's been raining for the past three days here."
+            }
+          ],
+          "question": "What is Mark doing now?",
+          "choices": [
+            "Eating breakfast at a café.",
+            "Waiting in line at the museum.",
+            "Walking outside of his hotel.",
+            "Taking a taxi to the airport."
+          ],
+          "answer": 3,
+          "explanation": "マークはパリにいてホテルの周りを朝の散歩をしています。「I'm taking a nice, quiet walk around my hotel」がポイントです。",
+          "highlights": [
+            "I'm taking a nice, quiet walk around my hotel",
+            "It's seven in the morning"
+          ],
+          "choiceAnalysis": "選択肢1「カフェで朝食を食べている」→散歩中。選択肢2「博物館で並んでいる」→言及なし。選択肢3「ホテルの外を歩いている」→正解。「taking a walk around my hotel」が根拠。選択肢4「空港へタクシーに乗っている」→言及なし。"
+        },
+        {
+          "number": 11,
+          "audioFile": "audio/segment_16.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "We must finish our lunch quickly so that we can get to the third-period class in time."
+            },
+            {
+              "speaker": "female",
+              "text": "But we need to wash up these plates and cups before we return them."
+            },
+            {
+              "speaker": "male",
+              "text": "Do we? I didn't know that."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? I always wash them lightly. It's easier for the dishwashers to do their job if each one of us washes them."
+            }
+          ],
+          "question": "What does the girl think the students should do?",
+          "choices": [
+            "Bring their own lunch boxes.",
+            "Have lunch in the garden.",
+            "Make the washers' work easier.",
+            "Take trash to their classroom."
+          ],
+          "answer": 3,
+          "explanation": "女の子は「食器を軽く洗ってから返すべき」と考えています。「I always wash them lightly. It's easier for the dishwashers」がキーフレーズです。",
+          "highlights": [
+            "we need to wash up these plates and cups before we return them",
+            "I always wash them lightly"
+          ],
+          "choiceAnalysis": "選択肢1「自分の弁当箱を持ってくる」→言及なし。選択肢2「庭で昼食をとる」→言及なし。選択肢3「洗い場の人の仕事を楽にする」→正解。「wash them lightly」「easier for the dishwashers」が根拠。選択肢4「ゴミを教室に持っていく」→言及なし。"
+        },
+        {
+          "number": 12,
+          "audioFile": "audio/segment_17.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hey, honey. I've read about the community garden class in the newspaper. Why don't we apply?"
+            },
+            {
+              "speaker": "female",
+              "text": "Is that the garden where we can rent some space and grow vegetables?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, that's right. Plus, we can get free lessons on gardening if we want."
+            },
+            {
+              "speaker": "female",
+              "text": "Sounds perfect. Gardening had been my dream, but I gave up as we didn't have a garden."
+            }
+          ],
+          "question": "Why did the woman give up on her dream?",
+          "choices": [
+            "She was too busy with her work.",
+            "She did not know how to manage her time.",
+            "She did not have a proper place.",
+            "She lived far from the garden."
+          ],
+          "answer": 3,
+          "explanation": "女性は庭がなかったのでガーデニングの夢を諦めたと言っています。「I gave up as we didn't have a garden」がキーフレーズです。",
+          "highlights": [
+            "Gardening had been my dream",
+            "I gave up as we didn't have a garden"
+          ],
+          "choiceAnalysis": "選択肢1「仕事で忙しすぎた」→言及なし。選択肢2「時間の管理方法が分からなかった」→言及なし。選択肢3「適切な場所がなかった」→正解。「we didn't have a garden」が根拠。選択肢4「庭から遠くに住んでいた」→庭がないことが理由。"
+        },
+        {
+          "number": 13,
+          "audioFile": "audio/segment_18.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, I bought this electric pot at this store yesterday, but it didn't come with a cord."
+            },
+            {
+              "speaker": "male",
+              "text": "That's strange. Did you bring everything back today?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, I brought the pot, the box, the manual, and the receipt, of course. Here you are."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. We'll exchange it with a new one. Let me check the items you have here, just in case."
+            }
+          ],
+          "question": "What is the problem the woman has?",
+          "choices": [
+            "She could not understand the manual.",
+            "She found the wrong electric wire.",
+            "The price she paid was not the same as the ad.",
+            "Something was missing from what she bought."
+          ],
+          "answer": 4,
+          "explanation": "女性は電気ポットにコード（電源ケーブル）が付属していなかったという問題を報告しています。「it didn't come with a cord」がキーフレーズです。",
+          "highlights": [
+            "it didn't come with a cord",
+            "We'll exchange it with a new one"
+          ],
+          "choiceAnalysis": "選択肢1「マニュアルを理解できなかった」→言及なし。選択肢2「間違った電線を見つけた」→言及なし。選択肢3「支払った値段が広告と違った」→言及なし。選択肢4「買ったものから何かが欠けていた」→正解。「didn't come with a cord」が根拠。"
+        },
+        {
+          "number": 14,
+          "audioFile": "audio/segment_19.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "I'd like strawberry and mint chocolate ice cream in a cup."
+            },
+            {
+              "speaker": "female",
+              "text": "We have a three-flavor deal today. You can choose three flavors at the price of two flavors."
+            },
+            {
+              "speaker": "male",
+              "text": "Really? Then, I'll have tomato ice cream. I've wanted to try it but never have."
+            },
+            {
+              "speaker": "female",
+              "text": "You may be surprised at first, but you'll soon realize how delicious it is."
+            }
+          ],
+          "question": "What does the boy say about tomato ice cream?",
+          "choices": [
+            "His friend said it was delicious.",
+            "Some other shops also sell it.",
+            "This is his first time trying it.",
+            "He ate it a long time ago."
+          ],
+          "answer": 3,
+          "explanation": "男の子はトマトアイスクリームについて「試してみたかったけどまだ食べたことがない」と言っています。「I've wanted to try it but never have」がポイントです。",
+          "highlights": [
+            "I've wanted to try it but never have",
+            "three-flavor deal"
+          ],
+          "choiceAnalysis": "選択肢1「友達が美味しいと言った」→言及なし。選択肢2「他の店でも売っている」→言及なし。選択肢3「初めて試す」→正解。「wanted to try it but never have」が根拠。選択肢4「昔食べたことがある」→「never have」で否定。"
+        },
+        {
+          "number": 15,
+          "audioFile": "audio/segment_20.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I noticed that you were taking a lot of notes during the meeting. Do you write down everything?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, I write down what each person says to make a report after meetings every time."
+            },
+            {
+              "speaker": "female",
+              "text": "Why don't you record the meetings with your phone? I know some good applications that create reports automatically."
+            },
+            {
+              "speaker": "male",
+              "text": "Wow, I didn't know that we could do that. I'll certainly use them."
+            }
+          ],
+          "question": "What does the woman suggest the man do?",
+          "choices": [
+            "Ask others for help.",
+            "Make meetings shorter.",
+            "Have meetings online.",
+            "Use some technology."
+          ],
+          "answer": 4,
+          "explanation": "女性は会議をスマホで録音し、自動でレポートを作成するアプリの使用を提案しています。「Why don't you record the meetings with your phone?」がキーフレーズです。",
+          "highlights": [
+            "Why don't you record the meetings with your phone",
+            "applications that create reports automatically"
+          ],
+          "choiceAnalysis": "選択肢1「他の人に助けを求める」→言及なし。選択肢2「会議を短くする」→言及なし。選択肢3「会議をオンラインで行う」→言及なし。選択肢4「テクノロジーを使う」→正解。「record the meetings with your phone」「applications that create reports automatically」が根拠。"
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 16 〜 No. 30",
+      "questions": [
+        {
+          "number": 16,
+          "audioFile": "audio/segment_23.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Attention, passengers. The 9:30 train to Kingston will arrive on Platform 3 in five minutes. The train is usually on time, but this morning it is running late. For the schedule for other trains, please check the information board above. There are also staff members wearing yellow vests on every platform who are happy to help you with any questions."
+            }
+          ],
+          "question": "What is the announcement mainly about?",
+          "choices": [
+            "Staff members who can help passengers.",
+            "The schedule of other trains.",
+            "An information board above the platform.",
+            "A train that is arriving late."
+          ],
+          "answer": 4,
+          "explanation": "キングストン行きの9:30の列車が遅延しているというアナウンスです。「this morning it is running late」がメインの内容を示しています。",
+          "highlights": [
+            "The 9:30 train to Kingston",
+            "this morning it is running late"
+          ],
+          "choiceAnalysis": "選択肢1「乗客を助けるスタッフ」→補足情報。選択肢2「他の列車のスケジュール」→補足情報。選択肢3「プラットホーム上の案内板」→補足情報。選択肢4「遅延している列車について」→正解。「running late」がアナウンスの主題。"
+        },
+        {
+          "number": 17,
+          "audioFile": "audio/segment_24.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "David is a retired doctor. He used to spend most of his time at work, so he did not have many hobbies. Now that he has retired, he has taken up a new hobby. He has started painting. His wife often goes for walks in the countryside, and David has begun going with her. While she walks, he sits and paints pictures of the beautiful landscapes."
+            }
+          ],
+          "question": "What new hobby has David started?",
+          "choices": [
+            "Painting pictures of landscapes.",
+            "Going for walks in the city.",
+            "Spending time with his coworkers.",
+            "Looking at pictures of landscapes."
+          ],
+          "answer": 1,
+          "explanation": "退職した医師デビッドが新しい趣味として絵を描き始めたという話です。「He has started painting」「he sits and paints pictures of the beautiful landscapes」がキーです。",
+          "highlights": [
+            "He has started painting",
+            "he sits and paints pictures of the beautiful landscapes"
+          ],
+          "choiceAnalysis": "選択肢1「風景画を描くこと」→正解。「paints pictures of the beautiful landscapes」が根拠。選択肢2「街を散歩すること」→田舎を歩くのは妻。選択肢3「同僚と過ごすこと」→退職済み。選択肢4「風景画を見ること」→自分で描いている。"
+        },
+        {
+          "number": 18,
+          "audioFile": "audio/segment_25.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Everyone, thank you for flying with Friendly Skies Airline today. We would like to remind passengers on Flight 109 to Rome that all bags must be checked in at least forty minutes before departure. If you have not done so yet, please bring your bags to the check-in counter immediately. Thank you for your understanding. We hope you enjoy your flight."
+            }
+          ],
+          "question": "What is this announcement about?",
+          "choices": [
+            "Passengers who have missed their flight.",
+            "Passengers who need to change flights.",
+            "Checking in baggage before a flight.",
+            "Luggage that was left at the check-in counter."
+          ],
+          "answer": 3,
+          "explanation": "ローマ行きフライト109の乗客に、出発40分前までに荷物をチェックインするよう案内しています。",
+          "highlights": [
+            "all bags must be checked in at least forty minutes before departure",
+            "please bring your bags to the check-in counter immediately"
+          ],
+          "choiceAnalysis": "選択肢1「フライトに乗り遅れた乗客」→まだ出発前。選択肢2「乗り換えが必要な乗客」→言及なし。選択肢3「フライト前の荷物チェックイン」→正解。「bags must be checked in」が根拠。選択肢4「チェックインカウンターに置き忘れた荷物」→言及なし。"
+        },
+        {
+          "number": 19,
+          "audioFile": "audio/segment_26.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Tom is working on a project, but his manager will not be back in the office until next month. Tom has asked his manager to look at the project and give him feedback every week, even if it is just for a few minutes. His manager agreed to do it on condition that Tom sends her an e-mail every Friday to remind her."
+            }
+          ],
+          "question": "What does Tom's manager want him to do?",
+          "choices": [
+            "Send her an e-mail every Friday.",
+            "Contact her by phone every week.",
+            "Meet her in the office every week.",
+            "Work on a different project until next month."
+          ],
+          "answer": 1,
+          "explanation": "トムのマネージャーは、毎週金曜日にリマインドメールを送ることを条件にフィードバックに応じると言っています。",
+          "highlights": [
+            "on condition that Tom sends her an e-mail every Friday to remind her"
+          ],
+          "choiceAnalysis": "選択肢1「毎週金曜にメールを送る」→正解。「sends her an e-mail every Friday」が根拠。選択肢2「毎週電話する」→メールと指定。選択肢3「毎週オフィスで会う」→マネージャーは来月まで不在。選択肢4「来月まで別のプロジェクトに取り組む」→言及なし。"
+        },
+        {
+          "number": 20,
+          "audioFile": "audio/segment_28.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "John forgot to bring his homework to school yesterday. His teacher was not happy because it was the second time this month that he had forgotten his homework. John said he had put his homework on the table next to his backpack, but he had been in a hurry and had forgotten to put it in his bag. His teacher said that he should try to put his homework in his backpack after finishing it."
+            }
+          ],
+          "question": "What advice did John's teacher give him?",
+          "choices": [
+            "To do his homework before he eats dinner.",
+            "To put his homework in his backpack right away.",
+            "To get to school earlier.",
+            "To use a different backpack."
+          ],
+          "answer": 2,
+          "explanation": "先生はジョンに「宿題を終えたらすぐにリュックに入れるようにすべき」とアドバイスしました。",
+          "highlights": [
+            "he should try to put his homework in his backpack after finishing it"
+          ],
+          "choiceAnalysis": "選択肢1「夕食前に宿題をする」→言及なし。選択肢2「宿題をすぐにリュックに入れる」→正解。「put his homework in his backpack after finishing it」が根拠。選択肢3「もっと早く学校に来る」→言及なし。選択肢4「別のリュックを使う」→言及なし。"
+        },
+        {
+          "number": 21,
+          "audioFile": "audio/segment_29.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "This is Central Station. Thank you for using our free Wi-Fi service. Passengers are reminded that the 10:30 service to Northville will depart from Platform 3 in five minutes. There are currently delays on the 11:00 services to Eastwood and Southville. Please check the notice board for details. We apologize for any inconvenience. Thank you for traveling with us today."
+            }
+          ],
+          "question": "What is the announcement mainly about?",
+          "choices": [
+            "The best way to use Wi-Fi.",
+            "The notice board at Central Station.",
+            "Train departures from Central Station.",
+            "Trains from Northville to Central Station."
+          ],
+          "answer": 3,
+          "explanation": "セントラルステーションからの列車の発車案内と遅延情報を伝えるアナウンスです。ノースビル行き10:30発やイーストウッド・サウスビル行き11:00発の遅延が主な内容です。",
+          "highlights": [
+            "the 10:30 service to Northville will depart from Platform 3",
+            "There are currently delays on the 11:00 services"
+          ],
+          "choiceAnalysis": "選択肢1「Wi-Fiの使い方」→冒頭の挨拶のみ。選択肢2「セントラルステーションの掲示板」→補足情報。選択肢3「セントラルステーションからの列車発車案内」→正解。発車情報と遅延がメイン。選択肢4「ノースビルからセントラルステーションへの列車」→方向が逆。"
+        },
+        {
+          "number": 22,
+          "audioFile": "audio/segment_30.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Lisa had to do a big project for her history class. She started working on it early, but it took her a lot longer than she had expected. Lisa was worried that she would not be able to finish it on time. She asked some of her friends to help her, and they all worked together to get the project finished."
+            }
+          ],
+          "question": "What did Lisa ask her friends to do?",
+          "choices": [
+            "Help her with her project.",
+            "Go to history class with her.",
+            "Study for a history test with her.",
+            "Share their notes from class with her."
+          ],
+          "answer": 1,
+          "explanation": "リサは歴史のプロジェクトが予想より時間がかかり、友人に手伝いを頼みました。「She asked some of her friends to help her」がキーです。",
+          "highlights": [
+            "She asked some of her friends to help her",
+            "they all worked together to get the project finished"
+          ],
+          "choiceAnalysis": "選択肢1「プロジェクトを手伝ってもらう」→正解。「asked friends to help her」が根拠。選択肢2「歴史の授業に一緒に行く」→言及なし。選択肢3「歴史のテスト勉強を一緒にする」→プロジェクトであってテストではない。選択肢4「授業のノートを共有する」→言及なし。"
+        },
+        {
+          "number": 23,
+          "audioFile": "audio/segment_31.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Lisa has always liked to paint. When she was a child, she painted pictures with her mother. She stopped painting when she got a job, but recently, she has been feeling stressed at work. Lisa decided to start painting again, and she found it very relaxing. Now, she paints at least once a week, and she plans to paint more often."
+            }
+          ],
+          "question": "What does Lisa do every week?",
+          "choices": [
+            "She paints pictures to relax.",
+            "She meets with her mother.",
+            "She plays with her children.",
+            "She shows her pictures to friends."
+          ],
+          "answer": 1,
+          "explanation": "リサはストレス解消のために再び絵を描き始め、週に少なくとも1回は絵を描いています。",
+          "highlights": [
+            "she has been feeling stressed at work",
+            "Lisa decided to start painting again",
+            "she paints at least once a week"
+          ],
+          "choiceAnalysis": "選択肢1「リラックスのために絵を描く」→正解。「she found it very relaxing」「paints at least once a week」が根拠。選択肢2「母親と会う」→子供の頃の話。選択肢3「子供と遊ぶ」→言及なし。選択肢4「友人に絵を見せる」→言及なし。"
+        },
+        {
+          "number": 24,
+          "audioFile": "audio/segment_33.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Tom goes to a gym to exercise. Last week, he decided to lift heavier weights than usual. After his workout, Tom's arms felt sore. He asked his friend Carla for advice. She told him that he should not lift heavy weights all of a sudden because it can cause injuries. Instead, he should gradually increase the weights he lifts. Tom will follow her advice from now on."
+            }
+          ],
+          "question": "What advice did Carla give to Tom?",
+          "choices": [
+            "To increase the weights he lifts gradually.",
+            "To stop exercising at the gym.",
+            "To lift heavier weights every time.",
+            "To lift heavy weights all of a sudden."
+          ],
+          "answer": 1,
+          "explanation": "カーラはトムに「急に重いウェイトを持ち上げるべきではなく、徐々に増やすべき」とアドバイスしました。",
+          "highlights": [
+            "he should not lift heavy weights all of a sudden",
+            "he should gradually increase the weights he lifts"
+          ],
+          "choiceAnalysis": "選択肢1「ウェイトを徐々に増やす」→正解。「gradually increase the weights」が根拠。選択肢2「ジムでの運動をやめる」→言及なし。選択肢3「毎回もっと重いウェイトを持ち上げる」→「gradually」であって毎回ではない。選択肢4「急に重いウェイトを持ち上げる」→それをすべきではないと言っている。"
+        },
+        {
+          "number": 25,
+          "audioFile": "audio/segment_34.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "One day, Tom saw a car displayed in a store and fell in love with it. He saved money and bought the car. He did not even test-drive it. Then, he drove to visit his parents, who were living far away. After three hours of driving, Tom realized the car seat was too hard to sit in. He felt sad about his decision to get the car without trying it first."
+            }
+          ],
+          "question": "What did Tom find out about the car?",
+          "choices": [
+            "Its windows were not strong enough.",
+            "It used more gas than necessary.",
+            "It made a strange noise when starting.",
+            "Its seat was not comfortable."
+          ],
+          "answer": 4,
+          "explanation": "トムは試乗なしで車を買ったが、3時間運転して座席が硬すぎることに気づきました。",
+          "highlights": [
+            "He did not even test-drive it",
+            "the car seat was too hard to sit in"
+          ],
+          "choiceAnalysis": "選択肢1「窓の強度が足りない」→言及なし。選択肢2「ガソリンを使いすぎる」→言及なし。選択肢3「エンジン始動時に異音がする」→言及なし。選択肢4「座席が快適でない」→正解。「car seat was too hard to sit in」が根拠。"
+        },
+        {
+          "number": 26,
+          "audioFile": "audio/segment_35.mp3",
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Tom is in high school, and he loves playing soccer. He practices with his team every day after school. On weekends, he plays in games against other schools. Last week, Tom's team lost. Tom was very disappointed, but his coach told him that he should not give up. Tom hopes that next time, his team will be able to win."
+            }
+          ],
+          "question": "What does Tom hope to do next time?",
+          "choices": [
+            "Play with a different soccer team.",
+            "Win a game against another school.",
+            "Practice with his team on weekends.",
+            "Play a game with his friends."
+          ],
+          "answer": 2,
+          "explanation": "トムは先週チームが負けて残念に思いましたが、次は勝ちたいと思っています。「Tom hopes that next time, his team will be able to win」がキーです。",
+          "highlights": [
+            "Last week, Tom's team lost",
+            "Tom hopes that next time, his team will be able to win"
+          ],
+          "choiceAnalysis": "選択肢1「別のサッカーチームでプレーする」→同じチーム。選択肢2「他校との試合に勝つ」→正解。「hopes his team will be able to win」が根拠。選択肢3「週末にチームと練習する」→既にしている。選択肢4「友達と試合をする」→言及なし。"
+        },
+        {
+          "number": 27,
+          "audioFile": "audio/segment_36.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Today, Wall Street in New York is home to some of the most famous banks and financial companies in the world. However, its name has an interesting history. In the 1600s, New York belonged to Holland. The Dutch people there were afraid of being attacked, so they built a long wall for protection. There was a street beside this wall, so people began to call it Wall Street."
+            }
+          ],
+          "question": "How did Wall Street get its name?",
+          "choices": [
+            "It was mistaken for a Dutch word.",
+            "It was originally next to a wall.",
+            "It was named after a town in Holland.",
+            "It was built by the Wall family."
+          ],
+          "answer": 2,
+          "explanation": "ウォール街の名前の由来は、1600年代にオランダ人が防護壁を建て、その隣にあった通りが「Wall Street」と呼ばれるようになったことです。",
+          "highlights": [
+            "they built a long wall for protection",
+            "There was a street beside this wall, so people began to call it Wall Street"
+          ],
+          "choiceAnalysis": "選択肢1「オランダ語の単語と間違えた」→言及なし。選択肢2「元々壁の隣にあった」→正解。「street beside this wall」が根拠。選択肢3「オランダの町にちなんで名付けた」→壁にちなんでいる。選択肢4「ウォール家が建設した」→言及なし。"
+        },
+        {
+          "number": 28,
+          "audioFile": "audio/segment_38.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Attention, passengers. The 11:05 express train to Hargate is now ready for boarding at Platform 2. This train has first-class and standard-class seats. The first-class seats are located in cars one, two, and three. Please have your ticket ready to show to the conductor. The train will depart in five minutes. Thank you for traveling with us today. Enjoy your trip to Hargate."
+            }
+          ],
+          "question": "What is being announced?",
+          "choices": [
+            "A train with only standard-class cars.",
+            "A train that will depart in ten minutes.",
+            "A train that is boarding at Platform 1.",
+            "An express train to Hargate."
+          ],
+          "answer": 4,
+          "explanation": "ハーゲート行き11:05発の急行列車がプラットフォーム2で乗車準備ができたというアナウンスです。",
+          "highlights": [
+            "The 11:05 express train to Hargate is now ready for boarding at Platform 2"
+          ],
+          "choiceAnalysis": "選択肢1「普通車両のみの列車」→ファーストクラスもある。選択肢2「10分後に出発する列車」→5分後。選択肢3「プラットフォーム1で乗車する列車」→プラットフォーム2。選択肢4「ハーゲート行き急行列車」→正解。「express train to Hargate」が根拠。"
+        },
+        {
+          "number": 29,
+          "audioFile": "audio/segment_39.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Attention, passengers. We would like to apologize for the delay of our flight to Paris. The plane has arrived, but the weather conditions at the airport are not safe for landing. The flight will be delayed until it is safe to land. Passengers on this flight will receive free snacks and drinks while we are waiting. Thank you for your patience."
+            }
+          ],
+          "question": "What is the problem with the flight to Paris?",
+          "choices": [
+            "The plane has not yet arrived.",
+            "There are not enough snacks for passengers.",
+            "The flight will not leave from Paris.",
+            "The weather in Paris is not safe."
+          ],
+          "answer": 4,
+          "explanation": "パリ行きフライトの遅延理由は「空港の天候が着陸に安全でない」ためです。「the weather conditions at the airport are not safe for landing」がキーです。",
+          "highlights": [
+            "the weather conditions at the airport are not safe for landing",
+            "The flight will be delayed until it is safe to land"
+          ],
+          "choiceAnalysis": "選択肢1「飛行機がまだ到着していない」→到着済み（The plane has arrived）。選択肢2「乗客分のスナックが足りない」→無料スナック提供の案内。選択肢3「パリから出発しない」→パリ行きが遅延。選択肢4「パリの天候が安全でない」→正解。「weather conditions are not safe」が根拠。"
+        },
+        {
+          "number": 30,
+          "audioFile": "audio/segment_40.mp3",
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Welcome to Air Star Flight 237 to Newland. We will be landing soon. Please make sure your seat is upright and your seat belt is fastened. If you would like to use your mobile phone, please wait until we have landed. Once we land, you can collect your baggage at the baggage claim area. Thank you for flying with Air Star."
+            }
+          ],
+          "question": "What must passengers do before landing?",
+          "choices": [
+            "Use their mobile phones.",
+            "Collect all of their bags.",
+            "Confirm their baggage area.",
+            "Put their seats upright."
+          ],
+          "answer": 4,
+          "explanation": "着陸前に乗客はシートを直立位置に戻す必要があります。「Please make sure your seat is upright」が着陸前の指示です。",
+          "highlights": [
+            "Please make sure your seat is upright and your seat belt is fastened"
+          ],
+          "choiceAnalysis": "選択肢1「携帯電話を使用する」→着陸後まで待つ。選択肢2「荷物を全て回収する」→着陸後。選択肢3「荷物受取場を確認する」→着陸後。選択肢4「シートを直立位置にする」→正解。「make sure your seat is upright」が根拠。"
+        }
+      ]
+    }
+  ]
+}

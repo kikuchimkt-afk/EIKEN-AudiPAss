@@ -1,0 +1,953 @@
+{
+  "title": "2025年度 第3回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi. Aren't you Akiko's dad? I'm Jamelia's mom."
+            },
+            {
+              "speaker": "male",
+              "text": "Nice to meet you. Sports day is always so exciting."
+            },
+            {
+              "speaker": "female",
+              "text": "Absolutely. What event is Akiko doing?"
+            },
+            {
+              "speaker": "male",
+              "text": "Akiko's going to be running later today, but first she's participating in the high jump and the javelin."
+            },
+            {
+              "speaker": "female",
+              "text": "She's so multitalented! Jamelia only competes in the 400-meter race."
+            },
+            {
+              "speaker": "male",
+              "text": "But I hear she usually comes in first place. Maybe that's a result of specializing in just one event."
+            }
+          ],
+          "question": "What do we learn about Akiko?",
+          "choices": [
+            "The 400-meter race is her best event.",
+            "All her events have finished.",
+            "She competes in various events.",
+            "She is better than Jamelia at running events."
+          ],
+          "explanation": "Akikoは走る種目の他に走り高跳びとやり投げにも参加しており、複数の種目に出場しています。",
+          "highlights": [
+            "she's participating in the high jump and the javelin",
+            "running later today"
+          ],
+          "choiceAnalysis": "選択肢1「400mが得意」→Jameliaの種目。選択肢2「全種目が終わった」→後で走る予定。選択肢3「様々な種目に出場」→正解。選択肢4「走る種目でJameliaより上」→言及なし。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 3
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Isabella, do you have any more painkillers in your desk drawer? My headache won't go away."
+            },
+            {
+              "speaker": "female",
+              "text": "I do, but you only took the last one an hour ago."
+            },
+            {
+              "speaker": "male",
+              "text": "I know, but I can't concentrate on my work."
+            },
+            {
+              "speaker": "female",
+              "text": "It would be better to stop staring at the computer and rest your eyes for a while."
+            },
+            {
+              "speaker": "male",
+              "text": "I'd like to, but I have to finish checking this report. The boss wants it in an hour."
+            },
+            {
+              "speaker": "female",
+              "text": "Let me do that. You go to the break room for a bit."
+            }
+          ],
+          "question": "What does the woman imply?",
+          "choices": [
+            "The man should not take more medicine.",
+            "She cannot help the man with the report.",
+            "The man should ask the boss for more time.",
+            "She wishes she could take a rest."
+          ],
+          "explanation": "女性は1時間前に薬を飲んだばかりだと指摘し、休むことを勧めて報告書のチェックを引き受けています。薬を飲みすぎるべきではないと暗示。",
+          "highlights": [
+            "you only took the last one an hour ago",
+            "Let me do that. You go to the break room"
+          ],
+          "choiceAnalysis": "選択肢1「薬を飲みすぎるべきではない」→正解。選択肢2「手伝えない」→引き受けている。選択肢3「上司に時間を頼む」→言及なし。選択肢4「休みたい」→男性に休むよう勧めている。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 1
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "What's the matter, honey? You look upset."
+            },
+            {
+              "speaker": "female",
+              "text": "I am. I had a meeting with the vice president today, and he said our section's budget would be cut from next quarter."
+            },
+            {
+              "speaker": "male",
+              "text": "That doesn't sound good."
+            },
+            {
+              "speaker": "female",
+              "text": "They're eliminating two sales representatives' jobs, and I have to decide who will have to go."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, that must be tough. You're close to everyone on your team, aren't you?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, very. I have no idea how I'm going to choose. Right now, I really regret accepting my promotion last year."
+            }
+          ],
+          "question": "Why is the woman upset?",
+          "choices": [
+            "She did not get a promotion.",
+            "She made a mistake with the budget.",
+            "She has to fire some staff members.",
+            "She had an argument with a team member."
+          ],
+          "explanation": "女性は2人の営業担当の仕事をなくさなければならず、誰を解雇するか決めなければなりません。",
+          "highlights": [
+            "eliminating two sales representatives' jobs",
+            "I have to decide who will have to go"
+          ],
+          "choiceAnalysis": "選択肢1「昇進しなかった」→昨年昇進済み。選択肢2「予算でミス」→予算削減を告げられた。選択肢3「スタッフを解雇」→正解。選択肢4「チームメンバーと口論」→言及なし。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 3
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "How's the campaign going? The city council elections are just a couple of weeks away."
+            },
+            {
+              "speaker": "male",
+              "text": "I feel good about it. I have a solid base of voters, and my ratings have been going up in the opinion polls every week."
+            },
+            {
+              "speaker": "female",
+              "text": "I've seen your campaign signs outside many homes over in Eastwood. It looks like your message has reached a lot of people there."
+            },
+            {
+              "speaker": "male",
+              "text": "I hope so. I've been visiting one new neighborhood a day and speaking with community members to better understand the issues in their areas."
+            }
+          ],
+          "question": "What does the man say?",
+          "choices": [
+            "He is doing poorly in Eastwood.",
+            "He needs to change his message.",
+            "His support is growing.",
+            "His campaign lacks funds."
+          ],
+          "explanation": "男性は毎週世論調査での支持率が上がっていると言っています。",
+          "highlights": [
+            "my ratings have been going up in the opinion polls every week"
+          ],
+          "choiceAnalysis": "選択肢1「Eastwoodで苦戦」→選挙ポスターが多い。選択肢2「メッセージを変える必要」→言及なし。選択肢3「支持が伸びている」→正解。選択肢4「資金不足」→言及なし。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 3
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Did you take your smartphone back to the electronics store?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. And they gave me a full refund because it was defective."
+            },
+            {
+              "speaker": "female",
+              "text": "That's a relief."
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, but they wouldn't take back the case I bought for the phone."
+            },
+            {
+              "speaker": "female",
+              "text": "What do you mean?"
+            },
+            {
+              "speaker": "male",
+              "text": "The clerk said the refund policy didn't apply because it had no defects."
+            },
+            {
+              "speaker": "female",
+              "text": "But it's useless without the phone."
+            },
+            {
+              "speaker": "male",
+              "text": "That's what I said, but they said it was store policy. I sure won't be shopping there again."
+            }
+          ],
+          "question": "Why is the man upset?",
+          "choices": [
+            "His smartphone could not be repaired.",
+            "He could not return his smartphone case.",
+            "The store clerk gave him incorrect information.",
+            "The store clerk didn't follow the refund policy."
+          ],
+          "explanation": "男性はスマートフォンのケースの返品を拒否され、怒っています。",
+          "highlights": [
+            "they wouldn't take back the case I bought for the phone"
+          ],
+          "choiceAnalysis": "選択肢1「修理できない」→全額返金された。選択肢2「ケースを返品できない」→正解。選択肢3「誤情報」→言及なし。選択肢4「返品ポリシーに従わない」→ポリシー通り。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 2
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "What did you think of Jason's presentation in our economics seminar?"
+            },
+            {
+              "speaker": "male",
+              "text": "It certainly got everyone's attention. The illustrations were very impressive."
+            },
+            {
+              "speaker": "female",
+              "text": "That's for sure. Some of Jason's ideas are brilliant. I wish he'd added a bit more specific information, though."
+            },
+            {
+              "speaker": "male",
+              "text": "That's a good point. There were quite a few questions at the end, weren't there?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, I wish there had been more time because I had a couple myself."
+            }
+          ],
+          "question": "What does the woman say about Jason's presentation?",
+          "choices": [
+            "The ideas were not original enough.",
+            "The illustrations were not well done.",
+            "The information was not detailed enough.",
+            "The presentation was too long."
+          ],
+          "explanation": "女性はもう少し具体的な情報を追加してほしかったと言っています。",
+          "highlights": [
+            "I wish he'd added a bit more specific information"
+          ],
+          "choiceAnalysis": "選択肢1「アイデアが独創的でない」→素晴らしいと評価。選択肢2「図が良くない」→印象的。選択肢3「情報が詳しくない」→正解。選択肢4「長すぎた」→質問時間が足りない。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 3
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Molly, have you finished that presentation I asked you to make?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sorry, I've been busy photocopying all the materials for the monthly meeting. I'll do it this afternoon."
+            },
+            {
+              "speaker": "male",
+              "text": "You need to learn to delegate work, you know. You're a senior member of the team now, so you can get the junior members to do things like that."
+            },
+            {
+              "speaker": "female",
+              "text": "You're right. I guess I'm not used to telling people what to do."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, you should get used to it if you ever want to become a manager."
+            }
+          ],
+          "question": "What does the man say the woman should do?",
+          "choices": [
+            "Recruit some new members to her team.",
+            "Ask her manager to reduce her workload.",
+            "Give some of her work to other people.",
+            "Ask her company for a promotion."
+          ],
+          "explanation": "男性は仕事を後輩に委任することを学ぶべきだと言っています。",
+          "highlights": [
+            "You need to learn to delegate work",
+            "get the junior members to do things like that"
+          ],
+          "choiceAnalysis": "選択肢1「新メンバーを採用」→既存の後輩に委任。選択肢2「仕事量を減らす」→委任する。選択肢3「仕事を他の人に任せる」→正解。選択肢4「昇進を求める」→マネージャーになりたければ。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 3
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I heard you practicing your guitar. You're really talented."
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks. I've been taking lessons for about a year."
+            },
+            {
+              "speaker": "female",
+              "text": "I go to an informal music club on Thursday nights. Some people play instruments, others sing. You should join us."
+            },
+            {
+              "speaker": "male",
+              "text": "Sounds fun, but I don't think I can."
+            },
+            {
+              "speaker": "female",
+              "text": "You don't have to be worried about the group. They're very supportive of new members."
+            },
+            {
+              "speaker": "male",
+              "text": "It's not that. I look after my sister's kids on Thursdays while she goes to a night class."
+            },
+            {
+              "speaker": "female",
+              "text": "Too bad. You'd be a great addition to the group."
+            }
+          ],
+          "question": "Why is the man unable to join the group?",
+          "choices": [
+            "He is not free when the group meets.",
+            "He takes a night class on Thursdays.",
+            "He does not have a guitar.",
+            "He cannot play the guitar well enough."
+          ],
+          "explanation": "男性は木曜日に姉/妹の子供の面倒を見ているため、木曜夜のクラブに参加できません。",
+          "highlights": [
+            "I look after my sister's kids on Thursdays"
+          ],
+          "choiceAnalysis": "選択肢1「グループの集まりの時間に空いていない」→正解。選択肢2「夜間授業を受けている」→姉/妹が授業。選択肢3「ギターがない」→練習している。選択肢4「演奏が下手」→才能があると言われている。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 1
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "You look awful, Nathan. Have you come down with something?"
+            },
+            {
+              "speaker": "male",
+              "text": "I missed the bus after work last night because I finished late. I had to walk home in the rain, and I think I caught a chill."
+            },
+            {
+              "speaker": "female",
+              "text": "Why didn't you call me? I could have come and gotten you in the car."
+            },
+            {
+              "speaker": "male",
+              "text": "I thought you'd already be in bed."
+            },
+            {
+              "speaker": "female",
+              "text": "That's very thoughtful of you, but call me if it happens again. I'd rather you wake me up if it stops you from getting sick."
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks. I will."
+            }
+          ],
+          "question": "What does the woman offer to do in the future?",
+          "choices": [
+            "Pick the man up from work.",
+            "Stay up until the man calls her.",
+            "Help the man with his work.",
+            "Lend the man her car."
+          ],
+          "explanation": "女性は次にそういうことがあれば車で迎えに行くと申し出ています。",
+          "highlights": [
+            "I could have come and gotten you in the car",
+            "call me if it happens again"
+          ],
+          "choiceAnalysis": "選択肢1「車で迎えに行く」→正解。選択肢2「電話まで起きている」→起こしてくれていい。選択肢3「仕事を手伝う」→言及なし。選択肢4「車を貸す」→自分で迎えに行く。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 1
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Lily, have you seen my earphones anywhere?"
+            },
+            {
+              "speaker": "female",
+              "text": "They're in my room. I borrowed them yesterday."
+            },
+            {
+              "speaker": "male",
+              "text": "I wish you wouldn't take my things without asking. I needed those earphones for an online meeting this morning."
+            },
+            {
+              "speaker": "female",
+              "text": "Sorry. I meant to return them, but it slipped my mind."
+            },
+            {
+              "speaker": "male",
+              "text": "Why were you using my earphones, anyway? I thought Mom and Dad gave you some for your birthday."
+            },
+            {
+              "speaker": "female",
+              "text": "They did, but I lost them, and I can't afford to buy some more."
+            }
+          ],
+          "question": "Why is the man annoyed with the woman?",
+          "choices": [
+            "She lost the earphones he lent her.",
+            "She missed a meeting this morning.",
+            "She used his earphones without permission.",
+            "She forgot his birthday."
+          ],
+          "explanation": "男性は断りなく自分のものを持って行かないでほしいと言っています。",
+          "highlights": [
+            "I wish you wouldn't take my things without asking"
+          ],
+          "choiceAnalysis": "選択肢1「貸したイヤホンを失くした」→自分のを失くした。選択肢2「ミーティングに遅れた」→男性のミーティング。選択肢3「無断でイヤホンを使った」→正解。選択肢4「誕生日を忘れた」→言及なし。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 3
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Honey, guess what? The boss pulled me aside, and she asked me to head up the company's latest ad campaign."
+            },
+            {
+              "speaker": "male",
+              "text": "That's great, Beverly, but I thought you said Jun would probably get it."
+            },
+            {
+              "speaker": "female",
+              "text": "Jun was offered the position, but he'll be taking paternity leave next month, so he couldn't commit to it. I guess I was next in line."
+            },
+            {
+              "speaker": "male",
+              "text": "It'll be a fantastic opportunity to really show them what you can do, Beverly."
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah, you're right. It's a bit daunting, though."
+            }
+          ],
+          "question": "What do we learn from this conversation?",
+          "choices": [
+            "The man thinks Beverly will do well.",
+            "Jun recommended Beverly for the campaign.",
+            "Beverly was her boss's first choice.",
+            "The campaign will be postponed for a month."
+          ],
+          "explanation": "男性はBeverlyにとって実力を示す素晴らしい機会だと言っています。",
+          "highlights": [
+            "It'll be a fantastic opportunity to really show them what you can do"
+          ],
+          "choiceAnalysis": "選択肢1「男性はBeverlyがうまくやると思う」→正解。選択肢2「Junが推薦した」→言及なし。選択肢3「Beverlyが第一候補」→Junが第一候補。選択肢4「延期」→言及なし。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 1
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Catherine, is that you? I haven't seen you in ages."
+            },
+            {
+              "speaker": "female",
+              "text": "Jim? What a surprise! What are you doing here?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'm on my lunch break. I work for a company about two blocks away."
+            },
+            {
+              "speaker": "female",
+              "text": "Didn't you set up your own headhunting business?"
+            },
+            {
+              "speaker": "male",
+              "text": "That only lasted a few years, unfortunately. What do you do these days?"
+            },
+            {
+              "speaker": "female",
+              "text": "I work freelance. Actually, I'm on my way to meet a client right now."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, I won't keep you, then. We should get together for lunch sometime."
+            },
+            {
+              "speaker": "female",
+              "text": "Good idea. I'll call you."
+            }
+          ],
+          "question": "What do we learn about the man?",
+          "choices": [
+            "He was once the woman's boss.",
+            "He dislikes his current job.",
+            "He used to run his own company.",
+            "He is one of the woman's clients."
+          ],
+          "explanation": "男性は以前ヘッドハンティングの会社を自分で立ち上げましたが、数年しか続きませんでした。",
+          "highlights": [
+            "Didn't you set up your own headhunting business?",
+            "That only lasted a few years"
+          ],
+          "choiceAnalysis": "選択肢1「女性の元上司」→言及なし。選択肢2「現在の仕事が嫌い」→言及なし。選択肢3「自分の会社を経営していた」→正解。選択肢4「女性のクライアント」→言及なし。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Stonehenge in southern England is one of the world's best-known ancient stone circles. The monument is more than four thousand years old and was constructed using two types of stones, one of which was brought from many miles away. The effort required to do this suggests Stonehenge was important to the people who built it, but who those people were is unknown. Most experts believe, however, that the monument was used for religious ceremonies."
+            }
+          ],
+          "question": "What is one thing the speaker says about the monument?",
+          "choices": [
+            "It is not known when it was completed.",
+            "It is not known who constructed it.",
+            "It is not known what it was used for.",
+            "It is not known where its stones came from."
+          ],
+          "explanation": "建設した人々が誰であるかは不明です。",
+          "highlights": [
+            "who those people were is unknown"
+          ],
+          "choiceAnalysis": "選択肢1「完成時期不明」→4000年以上前。選択肢2「建設者不明」→正解。選択肢3「用途不明」→宗教儀式と推定。選択肢4「石の産地不明」→遠くから運ばれた。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 2
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "A study in the United Kingdom has added a new twist. By making a model of the original monument, researchers discovered that it would have acted like a sound chamber. This suggests that it may have been designed to increase the volume of sound inside the circle but make it difficult for people outside to hear. This has led to a theory that the site was intended for a restricted group rather than the whole community."
+            }
+          ],
+          "question": "What did a study in the United Kingdom suggest about the monument?",
+          "choices": [
+            "It was used by all members of the community.",
+            "It was once part of a larger monument.",
+            "It was never used for its intended purpose.",
+            "It was designed to stop sound from escaping."
+          ],
+          "explanation": "モデルの研究で音響室のように機能し、円の内部の音を外部に聞こえにくくする設計だったと示唆。",
+          "highlights": [
+            "increase the volume of sound inside the circle but make it difficult for people outside to hear"
+          ],
+          "choiceAnalysis": "選択肢1「全コミュニティが使用」→制限されたグループ。選択肢2「より大きな記念碑の一部」→言及なし。選択肢3「本来の目的で使われなかった」→言及なし。選択肢4「音が漏れないよう設計」→正解。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 4
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Kelps are algae that grow as large ribbons of seaweed in coastal oceans, often forming dense clusters called kelp forests. These absorb the force of waves, creating an environment that is calm enough to allow marine animal species of varying sizes and places in the food chain to thrive in them. These ecosystems also benefit humans by absorbing millions of tons of carbon dioxide—much like forests on land—and boosting commercial and recreational fishing industries by providing habitats for fish."
+            }
+          ],
+          "question": "What is one thing the speaker says about kelp forests?",
+          "choices": [
+            "They use waves to spread across large areas.",
+            "They prevent waves from causing rough conditions.",
+            "They are becoming less suitable as fish habitats.",
+            "They compete with other algae for nutrients."
+          ],
+          "explanation": "ケルプの森は波の力を吸収し、穏やかな環境を作り出します。",
+          "highlights": [
+            "absorb the force of waves, creating an environment that is calm enough"
+          ],
+          "choiceAnalysis": "選択肢1「波を利用して広がる」→波を吸収。選択肢2「波による荒れた状態を防ぐ」→正解。選択肢3「魚の生息地に適さなくなっている」→言及なし。選択肢4「他の藻類と競争」→言及なし。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 2
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "While past studies have revealed much about kelp forests, US researchers have recently learned how they support salmon. Though juvenile salmon use kelp forests for shelter and to find food as other marine creatures do, they also use them as a physical net to help herd prey fish into small groups. This helps the salmon consume enough food to sustain the rapid growth they require to survive."
+            }
+          ],
+          "question": "According to the speaker, what is true with regard to salmon?",
+          "choices": [
+            "Eating kelp enables them to grow quickly.",
+            "Other fish often prevent them from using kelp.",
+            "Kelp forests help them prey on other fish.",
+            "They are often unable to enter kelp forests."
+          ],
+          "explanation": "サケはケルプの森を物理的な網として利用し、獲物の魚を小グループに追い込みます。",
+          "highlights": [
+            "use them as a physical net to help herd prey fish into small groups"
+          ],
+          "choiceAnalysis": "選択肢1「ケルプを食べて成長」→獲物を捕まえる。選択肢2「他の魚が使用を妨げる」→言及なし。選択肢3「ケルプの森が他の魚を捕食するのに役立つ」→正解。選択肢4「入れない」→利用している。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 3
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Paul Charles Morphy was an American chess master born in 1837. He learned chess at a young age by watching his father and uncle play together, and by the time he was twenty, he had won the first American Chess Congress. His exceptional skill even allowed him to play several opponents simultaneously while blindfolded, rarely losing. He went on to tour Europe, defeating several top players, including Germany's Adolf Anderssen, who was the world's best player at the time."
+            }
+          ],
+          "question": "What do we learn about Paul Charles Morphy?",
+          "choices": [
+            "He was defeated by a world chess champion.",
+            "A famous chess tournament invited him to play.",
+            "Many top players refused to play against him.",
+            "He had great success in Europe."
+          ],
+          "explanation": "Morphyはヨーロッパを巡り、当時世界最強だったAnderssenを含む複数のトッププレイヤーを破りました。",
+          "highlights": [
+            "tour Europe, defeating several top players, including Germany's Adolf Anderssen"
+          ],
+          "choiceAnalysis": "選択肢1「世界チャンピオンに敗北」→彼が勝った。選択肢2「有名なトーナメントに招待」→言及なし。選択肢3「対戦を拒否」→言及なし。選択肢4「ヨーロッパで大成功」→正解。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 4
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Known for his innovative style, Morphy emphasized rapid development and positional play. His most famous game is the \"Opera Game,\" in which he played against two opponents working together. The game was held in a theater during an opera performance, with Morphy winning the match in his characteristically rapid style. To this day, the game is considered by many as one of the best examples of Morphy's approach to playing chess."
+            }
+          ],
+          "question": "What does the speaker say about the \"Opera Game\"?",
+          "choices": [
+            "The players were blindfolded.",
+            "It highlighted Morphy's play style.",
+            "Morphy was distracted by the opera.",
+            "It became famous for how quickly it ended."
+          ],
+          "explanation": "オペラゲームは今日までMorphyのチェスアプローチの最良の例の1つとされています。",
+          "highlights": [
+            "one of the best examples of Morphy's approach to playing chess"
+          ],
+          "choiceAnalysis": "選択肢1「目隠し」→言及なし。選択肢2「Morphyのプレースタイルを際立たせた」→正解。選択肢3「オペラに気を取られた」→言及なし。選択肢4「速さで有名」→スタイルの例。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 2
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Jethro Tull's eighteenth-century invention of a machine called a seed drill transformed agriculture. Before it, farmers had two inefficient options: planting each seed by hand or spreading seeds by throwing them. However, planting by hand was extremely time-consuming, while throwing seeds caused many to fall in places where they would not grow. Tull's seed drill did the digging, planting, and covering all at once, allowing farmers to better control where seeds were planted and increasing speed."
+            }
+          ],
+          "question": "What is one thing that we learn about Jethro Tull's seed drill?",
+          "choices": [
+            "It planted seeds less deeply.",
+            "It required less soil.",
+            "It reduced the number of wasted seeds.",
+            "It was less damaging to the seeds."
+          ],
+          "explanation": "以前は種をまくと成長しない場所に落ちることがありましたが、種まき機で種を植える場所を制御できるようになりました。",
+          "highlights": [
+            "better control where seeds were planted"
+          ],
+          "choiceAnalysis": "選択肢1「浅く植えた」→言及なし。選択肢2「土が少なくて済む」→言及なし。選択肢3「無駄な種を減らした」→正解。選択肢4「種へのダメージが少ない」→言及なし。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 3
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Before Tull, people mainly used devices called hoes to break up soil during planting. However, he realized it was important to continue using hoes while growing crops. Tull believed that plants fed on the soil itself and that breaking it up would make it easier for them to consume the dirt around them. Although this was incorrect, using a hoe allowed more air and moisture to reach the roots, so the plants grew better."
+            }
+          ],
+          "question": "What mistake did Tull make?",
+          "choices": [
+            "He thought that plants took in soil.",
+            "He thought soil should not be broken up.",
+            "He thought moisture was bad for plants.",
+            "He thought plants should have had short roots."
+          ],
+          "explanation": "Tullは植物が土壌そのものを栄養にしていると信じていましたが、これは間違いでした。",
+          "highlights": [
+            "Tull believed that plants fed on the soil itself",
+            "Although this was incorrect"
+          ],
+          "choiceAnalysis": "選択肢1「植物が土を吸収すると思った」→正解。選択肢2「土を砕くべきでない」→砕くべきと思っていた。選択肢3「水分が悪い」→言及なし。選択肢4「短い根」→言及なし。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 1
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "A salamander species known as the eastern hellbender inhabits the beds of rivers and streams in the eastern US. In recent decades, hellbender populations have severely declined due to factors like habitat loss and waterway pollution. Because hellbenders absorb most of their oxygen through their skin instead of their lungs, they are especially vulnerable to the effects of pollution, as toxins in water can easily enter their body directly."
+            }
+          ],
+          "question": "According to the speaker, what makes hellbenders particularly vulnerable to pollution?",
+          "choices": [
+            "The food they usually consume.",
+            "The way they search for mates.",
+            "Their tendency to remain in one place.",
+            "Their method of breathing."
+          ],
+          "explanation": "ヘルベンダーは肺ではなく皮膚を通じて酸素を吸収するため、汚染物質が直接体に入りやすい。",
+          "highlights": [
+            "absorb most of their oxygen through their skin instead of their lungs"
+          ],
+          "choiceAnalysis": "選択肢1「食物」→言及なし。選択肢2「配偶者の探し方」→言及なし。選択肢3「一箇所にとどまる傾向」→言及なし。選択肢4「呼吸方法」→正解。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 4
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "A major factor affecting hellbender populations has been dams, many of which were constructed to provide electrical power and create reservoirs for use in agriculture. Dams restrict water flow, worsening river pollution and reducing water quality. Recently, dam removal projects have increased. When dams are removed, hellbenders gain an immediate advantage from the increased flow of oxygen-rich water. Researchers say dam removal is especially important today, as climate change threatens to alter river ecosystems in ways that could further harm hellbenders."
+            }
+          ],
+          "question": "What is one thing the speaker says about dams?",
+          "choices": [
+            "They can help hellbenders in certain areas.",
+            "Their use in agriculture has been decreasing.",
+            "Their removal benefits hellbenders immediately.",
+            "They are often constructed on polluted rivers."
+          ],
+          "explanation": "ダムが撤去されると、酸素豊富な水の流れが増え、ヘルベンダーはすぐに恩恵を受けます。",
+          "highlights": [
+            "hellbenders gain an immediate advantage from the increased flow of oxygen-rich water"
+          ],
+          "choiceAnalysis": "選択肢1「特定の地域でヘルベンダーを助ける」→害を及ぼす。選択肢2「農業での使用が減少」→言及なし。選択肢3「撤去がすぐにヘルベンダーに利益」→正解。選択肢4「汚染された川に建設」→汚染を悪化させる。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 3
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The city of Auckland, New Zealand, was built in an area containing dozens of volcanoes. Underground, there is an extensive system of tunnellike caves created by lava flows from past eruptions. Many of these caves are considered sacred by the Indigenous Maori people, who have used them to bury the bones of their ancestors. However, as Auckland's population grows and construction projects increase, caves are increasingly being filled with cement or destroyed."
+            }
+          ],
+          "question": "What does the speaker say about population growth in Auckland?",
+          "choices": [
+            "It has led to the destruction of spiritually important sites.",
+            "It has resulted in people inhabiting underground caves.",
+            "It has extended into areas that are unsafe.",
+            "It has been opposed by government officials."
+          ],
+          "explanation": "人口増加により建設プロジェクトが増え、マオリ族にとって神聖な洞窟がセメントで埋められたり破壊されたりしています。",
+          "highlights": [
+            "caves are increasingly being filled with cement or destroyed"
+          ],
+          "choiceAnalysis": "選択肢1「霊的に重要な場所の破壊」→正解。選択肢2「洞窟に住む人」→言及なし。選択肢3「危険な地域に拡大」→言及なし。選択肢4「政府が反対」→言及なし。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 1
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Scientists and government officials are now collaborating to create a database of the entire cave system to help protect and preserve the caves. In addition to their cultural importance, the caves offer clues about future volcanic eruptions and could help scientists predict where dangerous lava flows might occur. However, making cave locations publicly available could attract people who want to vandalize them, so there will be a need to limit access to some of the information."
+            }
+          ],
+          "question": "What is one thing the speaker suggests about the caves?",
+          "choices": [
+            "People used them for protection during volcanic eruptions.",
+            "Some of them were not caused by lava flows.",
+            "Knowledge about them could increase public safety.",
+            "Their locations have been incorrectly documented."
+          ],
+          "explanation": "洞窟は将来の噴火の手がかりを提供し、危険な溶岩流の予測に役立つ可能性があります。",
+          "highlights": [
+            "offer clues about future volcanic eruptions and could help scientists predict where dangerous lava flows might occur"
+          ],
+          "choiceAnalysis": "選択肢1「噴火時の避難」→言及なし。選択肢2「溶岩流で作られていないものも」→言及なし。選択肢3「知識が公共の安全を高める」→正解。選択肢4「場所が誤って記録」→言及なし。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You are shopping for a new refrigerator. Your main priority is saving energy to keep your electricity bill low. A salesperson tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Over here, we have the Glacier Pro. It's equipped with a touchscreen that lets you create shopping lists and synchronize them with your devices. Next, there's the NeoChill 5000. You can monitor the internal temperature through an app to maximize energy efficiency. Over here is the CoolGuard Elite. This large fridge has powerful cooling technology to keep your food fresher for longer. Finally, we have the Slimline 300. This one is all about appearances; what it lacks in energy efficiency, it makes up for in style. Each model has its strengths, so let's find the right one for you!"
+            }
+          ],
+          "question": "Which refrigerator should you choose?",
+          "choices": [
+            "The Glacier Pro.",
+            "The NeoChill 5000.",
+            "The CoolGuard Elite.",
+            "The Slimline 300."
+          ],
+          "explanation": "省エネが優先→NeoChill 5000はアプリで内部温度を監視してエネルギー効率を最大化できます。",
+          "highlights": [
+            "NeoChill 5000",
+            "monitor the internal temperature through an app to maximize energy efficiency"
+          ],
+          "choiceAnalysis": "選択肢1「Glacier Pro」→タッチスクリーン機能のみ。選択肢2「NeoChill 5000」→正解。エネルギー効率を最大化。選択肢3「CoolGuard Elite」→強力な冷却技術。選択肢4「Slimline 300」→省エネに欠ける。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 2
+        },
+        {
+          "number": 26,
+          "situation": "It is taking a long time for the tap water in your house to heat up. You want to pay as little as possible for repairs. A repair person is talking to you.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "I've inspected the water heater, and everything's functioning properly. Your issue is being caused by this valve here. It adjusts the flow of water, and it needs replacement. Since your water heater is a rental, all repairs to it are covered in the monthly fee, but the valve is part of the pipe system. Replacing it would be $450. Another option would be signing up for our plumbing plan. It covers repairs to all the plumbing in your house, including pipes, sinks, and valves. It's $300 per year, and there's no obligation to renew it."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Pay for a new valve.",
+            "Join the plumbing plan.",
+            "Change to a monthly rental.",
+            "Replace the water heater."
+          ],
+          "explanation": "バルブ交換$450 vs 配管プラン$300/年（バルブ含む）→配管プランが安い。",
+          "highlights": [
+            "plumbing plan",
+            "$300 per year",
+            "covers repairs to all the plumbing"
+          ],
+          "choiceAnalysis": "選択肢1「バルブ交換$450」→高い。選択肢2「配管プラン$300」→正解。安くて全配管カバー。選択肢3「月額レンタルに変更」→既にレンタル。選択肢4「給湯器交換」→正常に機能。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 2
+        },
+        {
+          "number": 27,
+          "situation": "You are attending a conference for human resource managers. You are interested in learning how to improve your recruitment strategies. You hear an announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome to the Westfield HR Conference. Here are today's lectures. Keynote speaker Professor Winston Brown will give his thoughts on AI's impact on the country's largest corporations. In this digital age, strategies for hiring new staff need to keep up, so join Joanne Jarrold as she outlines the latest developments to help you get the folks you need. Eddie Aitken will showcase reward systems and how to utilize them to increase worker productivity. Last but not least, Louise Cansler will do a deep dive into mergers and acquisitions, which can be extremely disruptive to employees if not handled with care."
+            }
+          ],
+          "question": "Whose lecture should you attend?",
+          "choices": [
+            "Winston Brown's.",
+            "Joanne Jarrold's.",
+            "Eddie Aitken's.",
+            "Louise Cansler's."
+          ],
+          "explanation": "採用戦略の改善→Joanne Jarroldが最新の採用手法を紹介します。",
+          "highlights": [
+            "Joanne Jarrold",
+            "strategies for hiring new staff"
+          ],
+          "choiceAnalysis": "選択肢1「Winston Brown」→AIの影響。選択肢2「Joanne Jarrold」→正解。採用戦略。選択肢3「Eddie Aitken」→報酬制度。選択肢4「Louise Cansler」→M&A。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 2
+        },
+        {
+          "number": 28,
+          "situation": "You want to go on a gentle hike today with your grandfather, who has a bad knee and poor stamina. A staff member in a state park tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "One option is the Schmidt Trail, which offers fantastic views of Mt. Blackstone. It's mainly flat, with the exception of one extremely steep section. The Wilson Trail takes you past Lake Huntington. It could be quite slippery today, but the lake views are spectacular. The Redford Trail is nice for leisurely hikes, although it doesn't compare with the others in terms of scenery. The Borne Trail is ideal for a leisurely hike and has a gorgeous waterfall. Unfortunately, it's under repair, but it will be open next week."
+            }
+          ],
+          "question": "Which trail should you take?",
+          "choices": [
+            "The Schmidt Trail.",
+            "The Wilson Trail.",
+            "The Redford Trail.",
+            "The Borne Trail."
+          ],
+          "explanation": "膝が悪く体力のない祖父→急な坂×、滑りやすい×、修理中×→Redford Trailがのんびりハイキング向き。",
+          "highlights": [
+            "The Redford Trail is nice for leisurely hikes"
+          ],
+          "choiceAnalysis": "選択肢1「Schmidt」→急な坂あり。選択肢2「Wilson」→今日は滑りやすい。選択肢3「Redford」→正解。のんびりハイキング向き。選択肢4「Borne」→修理中。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 3
+        },
+        {
+          "number": 29,
+          "situation": "You are in the departure lounge at the airport and you hear the following announcement. Your flight is the AM306 to Amsterdam.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Passengers waiting for flights BN117 to Berlin, AM306 to Amsterdam, and VA312 to Vienna may now proceed to the boarding gates. Please note that the gate for AM306 to Amsterdam has changed. This will now be departing from Gate 13 rather than Gate 9. Gates 1 to 10 are a ten-minute walk from the departure lounge. For gate numbers 11 and above, take the airport shuttle. Please allow fifteen minutes to get to your gate. If you are unsure of your gate number, please check the departures board or speak to our airport staff. Thank you, and enjoy your flight."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Take the airport shuttle to your gate.",
+            "Walk to your gate.",
+            "Wait until your flight is called.",
+            "Change your flight."
+          ],
+          "explanation": "AM306はGate 9→Gate 13に変更。Gate 11以上はシャトルを利用。",
+          "highlights": [
+            "Gate 13",
+            "gate numbers 11 and above, take the airport shuttle"
+          ],
+          "choiceAnalysis": "選択肢1「シャトルに乗る」→正解。Gate 13は11以上なのでシャトル。選択肢2「歩く」→Gate 1-10のみ。選択肢3「アナウンスを待つ」→もう呼ばれている。選択肢4「便を変える」→言及なし。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

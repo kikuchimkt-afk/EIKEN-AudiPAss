@@ -1,0 +1,24 @@
+# === 開発専用 / ソースファイル（デプロイ不要）===
+new problem/
+tools/
+.agents/
+
+# 旧バージョンの残骸（現行アプリ未使用）
+data.js
+style.css
+audio/
+
+# PDF / ログ / スクリプト
+*.pdf
+*.log
+*.py
+*.bat
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Vercel
+.vercel

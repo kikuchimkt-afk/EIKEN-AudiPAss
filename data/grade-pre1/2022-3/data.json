@@ -1,0 +1,950 @@
+{
+  "title": "2022年度 第3回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Ron. Why are you sitting there? Where's the new receptionist?"
+            },
+            {
+              "speaker": "male",
+              "text": "She called to say she'll be late."
+            },
+            {
+              "speaker": "female",
+              "text": "Again? That's the third time since she started. What's her excuse now?"
+            },
+            {
+              "speaker": "male",
+              "text": "She said her babysitter hasn't turned up yet."
+            },
+            {
+              "speaker": "female",
+              "text": "I know she has her problems, but it can't go on like this. I'll have to have a talk with her."
+            },
+            {
+              "speaker": "male",
+              "text": "Please do. I'm tired of filling in."
+            }
+          ],
+          "question": "What is the woman going to do?",
+          "choices": [
+            "Get the man to fill in for the receptionist.",
+            "Ask the man to fire the receptionist.",
+            "Do the receptionist's job herself.",
+            "Warn the receptionist about being late."
+          ],
+          "explanation": "女性は受付係が3度目の遅刻なので話をしなければならないと言っています。遅刻について注意するということです。",
+          "highlights": [
+            "it can't go on like this. I'll have to have a talk with her"
+          ],
+          "choiceAnalysis": "選択肢1「男性に代わりを」→男性はもう疲れている。選択肢2「解雇を頼む」→話をするだけ。選択肢3「自分で代わる」→言及なし。選択肢4「遅刻について注意する」→正解。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 4
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Tim, I'm concerned about your performance in my science class."
+            },
+            {
+              "speaker": "male",
+              "text": "Didn't I pass the test yesterday?"
+            },
+            {
+              "speaker": "female",
+              "text": "No, and you've missed several assignments."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm sorry. I've had to work late every night this month at my part-time job."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, we need to solve this problem."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. I'll talk to my boss about cutting back my hours."
+            },
+            {
+              "speaker": "female",
+              "text": "And how about coming in for extra work before or after school?"
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks, Mrs. Roberts. I'll be here early tomorrow morning."
+            }
+          ],
+          "question": "What conclusion can be made about the student?",
+          "choices": [
+            "He has to improve his class performance.",
+            "He cannot change his work schedule.",
+            "He will quit his part-time job.",
+            "He does not go to science class."
+          ],
+          "explanation": "学生はテストに落ち、課題も未提出。アルバイトの時間を減らし、補習を受けることで成績を改善する必要があります。",
+          "highlights": [
+            "you've missed several assignments",
+            "I'll talk to my boss about cutting back my hours"
+          ],
+          "choiceAnalysis": "選択肢1「授業の成績を改善する必要がある」→正解。選択肢2「勤務時間を変えられない」→変えると言った。選択肢3「バイトを辞める」→時間を減らすだけ。選択肢4「理科の授業に出ない」→出ている。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 1
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, Dave. You look down. What's wrong?"
+            },
+            {
+              "speaker": "male",
+              "text": "Well, mostly, it's just that I'm not enjoying my job."
+            },
+            {
+              "speaker": "female",
+              "text": "Have you thought about doing something else?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, but I haven't been able to find anything that pays as well. With the kids almost in college and the house payments, I can't really just quit."
+            },
+            {
+              "speaker": "female",
+              "text": "I hear you. Well, I hope things work out for you."
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks, but right now I'm not very optimistic."
+            }
+          ],
+          "question": "What is the man's problem?",
+          "choices": [
+            "He cannot pay his children's college fees.",
+            "He lives too far from his company.",
+            "He believes he is being underpaid.",
+            "He feels unable to leave his current job."
+          ],
+          "explanation": "男性は仕事を楽しめていないが、同等の給料の仕事が見つからず、子供の大学や住宅ローンがあるため辞められません。",
+          "highlights": [
+            "I haven't been able to find anything that pays as well",
+            "I can't really just quit"
+          ],
+          "choiceAnalysis": "選択肢1「大学費用が払えない」→まだ大学前。選択肢2「会社が遠い」→言及なし。選択肢3「給料が安い」→同等の給料が見つからないだけ。選択肢4「今の仕事を辞められない」→正解。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 4
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Morning, Fiona. Coffee?"
+            },
+            {
+              "speaker": "female",
+              "text": "Make it a big one! I was working on a project report until midnight last night. I can't believe I'm here so late every day."
+            },
+            {
+              "speaker": "male",
+              "text": "Didn't they warn you about the overtime when you interviewed?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, they sort of did. What really bothers me, though, is that every time I think I've achieved my targets, my manager changes them."
+            },
+            {
+              "speaker": "male",
+              "text": "That's corporate life. At least you have summer vacation to look forward to."
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah. I hope they actually let me take it!"
+            }
+          ],
+          "question": "What is the woman's main complaint?",
+          "choices": [
+            "She is frequently given new goals.",
+            "She is not paid enough for overtime work.",
+            "Her vacation request was denied.",
+            "Her report received negative feedback."
+          ],
+          "explanation": "女性の一番の不満は、目標を達成するたびにマネージャーが目標を変えることです。",
+          "highlights": [
+            "every time I think I've achieved my targets, my manager changes them"
+          ],
+          "choiceAnalysis": "選択肢1「頻繁に新しい目標を与えられる」→正解。選択肢2「残業代が不十分」→言及なし。選択肢3「休暇申請が却下」→まだ申請していない。選択肢4「報告書が否定的評価」→言及なし。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 1
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Dad, I want to go to grad school straight after university. Maybe I'll do a master's in psychology."
+            },
+            {
+              "speaker": "male",
+              "text": "That's a big commitment, and it doesn't sound like you have a clear plan. How about working for a few years first?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm afraid if I don't do this soon, I never will. I'm worried about the cost, though."
+            },
+            {
+              "speaker": "male",
+              "text": "I've told you I'd help with that. But I really think a year or two in the real world would give you valuable experience."
+            },
+            {
+              "speaker": "female",
+              "text": "OK. Let me think about it a bit more."
+            }
+          ],
+          "question": "What does the man tell his daughter?",
+          "choices": [
+            "She should complete her master's degree next year.",
+            "She should get some work experience.",
+            "She can rely on his help for one year.",
+            "She should save some money first."
+          ],
+          "explanation": "父親は大学院の前に1〜2年実社会で働くことが貴重な経験になると言っています。",
+          "highlights": [
+            "a year or two in the real world would give you valuable experience"
+          ],
+          "choiceAnalysis": "選択肢1「来年修士を取るべき」→逆に待つべきと。選択肢2「仕事の経験を積むべき」→正解。選択肢3「1年間助ける」→費用は助けると言ったが条件は別。選択肢4「お金を貯めるべき」→費用は助けると。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 2
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Shelly, personnel asked me to remind you the deadline for enrolling in an insurance plan is tomorrow."
+            },
+            {
+              "speaker": "female",
+              "text": "I know, but I have no idea which one's best for me."
+            },
+            {
+              "speaker": "male",
+              "text": "They're all described on the company website. Why don't you look there?"
+            },
+            {
+              "speaker": "female",
+              "text": "I have, but it wasn't very helpful. I find all the different options so confusing."
+            },
+            {
+              "speaker": "male",
+              "text": "Maybe you should have someone in personnel explain the choices again."
+            },
+            {
+              "speaker": "female",
+              "text": "I guess I have no choice."
+            }
+          ],
+          "question": "What will the woman probably do next?",
+          "choices": [
+            "Review the website more carefully.",
+            "Choose the same plan as the man.",
+            "Request a meeting with personnel.",
+            "Look for another insurance plan."
+          ],
+          "explanation": "女性はウェブサイトを見てもわからなかったので、人事部の人に説明してもらうことになります。",
+          "highlights": [
+            "you should have someone in personnel explain the choices again",
+            "I guess I have no choice"
+          ],
+          "choiceAnalysis": "選択肢1「ウェブサイトをもっと見る」→もう見た。選択肢2「男性と同じプラン」→言及なし。選択肢3「人事部と面談」→正解。選択肢4「別の保険を探す」→言及なし。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 3
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Happy birthday, Kimiko!"
+            },
+            {
+              "speaker": "female",
+              "text": "Farouk, there you are! I was getting worried you wouldn't make it to the party. Did you get lost?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sorry to be so late. No, your house was easy to find. Actually, I felt a little drowsy, so I pulled off the highway for a short nap. The next thing I knew, an hour had passed."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I'm just glad you made it here safely. How was the traffic?"
+            },
+            {
+              "speaker": "male",
+              "text": "Not as heavy as I'd feared. Is it all right if I sit down?"
+            },
+            {
+              "speaker": "female",
+              "text": "Of course."
+            }
+          ],
+          "question": "Why did the man arrive late?",
+          "choices": [
+            "He got stuck in heavy traffic.",
+            "He had trouble with his car.",
+            "He slept for too long.",
+            "He got lost on the highway."
+          ],
+          "explanation": "男性は眠くなって高速道路脇で仮眠を取ったところ、1時間経ってしまいました。",
+          "highlights": [
+            "I felt a little drowsy, so I pulled off the highway for a short nap. The next thing I knew, an hour had passed"
+          ],
+          "choiceAnalysis": "選択肢1「渋滞」→思ったほどではなかった。選択肢2「車のトラブル」→言及なし。選択肢3「寝すぎた」→正解。選択肢4「迷った」→家は見つけやすかった。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 3
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Honey, look at Jason's report card. He's still struggling in math."
+            },
+            {
+              "speaker": "male",
+              "text": "I guess I should start helping him with his homework again."
+            },
+            {
+              "speaker": "female",
+              "text": "I think it's past that point now. We need to seriously consider getting him a tutor."
+            },
+            {
+              "speaker": "male",
+              "text": "We're already paying so much for his private schooling. Shouldn't his teachers be doing something about it?"
+            },
+            {
+              "speaker": "female",
+              "text": "I understand your frustration, but I think some one-on-one time in another environment would really help him."
+            },
+            {
+              "speaker": "male",
+              "text": "I just hate to think of spending even more money right now."
+            }
+          ],
+          "question": "What does the man think?",
+          "choices": [
+            "Jason's teachers should make more effort.",
+            "Jason should transfer to a private school.",
+            "Jason's homework load has increased.",
+            "Jason should be sent to a tutor."
+          ],
+          "explanation": "男性は私立学校にこれだけ払っているのだから教師がもっと何かすべきだと考えています。",
+          "highlights": [
+            "Shouldn't his teachers be doing something about it?"
+          ],
+          "choiceAnalysis": "選択肢1「教師がもっと努力すべき」→正解。選択肢2「私立に転校」→既に私立。選択肢3「宿題が増えた」→言及なし。選択肢4「家庭教師を」→妻の意見で男性は反対。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 1
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello, Michael. How are you liking your new position? I hear it's been keeping you on the road quite a bit."
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, I've spent more time abroad recently than I have at home."
+            },
+            {
+              "speaker": "female",
+              "text": "I envy you. I'm tired of going to the office every single day."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, even though I'm traveling, mostly all I get to see is the inside of hotels and factories."
+            },
+            {
+              "speaker": "female",
+              "text": "I hope you're not regretting changing positions."
+            },
+            {
+              "speaker": "male",
+              "text": "No, things should settle down soon."
+            }
+          ],
+          "question": "What does the woman imply?",
+          "choices": [
+            "The man should return to his previous position.",
+            "She will change her position soon.",
+            "The man should spend more time at home.",
+            "She would like to travel for work more."
+          ],
+          "explanation": "女性は毎日オフィスに通うのに疲れたと言い、男性の出張を羨ましがっています。",
+          "highlights": [
+            "I envy you. I'm tired of going to the office every single day"
+          ],
+          "choiceAnalysis": "選択肢1「前の職に戻るべき」→言及なし。選択肢2「自分も異動する」→言及なし。選択肢3「もっと家にいるべき」→言及なし。選択肢4「もっと出張したい」→正解。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 4
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Morning, Deborah. Hey, are you OK?"
+            },
+            {
+              "speaker": "female",
+              "text": "What? Oh, sorry, Stan. I'm just in a bad mood."
+            },
+            {
+              "speaker": "male",
+              "text": "What happened?"
+            },
+            {
+              "speaker": "female",
+              "text": "I got confused while transferring at Baxter Station and almost missed my usual train. It's like a maze now because of the construction."
+            },
+            {
+              "speaker": "male",
+              "text": "They're doing major renovations, right?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, and the directions for passengers were unclear. I never thought I'd get lost in the train station I use every morning."
+            },
+            {
+              "speaker": "male",
+              "text": "How long will the work continue?"
+            },
+            {
+              "speaker": "female",
+              "text": "Until the end of the year. I guess I'll have to get used to it."
+            }
+          ],
+          "question": "Why is the woman in a bad mood?",
+          "choices": [
+            "The station renovations are behind schedule.",
+            "Her train was more crowded than usual.",
+            "She had trouble changing trains.",
+            "The station she always uses was closed."
+          ],
+          "explanation": "女性は工事中の駅で乗り換え時に迷い、いつもの電車に乗り遅れそうになりました。",
+          "highlights": [
+            "I got confused while transferring at Baxter Station and almost missed my usual train"
+          ],
+          "choiceAnalysis": "選択肢1「工事が遅れている」→言及なし。選択肢2「電車が混んでいた」→言及なし。選択肢3「乗り換えに苦労した」→正解。選択肢4「駅が閉まっていた」→使えた。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 3
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Have you finished that book already?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes. Since I turned 50, I've been trying to read more for mental stimulation. I want to stay sharp and alert."
+            },
+            {
+              "speaker": "male",
+              "text": "That's great. Lately, all I ever read are boring work-related documents and manuals."
+            },
+            {
+              "speaker": "female",
+              "text": "That does sound dull. These days, I'm mostly reading historical fiction, although sometimes I try to read science books for general audiences."
+            },
+            {
+              "speaker": "male",
+              "text": "Maybe I should start reading some fiction as well, before I forget how to enjoy a book."
+            }
+          ],
+          "question": "Why is the woman reading books?",
+          "choices": [
+            "To keep her mind active.",
+            "To improve her job skills.",
+            "To take her mind off work.",
+            "To get ideas for her fiction writing."
+          ],
+          "explanation": "女性は50歳になってから精神的な刺激のために読書を増やし、頭を鋭く保ちたいと言っています。",
+          "highlights": [
+            "I've been trying to read more for mental stimulation. I want to stay sharp and alert"
+          ],
+          "choiceAnalysis": "選択肢1「頭を活性化するため」→正解。選択肢2「仕事のスキル向上」→言及なし。選択肢3「仕事を忘れるため」→言及なし。選択肢4「小説のアイデア」→読んでいるだけ。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 1
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Which trail should we take, Jack?"
+            },
+            {
+              "speaker": "male",
+              "text": "Trail A looks like the easiest one. The cable car carries us halfway up the mountain, and then we hike for about an hour to the peak."
+            },
+            {
+              "speaker": "female",
+              "text": "How about something more challenging? I think we could handle climbing the whole way."
+            },
+            {
+              "speaker": "male",
+              "text": "I don't know. All the overtime I've been working recently has really cut into my workouts. I'm not sure my legs will carry me all the way up."
+            },
+            {
+              "speaker": "female",
+              "text": "All right. Trail A it is, then."
+            }
+          ],
+          "question": "What do we learn about the man?",
+          "choices": [
+            "He is an experienced mountain climber.",
+            "He has not gotten much exercise recently.",
+            "He wants to take a challenging trail.",
+            "He dislikes riding in cable cars."
+          ],
+          "explanation": "男性は最近の残業のせいでトレーニングの時間が取れていないと言っています。",
+          "highlights": [
+            "All the overtime I've been working recently has really cut into my workouts"
+          ],
+          "choiceAnalysis": "選択肢1「経験豊富な登山家」→体力に不安。選択肢2「最近運動していない」→正解。選択肢3「チャレンジしたい」→簡単なコースを希望。選択肢4「ケーブルカーが嫌い」→言及なし。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Annie Cohen Kopchovsky—commonly known as Annie Londonderry—was the first woman to ride a bicycle around the world. Some people say she did this in response to a bet that a woman could not make such a journey, though the truth of that story is debated. When she began her journey in 1894, she had only ridden a bicycle a few times. Still, she wanted to prove women had the mental and physical strength to meet such a challenge."
+            }
+          ],
+          "question": "What is one reason Annie Londonderry began her trip?",
+          "choices": [
+            "To improve her failing health.",
+            "To show off her cycling technique.",
+            "To challenge a gender stereotype.",
+            "To test a new kind of bicycle."
+          ],
+          "explanation": "彼女は女性にもそのような挑戦をする精神力と体力があることを証明したかったのです。",
+          "highlights": [
+            "she wanted to prove women had the mental and physical strength to meet such a challenge"
+          ],
+          "choiceAnalysis": "選択肢1「健康改善」→言及なし。選択肢2「自転車技術を見せる」→ほぼ乗ったことがなかった。選択肢3「性別のステレオタイプに挑戦」→正解。選択肢4「新型自転車のテスト」→言及なし。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 3
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Londonderry believed women should be less restricted in their family and work lives and encouraged women to wear whatever clothing they wanted. In fact, she wore men's clothing for much of her journey. Along the way, Londonderry made money in various ways, including telling stories of her adventures and displaying companies' advertising posters on her bicycles. In fact, the nickname \"Londonderry\" comes from the name of a spring water company whose product she promoted."
+            }
+          ],
+          "question": "What is one way Londonderry earned money on her trip?",
+          "choices": [
+            "She helped companies to advertise their products.",
+            "She made and sold women's clothing.",
+            "She founded a spring water company.",
+            "She took jobs that were usually done by men."
+          ],
+          "explanation": "彼女は企業の広告ポスターを自転車に掲示して収入を得ました。",
+          "highlights": [
+            "displaying companies' advertising posters on her bicycles"
+          ],
+          "choiceAnalysis": "選択肢1「企業の宣伝を手伝った」→正解。選択肢2「服を作って売った」→言及なし。選択肢3「水の会社を創業」→会社の製品を宣伝しただけ。選択肢4「男性の仕事をした」→言及なし。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 1
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Quilting involves sewing layers of fabric into patterns to create a warm, attractive blanket known as a quilt. On farms in some parts of the US, however, quilt patterns are also used for a different purpose: to create artwork on the side of barns. The practice of painting symbols on barns was first brought to the US in the 1800s by German immigrants, who believed the images would bring good fortune to their farms."
+            }
+          ],
+          "question": "What does the speaker say about the paintings made by German immigrants?",
+          "choices": [
+            "The images reminded them of Germany.",
+            "The images were made by professional artists.",
+            "The images were believed to bring good luck.",
+            "The images were painted on strips of fabric."
+          ],
+          "explanation": "ドイツ移民は、納屋に描かれた絵が農場に幸運をもたらすと信じていました。",
+          "highlights": [
+            "believed the images would bring good fortune to their farms"
+          ],
+          "choiceAnalysis": "選択肢1「ドイツを思い出す」→言及なし。選択肢2「プロの画家が描いた」→言及なし。選択肢3「幸運をもたらすと信じた」→正解。選択肢4「布に描いた」→納屋に。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 3
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In 2001, one American woman decided to paint a quilt design on her barn to honor her mother, who had been a quilt maker. She encouraged other barn owners to decorate their barns with similar designs, now known as \"barn quilts.\" This led to the creation of a \"barn quilt trail\"—a series of local barn quilts that visitors could view. Many communities now have such trails, and the boost to tourism has improved local economies."
+            }
+          ],
+          "question": "What has been one effect of \"barn quilts\" in the US?",
+          "choices": [
+            "More people have begun sewing as a hobby.",
+            "Tourism has increased in some areas.",
+            "Competition among farms has increased.",
+            "More barns have been built on farms."
+          ],
+          "explanation": "バーンキルトの道ができたことで観光が促進され、地域経済が改善されました。",
+          "highlights": [
+            "the boost to tourism has improved local economies"
+          ],
+          "choiceAnalysis": "選択肢1「裁縫が趣味に」→言及なし。選択肢2「一部地域で観光が増加」→正解。選択肢3「農場間の競争」→言及なし。選択肢4「納屋が増えた」→言及なし。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 2
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "An era known as the Little Ice Age began in the fourteenth century and continued for around 500 years. Carbon dioxide levels in the atmosphere dropped considerably, which lowered air temperatures around the world. This resulted in reduced agricultural harvests worldwide. The traditional explanation is that this ice age came about due to erupting volcanoes and decreased solar activity."
+            }
+          ],
+          "question": "What is true about the Little Ice Age?",
+          "choices": [
+            "It lasted a little under a century.",
+            "It led to new discoveries about weather patterns.",
+            "It had the largest effect on people near volcanoes.",
+            "It had a global impact on farming."
+          ],
+          "explanation": "小氷期は世界中の気温低下をもたらし、農業収穫量の減少という世界的影響がありました。",
+          "highlights": [
+            "reduced agricultural harvests worldwide"
+          ],
+          "choiceAnalysis": "選択肢1「1世紀弱」→約500年。選択肢2「天気パターンの発見」→言及なし。選択肢3「火山の近くに影響」→世界的。選択肢4「世界の農業に影響」→正解。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 4
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "However, according to more-recent research, farmland returning to forest may have been a major factor in the cooling of the planet. The native populations of North, Central, and South America had cleared large areas of forest for farming. When European colonists arrived in the late fifteenth century, they brought terrible illnesses. This caused the native populations to drop dramatically and left them unable to maintain the land. Researchers claim this resulted in a large increase in forest growth, which meant less carbon dioxide and a cooler planet."
+            }
+          ],
+          "question": "According to more-recent research, what happened that led to the Little Ice Age?",
+          "choices": [
+            "Europeans in North America started building large cities.",
+            "Forests expanded across the Americas.",
+            "The growing global population increased pollution.",
+            "Disease killed off many trees across Europe."
+          ],
+          "explanation": "ヨーロッパ人がもたらした病気で先住民が激減し、農地が森林に戻ったことがCO2減少と寒冷化の要因となりました。",
+          "highlights": [
+            "a large increase in forest growth, which meant less carbon dioxide and a cooler planet"
+          ],
+          "choiceAnalysis": "選択肢1「大都市建設」→言及なし。選択肢2「南北アメリカで森林が拡大」→正解。選択肢3「人口増で汚染」→人口は減少。選択肢4「病気で木が枯れた」→人間が減った。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 2
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Fireflies are one of the most beloved insects because of their ability to create light, but firefly populations seem to be declining. The expansion of urban areas is a problem, not only because it destroys fireflies' habitats but also because of the constant artificial light in cities and suburbs. Fireflies attract mates by flashing their lights, so when these flashes become difficult to see, fireflies have trouble reproducing successfully."
+            }
+          ],
+          "question": "What is one thing the speaker says is putting fireflies in danger?",
+          "choices": [
+            "The increase in noise caused by growing cities.",
+            "People's attempts to catch them.",
+            "The brightness of urban areas.",
+            "Growing competition with other insects."
+          ],
+          "explanation": "都市部の人工光がホタルの発光を見えにくくし、繁殖が困難になっています。",
+          "highlights": [
+            "constant artificial light in cities and suburbs",
+            "flashes become difficult to see"
+          ],
+          "choiceAnalysis": "選択肢1「騒音」→言及なし。選択肢2「捕獲」→言及なし。選択肢3「都市部の明るさ」→正解。選択肢4「他の昆虫との競争」→言及なし。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 3
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Unfortunately, there have not been many studies of fireflies, in part because they are difficult to locate when they are not creating light. Scientists largely depend on information from amateurs, who report seeing fewer fireflies recently. Fireflies' light-flashing patterns vary by species, and scientists are requesting that more people count firefly flashes and report their observations. In this way, scientists will be able to better track the various species."
+            }
+          ],
+          "question": "What have scientists asked people to do?",
+          "choices": [
+            "Locate fireflies that are not producing light.",
+            "Help them to get more funding for research.",
+            "Use a different type of light around their homes.",
+            "Make reports on any fireflies they see."
+          ],
+          "explanation": "科学者はホタルの点滅を数えて観察結果を報告するよう一般の人に依頼しています。",
+          "highlights": [
+            "scientists are requesting that more people count firefly flashes and report their observations"
+          ],
+          "choiceAnalysis": "選択肢1「光っていないホタルの発見」→言及なし。選択肢2「研究資金」→言及なし。選択肢3「別の照明を使う」→言及なし。選択肢4「ホタルの目撃報告」→正解。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 4
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Dogs can be taught to respond to many words. For example, they can obey commands to sit or roll over. But do dogs actually process and understand words in the same way humans do? One team of researchers attempted to investigate this question. The researchers wanted to gather data directly from dogs themselves rather than from their owners' reports, so they used an imaging machine to scan dogs' brains while the dogs heard different words."
+            }
+          ],
+          "question": "What was the purpose of the research?",
+          "choices": [
+            "To study dogs' understanding of words.",
+            "To study dogs' responses to different voices.",
+            "To study various ways of training dogs.",
+            "To study how dogs react to their owners' emotions."
+          ],
+          "explanation": "研究の目的は、犬が人間と同じように言葉を理解・処理するかを調査することでした。",
+          "highlights": [
+            "do dogs actually process and understand words in the same way humans do"
+          ],
+          "choiceAnalysis": "選択肢1「犬の言葉の理解を研究」→正解。選択肢2「異なる声への反応」→言及なし。選択肢3「訓練方法」→言及なし。選択肢4「飼い主の感情への反応」→言及なし。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 1
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Before the scan, the dogs, which were of various breeds, were taught certain words. While the dogs were in the machine, the words they had been taught and words they did not know were both spoken to them. Surprisingly, the dogs' brains showed more activity after they heard the unfamiliar words. This is the reverse of a human response—our brains are more active in response to words we know."
+            }
+          ],
+          "question": "What did the researchers discover about the dogs' brain activity?",
+          "choices": [
+            "It was consistent with their owners' reports.",
+            "It varied depending on the breed of the dog.",
+            "It was opposite to that of human brains.",
+            "It increased in response to familiar commands."
+          ],
+          "explanation": "犬の脳は知らない言葉に対してより活発に反応し、これは知っている言葉に反応する人間とは逆でした。",
+          "highlights": [
+            "This is the reverse of a human response"
+          ],
+          "choiceAnalysis": "選択肢1「飼い主の報告と一致」→言及なし。選択肢2「犬種による違い」→言及なし。選択肢3「人間の脳と逆」→正解。選択肢4「馴染みのコマンドに反応」→逆。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 3
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Elliston is a village on the Canadian island of Newfoundland. Its long winters mean preserving and storing food has always been an important part of life there. Traditionally, local people accomplished this by using root cellars, which are tunnel-like structures in the sides of small hills. They are called root cellars because they commonly hold root vegetables, such as potatoes and carrots. The root cellars maintain the perfect temperature and moisture levels for preserving the vegetables."
+            }
+          ],
+          "question": "What is one thing the speaker says about root cellars?",
+          "choices": [
+            "They help people to keep warm in winter.",
+            "They are useful for storing some vegetables.",
+            "Their name comes from their shape.",
+            "They are used to grow vegetables all year round."
+          ],
+          "explanation": "ルートセラーはジャガイモやニンジンなどの根菜を保存するのに最適な温度と湿度を維持します。",
+          "highlights": [
+            "they commonly hold root vegetables, such as potatoes and carrots"
+          ],
+          "choiceAnalysis": "選択肢1「冬の暖房」→食品保存用。選択肢2「野菜の保存に有用」→正解。選択肢3「形が名前の由来」→根菜が由来。選択肢4「通年で野菜を栽培」→保存用。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 2
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Root cellars can be found in many places with long winters. However, Elliston is known as the \"Root Cellar Capital of the World.\" For much of its history, the village was a fishing town. But when commercial fishing was banned after a decline in fish populations, Elliston's residents needed a new source of income. They decided to promote their root cellars as an attraction, and today, visitors come from all over to see them."
+            }
+          ],
+          "question": "What is one reason root cellars are important in Elliston today?",
+          "choices": [
+            "They help to support the local economy.",
+            "They provide a model for surrounding villages.",
+            "They help the fishing industry to survive.",
+            "They were found to contain valuable minerals."
+          ],
+          "explanation": "漁業禁止後、ルートセラーを観光資源として活用し、訪問者が来ることで地域経済を支えています。",
+          "highlights": [
+            "They decided to promote their root cellars as an attraction, and today, visitors come from all over"
+          ],
+          "choiceAnalysis": "選択肢1「地域経済を支える」→正解。選択肢2「周辺の村のモデル」→言及なし。選択肢3「漁業の存続」→漁業は禁止。選択肢4「貴重な鉱物」→言及なし。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You have just landed at the airport. You need to get downtown as soon as possible. You are told the following at the information desk.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The bus downtown leaves every half hour, and you can take a taxi from the taxi stand at any time. However, all the streets going to the center of town are very busy at this time of day. It's likely to take more than 40 minutes. The subway leaves every 5 to 10 minutes from the underground station. It's a 15-minute ride from the airport to downtown. You can also take the light-rail train. It's slower than the subway but provides a nice view of the city."
+            }
+          ],
+          "question": "How should you go downtown?",
+          "choices": [
+            "By bus.",
+            "By subway.",
+            "By taxi.",
+            "By light-rail."
+          ],
+          "explanation": "できるだけ早く行きたいので、道路は混雑して40分以上かかる。地下鉄は5〜10分おきに出て15分で到着。最速は地下鉄。",
+          "highlights": [
+            "The subway leaves every 5 to 10 minutes",
+            "It's a 15-minute ride from the airport to downtown"
+          ],
+          "choiceAnalysis": "選択肢1「バス」→30分おき。選択肢2「地下鉄」→正解。最速。選択肢3「タクシー」→道路混雑で40分以上。選択肢4「ライトレール」→地下鉄より遅い。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 2
+        },
+        {
+          "number": 26,
+          "situation": "You speak some Italian but want to brush up before your vacation in Italy in three months. You are free on Mondays and Thursdays. A language-school representative tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "We offer several courses. Giovanni's introductory course on Monday evenings is ideal if this will be your first experience learning Italian. Martina's course on Tuesdays is for businesspeople looking to develop their written fluency in Italian to an advanced level. It's not suitable for beginners. Alfredo's intermediate course on Thursdays is suitable for people who want to improve their language skills in just a few months. Finally, Teresa's course on Fridays is for people who want to learn Italian and Italian culture through operas. This is a popular course, so I recommend registering today if you are interested."
+            }
+          ],
+          "question": "Which course should you choose?",
+          "choices": [
+            "Martina's.",
+            "Giovanni's.",
+            "Teresa's.",
+            "Alfredo's."
+          ],
+          "explanation": "すでにイタリア語を少し話せる（初心者ではない）。月曜と木曜が空いている。3ヶ月で上達したい。Alfredoの中級コース（木曜、数ヶ月で上達）が最適。",
+          "highlights": [
+            "Alfredo's intermediate course on Thursdays is suitable for people who want to improve their language skills in just a few months"
+          ],
+          "choiceAnalysis": "選択肢1「Martina」→火曜で空いていない。選択肢2「Giovanni」→初心者向け。選択肢3「Teresa」→金曜で空いていない。選択肢4「Alfredo」→正解。木曜、中級、数ヶ月。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 4
+        },
+        {
+          "number": 27,
+          "situation": "You have just arrived at a shopping mall to buy a new business suit. You want to save as much money as you can. You hear the following announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Good morning, shoppers. Today is the Mayfield Mall 15th Anniversary Sale. Check out the first-floor shops for huge discounts on kids' clothing and back-to-school items. All business wear on the second floor, including suits and shoes, is 50 percent off. And don't forget the sporting goods center on the third floor, where we're offering 25 percent off every item. Remember, discounts are only available for shoppers who have registered for the sale at the fourth-floor kiosk. By registering, you will receive a card that you can present at all participating shops."
+            }
+          ],
+          "question": "Which floor should you go to first?",
+          "choices": [
+            "The first floor.",
+            "The second floor.",
+            "The third floor.",
+            "The fourth floor."
+          ],
+          "explanation": "割引を受けるには4階のキオスクで登録が必要。ビジネススーツは2階だが、まず4階で登録カードを入手する必要があります。",
+          "highlights": [
+            "discounts are only available for shoppers who have registered for the sale at the fourth-floor kiosk"
+          ],
+          "choiceAnalysis": "選択肢1「1階」→子供服。選択肢2「2階」→スーツはあるが割引には登録が必要。選択肢3「3階」→スポーツ用品。選択肢4「4階」→正解。まず登録。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 4
+        },
+        {
+          "number": 28,
+          "situation": "You and your family are at a theme park. Your children are very interested in animals and nature. You hear the following announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome to All Adventures Park. Unfortunately, due to repairs, the walk-through reptile attraction Lizard Encounter will be closed until further notice. Our space-themed roller coaster, Into the Sky, has also suspended operation today due to strong winds. We apologize for the inconvenience. Please note, however, that our ranger-guided drive-through safari, Discovery Drive, is operating as usual, and most of the animals will be outdoors and visible. Finally, don't forget to check out the park's newest addition, Dream Fields, where guests can use VR technology to experience the game of baseball like never before!"
+            }
+          ],
+          "question": "Which attraction should you go to?",
+          "choices": [
+            "Lizard Encounter.",
+            "Discovery Drive.",
+            "Into the Sky.",
+            "Dream Fields."
+          ],
+          "explanation": "子供は動物と自然に興味がある。Lizard Encounterは修理中で閉鎖。Into the Skyは強風で運休。Dream FieldsはVR野球。Discovery Driveはサファリで動物が見られる。",
+          "highlights": [
+            "our ranger-guided drive-through safari, Discovery Drive, is operating as usual, and most of the animals will be outdoors and visible"
+          ],
+          "choiceAnalysis": "選択肢1「Lizard Encounter」→閉鎖中。選択肢2「Discovery Drive」→正解。動物が見られる。選択肢3「Into the Sky」→運休中。選択肢4「Dream Fields」→VR野球で動物関係なし。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 2
+        },
+        {
+          "number": 29,
+          "situation": "You want your son to learn a new skill. He already takes swimming lessons after school on Wednesdays. A school administrator makes the following announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Parents, I'd like to introduce the faculty members in charge of the new after-school activities. Mr. Gilbert will be teaching students table tennis once a week on Fridays. Ms. DeLuca is in charge of the swimming club, which will meet on Mondays and Thursdays. Mr. Roth will be sharing his expertise in music by giving clarinet lessons every Wednesday. And Ms. Santos will be available in the library for study group to help students with their homework on Tuesdays and Thursdays. Please speak to the appropriate faculty member for further details."
+            }
+          ],
+          "question": "Who should you speak to?",
+          "choices": [
+            "Mr. Gilbert.",
+            "Ms. DeLuca.",
+            "Mr. Roth.",
+            "Ms. Santos."
+          ],
+          "explanation": "新しいスキルを学ばせたい。水曜は水泳レッスンで埋まっている。Mr. Roth（クラリネット）は水曜なので不可。Ms. DeLucaは水泳で既に習っている。Ms. Santosは宿題の補助でスキルではない。Mr. Gilbertの卓球（金曜）が新しいスキルで曜日も空いている。",
+          "highlights": [
+            "Mr. Gilbert will be teaching students table tennis once a week on Fridays"
+          ],
+          "choiceAnalysis": "選択肢1「Mr. Gilbert」→正解。金曜の卓球。選択肢2「Ms. DeLuca」→水泳は既に習っている。選択肢3「Mr. Roth」→水曜は水泳で不可。選択肢4「Ms. Santos」→宿題補助はスキルではない。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

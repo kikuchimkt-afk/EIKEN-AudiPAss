@@ -1,0 +1,962 @@
+{
+  "title": "2022年度 第1回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Vince. Nice day for a walk, huh?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah, it is. Actually, I'm on my way to work."
+            },
+            {
+              "speaker": "female",
+              "text": "I thought you drove to work. Is something wrong with your car?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, I've just been putting on a bit of weight recently."
+            },
+            {
+              "speaker": "female",
+              "text": "I guess you have to get up pretty early now, though."
+            },
+            {
+              "speaker": "male",
+              "text": "I don't mind that. And I feel a lot healthier."
+            },
+            {
+              "speaker": "female",
+              "text": "Great! And I bet walking is easier on your wallet, too."
+            },
+            {
+              "speaker": "male",
+              "text": "Definitely! I'm planning to use the gas savings to buy a new bike."
+            }
+          ],
+          "question": "What do we learn about Vince?",
+          "choices": [
+            "He no longer drives to work.",
+            "His car is being repaired.",
+            "He cannot afford to buy gas.",
+            "His new bicycle was stolen."
+          ],
+          "explanation": "Vinceは体重が増えてきたので車ではなく徒歩で通勤するようになりました。",
+          "highlights": [
+            "I'm on my way to work",
+            "I've just been putting on a bit of weight recently"
+          ],
+          "choiceAnalysis": "選択肢1「車で通勤しなくなった」→正解。選択肢2「車が修理中」→問題なし。選択肢3「ガソリン代が払えない」→節約は副次的効果。選択肢4「自転車が盗まれた」→これから買う予定。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 1
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Fernando, how are you getting along with your dorm roommate?"
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, he's all right, Mom, I guess. He's pretty tidy, but he's not very communicative. I never know what's on his mind."
+            },
+            {
+              "speaker": "female",
+              "text": "Do you ever do things together?"
+            },
+            {
+              "speaker": "male",
+              "text": "Almost never. I spend more time with the other guys on my floor. They're a little crazy, but they're fun."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I'm glad you're enjoying yourself, but don't forget to spend enough time on your studies."
+            }
+          ],
+          "question": "What does Fernando suggest about his roommate?",
+          "choices": [
+            "He wants to move out.",
+            "He likes to have parties.",
+            "He is not very open.",
+            "He is very messy."
+          ],
+          "explanation": "Fernandoはルームメイトがあまりコミュニケーションを取らず、何を考えているかわからないと言っています。",
+          "highlights": [
+            "he's not very communicative. I never know what's on his mind"
+          ],
+          "choiceAnalysis": "選択肢1「引っ越したい」→言及なし。選択肢2「パーティー好き」→言及なし。選択肢3「あまりオープンでない」→正解。選択肢4「散らかしている」→逆にきれい好き。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 3
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "How are things going, Matt?"
+            },
+            {
+              "speaker": "male",
+              "text": "Not so good. I was supposed to have a job interview yesterday, but all the trains were stopped due to an accident, so I couldn't make it."
+            },
+            {
+              "speaker": "female",
+              "text": "But they'll give you another chance, won't they?"
+            },
+            {
+              "speaker": "male",
+              "text": "No. I called the manager as soon as I got home. He said they'd already seen enough people. Looks like I'm out of luck."
+            },
+            {
+              "speaker": "female",
+              "text": "That's awful."
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah, well, I guess they have a lot of good candidates to choose from."
+            }
+          ],
+          "question": "Why did Matt not get the job?",
+          "choices": [
+            "The other candidates were more qualified.",
+            "He forgot to call the manager yesterday.",
+            "The manager did not like him.",
+            "He missed the interview."
+          ],
+          "explanation": "電車事故で面接に行けず、マネージャーは既に十分な人を見たと言って再面接の機会を与えませんでした。",
+          "highlights": [
+            "all the trains were stopped due to an accident, so I couldn't make it",
+            "He said they'd already seen enough people"
+          ],
+          "choiceAnalysis": "選択肢1「他の候補者がより優秀」→面接に行けなかった。選択肢2「電話を忘れた」→すぐ電話した。選択肢3「マネージャーに嫌われた」→会えなかった。選択肢4「面接に行けなかった」→正解。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 4
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Professor Cranfield, can I ask you something?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure, Lucinda."
+            },
+            {
+              "speaker": "female",
+              "text": "It's about your intensive Spanish writing course. I feel like I'm already busy with my other classes. Doing the writing course might be too much."
+            },
+            {
+              "speaker": "male",
+              "text": "I understand. I think you certainly have the ability, but I don't want to push you. It's not a mandatory course, but future employers would be impressed if you passed it."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks for your advice. I'll think it over a little more."
+            }
+          ],
+          "question": "What does the man imply about the writing course?",
+          "choices": [
+            "The woman needs to pass it to graduate.",
+            "It does not match the woman's goals.",
+            "It is too advanced for the woman.",
+            "Passing it could help the woman find a job."
+          ],
+          "explanation": "教授は必修ではないが、合格すれば将来の雇用主に好印象を与えると言っています。",
+          "highlights": [
+            "future employers would be impressed if you passed it"
+          ],
+          "choiceAnalysis": "選択肢1「卒業に必要」→必修でない。選択肢2「目標に合わない」→言及なし。選択肢3「レベルが高すぎる」→能力はあると評価。選択肢4「就職に有利」→正解。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 4
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Amy, I heard you're looking for a part-time job."
+            },
+            {
+              "speaker": "female",
+              "text": "I'm thinking about working at a restaurant as a server. I could use the money to help pay for school fees."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, I hope you like standing for long periods of time."
+            },
+            {
+              "speaker": "female",
+              "text": "I would get breaks, you know. I doubt it would be that bad."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, I think you should buy some comfortable shoes, just in case."
+            },
+            {
+              "speaker": "female",
+              "text": "I need to get the job first."
+            }
+          ],
+          "question": "What does the man imply?",
+          "choices": [
+            "The woman should take a break from school.",
+            "Working as a server is physically demanding.",
+            "Restaurant workers do not make much money.",
+            "Students should not get part-time jobs."
+          ],
+          "explanation": "男性は長時間立つことと快適な靴が必要だと言い、サーバーの仕事が体力的にきついことを暗示しています。",
+          "highlights": [
+            "I hope you like standing for long periods of time",
+            "you should buy some comfortable shoes"
+          ],
+          "choiceAnalysis": "選択肢1「学校を休むべき」→言及なし。選択肢2「サーバーは体力的にきつい」→正解。選択肢3「給料が安い」→言及なし。選択肢4「アルバイトすべきでない」→言及なし。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 2
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "We still need to buy a present for Carla and Antonio's wedding. Have you checked out the gift registry yet?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, but the only things left on the list are really expensive items, like the silver dining set."
+            },
+            {
+              "speaker": "female",
+              "text": "I warned you that if we didn't choose something quickly, the affordable stuff would all be gone."
+            },
+            {
+              "speaker": "male",
+              "text": "Sorry. You were right. What should we do? Get them something cheaper that's not on the list?"
+            },
+            {
+              "speaker": "female",
+              "text": "No. I'd rather not take any chances. We don't want to give them something they might not want."
+            }
+          ],
+          "question": "What will these people probably do?",
+          "choices": [
+            "Buy a gift from the list.",
+            "Decline the wedding invitation.",
+            "Speak to Carla and Antonio.",
+            "Return the silver dining set."
+          ],
+          "explanation": "女性はリストにないものを買うリスクを取りたくないと言っているので、リストに残っている高価なものを買うことになります。",
+          "highlights": [
+            "I'd rather not take any chances. We don't want to give them something they might not want"
+          ],
+          "choiceAnalysis": "選択肢1「リストから贈り物を買う」→正解。選択肢2「招待を断る」→言及なし。選択肢3「CarlaとAntonioに相談」→言及なし。選択肢4「銀食器を返品」→まだ買っていない。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 1
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Would you mind picking up some takeout on your way home?"
+            },
+            {
+              "speaker": "male",
+              "text": "No problem. How about burgers?"
+            },
+            {
+              "speaker": "female",
+              "text": "Too greasy. I was thinking about that Korean restaurant we went to last week."
+            },
+            {
+              "speaker": "male",
+              "text": "That's not exactly on my way home, and it's a little pricey."
+            },
+            {
+              "speaker": "female",
+              "text": "I know, but the servings are huge. We'd have enough for lunch tomorrow, too. Korean food is just as good the next day."
+            },
+            {
+              "speaker": "male",
+              "text": "All right. They're usually pretty quick with orders, so I should be home by around six."
+            }
+          ],
+          "question": "What is one reason the woman suggests the Korean restaurant?",
+          "choices": [
+            "It has large portions.",
+            "It is a short drive from home.",
+            "It is cheaper than other places.",
+            "It has a good reputation."
+          ],
+          "explanation": "女性は量が多いので翌日のランチにも十分だと言っています。",
+          "highlights": [
+            "the servings are huge. We'd have enough for lunch tomorrow, too"
+          ],
+          "choiceAnalysis": "選択肢1「量が多い」→正解。選択肢2「家から近い」→遠回り。選択肢3「他より安い」→少し高い。選択肢4「評判が良い」→言及なし。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 1
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "We should start planning our vacation for this year."
+            },
+            {
+              "speaker": "male",
+              "text": "How about escaping the cold weather and going somewhere tropical with a nice beach?"
+            },
+            {
+              "speaker": "female",
+              "text": "I was hoping we could go skiing."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, what did we do on our last vacation?"
+            },
+            {
+              "speaker": "female",
+              "text": "We went camping. You caught that giant fish at the lake, remember?"
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, right. And you wanted to go sightseeing in town, but the kids and I outvoted you."
+            },
+            {
+              "speaker": "female",
+              "text": "That's right."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. Let's do what you want this time. I'll tell the kids we're headed for the mountains."
+            }
+          ],
+          "question": "What are these people going to do for their vacation?",
+          "choices": [
+            "Spend time hiking.",
+            "Go fishing at a lake.",
+            "Take a ski trip.",
+            "Go sightseeing."
+          ],
+          "explanation": "女性はスキーを希望し、男性は今回は女性の希望通りにすると言い、山に行くと伝えました。",
+          "highlights": [
+            "I was hoping we could go skiing",
+            "Let's do what you want this time",
+            "we're headed for the mountains"
+          ],
+          "choiceAnalysis": "選択肢1「ハイキング」→言及なし。選択肢2「釣り」→前回のこと。選択肢3「スキー旅行」→正解。選択肢4「観光」→前回却下された。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 3
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, Kenneth. I was looking at the latest post on our company's blog. The one about the release of our new earphones. The release date is wrong. It should be May 15th, not the 5th as stated in the post."
+            },
+            {
+              "speaker": "male",
+              "text": "Really? That post was added by Jason last night."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, we need to take care of it immediately so we don't mislead our customers. Ask Jason to do that right away."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm afraid he has the day off today. I'll handle it instead."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks."
+            }
+          ],
+          "question": "What does the woman say about the company's blog?",
+          "choices": [
+            "Some customers complained about it.",
+            "One of the posts needs to be revised.",
+            "Kenneth should not edit the latest post.",
+            "It should be updated more frequently."
+          ],
+          "explanation": "女性はブログの最新投稿の発売日が間違っていると指摘し、すぐに修正する必要があると言っています。",
+          "highlights": [
+            "The release date is wrong",
+            "we need to take care of it immediately"
+          ],
+          "choiceAnalysis": "選択肢1「顧客から苦情」→言及なし。選択肢2「投稿を修正する必要がある」→正解。選択肢3「Kennethが編集すべきでない」→逆にKennethが対応。選択肢4「もっと頻繁に更新」→言及なし。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 2
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me, sir. Has anyone turned in a train pass today?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'm afraid not. Have you lost yours?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah. When I used mine this morning, I was certain I put it back in my wallet, but I guess I didn't."
+            },
+            {
+              "speaker": "male",
+              "text": "I can give you the form to purchase another one."
+            },
+            {
+              "speaker": "female",
+              "text": "Looks like I have no choice. It makes me so frustrated, though. I had just put $50 on it. Now, I've lost it all."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm sorry. Here's the form. It should only take a couple of minutes to fill out."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks. I'll do that now."
+            }
+          ],
+          "question": "Why is the woman upset?",
+          "choices": [
+            "Her wallet is missing.",
+            "Her train pass expired.",
+            "She missed her train.",
+            "She wasted her money."
+          ],
+          "explanation": "女性は$50をチャージしたばかりの電車パスを紛失し、お金を無駄にしたことに苛立っています。",
+          "highlights": [
+            "I had just put $50 on it. Now, I've lost it all"
+          ],
+          "choiceAnalysis": "選択肢1「財布がない」→財布はある。選択肢2「パスの期限切れ」→紛失。選択肢3「電車に乗り遅れた」→言及なし。選択肢4「お金を無駄にした」→正解。$50失った。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 4
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Michelle, I'm sorry I couldn't make it to the piano concert last Sunday."
+            },
+            {
+              "speaker": "female",
+              "text": "No problem. I sold your ticket to Jasmine, so it wasn't wasted."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm relieved to hear that. Did you enjoy the concert?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, the pianist was superb. Unfortunately, we were bothered by another audience member, though."
+            },
+            {
+              "speaker": "male",
+              "text": "What happened?"
+            },
+            {
+              "speaker": "female",
+              "text": "He was continuously whispering to the person next to him and playing with his smartphone. It was hard to concentrate."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, that's a shame."
+            }
+          ],
+          "question": "What was the woman's problem?",
+          "choices": [
+            "She did not like the pianist's playing.",
+            "She arrived at the concert late.",
+            "She could not focus on the concert.",
+            "She was unable to find her ticket."
+          ],
+          "explanation": "他の観客がずっとひそひそ話をしてスマホをいじっていたため、集中できなかったと言っています。",
+          "highlights": [
+            "He was continuously whispering to the person next to him and playing with his smartphone. It was hard to concentrate"
+          ],
+          "choiceAnalysis": "選択肢1「ピアニストが嫌だった」→素晴らしかった。選択肢2「遅刻した」→言及なし。選択肢3「集中できなかった」→正解。選択肢4「チケットが見つからなかった」→言及なし。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 3
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello, Jenny Williams speaking."
+            },
+            {
+              "speaker": "male",
+              "text": "Hello. I'm calling about a package I'm supposed to deliver to your house."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, I see. Is there something wrong?"
+            },
+            {
+              "speaker": "male",
+              "text": "When you selected your delivery option online, you asked us to use the delivery box."
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, I won't be home until seven tonight."
+            },
+            {
+              "speaker": "male",
+              "text": "Unfortunately, the package won't fit in the box. Could I leave it in another location instead?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sure. If you can take it around to the side of the house, there's a bicycle shelter. You can leave it there."
+            }
+          ],
+          "question": "What does the man ask the woman to do?",
+          "choices": [
+            "Call him back in the evening.",
+            "Give him new delivery instructions.",
+            "Change her delivery option online.",
+            "Tell him what time she will be home."
+          ],
+          "explanation": "配達員は荷物が宅配ボックスに入らないため、別の場所に置いてよいか尋ね、女性は自転車小屋を指示しました。",
+          "highlights": [
+            "Could I leave it in another location instead"
+          ],
+          "choiceAnalysis": "選択肢1「夕方に電話」→言及なし。選択肢2「新しい配達指示を出す」→正解。選択肢3「オンラインで配達方法を変更」→言及なし。選択肢4「帰宅時間を伝える」→言及なし。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Many of the world's rivers are not contained within the borders of a single country. Because of the importance of water, international laws about how neighboring countries share these rivers are essential. Typically, all countries have equal rights to use a river that flows through their lands. Also, all countries are legally forbidden from doing anything to a river that would considerably decrease its flow of water into other countries."
+            }
+          ],
+          "question": "What is one thing the speaker says about rivers?",
+          "choices": [
+            "Water levels have decreased in many of them.",
+            "Laws to protect them need to be stricter.",
+            "Countries sharing them usually have the same usage rights.",
+            "They often make it difficult to protect borders."
+          ],
+          "explanation": "国際河川では、通常すべての国が平等な使用権を持つことが法律で定められています。",
+          "highlights": [
+            "all countries have equal rights to use a river that flows through their lands"
+          ],
+          "choiceAnalysis": "選択肢1「水位が下がった」→言及なし。選択肢2「法律をもっと厳しく」→言及なし。選択肢3「共有国は同じ使用権を持つ」→正解。選択肢4「国境保護が困難」→言及なし。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 3
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "However, sharing a river is not always simple. For example, the Nile River runs through a number of countries, including Ethiopia and Egypt. Ethiopia has requested international loans to build a dam on its section of the river to generate electricity. However, Egypt has used its political influence to block the loans, complaining that a dam would reduce the Nile's water flow into Egypt. At the same time, Ethiopia points out that Egypt currently uses the river for power generation, so it is unfair if Ethiopia cannot."
+            }
+          ],
+          "question": "Why is the Nile River discussed?",
+          "choices": [
+            "To suggest a solution to a border problem.",
+            "To suggest that poor nations need rivers for electricity.",
+            "To show that dams are often too costly.",
+            "To show how river usage rights can be complicated."
+          ],
+          "explanation": "ナイル川の例は、河川の使用権が複雑になりうることを示すために議論されています。",
+          "highlights": [
+            "sharing a river is not always simple"
+          ],
+          "choiceAnalysis": "選択肢1「国境問題の解決策」→言及なし。選択肢2「貧困国が電力に必要」→言及なし。選択肢3「ダムが高価」→言及なし。選択肢4「河川使用権の複雑さを示す」→正解。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 4
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "For thousands of years, people believed that a substance known as theriac was a wonder drug. According to legend, it was created by an ancient king who lived in fear of being poisoned. He was said to have taken theriac daily to protect himself from all forms of poison. The use of theriac gradually spread around the ancient world, and people began to believe that it was also effective against all kinds of illnesses. Making it, however, required time and effort, as some theriac recipes contained over a hundred ingredients, some of which came from poisonous snakes."
+            }
+          ],
+          "question": "What is one thing that we learn about theriac?",
+          "choices": [
+            "It could be used as a poison.",
+            "It was tested on snakes.",
+            "It was difficult to make.",
+            "It was the first medical drug."
+          ],
+          "explanation": "テリアカの製造には時間と労力が必要で、レシピには100以上の材料が含まれることもありました。",
+          "highlights": [
+            "Making it, however, required time and effort, as some theriac recipes contained over a hundred ingredients"
+          ],
+          "choiceAnalysis": "選択肢1「毒として使える」→毒への解毒剤。選択肢2「蛇で試験」→蛇から材料を得る。選択肢3「製造が困難」→正解。選択肢4「最初の薬」→言及なし。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 3
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "By the fifteenth century, there were regulations in many places about how theriac could be manufactured, and in some cities, such as Venice, it had to be made in a public ceremony. Though the scientific community now believes that theriac is ineffective, the regulations on the manufacture of theriac marked an important milestone in the development of modern medicine."
+            }
+          ],
+          "question": "What is one thing the speaker says about theriac in Venice?",
+          "choices": [
+            "It took many days to make.",
+            "Only small amounts could be made daily.",
+            "Production was very loosely regulated.",
+            "People there could watch it being made."
+          ],
+          "explanation": "ベネチアではテリアカは公開の儀式で作られなければなりませんでした。",
+          "highlights": [
+            "in some cities, such as Venice, it had to be made in a public ceremony"
+          ],
+          "choiceAnalysis": "選択肢1「何日もかかった」→言及なし。選択肢2「少量しか作れない」→言及なし。選択肢3「規制が緩かった」→逆に規制あり。選択肢4「製造を見られた」→正解。公開儀式。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 4
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Found only in parts of Canada, spirit bears are black bears that are born with white fur due to a rare gene. Scientists estimate there may be as few as a hundred of these beautiful animals in the wild. For years, native peoples did their best to prevent the bears' existence from becoming known to the outside world. Because the bears' fur is so unusual, native peoples feared it would become a great prize for hunters and collectors."
+            }
+          ],
+          "question": "What does the speaker say about native peoples?",
+          "choices": [
+            "They hunted only spirit bears with black fur.",
+            "They tried to keep spirit bears a secret.",
+            "They thought spirit bears were dangerous.",
+            "They believed spirit bears protected them."
+          ],
+          "explanation": "先住民は白い毛皮が狩猟家やコレクターの標的になることを恐れ、スピリットベアの存在を外部に知られないようにしました。",
+          "highlights": [
+            "native peoples did their best to prevent the bears' existence from becoming known to the outside world"
+          ],
+          "choiceAnalysis": "選択肢1「黒い毛皮のものだけ狩猟」→言及なし。選択肢2「秘密にしようとした」→正解。選択肢3「危険だと思った」→言及なし。選択肢4「守ってくれると信じた」→言及なし。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 2
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Spirit bears' bright fur also provides them with a unique advantage when hunting salmon. Unlike the fur of ordinary black bears, spirit bears' fur is difficult for fish to see, so the fish are less able to avoid the bears. Unfortunately, however, spirit bear numbers may decrease even further. Recent research has revealed the gene that results in spirit bears' white fur is rarer than once thought. Additionally, many spirit bears live outside the areas where they are protected."
+            }
+          ],
+          "question": "What advantage do spirit bears have over ordinary black bears?",
+          "choices": [
+            "It is easier for them to catch food.",
+            "They are less sensitive to the sun.",
+            "It is harder for hunters to find them.",
+            "Their habitats are all well-protected."
+          ],
+          "explanation": "白い毛皮は魚に見えにくいため、サーモンを捕まえやすいという独自の利点があります。",
+          "highlights": [
+            "spirit bears' fur is difficult for fish to see, so the fish are less able to avoid the bears"
+          ],
+          "choiceAnalysis": "選択肢1「食べ物を捕まえやすい」→正解。選択肢2「日光に強い」→言及なし。選択肢3「ハンターに見つかりにくい」→逆に目立つ。選択肢4「生息地が保護されている」→保護外も多い。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 1
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In many parts of the United States, the electric power industry has been shifting away from the traditional system of centralized generation to a newer system known as distributed generation. With centralized generation, electricity is generated in one central location and then delivered to homes and businesses. Distributed generation is a network of smaller energy sources, such as solar panels or wind turbines, that produce electricity close to where it is needed. This can make the distributed-generation system more cost-effective."
+            }
+          ],
+          "question": "What is true about distributed-generation systems?",
+          "choices": [
+            "They generate power near where the power is used.",
+            "They are preferred by small businesses.",
+            "They do not use solar energy.",
+            "They are very expensive to maintain."
+          ],
+          "explanation": "分散型発電は、必要な場所の近くで電力を生産する小規模なエネルギー源のネットワークです。",
+          "highlights": [
+            "produce electricity close to where it is needed"
+          ],
+          "choiceAnalysis": "選択肢1「使用場所近くで発電」→正解。選択肢2「中小企業が好む」→言及なし。選択肢3「太陽光を使わない」→太陽光パネルを使用。選択肢4「維持費が高い」→コスト効率が良い。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 1
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Distributed generation has some disadvantages, however. The required infrastructure takes up space in communities, and residents generally consider it unattractive. In fact, homes close to large solar-energy facilities often sell for less than homes that are farther away. In addition, some distributed-generation systems require water to run, which is a limitation in areas that experience water shortages."
+            }
+          ],
+          "question": "What is one downside of distributed generation?",
+          "choices": [
+            "Governments generally oppose its development.",
+            "Energy companies usually do not profit from it.",
+            "It can negatively affect property values.",
+            "It often pollutes community water sources."
+          ],
+          "explanation": "大規模な太陽エネルギー施設の近くの住宅は遠い住宅より低い価格で売れることがあります。",
+          "highlights": [
+            "homes close to large solar-energy facilities often sell for less than homes that are farther away"
+          ],
+          "choiceAnalysis": "選択肢1「政府が反対」→言及なし。選択肢2「利益が出ない」→言及なし。選択肢3「不動産価値に悪影響」→正解。選択肢4「水源を汚染」→水を使用するが汚染とは言及なし。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 3
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In recent decades, zoos have been essential to efforts to save endangered animals. Several species of frogs, birds, and turtles have been saved from extinction by conservation programs that breed endangered animals in the safe environment of zoos. Unfortunately, certain species, such as tarsiers, which are animals that look like tiny monkeys, and great white sharks, cannot survive in captivity. These animals usually die quickly after being captured, making it impossible to breed them."
+            }
+          ],
+          "question": "Why are zoos unable to breed some endangered animals?",
+          "choices": [
+            "Caring for them costs too much money.",
+            "They are too difficult to capture.",
+            "They suffer from serious diseases.",
+            "They rarely live long after being caught."
+          ],
+          "explanation": "メガネザルやホオジロザメなどは飼育下で生き延びることができず、捕獲後すぐに死んでしまいます。",
+          "highlights": [
+            "These animals usually die quickly after being captured, making it impossible to breed them"
+          ],
+          "choiceAnalysis": "選択肢1「費用が高い」→言及なし。選択肢2「捕獲が困難」→言及なし。選択肢3「深刻な病気」→言及なし。選択肢4「捕獲後長生きしない」→正解。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 4
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "For this reason, the survival of tarsiers and great white sharks depends on the conservation of their natural environments. Though many of their habitats are already legally protected, the current laws are often ignored. Governments must try harder to stop the illegal destruction of the forests where tarsiers live and breed. They must also reduce illegal fishing activities that threaten great white sharks."
+            }
+          ],
+          "question": "What does the speaker say about saving tarsiers and great white sharks?",
+          "choices": [
+            "Zoos need to learn how to breed them.",
+            "Governments must make sure laws are followed.",
+            "They must be moved to new habitats.",
+            "Protecting them in the wild is not possible."
+          ],
+          "explanation": "生息地は法律で保護されているが、現行の法律がしばしば無視されているため、政府はもっと努力する必要があります。",
+          "highlights": [
+            "the current laws are often ignored. Governments must try harder"
+          ],
+          "choiceAnalysis": "選択肢1「動物園が繁殖法を学ぶ」→飼育不可能。選択肢2「政府は法律の遵守を確保すべき」→正解。選択肢3「新しい生息地に移動」→言及なし。選択肢4「野生での保護は不可能」→逆に必要。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 2
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Petroglyphs are ancient drawings or carvings on rock surfaces. For researchers in the Americas, they are an important source of information about the Native Americans who lived there before the arrival of Europeans. Some of the most famous petroglyphs are those at Castle Rock Pueblo in Colorado. These images were not drawn in the style typical of the area, but in a way that was common in another settlement hundreds of kilometers away. There are also drawings of human conflict. This suggests that there may have been contact, and likely fighting, between these two communities."
+            }
+          ],
+          "question": "What is one thing we learn about the Castle Rock Pueblo petroglyphs?",
+          "choices": [
+            "They are more numerous than is typical.",
+            "They are similar to those of a distant area.",
+            "They are the largest in the region.",
+            "They include images of Europeans."
+          ],
+          "explanation": "Castle Rock Puebloのペトログリフは地域の典型的なスタイルではなく、数百キロ離れた別の集落に一般的なスタイルで描かれていました。",
+          "highlights": [
+            "not drawn in the style typical of the area, but in a way that was common in another settlement hundreds of kilometers away"
+          ],
+          "choiceAnalysis": "選択肢1「数が多い」→言及なし。選択肢2「遠い地域のものと類似」→正解。選択肢3「地域最大」→言及なし。選択肢4「ヨーロッパ人の画像」→言及なし。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 2
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Another interesting feature of the carvings is their use of light. On the longest and shortest days of the year, the carvings create specific patterns of light and shadow. This has led researchers to conclude that they were used as a type of solar calendar."
+            }
+          ],
+          "question": "How do researchers think the Castle Rock Pueblo petroglyphs were used?",
+          "choices": [
+            "To indicate certain times of the year.",
+            "To warn enemies to stay away.",
+            "To show the way to another settlement.",
+            "To provide a source of light."
+          ],
+          "explanation": "研究者は、夏至と冬至に特定の光と影のパターンを作ることから、太陽暦として使われたと結論付けました。",
+          "highlights": [
+            "On the longest and shortest days of the year, the carvings create specific patterns of light and shadow",
+            "used as a type of solar calendar"
+          ],
+          "choiceAnalysis": "選択肢1「特定の季節を示す」→正解。太陽暦。選択肢2「敵への警告」→言及なし。選択肢3「別の集落への道しるべ」→言及なし。選択肢4「光源」→光のパターンを作るだけ。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You want to feed your parrot, Toby, but cannot find his pet food. You check your cell phone and find a voice mail from your wife.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Hi, dear. I'm sorry, I was in a rush this morning and wasn't able to do a few things. Could you take care of them? The living room is a mess. Miranda's toys are all over the place, so could you put them away? Also, Toby's new bird food arrived this morning. I know we usually store it in that box near the kitchen shelves, but when the package was delivered, I left it at the front door. Sorry. It should still be sitting there. And can you change one of the light bulbs in the garage? When I got home last night, I saw that one was flickering."
+            }
+          ],
+          "question": "Where should you go to find Toby's food?",
+          "choices": [
+            "To the kitchen.",
+            "To the living room.",
+            "To the front door.",
+            "To the garage."
+          ],
+          "explanation": "妻はTobyの鳥のエサが届いたが、玄関に置いたままだと言っています。",
+          "highlights": [
+            "when the package was delivered, I left it at the front door"
+          ],
+          "choiceAnalysis": "選択肢1「キッチン」→通常の保管場所。選択肢2「リビング」→おもちゃがある。選択肢3「玄関」→正解。選択肢4「ガレージ」→電球交換の場所。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 3
+        },
+        {
+          "number": 26,
+          "situation": "You want to read a book written by the author Greta Bakken. You want to read her most popular book. A bookstore clerk tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Greta Bakken has written in various genres over her long career. I would recommend four books to a first-time reader. First, The Moon in Budapest is considered to be a masterpiece of romance, and it has the biggest fan base. Along That Tree-Lined Road is a beautifully crafted fantasy novel with a touch of mystery. If you're a travel fan, I recommend you try Mixed Metaphors. It's a travel journal documenting her trip to Siberia, with a number of stunning photographs she snapped along the way. Lastly, Trishaws is her latest book, and it has been getting great reviews from science fiction enthusiasts."
+            }
+          ],
+          "question": "Which book should you buy?",
+          "choices": [
+            "The Moon in Budapest.",
+            "Along That Tree-Lined Road.",
+            "Mixed Metaphors.",
+            "Trishaws."
+          ],
+          "explanation": "最も人気のある本を探しているので、最大のファンベースを持つ「The Moon in Budapest」が最適です。",
+          "highlights": [
+            "The Moon in Budapest is considered to be a masterpiece of romance, and it has the biggest fan base"
+          ],
+          "choiceAnalysis": "選択肢1「The Moon in Budapest」→正解。最大のファンベース。選択肢2「Along That Tree-Lined Road」→ファンタジー。選択肢3「Mixed Metaphors」→旅行記。選択肢4「Trishaws」→最新作。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 1
+        },
+        {
+          "number": 27,
+          "situation": "Your company's president is making an announcement about a change in office procedures. You want to take time off next week.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The company has decided to outsource the personnel department's services to ABC Resource Systems. There will be two main changes. First, we'll be using a new website to handle all scheduling, requests for time off, and complaints. More importantly, time-off requests will now need to be submitted two weeks in advance. These changes will apply at the end of next month, so please submit requests on the website at that time. Until then, please direct all personnel issues to the manager of your department. Thank you for your cooperation."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Speak to your manager.",
+            "Submit a request on the new website.",
+            "E-mail the members of your department.",
+            "Contact ABC Resource Systems."
+          ],
+          "explanation": "変更は来月末から適用されるため、今は部署のマネージャーに相談すべきです。",
+          "highlights": [
+            "Until then, please direct all personnel issues to the manager of your department"
+          ],
+          "choiceAnalysis": "選択肢1「マネージャーに相談」→正解。変更適用前は従来通り。選択肢2「新しいウェブサイトで申請」→まだ適用されていない。選択肢3「部門メンバーにメール」→言及なし。選択肢4「ABCに連絡」→言及なし。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 1
+        },
+        {
+          "number": 28,
+          "situation": "Your professor is showing your class a course website. You want to get extra credit to improve your grade.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The course website is now accessible. On the left side, you'll see the menu. At the top of the menu, there's a news section where I'll post event reminders and assignment due dates. I've already posted a notification about a guest lecture that you can attend for additional credit. You can click on the icon to reserve a seat. Below the news section, there's a link to a page where you can check on your weekly reading assignments. Finally, in the resources section, I put some links that might help you when working on your final research project."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Submit an extra research paper through the website.",
+            "Complete additional reading assignments.",
+            "Create an online resource for the class.",
+            "Sign up for a lecture via the news section."
+          ],
+          "explanation": "追加の単位を取るには、ニュースセクションに掲載されたゲスト講義に参加申込みをします。",
+          "highlights": [
+            "a guest lecture that you can attend for additional credit",
+            "click on the icon to reserve a seat"
+          ],
+          "choiceAnalysis": "選択肢1「追加の研究論文を提出」→言及なし。選択肢2「追加の読書課題」→通常の課題。選択肢3「オンラインリソース作成」→言及なし。選択肢4「ニュースセクションから講義に申込」→正解。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 4
+        },
+        {
+          "number": 29,
+          "situation": "You are a writer for a newspaper. You arrive home at 8:30 p.m. and hear the following voice mail from your editor. You need two more days to finish your column.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Hi, this is Bill. As you know, today's the deadline for your column. How is it coming along? If you've already finished it, please send the column directly to my office e-mail address. If you're likely to finish it by tomorrow morning, send the file to Paula. I'll be out all day tomorrow. However, if you're not likely to make it by tomorrow morning, could you call me on my office phone tonight? I'll be here until eight. Otherwise, you can reach me on my smartphone after eight. If necessary, I can give you another few days to finish it. Thanks."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Send the file to Bill.",
+            "Send the file to Paula.",
+            "Call Bill's office phone.",
+            "Call Bill on his smartphone."
+          ],
+          "explanation": "あと2日必要で、8:30に帰宅。Billは8時以降はスマートフォンで連絡可能と言っているので、スマートフォンに電話すべきです。",
+          "highlights": [
+            "if you're not likely to make it by tomorrow morning, could you call me",
+            "you can reach me on my smartphone after eight"
+          ],
+          "choiceAnalysis": "選択肢1「Billに送信」→完成していない。選択肢2「Paulaに送信」→明朝までに完成しない。選択肢3「オフィス電話に電話」→8時まで（既に8:30）。選択肢4「スマートフォンに電話」→正解。8時以降。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 4
+        }
+      ]
+    }
+  ]
+}

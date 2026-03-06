@@ -1,0 +1,924 @@
+{
+  "title": "2024年度 第2回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "There was another robbery in the neighborhood this week. That's the third time this month."
+            },
+            {
+              "speaker": "female",
+              "text": "It's really frightening. I'm glad the police have increased patrols in the area."
+            },
+            {
+              "speaker": "male",
+              "text": "The Martins just got a dog to protect their home. It's a really large, aggressive one."
+            },
+            {
+              "speaker": "female",
+              "text": "I'd rather look into a home-security system. Alarms are not as expensive as they used to be, you know."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, we can't afford to move to a different neighborhood, so that might be our best option."
+            }
+          ],
+          "question": "What does the woman suggest?",
+          "choices": [
+            "Calling the police.",
+            "Buying an alarm system.",
+            "Getting a guard dog.",
+            "Moving to a different area."
+          ],
+          "explanation": "女性はホームセキュリティシステムを検討することを提案しています。アラームは以前ほど高くないと言っています。",
+          "highlights": [
+            "I'd rather look into a home-security system",
+            "Alarms are not as expensive as they used to be"
+          ],
+          "choiceAnalysis": "選択肢1「警察に電話」→パトロールは増加済み。選択肢2「アラームシステム購入」→正解。選択肢3「番犬を飼う」→Martinsの話。選択肢4「引越し」→余裕がない。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 2
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Professor Quinn, I've finished with the quizzes from Thursday's class that you asked me to grade. Is there anything else I can help with before the semester break?"
+            },
+            {
+              "speaker": "female",
+              "text": "Actually, yes. I have the slides ready for the first lecture after the break, but I need some created for the following class. Can I e-mail you my notes and have you put them into presentation slides?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure. Anything else?"
+            },
+            {
+              "speaker": "female",
+              "text": "No, but that will be a huge help. Thanks."
+            }
+          ],
+          "question": "What does the professor ask the man to do?",
+          "choices": [
+            "Help her find her notes.",
+            "Finish grading the quizzes.",
+            "Prepare some presentation slides.",
+            "Give a lecture himself."
+          ],
+          "explanation": "教授はノートをプレゼンテーションスライドにまとめるよう依頼しています。",
+          "highlights": [
+            "Can I e-mail you my notes and have you put them into presentation slides?"
+          ],
+          "choiceAnalysis": "選択肢1「ノートを探す」→メールで送る。選択肢2「採点を終える」→既に完了。選択肢3「スライドを作成」→正解。選択肢4「自分で講義」→言及なし。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 3
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Now that the kids have moved out, we should make better use of their rooms."
+            },
+            {
+              "speaker": "female",
+              "text": "We can change Jason's room for sure, but I have a feeling Maya won't like living so far away, so she might be back."
+            },
+            {
+              "speaker": "male",
+              "text": "Do you think so? We should leave her room as it is, then?"
+            },
+            {
+              "speaker": "female",
+              "text": "I think that would be best. We could put a desk into Jason's room, though. That way, you wouldn't have to work on the kitchen table every night."
+            }
+          ],
+          "question": "What does the woman say about Maya?",
+          "choices": [
+            "She may move back home.",
+            "She wants to use Jason's room.",
+            "She needs a new desk.",
+            "She does not need her own room."
+          ],
+          "explanation": "女性はMayaが遠くに住むのが嫌で戻ってくるかもしれないと予想しています。",
+          "highlights": [
+            "I have a feeling Maya won't like living so far away, so she might be back"
+          ],
+          "choiceAnalysis": "選択肢1「実家に戻るかも」→正解。選択肢2「Jasonの部屋を使いたい」→言及なし。選択肢3「新しい机が必要」→言及なし。選択肢4「自分の部屋は不要」→部屋を残すべき。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 1
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Did you see the job posting for the team leader position?"
+            },
+            {
+              "speaker": "female",
+              "text": "No. I haven't been checking the job postings."
+            },
+            {
+              "speaker": "male",
+              "text": "I think you'd make a great team leader. It would be more responsibility, but you've shown a lot of leadership in the past few months."
+            },
+            {
+              "speaker": "female",
+              "text": "I suppose I might be good at it. But I don't feel like I've been here long enough to move into a role where I'm managing others."
+            },
+            {
+              "speaker": "male",
+              "text": "You should still apply."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, it's certainly something I'll consider."
+            }
+          ],
+          "question": "What does the woman say she will do?",
+          "choices": [
+            "Change her management style.",
+            "Check the job postings more often.",
+            "Discuss her work with the managers.",
+            "Think about applying for the position."
+          ],
+          "explanation": "女性は応募することを検討すると言っています。",
+          "highlights": [
+            "it's certainly something I'll consider"
+          ],
+          "choiceAnalysis": "選択肢1「管理スタイルを変える」→言及なし。選択肢2「求人を確認」→言及なし。選択肢3「上司と話す」→言及なし。選択肢4「応募を検討する」→正解。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 4
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Thanks for bringing me to the nature center. I loved the demonstration about bees and their hives."
+            },
+            {
+              "speaker": "male",
+              "text": "You know, I used to have my own hives. It was a fairly expensive hobby, but all of that delicious honey was worth it!"
+            },
+            {
+              "speaker": "female",
+              "text": "Why don't you do it anymore? Did you develop an allergy? That happened to my sister."
+            },
+            {
+              "speaker": "male",
+              "text": "No, when I moved houses, there wasn't enough space on the property. I sold all of my equipment to another beekeeper."
+            },
+            {
+              "speaker": "female",
+              "text": "Too bad. Sounds like you enjoyed it."
+            }
+          ],
+          "question": "Why did the man get rid of his bees?",
+          "choices": [
+            "He became allergic to them.",
+            "He was spending too much money.",
+            "He did not have room for them.",
+            "He did not like the honey they made."
+          ],
+          "explanation": "引っ越し先に十分なスペースがなかったためミツバチを手放しました。",
+          "highlights": [
+            "when I moved houses, there wasn't enough space on the property"
+          ],
+          "choiceAnalysis": "選択肢1「アレルギー」→否定した。選択肢2「お金がかかりすぎ」→価値があると言っている。選択肢3「スペースがなかった」→正解。選択肢4「蜂蜜が嫌い」→美味しいと言っている。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 3
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Mom, have you ever considered moving to an assisted-living facility?"
+            },
+            {
+              "speaker": "female",
+              "text": "You mean a retirement home? I like living here. Besides, it'd be expensive."
+            },
+            {
+              "speaker": "male",
+              "text": "We could afford it if you sold this place. I just think being on your own is going to get harder and harder. What if you fell down and hurt yourself?"
+            },
+            {
+              "speaker": "female",
+              "text": "There are plenty of people I could call for help."
+            },
+            {
+              "speaker": "male",
+              "text": "I guess so, but I'm worried about you, Mom."
+            },
+            {
+              "speaker": "female",
+              "text": "I understand. Let me think about it."
+            }
+          ],
+          "question": "What does the man think?",
+          "choices": [
+            "His mother should not live alone.",
+            "His mother needs to save more money.",
+            "His mother ought to live closer to him.",
+            "His mother should not sell her home."
+          ],
+          "explanation": "男性は母親が一人で暮らすのはどんどん大変になると心配しています。",
+          "highlights": [
+            "being on your own is going to get harder and harder"
+          ],
+          "choiceAnalysis": "選択肢1「一人暮らしすべきでない」→正解。選択肢2「もっと貯金」→言及なし。選択肢3「近くに住む」→言及なし。選択肢4「家を売るべきでない」→売って入居を提案。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 1
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "OK, my suitcase is ready to go. Have you started packing yet?"
+            },
+            {
+              "speaker": "male",
+              "text": "No. It'll only take a few minutes. I'll do it before we leave in the morning."
+            },
+            {
+              "speaker": "female",
+              "text": "Why don't you start now? You always throw your clothes in your suitcase, and they get wrinkled. And then you forget things like pajamas because you're in such a hurry."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, you sometimes leave important things behind, too."
+            },
+            {
+              "speaker": "female",
+              "text": "Hardly ever! I make up a list of things to take and check them off so I know I have everything."
+            }
+          ],
+          "question": "What does the woman want the man to do?",
+          "choices": [
+            "Prepare for trips more carefully.",
+            "Purchase some new pajamas.",
+            "Double-check their travel schedule.",
+            "Change their departure time."
+          ],
+          "explanation": "女性は男性がもっと注意深く準備することを望んでいます。急いで入れて忘れ物をしないように。",
+          "highlights": [
+            "Why don't you start now?",
+            "you forget things like pajamas because you're in such a hurry"
+          ],
+          "choiceAnalysis": "選択肢1「旅行の準備をもっと注意深く」→正解。選択肢2「新しいパジャマを買う」→忘れ物の例。選択肢3「旅程を確認」→言及なし。選択肢4「出発時間を変更」→言及なし。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 1
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, how did things go at your conference?"
+            },
+            {
+              "speaker": "male",
+              "text": "Not great."
+            },
+            {
+              "speaker": "female",
+              "text": "Was it poorly attended?"
+            },
+            {
+              "speaker": "male",
+              "text": "Not at all, but they added more speakers on the day I was presenting my research, so my talk was cut short."
+            },
+            {
+              "speaker": "female",
+              "text": "That's too bad. I know you put a lot of work into it. Did you take the intern with you, too?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. She helped with the data analysis for the slides, but those all had to be cut."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, it wasn't your fault. I hope things go better next time!"
+            }
+          ],
+          "question": "Why is the man upset?",
+          "choices": [
+            "The intern used the wrong data.",
+            "The audience did not seem interested.",
+            "He could not present all his research.",
+            "Next year's conference has been canceled."
+          ],
+          "explanation": "スピーカーが追加されたため、男性の発表時間が短縮され、全ての研究を発表できませんでした。",
+          "highlights": [
+            "my talk was cut short",
+            "those all had to be cut"
+          ],
+          "choiceAnalysis": "選択肢1「インターンが間違ったデータ」→正しいデータ分析をした。選択肢2「聴衆が興味なし」→参加者は多かった。選択肢3「全ての研究を発表できなかった」→正解。選択肢4「来年中止」→言及なし。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 3
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Good evening. I'd like a table for four."
+            },
+            {
+              "speaker": "female",
+              "text": "Certainly, sir. We'll have an indoor table available in around thirty minutes. If you'd prefer a table on the patio, I can seat you immediately."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, the rest of my party won't be here for another twenty minutes, so I don't mind waiting."
+            },
+            {
+              "speaker": "female",
+              "text": "Excellent. You can have a seat at the bar in the meantime if you'd like. I'll let you know when your table is ready."
+            },
+            {
+              "speaker": "male",
+              "text": "Thank you, that sounds great."
+            }
+          ],
+          "question": "What will the man do next?",
+          "choices": [
+            "Sit at an indoor table.",
+            "Sit at the bar.",
+            "Go to the patio.",
+            "Go outside to meet his party."
+          ],
+          "explanation": "男性は室内テーブルを30分待つことにし、その間バーに座ると同意しました。",
+          "highlights": [
+            "You can have a seat at the bar",
+            "that sounds great"
+          ],
+          "choiceAnalysis": "選択肢1「室内テーブル」→30分後。選択肢2「バーに座る」→正解。選択肢3「パティオ」→待つことを選んだ。選択肢4「外で待ち合わせ」→バーで待つ。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 2
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "What's the matter, honey?"
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, I'm just frustrated with my novel. I've barely accomplished anything these last few days."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? I thought you were just finishing up the ending."
+            },
+            {
+              "speaker": "male",
+              "text": "I was. But a couple of days ago, I realized that several chapters in the middle needed to be completely rewritten."
+            },
+            {
+              "speaker": "female",
+              "text": "That sounds like a lot of work."
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, and to do it, I need to introduce an additional character. I just can't come up with a suitable one, though."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, hang in there."
+            }
+          ],
+          "question": "What is the man's problem?",
+          "choices": [
+            "He is worried his novel is too boring.",
+            "He needs to cut characters from his novel.",
+            "He is making little progress with his novel.",
+            "He needs to change his novel's ending."
+          ],
+          "explanation": "男性はここ数日ほとんど進んでいないと言っています。章の書き直しと新キャラクター作成に苦戦中。",
+          "highlights": [
+            "I've barely accomplished anything these last few days"
+          ],
+          "choiceAnalysis": "選択肢1「退屈」→言及なし。選択肢2「キャラを削る」→追加が必要。選択肢3「進捗がない」→正解。選択肢4「結末を変更」→中間部の書き直し。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 3
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "You're looking worried, Charlie. Are you OK?"
+            },
+            {
+              "speaker": "male",
+              "text": "No! The final exam for our history course is in three days, but I haven't even started studying for it yet."
+            },
+            {
+              "speaker": "female",
+              "text": "I wouldn't worry about it. Professor Simons said the exam won't be too tough."
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, but there's still a lot to remember. And history is my weakest subject."
+            },
+            {
+              "speaker": "female",
+              "text": "Why don't we study together? We could quiz each other on the main topics. That always helps me remember things."
+            },
+            {
+              "speaker": "male",
+              "text": "Good idea. Let's meet tomorrow. I'll text you to arrange a time."
+            }
+          ],
+          "question": "What will the man and woman do tomorrow?",
+          "choices": [
+            "Study for an exam.",
+            "Speak to their professor.",
+            "Take their final exam.",
+            "Start a new course."
+          ],
+          "explanation": "二人は明日会って一緒に試験勉強をすることにしました。",
+          "highlights": [
+            "Why don't we study together?",
+            "Let's meet tomorrow"
+          ],
+          "choiceAnalysis": "選択肢1「試験勉強」→正解。選択肢2「教授と話す」→言及なし。選択肢3「試験を受ける」→3日後。選択肢4「新しい講座」→言及なし。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 1
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Jane, I'm going to take up weight training. Those Internet training videos are really inspiring."
+            },
+            {
+              "speaker": "female",
+              "text": "That's great, but you should check out a few gyms before deciding on one."
+            },
+            {
+              "speaker": "male",
+              "text": "Why's that?"
+            },
+            {
+              "speaker": "female",
+              "text": "Some gyms are mainly designed for serious bodybuilders who go five or six times a week. At first, you should go somewhere that caters to a broader range of abilities."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. And would you be able to teach me?"
+            },
+            {
+              "speaker": "female",
+              "text": "I recommend getting lessons from a professional. It's easy to get injured if you don't use the machines properly."
+            }
+          ],
+          "question": "What is one thing the woman tells the man?",
+          "choices": [
+            "She attends the gym several times a week.",
+            "He should watch more Internet training videos.",
+            "She got injured using a machine incorrectly.",
+            "He needs to learn from a professional trainer."
+          ],
+          "explanation": "女性はプロからのレッスンを推薦しています。マシンの使い方を間違えるとケガしやすいからです。",
+          "highlights": [
+            "I recommend getting lessons from a professional"
+          ],
+          "choiceAnalysis": "選択肢1「週数回ジム通い」→言及なし。選択肢2「動画をもっと見る」→言及なし。選択肢3「マシンでケガした」→一般的な警告。選択肢4「プロのトレーナーから学ぶ」→正解。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The Lucayans were the indigenous people of the Bahamas, a group of islands in the western Atlantic Ocean. Spanish colonizers who arrived in the 1400s in search of riches believed these islands were essentially useless as they did not contain gold. The colonizers enslaved large numbers of Lucayans to work on other islands; this, in combination with the introduction of diseases, led to the near extinction of the Lucayans by the mid-sixteenth century."
+            }
+          ],
+          "question": "What did Spanish colonizers believe about the islands of the Bahamas?",
+          "choices": [
+            "The Lucayans were not their original inhabitants.",
+            "They were of little value.",
+            "They were too difficult to access safely.",
+            "The local people were hiding gold."
+          ],
+          "explanation": "スペインの植民者は金がないため島はほとんど価値がないと考えました。",
+          "highlights": [
+            "believed these islands were essentially useless as they did not contain gold"
+          ],
+          "choiceAnalysis": "選択肢1「先住民ではない」→言及なし。選択肢2「ほとんど価値がない」→正解。選択肢3「アクセスが困難」→言及なし。選択肢4「金を隠している」→金がないと判断。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 2
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In the 1800s, a large number of Lucayan artifacts, including wood carvings and canoes, were discovered in the Bahamas. By the late twentieth century, however, most of these had been destroyed by rising sea levels as well as construction, agricultural development, and efforts to mine the islands for bat droppings, which are a valuable fertilizer. Nevertheless, archaeologists believe underwater caves around the islands contain undiscovered artifacts that can add to scholars' knowledge of Lucayan culture."
+            }
+          ],
+          "question": "According to the speaker, what is true about most known Lucayan artifacts?",
+          "choices": [
+            "They were tools used for constructing canoes.",
+            "Various factors led to their destruction.",
+            "Most of them were discovered underwater.",
+            "They challenged many scholars' theories."
+          ],
+          "explanation": "海面上昇、建設、農業開発、コウモリの糞の採掘など様々な要因で破壊されました。",
+          "highlights": [
+            "most of these had been destroyed by rising sea levels as well as construction, agricultural development"
+          ],
+          "choiceAnalysis": "選択肢1「カヌー建造の道具」→木彫りとカヌー自体。選択肢2「様々な要因で破壊」→正解。選択肢3「水中で発見」→1800年代に陸上で発見。選択肢4「理論に挑戦」→言及なし。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 2
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Teddy bears have been popular with children worldwide since their invention in the early 1900s. While the stuffed toys are generally considered lovable symbols of comfort and joy, they initially sparked some concerns. As teddy bears became a fixture in toy closets, there were fears that playing with them rather than humanlike dolls would result in girls losing their maternal instinct. Some people even predicted this would lead to falling birth rates."
+            }
+          ],
+          "question": "According to the speaker, what did some people once believe about teddy bears?",
+          "choices": [
+            "Their popularity resulted from high birth rates.",
+            "They were too humanlike in appearance.",
+            "Their popularity would not last long.",
+            "They would cause fewer children to be born."
+          ],
+          "explanation": "テディベアで遊ぶと母性本能が失われ出生率が低下すると予測する人もいました。",
+          "highlights": [
+            "Some people even predicted this would lead to falling birth rates"
+          ],
+          "choiceAnalysis": "選択肢1「高い出生率のおかげ」→出生率低下を予測。選択肢2「人間に似すぎ」→人形の代わり。選択肢3「人気が続かない」→言及なし。選択肢4「子供が減る」→正解。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 4
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "While such fears eventually disappeared, author Jon Mooallem suggests the acceptance of teddy bears did, in fact, correlate with another shift in society. As urbanization brought people away from rural areas where animals like brown bears were a threat, they came to view the bears as cute rather than ferocious. Mooallem notes that, more recently, a similar phenomenon has occurred with polar bears, as climate-change-related habitat loss has led people to see them as delicate victims rather than terrifying predators."
+            }
+          ],
+          "question": "What point does Jon Mooallem make about polar bears?",
+          "choices": [
+            "They were considered less dangerous than brown bears.",
+            "Toys designed to resemble them have lost popularity.",
+            "People's image of them has changed.",
+            "They now face a bigger threat than climate change."
+          ],
+          "explanation": "気候変動による生息地の喪失により、ホッキョクグマは恐ろしい捕食者からか弱い被害者として見られるようになりました。",
+          "highlights": [
+            "people to see them as delicate victims rather than terrifying predators"
+          ],
+          "choiceAnalysis": "選択肢1「ヒグマより安全」→言及なし。選択肢2「おもちゃの人気低下」→言及なし。選択肢3「イメージが変わった」→正解。選択肢4「気候変動より大きな脅威」→言及なし。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 3
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "There are thought to be around 7,000 languages used around the world, and these languages are often grouped into families. The languages in each family share similarities and are believed to have evolved from the same original language. Much of the research into categorizing languages has focused on language structures, but a recent study took a different approach. The researchers analyzed the sounds of hundreds of languages, comparing their sonority, or loudness."
+            }
+          ],
+          "question": "What does the speaker say about the relationships between languages?",
+          "choices": [
+            "They have been categorized based on structural similarities.",
+            "Similar languages may not have the same origin.",
+            "Some languages have been grouped together incorrectly.",
+            "Languages in the same family may not sound similar."
+          ],
+          "explanation": "言語の分類は言語構造に焦点を当てた研究に基づいています。",
+          "highlights": [
+            "Much of the research into categorizing languages has focused on language structures"
+          ],
+          "choiceAnalysis": "選択肢1「構造的類似性で分類」→正解。選択肢2「同じ起源でないかも」→言及なし。選択肢3「誤って分類」→言及なし。選択肢4「同じ家族でも似ていない」→言及なし。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 1
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The study's results suggest that languages that developed in warm areas are louder than those that developed in cold ones. One explanation for this is that the air is drier in cold climates. Producing louder sounds requires vibrating the vocal cords more, which is harder to do in dry air. An opposing theory relates to the fact that in many tropical areas, sounds bend upward while moving through the air at low altitudes. Higher sonority sounds carry through the air more easily, which explains why they may be preferable in warm areas."
+            }
+          ],
+          "question": "What did a recent study suggest?",
+          "choices": [
+            "Languages that developed in cold areas are simpler.",
+            "Most languages have a similar loudness.",
+            "Warm areas tend to have more languages.",
+            "Climate influences the sounds of languages."
+          ],
+          "explanation": "暖かい地域で発展した言語は寒い地域のものより大きい音であることが示唆されました。",
+          "highlights": [
+            "languages that developed in warm areas are louder than those that developed in cold ones"
+          ],
+          "choiceAnalysis": "選択肢1「寒い地域は単純」→音量の話。選択肢2「同じ音量」→差がある。選択肢3「暖かい地域に多くの言語」→言及なし。選択肢4「気候が言語の音に影響」→正解。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 4
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Despite the fact that racewalking has been an Olympic sport since the early 1900s, it attracts far fewer spectators than running events. The sport is often considered to be easy or is wrongly thought to be something that unsuccessful runners end up doing. In fact, racewalking requires a technique that is very different from running. It was also once one of America's most popular sports."
+            }
+          ],
+          "question": "What does the speaker say about racewalking?",
+          "choices": [
+            "It is popular with ex-runners.",
+            "It will lose its Olympic status.",
+            "It was invented in the 1900s.",
+            "It tends to be overlooked."
+          ],
+          "explanation": "競歩はランニングイベントよりはるかに少ない観客しか集めず、軽視されがちです。",
+          "highlights": [
+            "it attracts far fewer spectators than running events"
+          ],
+          "choiceAnalysis": "選択肢1「元ランナーに人気」→誤解。選択肢2「五輪から外れる」→言及なし。選択肢3「1900年代に発明」→1800年代起源。選択肢4「軽視されがち」→正解。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 4
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Racewalking is believed to have originated in England during the 1800s, when wealthy people employed servants known as footmen to walk alongside their carriages. As a form of entertainment, some people had their footmen race each other and placed bets on who would win. This developed into a spectator sport known as pedestrianism, which later found its way to the United States. There, it gained widespread popularity, with hundreds of spectators going to see events held in indoor arenas. It also produced some of the nation's first celebrity athletes."
+            }
+          ],
+          "question": "What is one thing we learn about pedestrianism?",
+          "choices": [
+            "The first competitors were wealthy people.",
+            "Some of the competitors became famous.",
+            "It was never considered to be a sport.",
+            "The rules differed in England and the United States."
+          ],
+          "explanation": "アメリカで最初のセレブアスリートを生み出しました。",
+          "highlights": [
+            "It also produced some of the nation's first celebrity athletes"
+          ],
+          "choiceAnalysis": "選択肢1「最初の競技者は裕福な人」→使用人が競争。選択肢2「有名になった競技者がいた」→正解。選択肢3「スポーツでなかった」→観客スポーツになった。選択肢4「ルールが異なる」→言及なし。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 2
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Designed in 1926 by the Austrian architect Margarete Schütte-Lihotzky, the Frankfurt Kitchen was highly influential in the development of cooking spaces. To reduce the amount of physical effort needed and save time, she created a design where all cupboards, the stove, and the sink were within easy reach. The kitchens also had modern electric stoves instead of wood-burning ones, and every element of the design had a purpose. Even the cupboards' and drawers' blue paint was chosen because researchers believed at the time that flies avoided blue surfaces."
+            }
+          ],
+          "question": "What is one thing that was special about the design of the Frankfurt Kitchen?",
+          "choices": [
+            "Goods were stored in unusual places.",
+            "It had more space than other kitchens did.",
+            "It was designed to make cooking more efficient.",
+            "Every single surface in it was painted."
+          ],
+          "explanation": "フランクフルトキッチンは身体的負担を減らし時間を節約するために設計されました。",
+          "highlights": [
+            "To reduce the amount of physical effort needed and save time"
+          ],
+          "choiceAnalysis": "選択肢1「珍しい場所に収納」→言及なし。選択肢2「スペースが広い」→手の届く範囲に設計。選択肢3「料理をより効率的に」→正解。選択肢4「全面塗装」→戸棚と引き出しのみ青。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 3
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Previously, most kitchens had been combined with living rooms, and people did everything from bathing to sleeping in them. However, the Frankfurt Kitchen was entirely separate. While Schütte-Lihotzky's intention was to improve women's quality of life, there were several complaints. One was that women were unable to be with their families and watch their children while preparing meals."
+            }
+          ],
+          "question": "Why did some people complain about the Frankfurt Kitchen?",
+          "choices": [
+            "People wanted to be able to bathe in it.",
+            "It took space away from living rooms.",
+            "People did not need all the functions it had.",
+            "It separated women from their families."
+          ],
+          "explanation": "キッチンが完全に独立していたため、女性は料理中に家族と一緒にいたり、子供を見守ることができませんでした。",
+          "highlights": [
+            "women were unable to be with their families and watch their children while preparing meals"
+          ],
+          "choiceAnalysis": "選択肢1「入浴したい」→以前の話。選択肢2「リビングのスペースを奪う」→言及なし。選択肢3「機能が不要」→言及なし。選択肢4「家族と離れる」→正解。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 4
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Norway and Indonesia may be different in terms of geographical location, climate, culture, and population. However, both nations are playing an important role in addressing climate change. They have signed an agreement to reduce carbon emissions from deforestation. According to officials, deforestation is slowing in Indonesia, and the country aims to eventually store more carbon than it releases. Under the agreement, Norway will financially support such sustainability efforts as they show results."
+            }
+          ],
+          "question": "What is one objective of the agreement between Norway and Indonesia?",
+          "choices": [
+            "To help in the fight against climate change.",
+            "To boost understanding of the countries' different cultures.",
+            "To study population growth trends in Indonesia.",
+            "To regulate the export of wood products to Norway."
+          ],
+          "explanation": "両国は森林破壊によるCO2排出削減のための合意に署名し、気候変動と闘っています。",
+          "highlights": [
+            "addressing climate change",
+            "reduce carbon emissions from deforestation"
+          ],
+          "choiceAnalysis": "選択肢1「気候変動と闘う」→正解。選択肢2「文化理解の促進」→言及なし。選択肢3「人口動態の研究」→言及なし。選択肢4「木材輸出規制」→言及なし。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 1
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The program involves eco-friendly forest-management efforts and replanting of forests, including carbon-dense mangroves, in Indonesia. As the rates of deforestation and CO2 emissions decrease, Norway will pay more funds. The two countries say they will exchange technical knowledge and that they will get local communities in Indonesia involved in helping protect and manage forests. Some people hope the agreement will open the way for other countries or the private sector to support other conservation programs in the future."
+            }
+          ],
+          "question": "What is one feature of the program?",
+          "choices": [
+            "Other countries will help Norway with the funding.",
+            "Indonesian experts will help manage Norway's forests.",
+            "Private logging companies will pay for reforestation.",
+            "It will include participation by local communities."
+          ],
+          "explanation": "プログラムはインドネシアの地域コミュニティが森林の保護と管理に参加することを含みます。",
+          "highlights": [
+            "they will get local communities in Indonesia involved in helping protect and manage forests"
+          ],
+          "choiceAnalysis": "選択肢1「他国がノルウェーを支援」→将来の希望。選択肢2「インドネシアがノルウェーの森林を管理」→逆。選択肢3「伐採会社が支払い」→言及なし。選択肢4「地域コミュニティの参加」→正解。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You are vacationing on a cruise ship. It is 9:30 a.m. You are getting ready to go to a morning yoga class. You hear the following announcement from the captain.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Good morning, passengers. We have updates regarding today's activities. First, as the weather has cleared up, the 10:00 a.m. yoga class has been moved from the studio to the Sun Deck, where you can enjoy the sea breeze. Next, the trivia challenge in the Grand Lounge will begin as scheduled at 2:00 p.m. There has, however, been a time change for the cooking demonstration; it will begin at 11:30 a.m. in the Paradise Lounge. Finally, the jazz performance at 9:00 p.m. will take place on the covered Rear Deck, as rain is forecasted for tonight. We apologize for any inconvenience."
+            }
+          ],
+          "question": "Where should you go?",
+          "choices": [
+            "The studio.",
+            "The Sun Deck.",
+            "The Paradise Lounge.",
+            "The Rear Deck."
+          ],
+          "explanation": "10時のヨガクラスはスタジオからSun Deckに移動されました。",
+          "highlights": [
+            "the 10:00 a.m. yoga class has been moved from the studio to the Sun Deck"
+          ],
+          "choiceAnalysis": "選択肢1「スタジオ」→変更済み。選択肢2「Sun Deck」→正解。ヨガの新会場。選択肢3「Paradise Lounge」→料理デモ。選択肢4「Rear Deck」→ジャズ公演。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 2
+        },
+        {
+          "number": 26,
+          "situation": "You are staying at a hotel on the north side of the city and need to get to the airport as soon as possible. You hear the following traffic report on the radio.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "This is the WJTX traffic report. I'm afraid there are some problems around Branagh Airport today. Conditions are smooth on Haliburton Road coming from the south, but drivers heading in from the north end will face delays. If you're coming from there, traffic on Highway 9 is completely blocked due to a collision. However, although there are lane restrictions due to construction on Appleton Boulevard, traffic there is only slightly slower than usual. From the city center, there are delays on Dundas Road, so it's advisable to make a slight detour using Regent Parkway, which is relatively clear right now."
+            }
+          ],
+          "question": "Which road should you take?",
+          "choices": [
+            "Haliburton Road.",
+            "Appleton Boulevard.",
+            "Highway 9.",
+            "Regent Parkway."
+          ],
+          "explanation": "北側から→Highway 9は完全に通行止め。Appleton Boulevardは工事で車線規制があるが通常よりやや遅いだけ→最善の選択。",
+          "highlights": [
+            "although there are lane restrictions due to construction on Appleton Boulevard, traffic there is only slightly slower than usual"
+          ],
+          "choiceAnalysis": "選択肢1「Haliburton Road」→南からの道。選択肢2「Appleton Boulevard」→正解。北からで少し遅いだけ。選択肢3「Highway 9」→完全に通行止め。選択肢4「Regent Parkway」→市中心部から。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 2
+        },
+        {
+          "number": 27,
+          "situation": "Your company manufactures hand cream, and you want to make your product's packaging more elegant. A consultant is giving you a report after analyzing your product's packages.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The most notable feature of your hand cream is that it really stands out on the shelf. The striking, unique font used for the product name catches customers' eyes, and the black-and-white colors of the box give it a very bold image. The flower illustration is adorable, but it's lacking in sophistication compared with some of your competitors' products. As for the shape of the bottle, it's very contemporary and attractive, although the production costs of such a unique design must be rather high."
+            }
+          ],
+          "question": "What should you change?",
+          "choices": [
+            "The font used for the name.",
+            "The color of the box.",
+            "The flower illustration.",
+            "The shape of the bottle."
+          ],
+          "explanation": "花のイラストは可愛いが、競合他社と比べて洗練さに欠けるとの指摘→よりエレガントにするなら変更すべき。",
+          "highlights": [
+            "The flower illustration is adorable, but it's lacking in sophistication"
+          ],
+          "choiceAnalysis": "選択肢1「フォント」→目を引く。選択肢2「箱の色」→大胆なイメージで良い。選択肢3「花のイラスト」→正解。洗練さが不足。選択肢4「ボトルの形」→現代的で魅力的。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 3
+        },
+        {
+          "number": 28,
+          "situation": "You recently applied for a passport and have received a letter from the passport office requesting additional information. You call the office and hear the following automated message.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thank you for calling the passport office. Please note that due to the large number of applications currently being processed, it may take eight to ten weeks to receive your passport. If you are calling because you've been contacted by us regarding your application, press 1. If you are calling about the requirements for a new passport application, please press 2. To find out the progress of an ongoing application, press 3. For all other inquiries, please press 4. Our operators are currently very busy, so it may take some time to connect you."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Press 1.",
+            "Press 2.",
+            "Press 3.",
+            "Press 4."
+          ],
+          "explanation": "パスポートオフィスから追加情報を求める手紙を受け取った→オフィスから連絡があったため電話→1を押す。",
+          "highlights": [
+            "If you are calling because you've been contacted by us regarding your application, press 1"
+          ],
+          "choiceAnalysis": "選択肢1「1を押す」→正解。オフィスから連絡があった場合。選択肢2「2を押す」→新規申請の要件。選択肢3「3を押す」→進捗確認。選択肢4「4を押す」→その他。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 1
+        },
+        {
+          "number": 29,
+          "situation": "You are a builder and need a good-quality power drill. Your budget is $300. You visit a hardware store and speak to a staff member. You do not have a membership.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The Omni-Power is top-of-the-line and can handle almost any job. It's $500 for nonmembers and $450 for members. Next up, the Drill Legend is a quality drill that will deal with most building jobs. It's usually $350 but is currently offered at $280 for members and nonmembers. Next, we have the Power P3. It's $320, and like the Drill Legend, it's solid and durable. Finally, this is the Bit Plus. It's suitable for simple DIY tasks and only costs $230, but it can't match the others in terms of quality or durability."
+            }
+          ],
+          "question": "Which drill should you purchase?",
+          "choices": [
+            "The Omni-Power drill.",
+            "The Drill Legend drill.",
+            "The Power P3 drill.",
+            "The Bit Plus drill."
+          ],
+          "explanation": "予算$300、良質なドリルが必要→Omni-Power $500→予算超え。Power P3 $320→予算超え。Bit Plus $230→品質が劣る。Drill Legend $280→予算内で品質良い→最適。",
+          "highlights": [
+            "the Drill Legend is a quality drill",
+            "currently offered at $280 for members and nonmembers"
+          ],
+          "choiceAnalysis": "選択肢1「Omni-Power」→$500、予算超え。選択肢2「Drill Legend」→正解。$280で予算内、品質良い。選択肢3「Power P3」→$320、予算超え。選択肢4「Bit Plus」→品質が劣る。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

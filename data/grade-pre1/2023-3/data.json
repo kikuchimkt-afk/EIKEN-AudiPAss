@@ -1,0 +1,953 @@
+{
+  "title": "2023年度 第3回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "You look really stressed. What's up?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm way behind on writing this article about American composers. I'm not sure I can make tomorrow's deadline."
+            },
+            {
+              "speaker": "male",
+              "text": "Let me give you a hand."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? That'd be fantastic. Thanks."
+            },
+            {
+              "speaker": "male",
+              "text": "Not a problem. I've been in your situation before."
+            },
+            {
+              "speaker": "female",
+              "text": "Would you mind doing some fact-checking? I need to confirm my sources."
+            },
+            {
+              "speaker": "male",
+              "text": "Not at all. Just let me read the draft first, and then I'll get on it."
+            }
+          ],
+          "question": "Why is the woman concerned?",
+          "choices": [
+            "She found a mistake in one source.",
+            "She may not finish her article in time.",
+            "She does not like her first draft.",
+            "She is unfamiliar with the topic."
+          ],
+          "explanation": "女性は記事の執筆が大幅に遅れており、明日の締め切りに間に合わないかもしれないと心配しています。",
+          "highlights": [
+            "I'm way behind on writing this article",
+            "I'm not sure I can make tomorrow's deadline"
+          ],
+          "choiceAnalysis": "選択肢1「出典のミス」→後でファクトチェック依頼。選択肢2「記事が間に合わない」→正解。選択肢3「草稿が気に入らない」→言及なし。選択肢4「トピックに詳しくない」→言及なし。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 2
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Jared, I got a phone call from your homeroom teacher today. She's concerned about your grades this term."
+            },
+            {
+              "speaker": "male",
+              "text": "I thought I did OK."
+            },
+            {
+              "speaker": "female",
+              "text": "That was her point. Your grades are usually excellent, but they're only average this term. She said you won't be able to get into a good college if you don't make more of an effort."
+            },
+            {
+              "speaker": "male",
+              "text": "To be honest, I don't think I want to go to college anymore."
+            },
+            {
+              "speaker": "female",
+              "text": "What? That's the first time I've heard about it. We'll talk about this more when your father gets home."
+            }
+          ],
+          "question": "What does Jared tell his mother?",
+          "choices": [
+            "His grades improved this term.",
+            "He will study harder in the future.",
+            "He has lost interest in going to college.",
+            "His homeroom teacher is not supporting him."
+          ],
+          "explanation": "Jaredは正直なところ、もう大学に行きたいと思わないと母親に告げました。",
+          "highlights": [
+            "I don't think I want to go to college anymore"
+          ],
+          "choiceAnalysis": "選択肢1「成績が上がった」→平均的に下がった。選択肢2「もっと勉強する」→言及なし。選択肢3「大学に行く気がなくなった」→正解。選択肢4「先生が支援しない」→先生は心配している。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 3
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Why did we ever encourage Jacob to play ice hockey? It's going to make us bankrupt."
+            },
+            {
+              "speaker": "female",
+              "text": "I know it's not as cheap as we expected, but he loves it. I just wish it was safer."
+            },
+            {
+              "speaker": "male",
+              "text": "A few scrapes and bruises I can handle, but he keeps growing out of his skates, and it seems like we're constantly buying new helmets, gloves, and padding."
+            },
+            {
+              "speaker": "female",
+              "text": "You know, when he's grown up and has left home, we'll miss worrying over these little things."
+            }
+          ],
+          "question": "What is the man concerned about?",
+          "choices": [
+            "His son moving away.",
+            "The cost of sports equipment.",
+            "How dangerous ice hockey is.",
+            "The equipment he forgot to buy."
+          ],
+          "explanation": "男性はスケート、ヘルメット、手袋、パッドを常に買い替えなければならない費用を心配しています。",
+          "highlights": [
+            "he keeps growing out of his skates",
+            "we're constantly buying new helmets, gloves, and padding"
+          ],
+          "choiceAnalysis": "選択肢1「息子の引越し」→女性の将来の話。選択肢2「スポーツ用品の費用」→正解。選択肢3「危険性」→女性の懸念。選択肢4「買い忘れ」→言及なし。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 2
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "I bought this watch here two months ago, but it has stopped working. I'd like my money back, please."
+            },
+            {
+              "speaker": "female",
+              "text": "I'm very sorry, but that's not possible. We can replace the watch for you."
+            },
+            {
+              "speaker": "male",
+              "text": "But it's still under warranty."
+            },
+            {
+              "speaker": "female",
+              "text": "Even so, it's store policy, I'm afraid. It's also stated on the warranty."
+            },
+            {
+              "speaker": "male",
+              "text": "That wasn't made clear to me when I bought the watch."
+            },
+            {
+              "speaker": "female",
+              "text": "I'm sorry, sir, but there's nothing else I can do."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, I guess I don't have a choice, but I won't be shopping here again."
+            }
+          ],
+          "question": "Why is the man annoyed?",
+          "choices": [
+            "He cannot get a refund.",
+            "The store cannot repair his watch.",
+            "The store cannot provide another watch.",
+            "He was charged the wrong amount."
+          ],
+          "explanation": "男性は返金を求めましたが、店のポリシーで交換しかできないと言われたため怒っています。",
+          "highlights": [
+            "I'd like my money back",
+            "that's not possible"
+          ],
+          "choiceAnalysis": "選択肢1「返金できない」→正解。選択肢2「修理できない」→交換を提案。選択肢3「別の時計を提供できない」→交換可能。選択肢4「請求額が違う」→言及なし。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 1
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "How was your trip? I heard you rented a cabin in the mountains."
+            },
+            {
+              "speaker": "female",
+              "text": "It was fun, but the weather was really changeable."
+            },
+            {
+              "speaker": "male",
+              "text": "Did you at least get to enjoy the outdoors?"
+            },
+            {
+              "speaker": "female",
+              "text": "We did. We wanted to rent bikes and go cycling one day, but it snowed pretty heavily, so we went sledding instead."
+            },
+            {
+              "speaker": "male",
+              "text": "Did it stay cold?"
+            },
+            {
+              "speaker": "female",
+              "text": "No. A few days later, the temperature rose so much we wore T-shirts and shorts when we went fishing."
+            }
+          ],
+          "question": "Why was the woman unable to go cycling?",
+          "choices": [
+            "She spent too much time fishing.",
+            "There was too much snow.",
+            "The weather kept her indoors.",
+            "She could not find bikes to rent."
+          ],
+          "explanation": "大雪が降ったためサイクリングができず、代わりにソリをしました。",
+          "highlights": [
+            "it snowed pretty heavily, so we went sledding instead"
+          ],
+          "choiceAnalysis": "選択肢1「釣りに時間」→後の話。選択肢2「雪が多すぎた」→正解。選択肢3「室内にいた」→ソリをした。選択肢4「自転車が見つからない」→言及なし。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 2
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Have you met the new head of the department yet? I've heard he's been criticizing the way we do things on the team."
+            },
+            {
+              "speaker": "male",
+              "text": "I had a meeting with him yesterday, actually. He had some good ideas for improving our efficiency."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, as long as he doesn't try to introduce new policies just to show he's in charge. That's usually what happens when new managers come in from outside."
+            },
+            {
+              "speaker": "male",
+              "text": "True, but you have to admit there's room for improvement, and I'm sure he'll get the team's input before deciding anything."
+            },
+            {
+              "speaker": "female",
+              "text": "I hope you're right."
+            }
+          ],
+          "question": "Why is the woman concerned?",
+          "choices": [
+            "The other team members may not listen to her.",
+            "Some members of the team may decide to quit.",
+            "Her ideas to improve efficiency may not work.",
+            "The new manager may make unnecessary changes."
+          ],
+          "explanation": "女性は新しいマネージャーが自分の権威を示すためだけに不必要な新方針を導入するのではないかと心配しています。",
+          "highlights": [
+            "as long as he doesn't try to introduce new policies just to show he's in charge"
+          ],
+          "choiceAnalysis": "選択肢1「メンバーが聞かない」→言及なし。選択肢2「退職する」→言及なし。選択肢3「効率化が失敗」→言及なし。選択肢4「不必要な変更」→正解。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 4
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "I've been invited to a second job interview at Palmer Group."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? I thought you'd given up on them."
+            },
+            {
+              "speaker": "male",
+              "text": "I had. The guy didn't seem to like my answers to his questions at the first interview, and he kept pointing out how my experience didn't fit their needs."
+            },
+            {
+              "speaker": "female",
+              "text": "Are you planning on going to the second interview?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'm not sure. I doubt I'd take a job there unless they suddenly became a lot more enthusiastic about me."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, it couldn't hurt. Maybe someone different will talk to you."
+            }
+          ],
+          "question": "What does the man say about the first interview?",
+          "choices": [
+            "The interviewer did not explain the job well.",
+            "The interviewer did not seem impressed by him.",
+            "He could not answer some of the questions.",
+            "He did not talk about his work experience."
+          ],
+          "explanation": "面接官が彼の回答を気に入らず、経験が合わないと指摘し続けたようです。",
+          "highlights": [
+            "The guy didn't seem to like my answers",
+            "he kept pointing out how my experience didn't fit"
+          ],
+          "choiceAnalysis": "選択肢1「仕事の説明が不十分」→言及なし。選択肢2「面接官が感銘を受けなかった」→正解。選択肢3「質問に答えられなかった」→回答を気に入らなかった。選択肢4「経験を話さなかった」→経験について指摘された。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 2
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "What happened to the plants in the front yard? Half of them have been dug up."
+            },
+            {
+              "speaker": "female",
+              "text": "I think it was the neighbor's dog. It's always getting loose, and Josh from across the road said he saw it in our yard this morning."
+            },
+            {
+              "speaker": "male",
+              "text": "We should go next door and say something."
+            },
+            {
+              "speaker": "female",
+              "text": "You're right, but we don't have any proof the dog did it."
+            },
+            {
+              "speaker": "male",
+              "text": "What do you suggest, then? I spent ages making that flowerbed look nice."
+            },
+            {
+              "speaker": "female",
+              "text": "We could get some security cameras in case it happens again."
+            },
+            {
+              "speaker": "male",
+              "text": "Good idea. I'll look into it."
+            }
+          ],
+          "question": "What will the man and woman probably do?",
+          "choices": [
+            "Ask their neighbor to pay for the damage.",
+            "Get some advice from their neighbor.",
+            "Install some video surveillance.",
+            "Build a more secure flowerbed."
+          ],
+          "explanation": "女性は防犯カメラを設置することを提案し、男性も良いアイデアだと同意しました。",
+          "highlights": [
+            "We could get some security cameras",
+            "Good idea. I'll look into it"
+          ],
+          "choiceAnalysis": "選択肢1「隣人に支払い」→証拠がない。選択肢2「隣人にアドバイス」→言及なし。選択肢3「ビデオ監視を設置」→正解。選択肢4「花壇を強化」→言及なし。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 3
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "How's the planning going for your trip to Italy?"
+            },
+            {
+              "speaker": "male",
+              "text": "OK, but I'm having trouble finding hotels within my budget. The flights cost more than I expected, so I need to watch what I spend."
+            },
+            {
+              "speaker": "female",
+              "text": "Actually, I know an online booking site that has some great deals on hotels."
+            },
+            {
+              "speaker": "male",
+              "text": "That sounds like just what I need. Is it reliable?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I used it when I went to Spain last year and didn't have any problems. I'll e-mail you the link."
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks."
+            }
+          ],
+          "question": "What will the woman do for the man?",
+          "choices": [
+            "Send him information about a website.",
+            "Book a hotel for him.",
+            "Introduce him to her friend in Spain.",
+            "Help him pay for his trip."
+          ],
+          "explanation": "女性はお得なホテル予約サイトのリンクをメールで送ると言っています。",
+          "highlights": [
+            "I'll e-mail you the link"
+          ],
+          "choiceAnalysis": "選択肢1「ウェブサイトの情報を送る」→正解。選択肢2「ホテルを予約」→リンクを送るだけ。選択肢3「スペインの友人を紹介」→言及なし。選択肢4「費用を援助」→言及なし。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 1
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "George, the boss is looking for you, and she doesn't look happy."
+            },
+            {
+              "speaker": "male",
+              "text": "Really? I wonder what the problem is."
+            },
+            {
+              "speaker": "female",
+              "text": "She said something about a report that was due yesterday."
+            },
+            {
+              "speaker": "male",
+              "text": "The sales figures for the Mackenzie account? But I thought the deadline for that was tomorrow."
+            },
+            {
+              "speaker": "female",
+              "text": "Let me check. No, according to the schedule, it was due yesterday."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh. I must have got the days mixed up. I'll go and see her now."
+            },
+            {
+              "speaker": "female",
+              "text": "Good luck!"
+            }
+          ],
+          "question": "What do we learn about the man?",
+          "choices": [
+            "He missed a deadline.",
+            "He does not like his boss.",
+            "He made a mistake in his report.",
+            "He had a meeting with his boss yesterday."
+          ],
+          "explanation": "男性は日を間違えて、昨日期限のレポートを提出していませんでした。",
+          "highlights": [
+            "I must have got the days mixed up"
+          ],
+          "choiceAnalysis": "選択肢1「締め切りを逃した」→正解。選択肢2「上司が嫌い」→言及なし。選択肢3「レポートにミス」→提出していない。選択肢4「昨日上司と会議」→言及なし。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 1
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Did you see that documentary last night about corruption in the government?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, but I heard it was pretty shocking."
+            },
+            {
+              "speaker": "female",
+              "text": "It was. It claimed senior members of the government had been lying to the public for years, and it gave pretty convincing evidence, too."
+            },
+            {
+              "speaker": "male",
+              "text": "That's nothing new. Governments always keep things from the public."
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, but usually when it's necessary to protect people. This was just to help politicians get rich, and the documentary named more than 30 politicians who were involved."
+            },
+            {
+              "speaker": "male",
+              "text": "It sounds like I should watch it."
+            }
+          ],
+          "question": "What is one thing the woman says about the documentary?",
+          "choices": [
+            "It made claims that were not true.",
+            "It was canceled by the TV network.",
+            "It was supported by the government.",
+            "It revealed dishonest politicians."
+          ],
+          "explanation": "ドキュメンタリーは30人以上の関与した政治家の名前を挙げ、不正を暴きました。",
+          "highlights": [
+            "the documentary named more than 30 politicians who were involved"
+          ],
+          "choiceAnalysis": "選択肢1「虚偽の主張」→説得力のある証拠。選択肢2「放送中止」→言及なし。選択肢3「政府が支援」→政府の不正を暴く。選択肢4「不正な政治家を暴露」→正解。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 4
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Have you submitted your university applications yet, Erin?"
+            },
+            {
+              "speaker": "female",
+              "text": "No. To be honest, I'm not sure I want to go now."
+            },
+            {
+              "speaker": "male",
+              "text": "But I thought you had your mind set on studying law."
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, but only because that's what my parents want me to do. My cousin took a working holiday in Australia for a year, and he said it was a great experience. I'm considering doing the same."
+            },
+            {
+              "speaker": "male",
+              "text": "How exciting! I'm sure that would help you make up your mind about your future."
+            },
+            {
+              "speaker": "female",
+              "text": "Right. I think I'll talk to my parents about it tonight."
+            },
+            {
+              "speaker": "male",
+              "text": "Good luck."
+            }
+          ],
+          "question": "What does the man think about the woman's idea?",
+          "choices": [
+            "Her parents will support her decision.",
+            "It will have a negative impact on her career.",
+            "It will help her decide what she wants to do.",
+            "Her cousin's advice is not reliable."
+          ],
+          "explanation": "男性はワーキングホリデーが将来について決める助けになると思っています。",
+          "highlights": [
+            "I'm sure that would help you make up your mind about your future"
+          ],
+          "choiceAnalysis": "選択肢1「両親が賛成」→言及なし。選択肢2「キャリアに悪影響」→逆に肯定的。選択肢3「将来を決める助けになる」→正解。選択肢4「いとこのアドバイスが信頼できない」→良い経験と言っている。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Typhon was one of the most terrifying creatures in ancient Greek mythology. He was believed to be a giant whose lower body was that of a snake, and he had enormous wings. Typhon could breathe fire and create powerful storms, and he threw large rocks during battles. According to legend, Typhon had numerous offspring, many of which were fearsome creatures. They included the three-headed dog who guarded the entrance to the underworld."
+            }
+          ],
+          "question": "What is one thing that the ancient Greeks believed about Typhon?",
+          "choices": [
+            "He was the father of various monsters.",
+            "He was the ruler of the underworld.",
+            "He was feared by many gods.",
+            "He was the god of battle."
+          ],
+          "explanation": "テュポンには多くの子がおり、その多くは恐ろしい生物でした。",
+          "highlights": [
+            "Typhon had numerous offspring, many of which were fearsome creatures"
+          ],
+          "choiceAnalysis": "選択肢1「様々な怪物の父」→正解。選択肢2「冥界の支配者」→冥界入口の犬は子。選択肢3「多くの神に恐れられた」→言及なし。選択肢4「戦いの神」→言及なし。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 1
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Greek myths often helped to explain the natural world. In one story, Typhon rebelled against Zeus, the ruler of the gods, trying to take his place. After a long battle, Zeus managed to defeat him using lightning bolts and then threw Typhon into a deep hole in the ground. Zeus then placed Mt. Etna on top of him. Mt. Etna is a real volcano, so fire-breathing Typhon appears to have been an explanation for the origin of the volcano."
+            }
+          ],
+          "question": "Why was Typhon punished?",
+          "choices": [
+            "He created a giant volcano.",
+            "He stole lightning bolts from Zeus.",
+            "He climbed a holy mountain.",
+            "He tried to become the ruler of the gods."
+          ],
+          "explanation": "テュポンはゼウスに反逆し、その座を奪おうとしたため罰せられました。",
+          "highlights": [
+            "Typhon rebelled against Zeus, the ruler of the gods, trying to take his place"
+          ],
+          "choiceAnalysis": "選択肢1「火山を作った」→ゼウスが山を置いた。選択肢2「雷を盗んだ」→ゼウスが雷で攻撃。選択肢3「聖なる山に登った」→言及なし。選択肢4「神の支配者になろうとした」→正解。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 4
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Until the 1900s, it was generally thought only humans could use tools. Since then, various animals have been found to possess this ability. Among nonhumans, however, the ability to use multiple tools as a set had only been observed in some primates. But in 2021, researchers discovered that one species of cockatoo, a type of parrot, could make and use three separate tools to obtain seeds from the pits of fruit."
+            }
+          ],
+          "question": "What did the 2021 research reveal?",
+          "choices": [
+            "Cockatoos can use fruit seeds as tools.",
+            "Primates and cockatoos make similar tools.",
+            "Cockatoos can use a set of tools to achieve a goal.",
+            "Some primates use tools to compete for food."
+          ],
+          "explanation": "2021年の研究で、オウムの一種が3つの別々の道具を作って使い、果実から種を取り出せることが発見されました。",
+          "highlights": [
+            "one species of cockatoo could make and use three separate tools"
+          ],
+          "choiceAnalysis": "選択肢1「種を道具として使う」→種を得るために道具を使う。選択肢2「霊長類と同様」→初めて。選択肢3「道具セットを使える」→正解。選択肢4「霊長類の競争」→言及なし。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 3
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In a more recent study, researchers presented cockatoos with a sealed box containing a nut. Many of the birds succeeded in using multiple tools provided by the researchers to obtain the nut. When the box was put in a location that required flying or climbing to reach, many of the birds carried the tools to the box. This makes cockatoos one of only three species, including humans, known to bring tool sets to a site for future use. However, some scientists believe other animals might show the same ability if studied in similar conditions."
+            }
+          ],
+          "question": "Which animal behavior was demonstrated in the more-recent study?",
+          "choices": [
+            "Using different objects to construct a single tool.",
+            "Helping humans perform a task using tools.",
+            "Using tools to hide food from other animals.",
+            "Transporting tools to a specific location."
+          ],
+          "explanation": "オウムは箱のある場所まで道具を運んでいきました。",
+          "highlights": [
+            "many of the birds carried the tools to the box"
+          ],
+          "choiceAnalysis": "選択肢1「1つの道具を作る」→複数の道具を運ぶ。選択肢2「人間を手伝う」→言及なし。選択肢3「食べ物を隠す」→言及なし。選択肢4「特定の場所に道具を運ぶ」→正解。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 4
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thomas Edison developed a technique for recording sound in the late 1800s. One application of his invention was the phonograph, which eventually evolved into the record player. Less well-known, however, are his talking dolls, which were among the first talking dolls ever made. They contained wax records, and when the handles in their backs were turned, they played familiar children's songs or poems. Unfortunately, due to technological limitations, the words were barely understandable, and many children found the dolls frightening. Edison soon gave up on manufacturing the dolls."
+            }
+          ],
+          "question": "What was one problem with Thomas Edison's talking dolls?",
+          "choices": [
+            "Some people thought they were scary.",
+            "The handles in their backs often broke.",
+            "The songs they played were not well-known.",
+            "It was not possible to make large numbers of them."
+          ],
+          "explanation": "技術的な限界から言葉がほとんど聞き取れず、多くの子供が怖がりました。",
+          "highlights": [
+            "many children found the dolls frightening"
+          ],
+          "choiceAnalysis": "選択肢1「怖いと思われた」→正解。選択肢2「ハンドルが壊れた」→言及なし。選択肢3「知らない曲」→おなじみの曲。選択肢4「大量生産できない」→言及なし。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 1
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Though talking dolls are extremely common today, Edison's were among his greatest failures. Technology expert Carlene Stephens says the dolls are an example of the downside of racing to implement new technologies. While being first sometimes allows one to gain control of a market, it is often necessary to delay a product's launch until the technology has advanced sufficiently to make it attractive to consumers."
+            }
+          ],
+          "question": "What does Carlene Stephens suggest about the talking dolls?",
+          "choices": [
+            "They were not as advanced as people think.",
+            "They were not marketed very well.",
+            "They may have been released too early.",
+            "They should have been sold more cheaply."
+          ],
+          "explanation": "Stephensは新技術を急いで実用化するデメリットの例であり、技術が十分に進歩するまで発売を遅らせるべきだったと示唆しています。",
+          "highlights": [
+            "it is often necessary to delay a product's launch until the technology has advanced sufficiently"
+          ],
+          "choiceAnalysis": "選択肢1「思ったほど先進的でない」→言及なし。選択肢2「マーケティング不足」→言及なし。選択肢3「発売が早すぎた」→正解。選択肢4「安く売るべきだった」→言及なし。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 3
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The Middle Eastern country of Jordan has a long history of wheat cultivation, and bread has been an important part of the nation's diet for many centuries. In fact, a recent discovery suggests that bread was being made in Jordan thousands of years before anywhere else in the world. Archaeologists investigating a site in the country's Black Desert found the remains of bread they believe was baked around 14,000 years ago by the Natufian people who lived there."
+            }
+          ],
+          "question": "What is one thing the speaker says about Jordan?",
+          "choices": [
+            "Its dry climate makes growing wheat difficult.",
+            "Its people came from many parts of the world.",
+            "It may be the oldest nation in the Middle East.",
+            "It may be where bread was first made."
+          ],
+          "explanation": "ヨルダンで世界のどこよりも何千年も前にパンが作られていた可能性があります。",
+          "highlights": [
+            "bread was being made in Jordan thousands of years before anywhere else in the world"
+          ],
+          "choiceAnalysis": "選択肢1「乾燥気候」→言及なし。選択肢2「世界各地から」→言及なし。選択肢3「最古の国」→言及なし。選択肢4「パンが最初に作られた場所」→正解。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 4
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Despite Jordan's long history of breadmaking, a variety of factors, such as an influx of cheap flour from the West since the 1960s, have led to domestic wheat production all but disappearing. A community-led project known as the Al Barakeh Wheat Project is trying to reverse this trend by supporting small-scale farming operations. The project ensures that farmers get fair prices for their wheat and teaches them sustainable farming methods that do not require chemical fertilizers and pesticides."
+            }
+          ],
+          "question": "What is the main aim of the Al Barakeh Wheat Project?",
+          "choices": [
+            "To promote wheat production in Jordan.",
+            "To encourage Western countries to buy Jordanian wheat.",
+            "To introduce Western farming methods to Jordan.",
+            "To teach Jordanians the benefits of consuming bread."
+          ],
+          "explanation": "このプロジェクトは小規模農業を支援してヨルダンの小麦生産を復活させようとしています。",
+          "highlights": [
+            "trying to reverse this trend by supporting small-scale farming operations"
+          ],
+          "choiceAnalysis": "選択肢1「ヨルダンの小麦生産を促進」→正解。選択肢2「西洋に販売」→言及なし。選択肢3「西洋の農法を導入」→持続可能な農法。選択肢4「パン消費の利点」→言及なし。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 1
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "As cell phone technology continued to develop in the 1980s, there was debate over whether it would mostly operate over satellite networks or land-based networks. Satellite networks were attractive because they promised connectivity in remote parts of the world that land-based networks could not reach. However, the high cost of getting satellites into orbit and the time required to obtain government approval for launches delayed the development of satellite networks, so land-based networks took over."
+            }
+          ],
+          "question": "Why did satellite phone networks fail to become widely used in the 1980s?",
+          "choices": [
+            "The technology required to develop them was unavailable.",
+            "There were difficulties in launching satellites.",
+            "Many satellites were damaged while in orbit.",
+            "Governments in some countries banned their use."
+          ],
+          "explanation": "衛星の打ち上げコストが高く、政府の承認に時間がかかったため開発が遅れました。",
+          "highlights": [
+            "the high cost of getting satellites into orbit and the time required to obtain government approval"
+          ],
+          "choiceAnalysis": "選択肢1「技術がなかった」→コストと承認の問題。選択肢2「打ち上げの困難」→正解。選択肢3「軌道上で損傷」→言及なし。選択肢4「政府が禁止」→承認に時間。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 2
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Today, satellites have become much cheaper to launch. This has led to renewed interest in satellite networks, and major companies are already marketing smartphones that can send text messages via satellites. Experts point out, however, that connectivity anywhere in the world is still a long way off. One problem is that satellite phones experience poor connection in areas with hills or tall buildings, since a clear path to the satellite is needed for them to work well."
+            }
+          ],
+          "question": "What do some experts say about satellite phones today?",
+          "choices": [
+            "They work best in urban areas.",
+            "They will soon replace land-based phones.",
+            "Their cost makes them impractical.",
+            "Their usefulness remains limited."
+          ],
+          "explanation": "専門家は世界中どこでもつながるにはまだ遠いと指摘しています。",
+          "highlights": [
+            "connectivity anywhere in the world is still a long way off"
+          ],
+          "choiceAnalysis": "選択肢1「都市が最適」→逆にビルがあると問題。選択肢2「すぐに代替」→まだ遠い。選択肢3「コストが非実用的」→安くなった。選択肢4「有用性が限られている」→正解。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 4
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Researchers have found a possible method for detecting illegal fishing by using seabirds called albatrosses. First, they equipped albatrosses with miniature GPS devices and radar detectors. Most fishing boats use devices known as Automatic Identification Systems, or AIS, which transmit their positions to satellites. However, illegal fishing boats often shut the AIS off to hide their locations but keep their radars on for navigation. This means the birds' radar detectors can find them, and the researchers can compare data from the albatrosses with AIS data. Through these means, the researchers located many boats that were not sending out AIS signals, a sign they were probably fishing illegally."
+            }
+          ],
+          "question": "What is one thing boats that are fishing illegally often do?",
+          "choices": [
+            "They navigate without GPS.",
+            "They send false data to satellites.",
+            "They use special radars.",
+            "They turn off identification devices."
+          ],
+          "explanation": "違法漁船は位置を隠すためにAISを切ることが多いです。",
+          "highlights": [
+            "illegal fishing boats often shut the AIS off to hide their locations"
+          ],
+          "choiceAnalysis": "選択肢1「GPSなしで航行」→レーダーは使う。選択肢2「偽データを送信」→AISを切る。選択肢3「特殊レーダー」→通常のレーダー。選択肢4「識別装置を切る」→正解。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 4
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Conservationists, however, worry that illegal fishers could attempt to shoot birds approaching their vessels. The researchers, though, argue that the huge number of other bird species around each boat and the fact that albatrosses tend to remain at a distance mean this would not be a problem."
+            }
+          ],
+          "question": "What do some conservationists worry about?",
+          "choices": [
+            "Other birds could be harmed by albatrosses.",
+            "The albatrosses may eat too many fish.",
+            "People may try to harm the albatrosses.",
+            "The devices on the albatrosses may be damaged."
+          ],
+          "explanation": "保護活動家は違法漁師が船に近づく鳥を撃とうとする可能性を心配しています。",
+          "highlights": [
+            "illegal fishers could attempt to shoot birds approaching their vessels"
+          ],
+          "choiceAnalysis": "選択肢1「他の鳥が害される」→言及なし。選択肢2「魚を食べすぎる」→言及なし。選択肢3「アホウドリを傷つけようとする」→正解。選択肢4「装置が損傷」→言及なし。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "Your son, who is in fourth grade, will go on a school trip on Friday. His teacher is Ms. Klein. At a meeting for parents, the principal says the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Good afternoon, parents. As you know, this will be a joint fourth- and fifth-grade trip to Mt. Oakley. Buses will be parked outside the school entrance and will depart at 8 a.m. sharp; students should go directly to their bus without entering the school. Fourth graders will use Bus 1, and fifth graders should board Bus 2. The exception is Ms. Klein's class, which has volunteered to help load supplies into a van that will follow the buses. These students should meet in the gym at 7:30. Note that students who arrive after 8:00 will have to be driven privately to the destination by a parent or guardian."
+            }
+          ],
+          "question": "What should your son do first on Friday morning?",
+          "choices": [
+            "Get on Bus 1.",
+            "Get on Bus 2.",
+            "Go to the school gym.",
+            "Ride with you to Mt. Oakley."
+          ],
+          "explanation": "息子は4年生でMs. Kleinのクラス→荷物積み込みのボランティアで7:30に体育館集合。",
+          "highlights": [
+            "Ms. Klein's class, which has volunteered to help load supplies",
+            "These students should meet in the gym at 7:30"
+          ],
+          "choiceAnalysis": "選択肢1「Bus 1に乗る」→通常の4年生だが、Kleinクラスは例外。選択肢2「Bus 2に乗る」→5年生。選択肢3「体育館に行く」→正解。Kleinクラスは体育館集合。選択肢4「親が運転」→8時以降に到着した場合。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 3
+        },
+        {
+          "number": 26,
+          "situation": "You are at a teaching conference. You want to learn more about testing and marking assignments. You hear the following announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "We have four different lectures for you to choose from this morning. Manal Abad will be discussing the latest theories about motivating young learners, especially those with learning disabilities. Yukari Hatayama will present her research into evaluation and assessment methods, including examinations. We also have Martin Halpern's talk about improving classroom discipline. And another option is strategies for engaging students during remote learning. That will be given by Antonio Rossi. Please consult your programs for the room numbers."
+            }
+          ],
+          "question": "Whose lecture should you attend?",
+          "choices": [
+            "Manal Abad's.",
+            "Yukari Hatayama's.",
+            "Martin Halpern's.",
+            "Antonio Rossi's."
+          ],
+          "explanation": "テストと採点について学びたい→Yukari Hatayamaの「評価と試験方法」の講義が最適。",
+          "highlights": [
+            "Yukari Hatayama will present her research into evaluation and assessment methods, including examinations"
+          ],
+          "choiceAnalysis": "選択肢1「Abad」→学習障害の動機付け。選択肢2「Hatayama」→正解。評価・試験方法。選択肢3「Halpern」→教室の規律。選択肢4「Rossi」→遠隔学習。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 2
+        },
+        {
+          "number": 27,
+          "situation": "The train you are traveling on has stopped between stations, and you hear the following announcement. You have an important meeting in Pickford at eleven o'clock.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "We're sorry for the delay. We'll be moving again soon, but due to a fallen tree on the track, this train will only go as far as Pickford. For passengers going beyond Pickford, please get off at Dewsbury, which is the next stop. A complimentary bus service from there will stop at all stations until Wexford, which is the end of the line. Passengers traveling to Filburn and Pickford can stay on the train. However, we're expecting progress to be slow, so we recommend using the bus service if you're in a hurry. We estimate the train will arrive in Pickford at 11:15."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Take a bus from the next stop.",
+            "Take a bus from Filburn.",
+            "Stay on the train until Pickford.",
+            "Stay on the train until the end of the line."
+          ],
+          "explanation": "Pickfordに11時に会議→電車は11:15着で遅い→急いでいるなら次の駅Dewsburyでバスに乗ることを推奨。",
+          "highlights": [
+            "we recommend using the bus service if you're in a hurry",
+            "the train will arrive in Pickford at 11:15"
+          ],
+          "choiceAnalysis": "選択肢1「次の駅からバス」→正解。11時より前に着ける。選択肢2「Filburnからバス」→Filburnは電車でのみ。選択肢3「電車でPickford」→11:15着で遅い。選択肢4「終点まで」→Pickfordが目的地。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 1
+        },
+        {
+          "number": 28,
+          "situation": "It is Monday. You call your local dentist's office to book a checkup. You work every weekday from 10 a.m. to 4 p.m. The receptionist tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "We've been busy, so we don't have many openings in the near future. We've just had a cancellation for tomorrow morning at 10:30, so I could fit you in then with your usual dentist, Dr. James. I've also got an opening with Dr. Manganiello on Thursday at 7:45 a.m. Oh, it looks like Dr. Shah has had a cancellation today, so we could fit you in with her at noon. Let's see. If none of those work for you, I could probably get you in to see Dr. Manilow this Friday at 3; you'd be his last appointment for the day."
+            }
+          ],
+          "question": "Which dentist should you see?",
+          "choices": [
+            "Dr. James.",
+            "Dr. Manganiello.",
+            "Dr. Shah.",
+            "Dr. Manilow."
+          ],
+          "explanation": "平日10時〜16時勤務→Dr. James明日10:30→仕事中。Dr. Shah今日正午→仕事中。Dr. Manilow金曜15時→仕事中。Dr. Manganiello木曜7:45→仕事前でOK。",
+          "highlights": [
+            "Dr. Manganiello on Thursday at 7:45 a.m."
+          ],
+          "choiceAnalysis": "選択肢1「Dr. James」→10:30は仕事中。選択肢2「Dr. Manganiello」→正解。7:45は仕事前。選択肢3「Dr. Shah」→正午は仕事中。選択肢4「Dr. Manilow」→15時は仕事中。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 2
+        },
+        {
+          "number": 29,
+          "situation": "You will take a two-day road trip with your young children, so you need to book a hotel for one night. A friend tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "You should spend the night in Clairville, the halfway point. There are some hotels on the main road. The Waverton Inn is good; it has a nice restaurant. There's live music at night, though, which could make putting the kids to bed difficult, as you can hear it from the rooms. I also like the Ridge Motel. It's next door to the Waverton, but you can't hear the noise from the restaurant. It's too bad the Mountain View Motel closed down recently; they had a kids' playroom and comfortable beds. I'd also recommend Palm Village Suites, but they only accept adult guests."
+            }
+          ],
+          "question": "Where should you spend the night?",
+          "choices": [
+            "The Waverton Inn.",
+            "The Ridge Motel.",
+            "The Mountain View Motel.",
+            "Palm Village Suites."
+          ],
+          "explanation": "小さな子供連れ→Waverton Inn→夜のライブ音楽で子供の就寝が困難。Mountain View→閉業。Palm Village→大人のみ。Ridge Motel→隣だが音が聞こえない→最適。",
+          "highlights": [
+            "the Ridge Motel",
+            "you can't hear the noise from the restaurant"
+          ],
+          "choiceAnalysis": "選択肢1「Waverton Inn」→ライブ音楽が子供に問題。選択肢2「Ridge Motel」→正解。静か。選択肢3「Mountain View」→閉業。選択肢4「Palm Village」→大人のみ。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

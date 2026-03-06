@@ -1,0 +1,936 @@
+{
+  "title": "2024年度 第3回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I'd like to return this shirt and get my money back, please. Here's my receipt."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm sorry, but our return policy states that we can only do that for items brought back within thirty days. This receipt is from five weeks ago."
+            },
+            {
+              "speaker": "female",
+              "text": "I don't see what difference a few days makes. Can't you overlook it this time?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'm afraid not, but we can offer you store credit or exchange the shirt for another item."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, if that's the best you can do, I'll take the credit."
+            }
+          ],
+          "question": "Why is the woman annoyed?",
+          "choices": [
+            "The store clerk charged her too much.",
+            "The shirt was damaged when she bought it.",
+            "The store will not give her a refund.",
+            "The shirt she ordered has not arrived."
+          ],
+          "explanation": "女性は返金を求めましたが、30日の返品期限を過ぎているため返金を受けられません。",
+          "highlights": [
+            "our return policy states that we can only do that for items brought back within thirty days"
+          ],
+          "choiceAnalysis": "選択肢1「高く請求された」→言及なし。選択肢2「購入時に破損」→言及なし。選択肢3「返金を受けられない」→正解。選択肢4「届いていない」→持参している。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 3
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Could I get some advice? I need to find a new apartment after I graduate, but I'm unsure which neighborhoods to look at."
+            },
+            {
+              "speaker": "female",
+              "text": "Why don't you just get an apartment near the university?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'm not sure I could afford the rent there."
+            },
+            {
+              "speaker": "female",
+              "text": "You know, I think one of my friend's roommates is moving out at the end of the semester. You would only pay one-third of the rent. I can introduce you to each other."
+            },
+            {
+              "speaker": "male",
+              "text": "That would be great. Thanks."
+            }
+          ],
+          "question": "What will the woman do?",
+          "choices": [
+            "Introduce the man to a friend.",
+            "Let the man move into her apartment.",
+            "Loan the man money for an apartment.",
+            "Choose a neighborhood for the man."
+          ],
+          "explanation": "女性は友人のルームメイトが引っ越すので、男性を紹介すると言っています。",
+          "highlights": [
+            "I can introduce you to each other"
+          ],
+          "choiceAnalysis": "選択肢1「友人を紹介する」→正解。選択肢2「自分のアパートに住まわせる」→友人のアパート。選択肢3「お金を貸す」→言及なし。選択肢4「近所を選ぶ」→言及なし。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 1
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Did you like the movie?"
+            },
+            {
+              "speaker": "female",
+              "text": "To be honest, I much preferred the book because it was so much clearer about what the characters were thinking."
+            },
+            {
+              "speaker": "male",
+              "text": "That's almost always true. An author can write many pages describing characters' thoughts, but audiences have to rely on actors' abilities to show feelings in a film."
+            },
+            {
+              "speaker": "female",
+              "text": "Exactly. The filmmakers also changed the ending quite a bit, and they cut out important sections of the story."
+            },
+            {
+              "speaker": "male",
+              "text": "I enjoyed the film, personally. I guess I'm lucky I didn't read the book."
+            }
+          ],
+          "question": "What is one thing the woman says about the movie?",
+          "choices": [
+            "The story was different from the book.",
+            "It should have been shorter.",
+            "The filmmakers disliked the book.",
+            "It added too many characters."
+          ],
+          "explanation": "女性は映画が結末をかなり変え、物語の重要な部分を削ったと言っています。",
+          "highlights": [
+            "The filmmakers also changed the ending quite a bit, and they cut out important sections of the story"
+          ],
+          "choiceAnalysis": "選択肢1「本と違うストーリー」→正解。結末を変え、重要部分を削除。選択肢2「もっと短くすべき」→言及なし。選択肢3「映画製作者が本を嫌い」→言及なし。選択肢4「キャラを追加しすぎ」→言及なし。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 1
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "It's nearly spring already. Have you ordered seeds for your vegetable garden?"
+            },
+            {
+              "speaker": "male",
+              "text": "You know, between the cost of the seeds and supplies and the work I put in, I've decided it's not worth it."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? But home-grown vegetables taste so much better than store-bought vegetables."
+            },
+            {
+              "speaker": "male",
+              "text": "I can get great produce at the farmers' market every week."
+            },
+            {
+              "speaker": "female",
+              "text": "But I always thought you enjoyed working in the garden."
+            },
+            {
+              "speaker": "male",
+              "text": "It does have its moments. To be honest, though, I'd much rather be out on the golf course."
+            }
+          ],
+          "question": "What does the man tell the woman?",
+          "choices": [
+            "Home-grown vegetables are economical.",
+            "Farmers' market produce is too expensive.",
+            "Gardening is not an enjoyable activity.",
+            "He prefers another hobby to gardening."
+          ],
+          "explanation": "男性はゴルフコースにいる方がずっといいと言い、ガーデニングよりゴルフを好むことを示しています。",
+          "highlights": [
+            "I'd much rather be out on the golf course"
+          ],
+          "choiceAnalysis": "選択肢1「自家栽培は経済的」→割に合わないと言っている。選択肢2「農産物市場は高い」→言及なし。選択肢3「ガーデニングは楽しくない」→楽しい瞬間もあると認めている。選択肢4「別の趣味を好む」→正解。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 4
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "What did the dentist say about your tooth, honey?"
+            },
+            {
+              "speaker": "male",
+              "text": "He recommends pulling it and putting in an implant."
+            },
+            {
+              "speaker": "female",
+              "text": "When's that going to happen?"
+            },
+            {
+              "speaker": "male",
+              "text": "He's booked for a while, so I didn't make an appointment. Actually, I was thinking of having your dentist take a look at it. Maybe she'd have another suggestion."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, you should. She's great at keeping pain to a minimum, and the costs are reasonable."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm not so worried about the cost, but I'd like to save the tooth if at all possible."
+            }
+          ],
+          "question": "Why does the man want to see his wife's dentist?",
+          "choices": [
+            "To get a second opinion.",
+            "His dentist does not do implants.",
+            "To spend less on the surgery.",
+            "He is worried about pain."
+          ],
+          "explanation": "男性は別の提案があるかもしれないと考え、妻の歯科医に診てもらいたいと思っています（セカンドオピニオン）。",
+          "highlights": [
+            "Maybe she'd have another suggestion",
+            "I'd like to save the tooth if at all possible"
+          ],
+          "choiceAnalysis": "選択肢1「セカンドオピニオン」→正解。別の提案を求めている。選択肢2「インプラントをしない」→言及なし。選択肢3「費用を抑える」→費用は心配していない。選択肢4「痛みが心配」→言及していない。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 1
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Professor, are you free to talk about my midterm exam results?"
+            },
+            {
+              "speaker": "male",
+              "text": "Of course. I have office hours today from two to four. You could stop by then."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks. Should I bring my notes or the textbook?"
+            },
+            {
+              "speaker": "male",
+              "text": "Bring your exam and something to write with."
+            },
+            {
+              "speaker": "female",
+              "text": "I'm not sure if I have my exam. I couldn't find it in my room this morning."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, it'll be tough to talk about the exam without seeing your answers. Maybe you should take another look."
+            },
+            {
+              "speaker": "female",
+              "text": "OK."
+            }
+          ],
+          "question": "What will the woman likely do next?",
+          "choices": [
+            "Take an exam.",
+            "Search her room.",
+            "Borrow a textbook.",
+            "Visit her professor."
+          ],
+          "explanation": "教授は答案がないと話し合えないので、もう一度探すよう提案し、女性は了承しました。",
+          "highlights": [
+            "Maybe you should take another look"
+          ],
+          "choiceAnalysis": "選択肢1「試験を受ける」→中間試験の結果の話。選択肢2「部屋を探す」→正解。答案を探す。選択肢3「教科書を借りる」→言及なし。選択肢4「教授を訪問」→まず答案を見つけてから。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 2
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Alice, I wanted to talk to you about my contract. It expires on April 1st."
+            },
+            {
+              "speaker": "female",
+              "text": "I've already talked to personnel, and they're optimistic about having you continue."
+            },
+            {
+              "speaker": "male",
+              "text": "When will you know for certain?"
+            },
+            {
+              "speaker": "female",
+              "text": "Not until February or March. They want to see what our needs will be first."
+            },
+            {
+              "speaker": "male",
+              "text": "That could be an issue. I've had a couple of other offers, and I'm reluctant to turn them down unless I'm certain of my future here."
+            },
+            {
+              "speaker": "female",
+              "text": "I understand. I'll try to hurry things up, then. We'd hate to lose you."
+            }
+          ],
+          "question": "Why is the man concerned?",
+          "choices": [
+            "His contract may not be renewed.",
+            "He has not heard about his promotion.",
+            "His manager is not satisfied with him.",
+            "His new job will start in March."
+          ],
+          "explanation": "契約が4月に切れるが、更新が確定していない。他のオファーもあり不安です。",
+          "highlights": [
+            "It expires on April 1st",
+            "I'm reluctant to turn them down unless I'm certain of my future here"
+          ],
+          "choiceAnalysis": "選択肢1「契約が更新されないかも」→正解。選択肢2「昇進の知らせがない」→契約更新の話。選択肢3「上司が不満」→楽観的と言っている。選択肢4「新しい仕事が3月に始まる」→他のオファーがある。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 1
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Have you used the vacuum cleaner recently?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah, I cleaned the basement with it yesterday. Why?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I was just cleaning the living room, and it started shooting out dirt everywhere."
+            },
+            {
+              "speaker": "male",
+              "text": "I did clean up a lot of stuff off the floor, but nothing that might have broken the machine."
+            },
+            {
+              "speaker": "female",
+              "text": "You know this happens when the bag is too full. And you do know where the extra bags are, right?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, in the laundry room. Let me take care of it."
+            }
+          ],
+          "question": "What does the woman imply?",
+          "choices": [
+            "The man should have changed the bag.",
+            "The man ought to buy more bags.",
+            "The man may have broken the vacuum cleaner.",
+            "The man needs to clean the basement again."
+          ],
+          "explanation": "女性はバッグがいっぱいの時にこうなると言い、男性がバッグを交換すべきだったことを暗に示しています。",
+          "highlights": [
+            "You know this happens when the bag is too full"
+          ],
+          "choiceAnalysis": "選択肢1「バッグを交換すべきだった」→正解。選択肢2「バッグを買う」→予備がある。選択肢3「掃除機を壊した」→バッグの問題。選択肢4「地下室を再掃除」→言及なし。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 1
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "You know, Margaret and I were talking, and we were thinking it would be nice if all the members were allowed to personalize their spaces in the community garden."
+            },
+            {
+              "speaker": "female",
+              "text": "You mean, like putting up decorations or fences or something?"
+            },
+            {
+              "speaker": "male",
+              "text": "Exactly. I've been wanting to add some lighting myself."
+            },
+            {
+              "speaker": "female",
+              "text": "Hmm. You know how conservative David is, and without his approval, it'll never happen."
+            },
+            {
+              "speaker": "male",
+              "text": "You're right. Maybe we should talk with some other people and see if we can think of a way to convince him."
+            }
+          ],
+          "question": "What does the woman imply about David?",
+          "choices": [
+            "He is not good at gardening.",
+            "He does not like trying new things.",
+            "He does not get along with other members.",
+            "He has been damaging the garden's facilities."
+          ],
+          "explanation": "女性はDavidが保守的だと述べており、新しいことを試すのが好きではないことを暗示しています。",
+          "highlights": [
+            "You know how conservative David is"
+          ],
+          "choiceAnalysis": "選択肢1「ガーデニングが下手」→言及なし。選択肢2「新しいことが嫌い」→正解。保守的。選択肢3「他のメンバーと合わない」→言及なし。選択肢4「施設を損傷」→言及なし。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 2
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Sergio? Parvati here. NTC Electronics is complaining about the last shipment of parts they received from us."
+            },
+            {
+              "speaker": "male",
+              "text": "I just heard. It sounds like we should get the team together to discuss this."
+            },
+            {
+              "speaker": "female",
+              "text": "OK. Things are pretty hectic, though, so can we keep it brief?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure. I don't think this is anything major."
+            },
+            {
+              "speaker": "female",
+              "text": "That's a relief. I've been a bit worried about it."
+            },
+            {
+              "speaker": "male",
+              "text": "I'll send out an e-mail to everyone involved."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks."
+            }
+          ],
+          "question": "What request does the woman make?",
+          "choices": [
+            "She wants the man to contact the client.",
+            "She wants the meeting to be short.",
+            "She wants help writing an e-mail.",
+            "She wants the man to check the shipment."
+          ],
+          "explanation": "女性は忙しいので会議を手短にしてほしいと頼んでいます。",
+          "highlights": [
+            "can we keep it brief?"
+          ],
+          "choiceAnalysis": "選択肢1「クライアントに連絡」→言及なし。選択肢2「会議を短く」→正解。選択肢3「メール作成の手伝い」→言及なし。選択肢4「出荷を確認」→言及なし。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 2
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Have you been playing that Kingsquare game you got for Christmas much?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah. It's really complex, and it took us forever to figure out. But it was well worth it."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm thinking about giving it a try, too."
+            },
+            {
+              "speaker": "female",
+              "text": "Do you like Strategy Sphere? It's pretty similar."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, my wife and I played that a lot last year. I loved the fancy artwork on the board and the cards."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, Kingsquare is a lot plainer, but it's just as enjoyable."
+            }
+          ],
+          "question": "What is one thing that the woman says about Kingsquare?",
+          "choices": [
+            "It is not as fun as Strategy Sphere.",
+            "It has a fancy board and cards.",
+            "It takes time to learn how to play.",
+            "It gets boring after a few plays."
+          ],
+          "explanation": "女性はKingsquareを理解するのにとても時間がかかったと言っています。",
+          "highlights": [
+            "it took us forever to figure out"
+          ],
+          "choiceAnalysis": "選択肢1「Strategy Sphereほど楽しくない」→同じくらい楽しい。選択肢2「豪華なボードとカード」→地味。選択肢3「遊び方を覚えるのに時間がかかる」→正解。選択肢4「数回で飽きる」→言及なし。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 3
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Amanda, when you make your speech at the community center, I'd like you to emphasize how the tutoring programs have helped improve the children's academic results."
+            },
+            {
+              "speaker": "female",
+              "text": "Sure, I was definitely planning to do that."
+            },
+            {
+              "speaker": "male",
+              "text": "And it's probably better to avoid the subject of Mr. Jefferson resigning last June."
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, I know some people were upset about how the hiring of his replacement was handled."
+            },
+            {
+              "speaker": "male",
+              "text": "OK, well, good luck with your speech. I'm looking forward to hearing it tomorrow night."
+            }
+          ],
+          "question": "What is one piece of advice that the man gives to the woman?",
+          "choices": [
+            "To explain the center's new hiring policy.",
+            "To thank Mr. Jefferson for his support.",
+            "To apologize to the people who were upset.",
+            "To talk about the tutoring programs' success."
+          ],
+          "explanation": "男性はチュータリングプログラムが子供たちの学業成績をどれだけ向上させたかを強調するよう助言しています。",
+          "highlights": [
+            "I'd like you to emphasize how the tutoring programs have helped improve the children's academic results"
+          ],
+          "choiceAnalysis": "選択肢1「採用方針を説明」→避けるべき話題。選択肢2「Jefferson氏に感謝」→言及なし。選択肢3「謝罪」→言及なし。選択肢4「チュータリングの成功を話す」→正解。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "It is commonly believed that being aggressive and bossy helps workers get promoted to top positions. According to a survey of 610 business leaders and their coworkers, however, there is another way to achieve such success in the workplace: being humble. By admitting their own mistakes and praising fellow workers, humble people develop a network of coworkers who trust and respect them. This gives them a higher status in the office, which their superiors recognize and reward with promotion."
+            }
+          ],
+          "question": "According to the survey, what can help people advance their careers?",
+          "choices": [
+            "Developing supportive relationships with coworkers.",
+            "Openly communicating their desire to be promoted.",
+            "Pointing out mistakes made by their superiors.",
+            "Seeking advice from people outside their company."
+          ],
+          "explanation": "謙虚な人は同僚のネットワークを築き、信頼と尊敬を得て昇進につながります。",
+          "highlights": [
+            "humble people develop a network of coworkers who trust and respect them"
+          ],
+          "choiceAnalysis": "選択肢1「同僚との支持的な関係を築く」→正解。選択肢2「昇進したいと伝える」→言及なし。選択肢3「上司の間違いを指摘」→言及なし。選択肢4「社外にアドバイスを求める」→言及なし。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 1
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The researchers say that when dominant leaders make mistakes, they aren't forgiven as easily as humble leaders are. Therefore, they could be at greater risk of being removed from their positions. The researchers suggest that companies take steps to encourage leaders to be humble. For example, humble behavior can be rewarded through performance evaluations. Additionally, human resources teams can organize leadership training programs that encourage people to maintain a humble attitude."
+            }
+          ],
+          "question": "What do the researchers say about dominant leaders?",
+          "choices": [
+            "They should join human resources teams.",
+            "Their positions could be less secure.",
+            "They are especially likely to make errors.",
+            "Their mistakes are often ignored by others."
+          ],
+          "explanation": "支配的なリーダーはミスを犯した時に許されにくく、地位を失うリスクが高い。",
+          "highlights": [
+            "they could be at greater risk of being removed from their positions"
+          ],
+          "choiceAnalysis": "選択肢1「人事に参加すべき」→言及なし。選択肢2「地位が不安定かも」→正解。選択肢3「ミスしやすい」→許されにくいだけ。選択肢4「ミスが無視される」→逆。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 2
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Numerous Viking legends feature female figures called Valkyries. They were often described as being fierce women armed with spears who had magical powers. The Valkyries were believed to serve a powerful god named Odin and to escort warriors who lost their lives in battle to a magical place called Valhalla. Viking warriors also thought that the Valkyries could influence the outcome of a battle and protect the lives of warriors who earned their favor."
+            }
+          ],
+          "question": "What did Viking warriors believe about Valkyries?",
+          "choices": [
+            "The Valkyries could keep them safe in battle.",
+            "The Valkyries were more powerful than Odin.",
+            "The Valkyries helped to build Valhalla.",
+            "The Valkyries lived for many centuries."
+          ],
+          "explanation": "ヴァイキングの戦士たちは、ヴァルキリーが戦いの結果に影響を与え、気に入った戦士の命を守ることができると信じていました。",
+          "highlights": [
+            "protect the lives of warriors who earned their favor"
+          ],
+          "choiceAnalysis": "選択肢1「戦いで安全を守る」→正解。選択肢2「オーディンより強い」→オーディンに仕えている。選択肢3「ヴァルハラ建設を手伝った」→言及なし。選択肢4「何世紀も生きた」→言及なし。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 1
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Experts think that myths about the Valkyries evolved over the centuries. Evidence suggests that before the myths were written down, the Valkyries were likely seen as evil creatures who transported men killed in battle to the underworld. Other myths said they were daughters of Odin. Later written records describe them as human women who had been given magical powers."
+            }
+          ],
+          "question": "What is one thing that experts believe about the Valkyrie legends?",
+          "choices": [
+            "Some were based on actual people's lives.",
+            "They were originally much longer.",
+            "Some were written by women.",
+            "They changed over time."
+          ],
+          "explanation": "専門家はヴァルキリーの神話が何世紀にもわたって変化してきたと考えています。",
+          "highlights": [
+            "myths about the Valkyries evolved over the centuries"
+          ],
+          "choiceAnalysis": "選択肢1「実在の人物に基づく」→言及なし。選択肢2「元々もっと長かった」→言及なし。選択肢3「女性が書いた」→言及なし。選択肢4「時間とともに変化した」→正解。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 4
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In 1975, Lee Elder made golfing history at the Masters Tournament in the United States. Elder did not win but became the first African American to play in the world-famous event. Elder's parents died when he was young, and he dropped out of high school and worked as a golf caddie, carrying other players' clubs. During this time, he learned more about golf. After an instructor helped him improve his game, he entered tournaments open to Black players and won many."
+            }
+          ],
+          "question": "What is one thing the speaker says about the young Lee Elder?",
+          "choices": [
+            "He failed to win any tournaments.",
+            "He used his salary as a caddie to pay for school.",
+            "He preferred to learn without an instructor.",
+            "He learned about golf while working as a caddie."
+          ],
+          "explanation": "Elderはゴルフキャディーとして働きながらゴルフについて学びました。",
+          "highlights": [
+            "he dropped out of high school and worked as a golf caddie",
+            "During this time, he learned more about golf"
+          ],
+          "choiceAnalysis": "選択肢1「トーナメントに勝てなかった」→多くのトーナメントで勝利。選択肢2「キャディーの給料で学費」→退学した。選択肢3「インストラクターなしで学びたい」→インストラクターに助けてもらった。選択肢4「キャディー中にゴルフを学ぶ」→正解。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 4
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Until 1961, Black golfers were banned from the biggest tournaments, which were run by an organization called the PGA. After the ban was lifted, Elder played in PGA tournaments. His first victory qualified him to appear at the 1975 Masters Tournament, one of the biggest competitions in the world. After his long career, Elder continued to push for equality by supporting various educational programs. A short time before his death, a golf scholarship for young people was also founded in his name."
+            }
+          ],
+          "question": "What did Elder do after retiring from golf?",
+          "choices": [
+            "He opened his own golf school.",
+            "He helped provide educational opportunities to others.",
+            "He started playing other sports.",
+            "He bought a golf course for young golfers to practice on."
+          ],
+          "explanation": "引退後、Elderは様々な教育プログラムを支援して平等を推進し続けました。",
+          "highlights": [
+            "Elder continued to push for equality by supporting various educational programs"
+          ],
+          "choiceAnalysis": "選択肢1「ゴルフスクールを開設」→言及なし。選択肢2「教育機会を提供」→正解。選択肢3「他のスポーツ」→言及なし。選択肢4「ゴルフコースを購入」→言及なし。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 2
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Anger is an emotion that affects most people throughout their lives. One commonly accepted theory in psychology encourages people to deal with anger by outwardly expressing it—for example, by shouting into a pillow or clenching their fists. However, a 2024 study that examined past research found such behavior could actually make feelings of anger more intense. Surprisingly, this includes seemingly healthier tactics, such as hitting a punching bag at the gym or even going jogging."
+            }
+          ],
+          "question": "What does the speaker say about the findings of the 2024 study?",
+          "choices": [
+            "They apply mainly to people who exercise regularly.",
+            "They show that jogging can reduce anger.",
+            "They suggest anger can have positive effects.",
+            "They disagree with a widely accepted theory."
+          ],
+          "explanation": "2024年の研究は、怒りを外に表現する一般的な理論に反し、そのような行動が実際には怒りを強めることを発見しました。",
+          "highlights": [
+            "a 2024 study",
+            "found such behavior could actually make feelings of anger more intense"
+          ],
+          "choiceAnalysis": "選択肢1「定期的に運動する人向け」→言及なし。選択肢2「ジョギングが怒りを減らす」→逆。選択肢3「怒りに良い効果」→言及なし。選択肢4「広く受け入れられた理論に反する」→正解。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 4
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The researchers found the best way to relieve anger was to engage in activities that have a calming effect—essentially, those that reduce heart rate and blood pressure. These include many of the same activities often recommended for stress management, such as meditation and controlled breathing. One exception, however, seemed to be playing ball sports. The researchers believe such sports may relieve anger by encouraging positive emotions through playful group interactions."
+            }
+          ],
+          "question": "What is one thing the researchers discovered about anger?",
+          "choices": [
+            "It can be relieved by playing certain sports.",
+            "Common meditation practices can make it worse.",
+            "It does not always raise heart rate and blood pressure.",
+            "Its effects on health are greatest among athletes."
+          ],
+          "explanation": "ボールスポーツは遊び心のあるグループ活動を通じて前向きな感情を促すことで怒りを和らげる可能性があります。",
+          "highlights": [
+            "One exception, however, seemed to be playing ball sports"
+          ],
+          "choiceAnalysis": "選択肢1「特定のスポーツで和らぐ」→正解。選択肢2「瞑想が悪化させる」→推奨されている。選択肢3「心拍数を上げない」→言及なし。選択肢4「アスリートへの影響が最大」→言及なし。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 1
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The Scottish poet and author Sir Walter Scott is considered by many to be the pioneer of historical romance novels. He published many successful books during the 1800s, and a statue in Edinburgh honors his contribution to literature. However, the discovery of the private letters of two English authors, Jane and Anna Maria Porter, revealed that Scott used plots and writing methods that were taken from novels the sisters had published years before."
+            }
+          ],
+          "question": "What is one thing the speaker says about Jane and Anna Maria Porter?",
+          "choices": [
+            "They were originally from Scotland.",
+            "A statue of them will be put in Edinburgh.",
+            "They were fans of Sir Walter Scott's books.",
+            "Sir Walter Scott copied ideas from their books."
+          ],
+          "explanation": "Scottは姉妹が以前に出版した小説からプロットや執筆方法を取ったことが明らかになりました。",
+          "highlights": [
+            "Scott used plots and writing methods that were taken from novels the sisters had published years before"
+          ],
+          "choiceAnalysis": "選択肢1「スコットランド出身」→イングランドの作家。選択肢2「像が建てられる」→Scottの像。選択肢3「Scottのファン」→言及なし。選択肢4「Scottがアイデアをコピー」→正解。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 4
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In fact, imitating the work of other writers was not unusual at the time, and it was generally accepted as long as authors acknowledged where their ideas came from. Scott never did this, which angered Jane so much that she publicly challenged him about it. However, the literary world took Scott's side, and Jane's accusation was dismissed. This damaged the sisters' reputations, and as Scott's novels became more popular, theirs were largely forgotten."
+            }
+          ],
+          "question": "What is true of the literary world?",
+          "choices": [
+            "It celebrated the work of the Porter sisters.",
+            "It banned Sir Walter Scott's work.",
+            "It rejected Jane Porter's claim.",
+            "It attempted to prevent imitation."
+          ],
+          "explanation": "文学界はScottの味方をし、Janeの告発を退けました。",
+          "highlights": [
+            "the literary world took Scott's side, and Jane's accusation was dismissed"
+          ],
+          "choiceAnalysis": "選択肢1「姉妹の作品を称賛」→忘れられた。選択肢2「Scottの作品を禁止」→言及なし。選択肢3「Janeの主張を退けた」→正解。選択肢4「模倣を防ごうとした」→当時は受け入れられていた。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 3
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In recent decades, researchers have noticed a decline in populations of water birds called loons in lakes in the US state of Wisconsin. A recent study found this was linked to a decrease in water clarity, which has made it harder for the loons to see and catch fish below the surface. The researchers say climate change has caused increased rainfall, which has likely resulted in organic matter flowing into the water from shorelines and decreasing visibility."
+            }
+          ],
+          "question": "According to researchers, why are loon populations in Wisconsin declining?",
+          "choices": [
+            "Poisonous substances have entered their habitat.",
+            "Water conditions have made hunting more difficult.",
+            "Climate change has helped their predators survive.",
+            "Water levels in lakes have been decreasing."
+          ],
+          "explanation": "水の透明度の低下により、アビが水面下の魚を見て捕まえることが困難になりました。",
+          "highlights": [
+            "a decrease in water clarity, which has made it harder for the loons to see and catch fish"
+          ],
+          "choiceAnalysis": "選択肢1「有毒物質」→有機物。選択肢2「水の状態が狩りを困難に」→正解。選択肢3「捕食者を助ける」→言及なし。選択肢4「水位が低下」→透明度の問題。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 2
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The researchers also noted the body mass of loon chicks had decreased. They believe this is because rainfall increased in July, the month when loon chicks need to undergo the most growth. The researchers note that since loons' hunting behavior is consistent worldwide, the same problem is likely to occur anywhere rainfall amounts are expected to increase. The study highlights the need for further research on how climate change might impact wildlife."
+            }
+          ],
+          "question": "What do the researchers say about the problem faced by the loons?",
+          "choices": [
+            "It is probably not limited to one region.",
+            "It is mainly affecting adults in loon populations.",
+            "The birds will likely adapt to environmental changes.",
+            "The decrease in body mass could be unrelated to it."
+          ],
+          "explanation": "アビの狩猟行動は世界共通なので、降水量が増える場所ならどこでも同じ問題が起こる可能性があります。",
+          "highlights": [
+            "the same problem is likely to occur anywhere rainfall amounts are expected to increase"
+          ],
+          "choiceAnalysis": "選択肢1「一地域に限らない」→正解。選択肢2「主に成鳥に影響」→ヒナの体重減少。選択肢3「適応する」→言及なし。選択肢4「体重減少は無関係」→関連がある。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You have just arrived at a natural history museum. You bought tickets online for both general admission and the special exhibit on Saturn. An employee makes the following announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Attention visitors! If you already have your general admission ticket and will not see a special exhibit, proceed to Entrance A. If you have both a general admission ticket and a special exhibit ticket, proceed to Entrance B at the far end of the reception hall. Please note the Saturn exhibit has been canceled due to technical problems; we apologize for the inconvenience. If you have already purchased a ticket for this exhibit, speak to the staff at the reception window. If you are here to see a special exhibit only, proceed to the second floor. Thank you for cooperating."
+            }
+          ],
+          "question": "Where should you go?",
+          "choices": [
+            "Entrance A.",
+            "Entrance B.",
+            "The reception window.",
+            "The second floor."
+          ],
+          "explanation": "土星展はキャンセルされたので、既にチケットを購入している場合は受付窓口のスタッフに相談する必要があります。",
+          "highlights": [
+            "the Saturn exhibit has been canceled",
+            "If you have already purchased a ticket for this exhibit, speak to the staff at the reception window"
+          ],
+          "choiceAnalysis": "選択肢1「入口A」→特別展なしの一般入場。選択肢2「入口B」→特別展のチケットがある場合だがキャンセル済み。選択肢3「受付窓口」→正解。キャンセルされた展示のチケット購入者。選択肢4「2階」→特別展のみの人。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 3
+        },
+        {
+          "number": 26,
+          "situation": "You are at the information desk at your hotel. You want to eat at a Mexican restaurant. You would like to try real Mexican food, and you want good service. The concierge tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "First, there's La Fiesta. It's great if you're on a budget, and the food is quite authentic. I did find the servers rather impolite, though. Next is El Amigo. The owners are from Mexico, but they've altered a lot of the dishes to suit local tastes. Fortunately, the food is fabulous. If you don't mind a place with unattractive decor, head to La Luna. It's completely authentic, and the service is superb. Finally, there's El Mariachi. It serves traditional Mexican food, and at one time, the service was fantastic. Unfortunately, the quality of the service has declined a lot recently."
+            }
+          ],
+          "question": "Which restaurant should you go to?",
+          "choices": [
+            "La Fiesta.",
+            "El Amigo.",
+            "La Luna.",
+            "El Mariachi."
+          ],
+          "explanation": "本格的なメキシコ料理と良いサービスの両方を求めている→La Lunaは完全に本格的でサービスも素晴らしい。",
+          "highlights": [
+            "La Luna. It's completely authentic, and the service is superb"
+          ],
+          "choiceAnalysis": "選択肢1「La Fiesta」→本格的だがサービスが失礼。選択肢2「El Amigo」→地元の味にアレンジ。選択肢3「La Luna」→正解。本格的でサービスも素晴らしい。選択肢4「El Mariachi」→サービスが低下。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 3
+        },
+        {
+          "number": 27,
+          "situation": "You visit a local drugstore and want to stock up on bathroom cleaning goods. You have the store's app on your phone. You hear the following announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome to JD Drugs. Today, we have some fantastic New Year deals. On the first floor, explore our range of electric toothbrushes, hair dryers, and razors—all 10 percent off. You can get another 5 percent off just by getting a friend to download the JD app! Next, we have bargains on body soaps, shampoos, and bathroom cleaning products on the second floor. Access your app, click on the coupon, and you'll get 20 percent off your purchase. Finally, our kitchen goods sale starts tomorrow on the third floor. Use your JD app to get some incredible two-for-one deals!"
+            }
+          ],
+          "question": "What should you do to get the best prices?",
+          "choices": [
+            "Use the coupon on the app.",
+            "Get a friend to download the JD app.",
+            "Head directly to the third floor.",
+            "Come back tomorrow."
+          ],
+          "explanation": "バスルーム清掃用品は2階で、アプリのクーポンを使えば20%オフになります。",
+          "highlights": [
+            "bathroom cleaning products on the second floor",
+            "Access your app, click on the coupon, and you'll get 20 percent off"
+          ],
+          "choiceAnalysis": "選択肢1「アプリのクーポンを使う」→正解。バスルーム清掃用品の割引。選択肢2「友人にアプリをDL」→1階の追加割引。選択肢3「3階へ」→キッチン用品。選択肢4「明日来る」→キッチン用品セール。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 1
+        },
+        {
+          "number": 28,
+          "situation": "You would like to do volunteer work in your neighborhood. You are good with computers and are only free on weekends. You attend a community meeting and hear the following announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "First, I have an announcement about volunteer opportunities. The school cafeterias need help preparing meals on weekdays. Talk to Kathy after the meeting if you're interested; she'll be standing by the exit. The high school also needs volunteers to assist the basketball coach with after-school training during the week. Check the school's website for details. The library needs people with computer skills to help patrons use the database on Saturdays. Please apply in person during library business hours. Finally, Whitehall Hospital needs help with clerical work on Monday nights. Speak to John for more information; he'll be near the stage after the meeting."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Talk to Kathy.",
+            "Check the high school's website.",
+            "Visit the library.",
+            "Talk to John."
+          ],
+          "explanation": "コンピュータスキルがあり、週末のみ空いている→図書館が土曜日にデータベースの利用を手伝うコンピュータスキルのある人を求めている。直接申し込み。",
+          "highlights": [
+            "The library needs people with computer skills to help patrons use the database on Saturdays",
+            "apply in person during library business hours"
+          ],
+          "choiceAnalysis": "選択肢1「Kathyに話す」→平日のカフェテリア。選択肢2「高校のウェブサイト」→平日の放課後。選択肢3「図書館を訪問」→正解。土曜、コンピュータスキル。選択肢4「Johnに話す」→月曜夜の病院。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 3
+        },
+        {
+          "number": 29,
+          "situation": "You are attending your university graduation ceremony, and you hear the following announcement. You are in the Biology Department.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Graduating students should sit in the designated areas at the front of the hall. If you're in the Fine Arts Department or Performing Arts Department, please sit in Section A, and if you're in the Economics Department or Business Studies Department, go to Section B. Section C is for students in any of the science departments, and Section D is for students in any of the language departments. Parents and family members can sit anywhere other than the designated areas."
+            }
+          ],
+          "question": "Where should you sit?",
+          "choices": [
+            "In Section A.",
+            "In Section B.",
+            "In Section C.",
+            "In Section D."
+          ],
+          "explanation": "生物学部は科学系の学部なので、Section Cに座るべきです。",
+          "highlights": [
+            "Section C is for students in any of the science departments"
+          ],
+          "choiceAnalysis": "選択肢1「Section A」→芸術・舞台芸術。選択肢2「Section B」→経済・経営。選択肢3「Section C」→正解。科学系の学部。選択肢4「Section D」→語学系。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

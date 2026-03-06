@@ -1,0 +1,944 @@
+{
+  "title": "2025年度 第2回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Christy, you know the rule. No social media after 6 p.m."
+            },
+            {
+              "speaker": "female",
+              "text": "Sorry, Dad. I just need to post an update to one account."
+            },
+            {
+              "speaker": "male",
+              "text": "Look, there are reasons your mother and I set these limits. For one, spending too much time on social media makes people forget how to relate to each other in the real world."
+            },
+            {
+              "speaker": "female",
+              "text": "But I only really use it to share things with my close friends."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, if they're your close friends, you can communicate when you see them in person!"
+            }
+          ],
+          "question": "What does the man tell his daughter about social media?",
+          "choices": [
+            "It is useful for staying connected with her friends.",
+            "He does not want her to communicate with strangers.",
+            "It can negatively affect communication skills.",
+            "He agrees with her about its effects."
+          ],
+          "explanation": "父親はSNSに時間を使いすぎると現実世界での人間関係の仕方を忘れてしまうと言っています。",
+          "highlights": [
+            "spending too much time on social media makes people forget how to relate to each other in the real world"
+          ],
+          "choiceAnalysis": "選択肢1「友達とつながるのに便利」→制限している。選択肢2「知らない人と交流して欲しくない」→言及なし。選択肢3「コミュニケーション能力に悪影響」→正解。選択肢4「効果に同意」→反対している。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 3
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "You must be looking forward to summer vacation, Rick."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm actually planning to take a few classes, Mom."
+            },
+            {
+              "speaker": "female",
+              "text": "Shouldn't you take a break? Your engineering program is so demanding."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, I'm hoping to graduate ahead of schedule and start on my master's degree."
+            },
+            {
+              "speaker": "female",
+              "text": "It might not be a bad idea to get some work experience first."
+            },
+            {
+              "speaker": "male",
+              "text": "I'd rather get my studies over with while I'm motivated."
+            },
+            {
+              "speaker": "female",
+              "text": "If you say so, but you should give it some thought."
+            }
+          ],
+          "question": "What does the man say?",
+          "choices": [
+            "He does not enjoy his program.",
+            "He may be taking on too much.",
+            "He may not graduate on time.",
+            "He wants to graduate early."
+          ],
+          "explanation": "男性は予定より早く卒業して修士号に取り掛かりたいと言っています。",
+          "highlights": [
+            "I'm hoping to graduate ahead of schedule"
+          ],
+          "choiceAnalysis": "選択肢1「プログラムが楽しくない」→やる気がある。選択肢2「詰め込みすぎ」→母の意見。選択肢3「卒業が間に合わない」→逆。選択肢4「早く卒業したい」→正解。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 4
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "We need to talk about Jared. He doesn't play sports with his friends anymore, and he hasn't read a book in weeks."
+            },
+            {
+              "speaker": "male",
+              "text": "I know. And he used to love those things."
+            },
+            {
+              "speaker": "female",
+              "text": "This has all happened since we purchased that tablet computer for him. He reaches for it as soon as he wakes up."
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah. We bought it to help him with his school reports, not for him to waste time watching online videos."
+            },
+            {
+              "speaker": "female",
+              "text": "Maybe we should set a limit on his daily screen time."
+            },
+            {
+              "speaker": "male",
+              "text": "I agree."
+            }
+          ],
+          "question": "What has the couple decided to do?",
+          "choices": [
+            "Take away Jared's tablet computer.",
+            "Get the screen of Jared's tablet computer fixed.",
+            "Buy Jared a new tablet computer.",
+            "Control Jared's use of his tablet computer."
+          ],
+          "explanation": "夫婦は毎日のスクリーンタイムに制限を設けることに同意しました。",
+          "highlights": [
+            "Maybe we should set a limit on his daily screen time",
+            "I agree"
+          ],
+          "choiceAnalysis": "選択肢1「タブレットを取り上げる」→制限を設ける。選択肢2「画面を修理」→言及なし。選択肢3「新しいタブレットを買う」→言及なし。選択肢4「使用を制限する」→正解。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 4
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Did you find out what's wrong with your watch, Cindy?"
+            },
+            {
+              "speaker": "female",
+              "text": "Not yet. It's strange that it keeps running fast. It's off by almost ten minutes every day."
+            },
+            {
+              "speaker": "male",
+              "text": "I thought you just bought it last month."
+            },
+            {
+              "speaker": "female",
+              "text": "I did, but it was used, so I guess it can't be helped."
+            },
+            {
+              "speaker": "male",
+              "text": "I hope it has a warranty, though. Repairs aren't cheap."
+            },
+            {
+              "speaker": "female",
+              "text": "The manufacturer's warranty has expired, but I know the store's warranty will cover it."
+            },
+            {
+              "speaker": "male",
+              "text": "That's good."
+            }
+          ],
+          "question": "What do we learn about the woman's watch?",
+          "choices": [
+            "The repairs will take a long time.",
+            "The manufacturer has gone out of business.",
+            "She will not have to pay for the repairs.",
+            "She lost it last month."
+          ],
+          "explanation": "店の保証が修理をカバーするので、修理代を払う必要がありません。",
+          "highlights": [
+            "the store's warranty will cover it"
+          ],
+          "choiceAnalysis": "選択肢1「修理に時間がかかる」→言及なし。選択肢2「メーカーが倒産」→保証が切れただけ。選択肢3「修理代を払わなくていい」→正解。選択肢4「先月紛失」→先月購入。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 3
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "We need to hire more staff for the accounting department."
+            },
+            {
+              "speaker": "female",
+              "text": "We've been trying, but no suitable candidates have applied. We tried an employment agency, which was a waste of time! The candidates they introduced didn't even have the necessary qualifications."
+            },
+            {
+              "speaker": "male",
+              "text": "How about posting something at the business school? This year's graduates may not have much experience, but they should have the qualifications you need."
+            },
+            {
+              "speaker": "female",
+              "text": "It's worth a try. I'll ask if I can post something on the school's career board."
+            }
+          ],
+          "question": "What does the man suggest the woman do?",
+          "choices": [
+            "Try a different recruiting method.",
+            "Take classes at the business school.",
+            "Use an employment agency.",
+            "Add work experience to her résumé."
+          ],
+          "explanation": "男性はビジネススクールに求人を掲示することを提案しています（別の採用方法）。",
+          "highlights": [
+            "How about posting something at the business school?"
+          ],
+          "choiceAnalysis": "選択肢1「別の採用方法を試す」→正解。選択肢2「ビジネススクールで授業を受ける」→求人掲示。選択肢3「職業紹介所を使う」→時間の無駄だった。選択肢4「職歴を追加」→言及なし。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 1
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "This is Melanie from Rydale Real Estate. Did you look over the floor plans I emailed?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, but I can't decide whether to go for a two- or three-story house."
+            },
+            {
+              "speaker": "female",
+              "text": "It's more about how close you want to be to a train station."
+            },
+            {
+              "speaker": "male",
+              "text": "That's definitely my priority."
+            },
+            {
+              "speaker": "female",
+              "text": "Most homes closer to stations are on smaller pieces of land, so they tend to have three floors. If you don't mind climbing stairs, you get more space."
+            },
+            {
+              "speaker": "male",
+              "text": "Stairs don't bother me."
+            }
+          ],
+          "question": "What is one thing the man says?",
+          "choices": [
+            "He does not like any of the houses.",
+            "He would prefer a house with fewer stairs.",
+            "He has decided not to buy a house.",
+            "He wants to live close to a station."
+          ],
+          "explanation": "男性は駅に近いことが最優先事項だと言っています。",
+          "highlights": [
+            "That's definitely my priority"
+          ],
+          "choiceAnalysis": "選択肢1「どの家も気に入らない」→迷っている。選択肢2「階段が少ない家がいい」→階段は気にしない。選択肢3「買わないことにした」→言及なし。選択肢4「駅に近く住みたい」→正解。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 4
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Phil, it's your turn to do the dishes tonight."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm exhausted, Kim. Can you do it? I promise I'll take your turn tomorrow."
+            },
+            {
+              "speaker": "female",
+              "text": "Look, I know you don't like doing it, but you agreed we'd share the housework equally."
+            },
+            {
+              "speaker": "male",
+              "text": "I know. I just don't have the energy at night."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, neither do I. If you don't want to help out, then let's get a dishwasher."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. I'm free to go to the store tomorrow."
+            }
+          ],
+          "question": "What will the couple probably do?",
+          "choices": [
+            "Go to bed early.",
+            "Go out for dinner.",
+            "Take turns washing the dishes.",
+            "Buy a dishwasher."
+          ],
+          "explanation": "女性が食器洗い機を買おうと提案し、男性は明日店に行けると同意しました。",
+          "highlights": [
+            "let's get a dishwasher",
+            "I'm free to go to the store tomorrow"
+          ],
+          "choiceAnalysis": "選択肢1「早く寝る」→言及なし。選択肢2「外食する」→言及なし。選択肢3「交代で皿洗い」→うまくいっていない。選択肢4「食器洗い機を買う」→正解。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 4
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I just got a worrying phone call from Glenda next door."
+            },
+            {
+              "speaker": "male",
+              "text": "What did she say?"
+            },
+            {
+              "speaker": "female",
+              "text": "Last night, some of the other neighbors saw a suspicious-looking car driving around slowly with its lights out. It disappeared when they went outside."
+            },
+            {
+              "speaker": "male",
+              "text": "That sounds like burglars looking for a house to break into. I'm glad she let us know."
+            },
+            {
+              "speaker": "female",
+              "text": "Yes. Thank goodness we have neighbors who are alert."
+            }
+          ],
+          "question": "Why are the speakers concerned?",
+          "choices": [
+            "Their next-door neighbor had something stolen.",
+            "Neighborhood traffic problems are getting worse.",
+            "One of their neighbors has been acting strangely.",
+            "Their house may be robbed."
+          ],
+          "explanation": "不審な車が無灯火でゆっくり走っていた→空き巣が侵入先を探している可能性。",
+          "highlights": [
+            "That sounds like burglars looking for a house to break into"
+          ],
+          "choiceAnalysis": "選択肢1「隣人が盗まれた」→言及なし。選択肢2「交通問題」→不審な車。選択肢3「隣人が奇妙に行動」→不審な車。選択肢4「家が泥棒に入られるかも」→正解。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 4
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "I'm a bit concerned about our marketing campaign for the new model of our smartwatch, Ursula."
+            },
+            {
+              "speaker": "female",
+              "text": "I am too. I think some of the descriptions of the features are misleading."
+            },
+            {
+              "speaker": "male",
+              "text": "I know they're trying to justify the price increase, but I'm worried they'll lead to a lot of complaints."
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah, especially the claims about the battery. Most people won't get that much life out of them."
+            },
+            {
+              "speaker": "male",
+              "text": "I think we'd better have a meeting about adjusting some of the text in the ads."
+            }
+          ],
+          "question": "What will probably be discussed at the meeting?",
+          "choices": [
+            "Whether or not to lower the price.",
+            "Ways to increase the battery life.",
+            "The wording of the advertisements.",
+            "Adding more features to the product."
+          ],
+          "explanation": "男性は広告のテキストを調整するための会議を開くべきだと提案しています。",
+          "highlights": [
+            "adjusting some of the text in the ads"
+          ],
+          "choiceAnalysis": "選択肢1「値下げするか」→言及なし。選択肢2「バッテリー寿命を延ばす」→説明が誇大。選択肢3「広告の文言」→正解。選択肢4「機能追加」→言及なし。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 3
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Honey, I got a phone call from Michael's teacher today."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, what did she say?"
+            },
+            {
+              "speaker": "male",
+              "text": "It seems that Michael hasn't been paying attention in class. She seemed quite concerned about him."
+            },
+            {
+              "speaker": "female",
+              "text": "I hope he's not disturbing the other kids, is he?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, she said he was just staring out the window."
+            },
+            {
+              "speaker": "female",
+              "text": "We'll have to talk with him about this when he gets home."
+            }
+          ],
+          "question": "What did Michael's teacher tell the parents?",
+          "choices": [
+            "He was bothering the other children.",
+            "He was not concentrating on the lessons.",
+            "He damaged the classroom's window.",
+            "He was rude to the teacher."
+          ],
+          "explanation": "Michaelは授業に集中しておらず、窓の外を見ているだけだったと教師が報告しました。",
+          "highlights": [
+            "Michael hasn't been paying attention in class"
+          ],
+          "choiceAnalysis": "選択肢1「他の子を邪魔」→していない。選択肢2「授業に集中していない」→正解。選択肢3「窓を壊した」→窓の外を見ている。選択肢4「先生に失礼」→言及なし。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 2
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, honey, I'm about to experiment with a new recipe."
+            },
+            {
+              "speaker": "male",
+              "text": "What do you mean by \"experiment\"?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm just going to try it out for the first time to see if it's good."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, OK. It's just that sometimes you like to play around with the ingredients and amounts."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, cooking is all about creativity!"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure, but that's after you've mastered the recipe as it is. You know that old saying: \"You must learn the rules before you can break them.\""
+            }
+          ],
+          "question": "What does the man imply?",
+          "choices": [
+            "The woman should choose a different recipe.",
+            "It will be difficult to get the ingredients.",
+            "The woman should follow the recipe.",
+            "Creativity is the most important part of cooking."
+          ],
+          "explanation": "男性はルールを破る前にまず覚えるべきだと言い、まずレシピ通りに作るべきだと暗示しています。",
+          "highlights": [
+            "You must learn the rules before you can break them"
+          ],
+          "choiceAnalysis": "選択肢1「別のレシピを選ぶ」→言及なし。選択肢2「材料の入手が難しい」→言及なし。選択肢3「レシピに従うべき」→正解。選択肢4「創造性が最も重要」→まず基本を学ぶ。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 3
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "That's a beautiful old pocket watch."
+            },
+            {
+              "speaker": "male",
+              "text": "It was my great-grandfather's. It's over a century old, but it still tells the time accurately."
+            },
+            {
+              "speaker": "female",
+              "text": "Wow. It's really fancy-looking too."
+            },
+            {
+              "speaker": "male",
+              "text": "Look at the design on the back. It's really artistic."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, it's an eagle. Very elegant."
+            },
+            {
+              "speaker": "male",
+              "text": "I heard it was designed by a famous watchmaker. It's supposed to be quite valuable."
+            },
+            {
+              "speaker": "female",
+              "text": "You could sell it to an antique dealer."
+            },
+            {
+              "speaker": "male",
+              "text": "I think I'll keep it and pass it down to my children."
+            }
+          ],
+          "question": "What does the man say about the pocket watch?",
+          "choices": [
+            "He is planning to sell it.",
+            "It may be worth a lot of money.",
+            "It does not work well anymore.",
+            "He does not like the design on the back."
+          ],
+          "explanation": "男性は有名な時計師がデザインし、かなり価値があるはずだと言っています。",
+          "highlights": [
+            "It's supposed to be quite valuable"
+          ],
+          "choiceAnalysis": "選択肢1「売る予定」→子供に渡す。選択肢2「高価値かも」→正解。選択肢3「うまく動かない」→正確に時間を刻む。選択肢4「裏のデザインが嫌い」→芸術的と称賛。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In Nordic mythology, the Kraken was a sea monster that attacked ships and consumed their crews. According to legend, large shoals of fish swam alongside the Kraken, so fishermen brave enough to go near it could get large catches. The Kraken was first described in writing by King Sverre of Norway in the twelfth century, and the myth became so accepted that the creature was listed in the first systemized surveys of the natural world written in the eighteenth century."
+            }
+          ],
+          "question": "What did legend say about the Kraken?",
+          "choices": [
+            "It fed on the fish that followed it around.",
+            "It could bring benefits for fishermen.",
+            "It protected Norway from attack by ships.",
+            "It killed a powerful Norwegian king."
+          ],
+          "explanation": "伝説によるとクラーケンの近くには大量の魚群が泳いでおり、近づく勇気ある漁師は大漁を得られました。",
+          "highlights": [
+            "fishermen brave enough to go near it could get large catches"
+          ],
+          "choiceAnalysis": "選択肢1「魚を食べた」→魚が一緒に泳いでいた。選択肢2「漁師に利益をもたらす」→正解。選択肢3「ノルウェーを守った」→言及なし。選択肢4「王を殺した」→王が記述した。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 2
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Scientists now believe the myth originated from sightings of giant squid, which can reach a length of around twelve meters. These creatures live deep in the world's oceans and are rarely seen. Although a scientific description of a dead giant squid was carried out in the 1850s, studying them has proved difficult. In fact, it was not until 2004 that one was photographed in its natural habitat."
+            }
+          ],
+          "question": "What does the speaker say about giant squid?",
+          "choices": [
+            "Their natural habitat is declining.",
+            "They are smaller than people think.",
+            "There has been little research into them.",
+            "They were not described scientifically until the 2000s."
+          ],
+          "explanation": "ダイオウイカの研究は困難で、自然環境で撮影されたのは2004年が初めてでした。",
+          "highlights": [
+            "studying them has proved difficult"
+          ],
+          "choiceAnalysis": "選択肢1「生息地が減少」→言及なし。選択肢2「思ったより小さい」→12m。選択肢3「研究が少ない」→正解。選択肢4「2000年代まで科学的記述なし」→1850年代に記述。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 3
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The Freedom House Ambulance Service was established in the late 1960s in Pittsburgh, Pennsylvania. Before Freedom House, the majority of people being taken to hospitals were transported by the police or funeral homes, and they concentrated more on speedy transport than on providing care on the way. Freedom House was the first American ambulance service to have paramedics, highly trained professionals who provided treatment that could make the difference between life and death."
+            }
+          ],
+          "question": "How was the Freedom House Ambulance Service different from other hospital transportation services?",
+          "choices": [
+            "It worked together with police officers.",
+            "Its staff had more medical training.",
+            "It operated all over the city.",
+            "Its ambulances drove faster."
+          ],
+          "explanation": "Freedom Houseは初めて救急救命士を配置したアメリカの救急車サービスでした。",
+          "highlights": [
+            "the first American ambulance service to have paramedics, highly trained professionals"
+          ],
+          "choiceAnalysis": "選択肢1「警察と協力」→言及なし。選択肢2「スタッフがより多くの医療訓練を受けた」→正解。選択肢3「市全体で運営」→言及なし。選択肢4「救急車が速い」→速さよりケア。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 2
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Freedom House began in a Black neighborhood with high unemployment rates. Its Black paramedics were local residents who received education and training from doctors who wanted to improve the health of the community. Although they sometimes encountered hostility from White patients who did not want to be treated by non-White paramedics, they saved many lives and became role models. The Freedom House Ambulance Service ended in the mid-seventies, but it inspired many cities to start their own paramedic programs."
+            }
+          ],
+          "question": "What problem did the Freedom House paramedics face?",
+          "choices": [
+            "Some of the patients were prejudiced.",
+            "They were unable to save patients.",
+            "They could not help people in their own area.",
+            "Some doctors did not trust their skills."
+          ],
+          "explanation": "白人患者の中には非白人の救急救命士による治療を望まない人もいました。",
+          "highlights": [
+            "hostility from White patients who did not want to be treated by non-White paramedics"
+          ],
+          "choiceAnalysis": "選択肢1「患者に偏見があった」→正解。選択肢2「患者を救えなかった」→多くの命を救った。選択肢3「自分の地域で助けられない」→言及なし。選択肢4「医師が信頼しない」→医師が訓練した。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 1
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The Singer sewing machine was one of the nineteenth century's most significant innovations. While sewing machines existed already, they could only produce straight lines, and the number of stitches they could sew at one time was limited. However, the American inventor Isaac Singer designed a machine capable of operating continuously and which could also sew curved lines, permitting users to do a greater variety of tasks than other sewing machines did."
+            }
+          ],
+          "question": "What was one advantage the Singer sewing machine had over other models?",
+          "choices": [
+            "It made much larger stitches.",
+            "It was much less expensive.",
+            "It could produce lines that were straighter.",
+            "It could do more types of sewing patterns."
+          ],
+          "explanation": "Singer のミシンは曲線も縫え、他のミシンより多くの種類の作業ができました。",
+          "highlights": [
+            "could also sew curved lines, permitting users to do a greater variety of tasks"
+          ],
+          "choiceAnalysis": "選択肢1「大きなステッチ」→言及なし。選択肢2「安い」→数ヶ月分の給料。選択肢3「直線がまっすぐ」→曲線が縫える。選択肢4「より多くの縫製パターン」→正解。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 4
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Singer's machines often cost several months' salary. Though many women were enthusiastic about a machine that meant they would not have to sew by hand, many men were reluctant to purchase the machines. This was because prejudices of the time made them believe the new inventions were too complicated for women to operate. Therefore, Singer hired women to demonstrate them in public. Along with special payment plans that let people pay a little at a time, these demonstrations made the machines hugely popular."
+            }
+          ],
+          "question": "What problem did Isaac Singer have?",
+          "choices": [
+            "He could not meet the demand for his machines.",
+            "People did not like to use payment plans.",
+            "Men thought women could not use his machines.",
+            "Most people preferred sewing by hand."
+          ],
+          "explanation": "当時の偏見で、男性たちは新しい発明品は女性が操作するには複雑すぎると考えていました。",
+          "highlights": [
+            "many men were reluctant to purchase",
+            "prejudices of the time made them believe the new inventions were too complicated for women to operate"
+          ],
+          "choiceAnalysis": "選択肢1「需要に追いつかない」→言及なし。選択肢2「分割払い嫌い」→分割払いで人気に。選択肢3「男性が女性に使えないと思った」→正解。選択肢4「手縫いを好んだ」→女性は歓迎。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 3
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In World War I, over one million Indian soldiers fought as part of the British Indian Army. One such soldier was Khudadad Khan, a Muslim born in what is now Pakistan. Khan was sent with his fellow soldiers to fight in Belgium. While he was there, the Germans attacked. Khan's comrades were eventually killed, but Khan kept firing despite being injured. His bravery helped prevent the Germans from succeeding and gave Britain enough time to send extra troops."
+            }
+          ],
+          "question": "What is one thing the speaker tells us about the British Indian Army?",
+          "choices": [
+            "Its soldiers were sent to fight in Belgium.",
+            "Few of its soldiers were Muslims.",
+            "None of its soldiers returned to Britain.",
+            "Its soldiers were not allowed in hospitals in Britain."
+          ],
+          "explanation": "Khanとその仲間はベルギーで戦うために送られました。",
+          "highlights": [
+            "Khan was sent with his fellow soldiers to fight in Belgium"
+          ],
+          "choiceAnalysis": "選択肢1「兵士がベルギーに送られた」→正解。選択肢2「イスラム教徒が少ない」→Khanはイスラム教徒。選択肢3「誰もイギリスに戻らなかった」→Khanは病院に送られた。選択肢4「病院に入れなかった」→イギリスの病院に。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 1
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Khan was sent to a hospital in Britain to recover. The king visited him there, and Khan received the Victoria Cross, an award for outstanding bravery. During the war, other British Indian Army soldiers were also awarded the Victoria Cross. Some people say their stories and those of many British Indian Army soldiers who died in battle have been forgotten. They believe it is time for those stories to be remembered."
+            }
+          ],
+          "question": "According to the speaker, what do some people believe?",
+          "choices": [
+            "British Indian Army soldiers did not deserve their awards.",
+            "The stories of British Indian Army soldiers need to be told.",
+            "Khan probably died in battle in World War I.",
+            "The king initially refused to visit Khan."
+          ],
+          "explanation": "一部の人々は、忘れられた兵士たちの物語を思い出す時が来たと考えています。",
+          "highlights": [
+            "it is time for those stories to be remembered"
+          ],
+          "choiceAnalysis": "選択肢1「賞に値しない」→言及なし。選択肢2「物語を伝える必要がある」→正解。選択肢3「戦死」→回復した。選択肢4「王が訪問を拒否」→訪問した。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 2
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "American aviation pioneers Wilbur and Orville Wright are famous around the world. Perhaps less well-known is the role their sister, Katharine, played in their success. The siblings' mother died when Katharine was a teenager, so she had to take over the household responsibilities. Despite this, Katharine continued her studies and even graduated from college—a rare achievement for a woman in the nineteenth century. As a supporter of women's rights, she would later join an organization that campaigned to secure the vote for women."
+            }
+          ],
+          "question": "What does the speaker say about Katharine Wright as a teenager?",
+          "choices": [
+            "She had to do chores instead of her mother.",
+            "She was more interested in aviation than her brothers.",
+            "She had to give up her education.",
+            "Her brothers found her a teaching job."
+          ],
+          "explanation": "母が亡くなった後、ティーンエイジャーのKatharineが家事を引き継がなければなりませんでした。",
+          "highlights": [
+            "she had to take over the household responsibilities"
+          ],
+          "choiceAnalysis": "選択肢1「母の代わりに家事をした」→正解。選択肢2「航空に興味」→言及なし。選択肢3「教育を諦めた」→大学を卒業。選択肢4「兄弟が仕事を見つけた」→言及なし。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 1
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "After graduation, Katharine took a teaching job, but she kept running the Wright family's affairs. This enabled her brothers to focus on their business activities. After Orville was severely hurt in a test flight, however, she left her job to look after him. Over time, she played an increasingly important role in managing the brothers' records and correspondence, and she even traveled abroad to promote their aviation projects."
+            }
+          ],
+          "question": "Why did Katharine stop teaching?",
+          "choices": [
+            "She decided to care for her injured brother.",
+            "She wanted to focus on improving women's rights.",
+            "She wanted to travel abroad to support her brothers.",
+            "She was better at business than at teaching."
+          ],
+          "explanation": "Orvilleがテスト飛行で重傷を負い、Katharineは彼の世話をするために仕事を辞めました。",
+          "highlights": [
+            "After Orville was severely hurt in a test flight, she left her job to look after him"
+          ],
+          "choiceAnalysis": "選択肢1「負傷した兄弟の世話」→正解。選択肢2「女性の権利に集中」→言及なし。選択肢3「海外旅行で支援」→後の活動。選択肢4「ビジネスが得意」→言及なし。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 1
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Horse chestnut trees are common in the United Kingdom, both in parks and in natural areas. In recent years, however, they have been threatened by a disease known as bleeding canker. This damages the bark of the trees and interferes with the transport of nutrients from the roots to the branches. Scientists initially believed the disease was due to a fungus, but recent studies revealed that it was caused by bacterial infection. Thousands of horse chestnut trees across the country have been infected, many of which are expected to die."
+            }
+          ],
+          "question": "What does the speaker say about bleeding canker?",
+          "choices": [
+            "It causes infected trees' branches to fall off.",
+            "It has spread throughout the United Kingdom.",
+            "It is most common in parks.",
+            "It is not known what causes it."
+          ],
+          "explanation": "全国で何千本もの栃の木が感染しており、英国全土に広がっています。",
+          "highlights": [
+            "Thousands of horse chestnut trees across the country have been infected"
+          ],
+          "choiceAnalysis": "選択肢1「枝が落ちる」→栄養輸送の阻害。選択肢2「英国全土に広がった」→正解。選択肢3「公園に多い」→公園と自然地域の両方。選択肢4「原因不明」→細菌感染と判明。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 2
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In an attempt to control the disease, large numbers of trees have been cut down in infected areas. However, some experts believe this could be counterproductive since it also destroys trees that have recovered from the disease or have natural resistance to it. This prevents scientists from studying these trees in order to find ways to protect all horse chestnut trees."
+            }
+          ],
+          "question": "What do some experts believe about bleeding canker?",
+          "choices": [
+            "It can affect many kinds of trees.",
+            "There is no way to protect trees from it.",
+            "Some trees can survive being infected by it.",
+            "It will probably disappear naturally."
+          ],
+          "explanation": "一部の専門家は、伐採が病気から回復したり自然耐性を持つ木も破壊してしまうと懸念しています。",
+          "highlights": [
+            "trees that have recovered from the disease or have natural resistance to it"
+          ],
+          "choiceAnalysis": "選択肢1「多くの木に影響」→栃の木に特化。選択肢2「保護方法がない」→研究で保護法を探している。選択肢3「感染しても生き残れる木がある」→正解。選択肢4「自然に消える」→言及なし。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You want a part-time job with the best hourly pay rate possible. You take a computer class on Tuesday evenings. You call a job agency and are told the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "We have some positions at local stores. First up is Snow's Supermarket. Working days are flexible, which is great, but the hourly pay is very low. Then we have Heely Good Shoe Plaza. The hourly pay here is considerably better. It's three evenings, Monday through Wednesday, with one Sunday shift a month. Next is HCE, the clothing retailer. The hourly pay is the best of the bunch. Shifts run from 9:00 a.m. to 1:00 p.m. on Friday, Monday, and Tuesday. Finally, Mega-Z Music. The hourly pay is the same as Snow's, and you work five weekday evenings a week."
+            }
+          ],
+          "question": "Which store should you choose?",
+          "choices": [
+            "Snow's Supermarket.",
+            "Heely Good Shoe Plaza.",
+            "HCE.",
+            "Mega-Z Music."
+          ],
+          "explanation": "最高時給を求めている＋火曜夜にPC教室→HCEは時給が最高で、金・月・火の午前シフト→火曜夜のPC教室と両立可能。",
+          "highlights": [
+            "HCE, the clothing retailer. The hourly pay is the best of the bunch",
+            "Shifts run from 9:00 a.m. to 1:00 p.m. on Friday, Monday, and Tuesday"
+          ],
+          "choiceAnalysis": "選択肢1「Snow's」→時給が非常に低い。選択肢2「Heely Good」→月～水の夜→火曜夜にPC教室と競合。選択肢3「HCE」→正解。最高時給＋火曜午前のみで夜のPC教室と両立。選択肢4「Mega-Z」→Snow'sと同じ低時給。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 3
+        },
+        {
+          "number": 26,
+          "situation": "You are in a meeting at work when you hear the following announcement. The meeting room is on the second floor of Building B.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Attention, everyone. Due to a possible gas leak, we must initiate emergency evacuation procedures for Buildings A and B. If you are on the first floor of Building A, make your way to the main lobby exit. If you are on the first floor of Building B, proceed to the exit in the north wing. If you are on the second or third floor of Building A, proceed to the main stairwell in the atrium. If you are on the second or third floor of Building B, proceed to the large stairwell in Stetson Hall. Thank you for your cooperation."
+            }
+          ],
+          "question": "Where should you go?",
+          "choices": [
+            "To the main lobby.",
+            "To the north wing.",
+            "To the atrium.",
+            "To Stetson Hall."
+          ],
+          "explanation": "Building Bの2階→Stetson Hallの大階段へ。",
+          "highlights": [
+            "second or third floor of Building B, proceed to the large stairwell in Stetson Hall"
+          ],
+          "choiceAnalysis": "選択肢1「メインロビー」→A棟1階。選択肢2「北ウィング」→B棟1階。選択肢3「アトリウム」→A棟2-3階。選択肢4「Stetson Hall」→正解。B棟2-3階。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 4
+        },
+        {
+          "number": 27,
+          "situation": "You need a supplier of sensors for your company's automatic doors. Your budget is $180 per unit, and you need eight hundred of them. You hear the following message from a coworker.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "This is Natalie. I've done some research and come up with some potential suppliers. First, there's NexusFlow. Their sensors are $175 each. Their minimum order is one thousand units, however. Another company I found was OmniSensor. They're regularly $200 each, but if we order over five hundred, we could get the price down to $170 per item. Briarson Technologies has sensors for $160, with no minimum order. Oh, wait. Their sensors aren't compatible with our doors. Finally, there's Winchester Electronics. Their price was $190 for five hundred or more and $170 for orders over one thousand units. Let me know if you have any questions."
+            }
+          ],
+          "question": "Which company should you contact?",
+          "choices": [
+            "NexusFlow.",
+            "OmniSensor.",
+            "Briarson Technologies.",
+            "Winchester Electronics."
+          ],
+          "explanation": "800個、予算$180/個→NexusFlow: 最低1000個なのでNG。OmniSensor: 500以上で$170→予算内＆800個OK。Briarson: 互換性なし。Winchester: 500以上で$190→予算超過。",
+          "highlights": [
+            "OmniSensor",
+            "if we order over five hundred, we could get the price down to $170 per item"
+          ],
+          "choiceAnalysis": "選択肢1「NexusFlow」→最低1000個。選択肢2「OmniSensor」→正解。$170で800個OK。選択肢3「Briarson」→互換性なし。選択肢4「Winchester」→800個で$190は予算超過。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 2
+        },
+        {
+          "number": 28,
+          "situation": "Your son Carlos wants to join the band at his school. Your budget for instrument rental is $150 per school term. The band instructor tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "First, Carlos needs to choose an instrument. There's the flute, which is a fun instrument once students start making progress. Rentals are $175 per term. Next is the trumpet, which is also a lot of fun. Rentals are priced the same as for the flute. The clarinet is also popular. It's relatively easy to learn but difficult to master. Rentals are $140 per term. Finally, we have the drums. The $125 term fee allows in-school use of a band drum set. You mentioned you didn't have one at home, which makes practice difficult, so I'd consider a wind instrument for now."
+            }
+          ],
+          "question": "Which instrument should Carlos choose?",
+          "choices": [
+            "The flute.",
+            "The trumpet.",
+            "The clarinet.",
+            "The drums."
+          ],
+          "explanation": "予算$150→フルート$175×、トランペット$175×、クラリネット$140○、ドラム$125だが自宅練習が困難で管楽器を勧められている→クラリネット。",
+          "highlights": [
+            "The clarinet",
+            "Rentals are $140 per term"
+          ],
+          "choiceAnalysis": "選択肢1「フルート」→$175で予算超過。選択肢2「トランペット」→$175で予算超過。選択肢3「クラリネット」→正解。$140で予算内＋管楽器。選択肢4「ドラム」→自宅練習が困難。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 3
+        },
+        {
+          "number": 29,
+          "situation": "You want to adopt a dog that is already trained and will get along with your six-year-old daughter. You call a local animal shelter and hear the following recorded message.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thanks for calling Doggy Lives. We have four dogs that are ready for a new home. Tiffy is a black Labrador with a sweet personality. She's house-trained and well-behaved around kids. Roger is a fun, outgoing, honey-colored Labrador. Unlike Tiffy, though, he will require further training. Fluffy is a cute spaniel. She's only one, so she still needs some training and attention. Finally, Wildy is a charming poodle. He's a bit naughty, though, and likes to be the center of attention, so he's best suited to a couple or family with children high-school-age or older. Stay on the line to speak to a shelter volunteer."
+            }
+          ],
+          "question": "Which dog should you inquire about?",
+          "choices": [
+            "Tiffy, the black Labrador.",
+            "Roger, the honey-colored Labrador.",
+            "Fluffy, the spaniel.",
+            "Wildy, the poodle."
+          ],
+          "explanation": "しつけ済み＋6歳の子供と仲良くできる犬→Tiffyはしつけ済みで子供と相性が良い。",
+          "highlights": [
+            "Tiffy",
+            "She's house-trained and well-behaved around kids"
+          ],
+          "choiceAnalysis": "選択肢1「Tiffy」→正解。しつけ済み＋子供とOK。選択肢2「Roger」→追加訓練が必要。選択肢3「Fluffy」→訓練が必要。選択肢4「Wildy」→高校生以上の子供に最適。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

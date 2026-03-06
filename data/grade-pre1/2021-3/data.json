@@ -1,0 +1,962 @@
+{
+  "title": "2021年度 第3回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Dr. Jenkins, could I speak with you for a moment?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sure, Eric. What's on your mind?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'm embarrassed to say this, but I'm having a hard time keeping my eyes open in class. I have to work two part-time jobs to make ends meet, and your class is so early in the morning."
+            },
+            {
+              "speaker": "female",
+              "text": "So are you thinking about dropping the class? That would be a shame, considering that your test scores have been pretty good."
+            },
+            {
+              "speaker": "male",
+              "text": "No, not that. I need this class in order to graduate next year. Actually, I was wondering if you could arrange your seating chart so I'm sitting right up in front. That should help me pay better attention in class."
+            },
+            {
+              "speaker": "female",
+              "text": "I think I can probably do that."
+            }
+          ],
+          "question": "What is the student concerned about?",
+          "choices": [
+            "His recent test scores.",
+            "Having to drop the class.",
+            "Finding a job.",
+            "Staying awake in class."
+          ],
+          "explanation": "学生は2つのアルバイトのため、朝早い授業で目を開けているのが大変だと言っています。",
+          "highlights": [
+            "I'm having a hard time keeping my eyes open in class"
+          ],
+          "choiceAnalysis": "選択肢1「テストの成績」→成績は良い。選択肢2「クラスを落とす」→落とすつもりはない。選択肢3「仕事探し」→既にアルバイト中。選択肢4「授業中起きていること」→正解。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 4
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "You're not sending a personal e-mail from your office computer, are you, Allen?"
+            },
+            {
+              "speaker": "male",
+              "text": "It's just a quick note to my mom—it's her birthday tomorrow."
+            },
+            {
+              "speaker": "female",
+              "text": "Didn't you read the memo from the CEO? Using office computers for private communications could get you fired. I heard they're looking for excuses to cut staff."
+            },
+            {
+              "speaker": "male",
+              "text": "I doubt if they'd take a birthday message that seriously, but thanks for the warning."
+            },
+            {
+              "speaker": "female",
+              "text": "Better safe than sorry."
+            }
+          ],
+          "question": "Why is the woman concerned?",
+          "choices": [
+            "The man could lose his job.",
+            "The man forgot his mother's birthday.",
+            "The man did not reply to her e-mail.",
+            "The man is not liked by the CEO."
+          ],
+          "explanation": "女性はオフィスのパソコンで私用メールを送ると解雇される可能性があり、人員削減の口実を探していると警告しています。",
+          "highlights": [
+            "Using office computers for private communications could get you fired",
+            "they're looking for excuses to cut staff"
+          ],
+          "choiceAnalysis": "選択肢1「仕事を失う可能性」→正解。解雇されるかもと警告。選択肢2「母の誕生日を忘れた」→忘れていない。選択肢3「メールに返信しなかった」→言及なし。選択肢4「CEOに嫌われている」→言及なし。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 1
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Sam, next week, it's my turn to drive us to work, but my car's in the shop."
+            },
+            {
+              "speaker": "male",
+              "text": "What's wrong with it?"
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, I had an accident over the weekend."
+            },
+            {
+              "speaker": "male",
+              "text": "Nothing too serious, I hope."
+            },
+            {
+              "speaker": "female",
+              "text": "No. Just a fender bender."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. Well, why don't I do the driving next week, and you can take your turn once your car's fixed?"
+            },
+            {
+              "speaker": "female",
+              "text": "That would be great. Thanks a lot."
+            }
+          ],
+          "question": "What do we learn about these people?",
+          "choices": [
+            "They take turns driving.",
+            "They were in a serious accident.",
+            "They work in a car repair shop.",
+            "Neither of them can drive next week."
+          ],
+          "explanation": "二人は交代で通勤の運転をしており、女性の車が修理中のため男性が来週運転することになりました。",
+          "highlights": [
+            "it's my turn to drive us to work",
+            "why don't I do the driving next week, and you can take your turn once your car's fixed"
+          ],
+          "choiceAnalysis": "選択肢1「交代で運転している」→正解。選択肢2「深刻な事故」→軽い接触事故。選択肢3「自動車修理工場で働く」→言及なし。選択肢4「どちらも来週運転できない」→男性が運転する。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 1
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I'm sorry, sir, but your credit card was declined."
+            },
+            {
+              "speaker": "male",
+              "text": "I don't understand why. It was fine yesterday."
+            },
+            {
+              "speaker": "female",
+              "text": "Perhaps you've reached your limit. It happens quite often."
+            },
+            {
+              "speaker": "male",
+              "text": "I don't know. That's certainly possible, I suppose."
+            },
+            {
+              "speaker": "female",
+              "text": "Anyway, I suggest you call your card issuer. Do you have a debit card or a personal check you'd like to use for today's purchases?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, I'll just pay with cash."
+            }
+          ],
+          "question": "What's the man's problem?",
+          "choices": [
+            "He cannot use his credit card.",
+            "He forgot to contact his card issuer.",
+            "He is short of cash today.",
+            "He lost his debit card."
+          ],
+          "explanation": "男性のクレジットカードが使えなくなり、限度額に達した可能性があります。",
+          "highlights": [
+            "your credit card was declined"
+          ],
+          "choiceAnalysis": "選択肢1「クレジットカードが使えない」→正解。選択肢2「カード発行会社に連絡を忘れた」→これから連絡する。選択肢3「現金が足りない」→現金で支払う。選択肢4「デビットカードを失くした」→言及なし。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 1
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "How's the job-hunting going, Tyler? You know your dad and I can't support you forever."
+            },
+            {
+              "speaker": "male",
+              "text": "Actually, I've been offered a second interview for a call-center job. I'm not sure it's my thing, though."
+            },
+            {
+              "speaker": "female",
+              "text": "It doesn't have to be. The more jobs you try your hand at, the more you'll learn about the working world."
+            },
+            {
+              "speaker": "male",
+              "text": "But what if I take it and end up missing out on my dream job?"
+            },
+            {
+              "speaker": "female",
+              "text": "You can keep applying to other places while you work."
+            },
+            {
+              "speaker": "male",
+              "text": "Fair enough. I'll call them back and schedule the second interview."
+            }
+          ],
+          "question": "What is the woman's opinion about her son?",
+          "choices": [
+            "He is not suited to the call-center job.",
+            "He is learning the wrong interview techniques.",
+            "He should go to the interview he has been offered.",
+            "He should prioritize finding his dream job."
+          ],
+          "explanation": "母親は息子に、コールセンターの仕事を受けて面接に行くべきだと勧めています。働きながら他の仕事にも応募できると助言。",
+          "highlights": [
+            "The more jobs you try your hand at, the more you'll learn",
+            "You can keep applying to other places while you work"
+          ],
+          "choiceAnalysis": "選択肢1「コールセンターに向いていない」→言及なし。選択肢2「面接テクニックが間違っている」→言及なし。選択肢3「面接に行くべき」→正解。選択肢4「夢の仕事を優先すべき」→逆にすぐ働くべき。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 3
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello, Sergio. What brings you to the clinic today?"
+            },
+            {
+              "speaker": "male",
+              "text": "My energy's been really low recently, so I thought I should have a checkup."
+            },
+            {
+              "speaker": "female",
+              "text": "Any major changes since your last appointment?"
+            },
+            {
+              "speaker": "male",
+              "text": "I got promoted to a new position that's pretty stressful and requires a lot of business trips. I've been eating unhealthy food, too."
+            },
+            {
+              "speaker": "female",
+              "text": "I see. Getting adequate nutrition can be a challenge when you're traveling."
+            },
+            {
+              "speaker": "male",
+              "text": "What should I do?"
+            },
+            {
+              "speaker": "female",
+              "text": "Let's get a few tests done, and then we'll look at your options once the results come in."
+            }
+          ],
+          "question": "What is the doctor going to do next?",
+          "choices": [
+            "Have the man take some tests.",
+            "Encourage the man to exercise more.",
+            "Give the man advice about work-related stress.",
+            "Recommend the man to a specialist."
+          ],
+          "explanation": "医師はまず検査を行い、結果が出てから対応を考えると言っています。",
+          "highlights": [
+            "Let's get a few tests done, and then we'll look at your options once the results come in"
+          ],
+          "choiceAnalysis": "選択肢1「検査を受けさせる」→正解。選択肢2「運動を勧める」→言及なし。選択肢3「ストレスのアドバイス」→検査が先。選択肢4「専門医を紹介」→言及なし。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 1
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Jasper? I thought you were on vacation this week."
+            },
+            {
+              "speaker": "male",
+              "text": "Officially, I am. My manager was planning to take some time off, so I thought I'd do the same. Unfortunately, she's still working, which means she's asking me to do stuff."
+            },
+            {
+              "speaker": "female",
+              "text": "She's making you work during your vacation? You should complain to the personnel department."
+            },
+            {
+              "speaker": "male",
+              "text": "But I've only been here a year. I want to prove I'm committed to the company."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, be sure to set aside a little time for yourself this week. You are technically on vacation."
+            },
+            {
+              "speaker": "male",
+              "text": "I will. Thanks."
+            }
+          ],
+          "question": "What is one thing we learn about the man?",
+          "choices": [
+            "He will take his vacation later in the year.",
+            "He will meet with the personnel manager.",
+            "He will do what his manager asks him to do.",
+            "He will ask the woman to help him."
+          ],
+          "explanation": "男性は入社1年で、会社への貢献を示したいため、休暇中でもマネージャーの依頼に応じています。",
+          "highlights": [
+            "I've only been here a year. I want to prove I'm committed to the company"
+          ],
+          "choiceAnalysis": "選択肢1「年内に休暇を取る」→言及なし。選択肢2「人事部と面談」→しない。選択肢3「マネージャーの依頼に従う」→正解。選択肢4「女性に助けを求める」→言及なし。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 3
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "What do you think of the proposed design for our new company logo?"
+            },
+            {
+              "speaker": "female",
+              "text": "I quite like the style of the lettering, but the logo doesn't have enough impact. How about you?"
+            },
+            {
+              "speaker": "male",
+              "text": "The colors are appealing, but I think the shape of our current logo represents our company better."
+            },
+            {
+              "speaker": "female",
+              "text": "I heard there's a trend toward simplicity these days, but the designers have gone too far in that direction."
+            },
+            {
+              "speaker": "male",
+              "text": "Agreed. We should talk to them again."
+            }
+          ],
+          "question": "What do these people think about the proposed logo?",
+          "choices": [
+            "It needs brighter colors.",
+            "It fits the company's image.",
+            "It is too similar to the current one.",
+            "It needs to be redesigned."
+          ],
+          "explanation": "二人とも新しいロゴに問題があると感じ（インパクト不足、形が会社を表現しきれていない、シンプルすぎる）、デザイナーと再度話す必要があるとしています。",
+          "highlights": [
+            "the logo doesn't have enough impact",
+            "the designers have gone too far in that direction",
+            "We should talk to them again"
+          ],
+          "choiceAnalysis": "選択肢1「もっと明るい色が必要」→色は良い。選択肢2「会社のイメージに合う」→合わない。選択肢3「現在のものと似すぎ」→言及なし。選択肢4「再デザインが必要」→正解。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 4
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Sheena, are you going to Alice's book-launch party on Wednesday?"
+            },
+            {
+              "speaker": "female",
+              "text": "Of course. It's taken her a decade to write, but the book turned out great!"
+            },
+            {
+              "speaker": "male",
+              "text": "You've already read it? That's not fair! But I suppose you two have been friends since kindergarten."
+            },
+            {
+              "speaker": "female",
+              "text": "And I helped with research for one of the chapters."
+            },
+            {
+              "speaker": "male",
+              "text": "I guess I'll just have to read it when it's available to the general public."
+            },
+            {
+              "speaker": "female",
+              "text": "You only have to wait a few days."
+            }
+          ],
+          "question": "What is one thing we learn about the man?",
+          "choices": [
+            "He has not read Alice's book yet.",
+            "He cannot attend Alice's party.",
+            "He is no longer friends with Alice.",
+            "He was disappointed with Alice's book."
+          ],
+          "explanation": "男性はAliceの本をまだ読んでおらず、一般発売を待つ必要があります。",
+          "highlights": [
+            "I guess I'll just have to read it when it's available to the general public"
+          ],
+          "choiceAnalysis": "選択肢1「まだAliceの本を読んでいない」→正解。選択肢2「パーティーに出れない」→言及なし。選択肢3「Aliceと友人でない」→言及なし。選択肢4「本に失望」→読んでいない。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 1
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Morning. Sorry to be late."
+            },
+            {
+              "speaker": "male",
+              "text": "No problem. Was your train delayed again?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, for the third time this month. I take an early train, but there are always big delays on weekdays during rush hour."
+            },
+            {
+              "speaker": "male",
+              "text": "Isn't there another train line in your area?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, but the station on that line is a 45-minute walk from my house."
+            },
+            {
+              "speaker": "male",
+              "text": "Perhaps you could ride your bicycle there."
+            },
+            {
+              "speaker": "female",
+              "text": "That's an idea. If I did that, I could catch a later train than I do now."
+            },
+            {
+              "speaker": "male",
+              "text": "Cycling would be good exercise, too."
+            },
+            {
+              "speaker": "female",
+              "text": "Good point. I think I'll give it a try."
+            }
+          ],
+          "question": "What will the woman probably do in the future?",
+          "choices": [
+            "Make sure she catches an earlier train.",
+            "Use a different train line.",
+            "Ride her bicycle to the office.",
+            "Go into the office on weekends."
+          ],
+          "explanation": "女性は別の路線の駅まで自転車で行くアイデアに賛同し、試してみると言いました。",
+          "highlights": [
+            "Perhaps you could ride your bicycle there",
+            "I think I'll give it a try"
+          ],
+          "choiceAnalysis": "選択肢1「もっと早い電車に乗る」→別路線を使う。選択肢2「別の路線を使う」→正解。自転車で別路線の駅へ。選択肢3「自転車でオフィスへ」→駅までの移動手段。選択肢4「週末に出勤」→言及なし。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 2
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "What're you doing with those garbage bags, Ronan?"
+            },
+            {
+              "speaker": "male",
+              "text": "I was just about to put them outside. Wednesday is collection day, right?"
+            },
+            {
+              "speaker": "female",
+              "text": "Actually, they've switched over to a 14-day schedule. There was an announcement in the local paper last month."
+            },
+            {
+              "speaker": "male",
+              "text": "They're only collecting every two weeks now? I sometimes wonder what we pay our taxes for."
+            },
+            {
+              "speaker": "female",
+              "text": "I know what you mean, but I guess the city needs to reduce spending. They're also talking about lowering the number of bags you can put out."
+            }
+          ],
+          "question": "What is one thing we learn from the conversation?",
+          "choices": [
+            "Garbage collection has become less frequent.",
+            "Garbage bags will become more expensive.",
+            "Local taxes are likely to rise soon.",
+            "The newspaper delivery schedule has changed."
+          ],
+          "explanation": "ごみ収集が毎週から2週間ごとに変更されたことがわかります。",
+          "highlights": [
+            "they've switched over to a 14-day schedule",
+            "They're only collecting every two weeks now"
+          ],
+          "choiceAnalysis": "選択肢1「ごみ収集の頻度が減った」→正解。選択肢2「ごみ袋が高くなる」→言及なし。選択肢3「地方税が上がる」→言及なし。選択肢4「新聞配達スケジュールが変わった」→言及なし。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 1
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hey, Sharon. Are you OK? You look exhausted."
+            },
+            {
+              "speaker": "female",
+              "text": "Hi, Ranjit. Yeah, I can't sleep because of my upstairs neighbors. They're awake at all hours of the night. Even earplugs haven't worked, so I'm going to complain to the landlord."
+            },
+            {
+              "speaker": "male",
+              "text": "Have you thought about writing a polite note to them first? They might get upset if you go directly to the landlord."
+            },
+            {
+              "speaker": "female",
+              "text": "I hadn't thought about that. Have you ever tried something like that?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, but I've read online that it can be quite effective."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks. I think I'll do that."
+            }
+          ],
+          "question": "What will the woman most likely do?",
+          "choices": [
+            "Try using some earplugs.",
+            "Have Ranjit talk to her neighbors.",
+            "Complain about her landlord.",
+            "Write a message to her neighbors."
+          ],
+          "explanation": "女性はRanjitの提案を受け入れ、まず隣人に丁寧なメモを書くことにしました。",
+          "highlights": [
+            "writing a polite note to them first",
+            "I think I'll do that"
+          ],
+          "choiceAnalysis": "選択肢1「耳栓を試す」→既に試した。選択肢2「Ranjitに隣人と話してもらう」→言及なし。選択肢3「大家に苦情」→まず手紙を書く。選択肢4「隣人にメッセージを書く」→正解。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Some children are picky eaters. They will only eat a few foods and refuse to eat anything else, and this is generally considered unhealthy. Researchers have found that genetics may be one cause of this behavior, but the environment in which children are raised may also be important. Parents, for example, serve as role models for their children, so it can be damaging if their children see them following limited, unhealthy diets."
+            }
+          ],
+          "question": "What may be one reason children become picky eaters?",
+          "choices": [
+            "There are too many food choices available.",
+            "Schools often prepare uninteresting food.",
+            "They copy their parents' eating habits.",
+            "They have a desire to lose weight."
+          ],
+          "explanation": "遺伝や環境が原因で、特に親が限られた食事をしているのを子供が見ると影響を受けます。",
+          "highlights": [
+            "Parents, for example, serve as role models for their children, so it can be damaging if their children see them following limited, unhealthy diets"
+          ],
+          "choiceAnalysis": "選択肢1「食の選択肢が多すぎる」→言及なし。選択肢2「学校の食事がつまらない」→言及なし。選択肢3「親の食習慣を真似る」→正解。選択肢4「痩せたい願望」→言及なし。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 3
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Once children form such eating habits, how can they be changed? Parents often use rewards. For example, they will tell their children they can have ice cream if they eat their vegetables. However, some experts warn against doing this. They say it does little to change children's negative attitudes toward foods they dislike. Instead, these experts recommend involving children in the growing, purchasing, and preparation of these foods. This may help children develop a positive relationship with healthy meals."
+            }
+          ],
+          "question": "What is one thing that some experts recommend?",
+          "choices": [
+            "Getting children to help make their own meals.",
+            "Encouraging children to play more sports.",
+            "Sometimes letting children eat unhealthy foods.",
+            "Rewarding children for eating vegetables."
+          ],
+          "explanation": "専門家は子供を食物の栽培、購入、調理に参加させることを推奨しています。",
+          "highlights": [
+            "these experts recommend involving children in the growing, purchasing, and preparation of these foods"
+          ],
+          "choiceAnalysis": "選択肢1「子供に食事作りを手伝わせる」→正解。選択肢2「もっとスポーツを」→言及なし。選択肢3「不健康な食べ物を食べさせる」→言及なし。選択肢4「野菜を食べたらご褒美」→専門家は反対。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 1
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "It is sometimes said that a Chinese woman named Ching Shih was one of history's most successful pirates. Her husband was also a pirate. Following his death in 1807, Ching Shih took control of their pirate operations, which grew rapidly. The Chinese government then ordered its navy to capture her. The sea battle that followed, however, went badly for the government. Ching Shih's pirates captured several naval vessels, which increased Ching Shih's power."
+            }
+          ],
+          "question": "What was one result of the sea battle?",
+          "choices": [
+            "Ching Shih's pirates gained a number of ships.",
+            "Many pirate commanders were captured.",
+            "Most of the pirates were killed.",
+            "Ching Shih agreed to help the Chinese navy."
+          ],
+          "explanation": "海戦の結果、Ching Shihの海賊は政府の軍艦を数隻拿捕し、勢力を拡大しました。",
+          "highlights": [
+            "Ching Shih's pirates captured several naval vessels, which increased Ching Shih's power"
+          ],
+          "choiceAnalysis": "選択肢1「海賊が船を獲得した」→正解。選択肢2「海賊の指揮官が捕まった」→逆。選択肢3「海賊の大半が死んだ」→逆。選択肢4「海軍に協力」→言及なし。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 1
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "However, it is thought that Ching Shih began having difficulty controlling her huge forces. In 1810, therefore, she came to an agreement with government officials in which she promised to end her operations. In exchange, she was allowed to keep her wealth, and she and most of her followers were given their freedom. While many pirates throughout history died violently, Ching Shih avoided that fate."
+            }
+          ],
+          "question": "What did Ching Shih do in 1810?",
+          "choices": [
+            "She left China to escape punishment.",
+            "She gave away her wealth.",
+            "She formed a new pirate organization.",
+            "She agreed to stop her pirate operations."
+          ],
+          "explanation": "1810年にChing Shihは政府と合意し、海賊活動を停止する代わりに財産と自由を保持しました。",
+          "highlights": [
+            "she came to an agreement with government officials in which she promised to end her operations"
+          ],
+          "choiceAnalysis": "選択肢1「罰を逃れるため中国を離れた」→中国に留まった。選択肢2「財産を手放した」→逆に保持。選択肢3「新しい海賊組織を作った」→活動停止。選択肢4「海賊活動を停止することに合意」→正解。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 4
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The Canada lynx is a type of wildcat found mainly in Canada and the northern United States. The animals are skilled at avoiding humans, so they are rarely seen in the wild. However, lynx sightings increase roughly every 10 years. This is because the population of animals called snowshoe hares rises and falls in a roughly 10-year cycle. Lynx hunt snowshoe hares, and when there are more hares to hunt, the lynx population tends to grow."
+            }
+          ],
+          "question": "What does the speaker say about Canada lynx?",
+          "choices": [
+            "Their numbers increase at certain times.",
+            "They are being hunted by humans.",
+            "Their habitats have become smaller recently.",
+            "They have been eating fewer snowshoe hares."
+          ],
+          "explanation": "カナダオオヤマネコの目撃は約10年周期で増加し、カンジキウサギの個体数の周期と連動しています。",
+          "highlights": [
+            "lynx sightings increase roughly every 10 years",
+            "when there are more hares to hunt, the lynx population tends to grow"
+          ],
+          "choiceAnalysis": "選択肢1「特定の時期に数が増える」→正解。選択肢2「人間に狩られている」→人間を避ける。選択肢3「生息地が縮小」→言及なし。選択肢4「ウサギの捕食が減少」→増加時に連動。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 1
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "It was long believed that Canada lynx live their whole lives in one particular area. However, scientists have discovered that lynx can journey thousands of kilometers to establish new territories. Some scientists think it is likely that these animals are following hares. However, lynx have also been observed making long journeys at other times, so there may be another reason why they travel."
+            }
+          ],
+          "question": "What did scientists discover about Canada lynx?",
+          "choices": [
+            "They only travel when looking for food.",
+            "They sometimes travel long distances.",
+            "They live much longer than other wildcats.",
+            "They always return to their original territories."
+          ],
+          "explanation": "科学者はカナダオオヤマネコが新しい領域を確立するために数千キロメートル移動できることを発見しました。",
+          "highlights": [
+            "lynx can journey thousands of kilometers to establish new territories"
+          ],
+          "choiceAnalysis": "選択肢1「食糧探しの時だけ移動」→他の理由もある。選択肢2「長距離を移動することがある」→正解。選択肢3「他の野猫より長寿」→言及なし。選択肢4「元の領域に戻る」→新領域を確立。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 2
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In Rome, there are networks of tunnels that were built around the beginning of the second century AD. These tunnels were used as burial places for people of many religions. However, the tunnels became especially important for Christians. Their religion was not officially recognized at the time, so Christians used the tunnels to hold religious ceremonies."
+            }
+          ],
+          "question": "What is one thing we learn about the tunnels?",
+          "choices": [
+            "Modern burial places are based on their design.",
+            "They were used for religious purposes.",
+            "They were only used by non-Christians.",
+            "The entrances were only found recently."
+          ],
+          "explanation": "トンネルは様々な宗教の人々の埋葬地として、また特にキリスト教徒の宗教儀式の場として使用されました。",
+          "highlights": [
+            "Christians used the tunnels to hold religious ceremonies"
+          ],
+          "choiceAnalysis": "選択肢1「現代の墓地の元」→言及なし。選択肢2「宗教目的に使われた」→正解。選択肢3「非キリスト教徒のみ」→逆にキリスト教徒が重要視。選択肢4「入口が最近発見」→言及なし。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 2
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "One famous section of tunnels is called the Catacombs of Priscilla. In this section, there are some early Christian paintings. One of the paintings seems to show a woman dressed in a priest's robe, and others show women performing religious ceremonies. Some people believe the paintings are proof of female priests in the church in ancient times. This is significant because some Christian churches today do not allow women to become priests. Other observers, however, say that we cannot be sure exactly what the paintings show."
+            }
+          ],
+          "question": "What do some people believe the paintings show?",
+          "choices": [
+            "Women used to be priests long ago.",
+            "The tunnels were not used as churches.",
+            "Few early Christians were women.",
+            "Priests used to create paintings."
+          ],
+          "explanation": "一部の人々はこれらの絵画が古代の教会における女性聖職者の証拠だと考えています。",
+          "highlights": [
+            "Some people believe the paintings are proof of female priests in the church in ancient times"
+          ],
+          "choiceAnalysis": "選択肢1「女性はかつて聖職者だった」→正解。選択肢2「トンネルは教会として使われなかった」→逆。選択肢3「初期キリスト教徒に女性が少なかった」→言及なし。選択肢4「聖職者が絵を描いた」→言及なし。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 1
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Many people believe that only by working hard and having a successful career can they find happiness. However, trying to make a lot of money or get promoted at work may not make people truly happy. People who focus on such success often prioritize work over other activities. Consequently, they may lose opportunities to enjoy the things that make life truly enjoyable, such as simple, relaxing times with their families."
+            }
+          ],
+          "question": "What does the speaker say about people who focus on success?",
+          "choices": [
+            "They often have successful family members.",
+            "They often have low levels of stress.",
+            "They may miss chances to enjoy simple pleasures.",
+            "They may make people around them happy."
+          ],
+          "explanation": "成功に焦点を当てる人は仕事を優先し、家族とのシンプルなリラックスした時間など、人生を楽しむ機会を逃す可能性があります。",
+          "highlights": [
+            "they may lose opportunities to enjoy the things that make life truly enjoyable, such as simple, relaxing times with their families"
+          ],
+          "choiceAnalysis": "選択肢1「成功した家族がいる」→言及なし。選択肢2「ストレスが低い」→逆に仕事を優先。選択肢3「シンプルな楽しみの機会を逃す」→正解。選択肢4「周りを幸せにする」→言及なし。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 3
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "After reviewing many studies, researchers recently concluded that success may actually follow happiness. They believe that happy people are more energetic and confident because they experience frequent positive moods, and that this leads to success. Of course, success also depends on factors such as intelligence and social support. More research is needed, but it may be that those whose happiness leads them to success are more likely to stay happy."
+            }
+          ],
+          "question": "What did researchers recently conclude about happy people?",
+          "choices": [
+            "They do not need family support to stay happy.",
+            "Their incomes are not likely to be high.",
+            "Their positive moods make them more active.",
+            "They are more intelligent than unhappy people."
+          ],
+          "explanation": "研究者は幸せな人は頻繁にポジティブな気分を経験するため、よりエネルギッシュで自信があると結論付けました。",
+          "highlights": [
+            "happy people are more energetic and confident because they experience frequent positive moods"
+          ],
+          "choiceAnalysis": "選択肢1「家族の支援不要」→社会的支援も重要と言及。選択肢2「収入が高くない」→逆に成功につながる。選択肢3「ポジティブな気分でより活動的」→正解。選択肢4「不幸な人より知的」→知性は別の要因。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 3
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "For thousands of years, Native Americans along what is now called the US East Coast used oysters as a food source. Today, however, oyster stocks have been greatly reduced. Overharvesting, pollution, and disease have caused oyster populations to fall, especially since the late 1800s, when European settlers introduced new harvesting methods. These methods included dredging, which involves removing huge numbers of oysters from the seabed. This process also damages the ecosystem in which the oysters live."
+            }
+          ],
+          "question": "What do we learn about oysters along the US East Coast today?",
+          "choices": [
+            "They are becoming better at fighting disease.",
+            "Their numbers are lower than they once were.",
+            "Many of them are not harvested for food.",
+            "The waters they live in are becoming cleaner."
+          ],
+          "explanation": "過剰収穫、汚染、病気により牡蠣の個体数は大幅に減少しています。",
+          "highlights": [
+            "oyster stocks have been greatly reduced",
+            "Overharvesting, pollution, and disease have caused oyster populations to fall"
+          ],
+          "choiceAnalysis": "選択肢1「病気への耐性が強化」→言及なし。選択肢2「数がかつてより減少」→正解。選択肢3「食用に収穫されていない」→過剰収穫の問題。選択肢4「水がきれいになっている」→汚染が問題。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 2
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In recent years, archaeologists have studied Native American harvesting practices. The archaeologists found that Native Americans did not harvest young oysters. Instead, Native Americans waited for oysters to grow and reproduce before they harvested them. The archaeologists also discovered that average shell size increased until the 1800s, which indicates that Native American practices helped ancient oysters to become larger. This finding surprised the archaeologists, who expected oyster shells to gradually get smaller in response to being harvested."
+            }
+          ],
+          "question": "What is one thing the archaeologists discovered?",
+          "choices": [
+            "Native American harvesting practices helped oysters grow.",
+            "Native American harvesting methods included dredging.",
+            "Native Americans still harvest oysters.",
+            "Native Americans only harvested young oysters."
+          ],
+          "explanation": "考古学者はネイティブアメリカンの収穫方法が牡蠣の成長を助け、1800年代まで平均的な殻のサイズが増加したことを発見しました。",
+          "highlights": [
+            "Native American practices helped ancient oysters to become larger"
+          ],
+          "choiceAnalysis": "選択肢1「ネイティブアメリカンの収穫が牡蠣の成長を助けた」→正解。選択肢2「浚渫を含んだ」→ヨーロッパの方法。選択肢3「今も収穫している」→言及なし。選択肢4「若い牡蠣だけを収穫」→逆に若い牡蠣は収穫しない。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You are about to take a tour bus around a town in Italy. You want to join the guided walking tour. You hear the following announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "This bus goes around town all day, so you can just hop on and off anytime. The castle can be accessed from stop 4, and the medieval library is also just a five-minute walk away from that stop. If you're interested in the San Giovanni church, stop 7 is the nearest. It's also normally the meeting place for our 30-minute guided walking tour, but please note that due to an ongoing construction project, that tour will begin from stop 9, just in front of Montalto Gardens. Stop 13 offers access to famous sights like the Gravina Bridge and the town fountain."
+            }
+          ],
+          "question": "Which bus stop should you get off at?",
+          "choices": [
+            "Stop 4.",
+            "Stop 7.",
+            "Stop 9.",
+            "Stop 13."
+          ],
+          "explanation": "ガイド付きウォーキングツアーに参加したいが、工事のため通常のstop 7ではなく、stop 9から出発に変更されています。",
+          "highlights": [
+            "due to an ongoing construction project, that tour will begin from stop 9"
+          ],
+          "choiceAnalysis": "選択肢1「Stop 4」→城と図書館。選択肢2「Stop 7」→通常の集合場所だが工事中。選択肢3「Stop 9」→正解。工事のため変更。選択肢4「Stop 13」→橋と噴水。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 3
+        },
+        {
+          "number": 26,
+          "situation": "You are abroad on a working-holiday program. You call the immigration office about renewing your visa and are told the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "You can apply online to renew your working-holiday visa. However, there are some things you should prepare before you apply. You'll need to provide proof that you've had a medical examination by a qualified doctor and have no serious health issues. Once you've done that, you'll also have to present evidence of your employment until now. You mentioned you had all of your salary statements, so those should be sufficient. Since you're applying from within the country, proof that you've saved enough to cover your living costs will not be required this time around."
+            }
+          ],
+          "question": "What should you do first?",
+          "choices": [
+            "Fill out an application online.",
+            "Request salary statements from your employer.",
+            "Show evidence of your savings.",
+            "Obtain a medical examination certificate."
+          ],
+          "explanation": "申請前にまず医師の健康診断の証明を用意する必要があります。給与明細は既に持っているので、健康診断が先です。",
+          "highlights": [
+            "You'll need to provide proof that you've had a medical examination by a qualified doctor",
+            "Once you've done that, you'll also have to present evidence of your employment"
+          ],
+          "choiceAnalysis": "選択肢1「オンライン申請」→準備が先。選択肢2「給与明細を請求」→既に持っている。選択肢3「貯蓄の証明」→今回は不要。選択肢4「健康診断証明を取得」→正解。最初にすべきこと。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 4
+        },
+        {
+          "number": 27,
+          "situation": "You are a supermarket manager. You want to reduce losses caused by theft. A security analyst tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The new security cameras, warning signs, and staff training have all worked. Shoplifting of most products is much lower than in the last quarter. However, stock records for low-cost fruit items like bananas and oranges and expensive things like avocados and mangoes don't match the sales records. This usually means some customers at the self-checkout registers are entering false information to get costly items at a cheaper price. I recommend extra guidance for staff observing the self-checkout stations. If this doesn't work, you may have to think about checking customers' receipts at the exit."
+            }
+          ],
+          "question": "What should you do first?",
+          "choices": [
+            "Give some staff members more training.",
+            "Install more security cameras.",
+            "Review customer receipts at the exit.",
+            "Clearly mark prices for fruit."
+          ],
+          "explanation": "アナリストはまずセルフチェックアウトを監視するスタッフへの追加指導を推奨しています。出口でのレシート確認はそれが効果がない場合の次の手段です。",
+          "highlights": [
+            "I recommend extra guidance for staff observing the self-checkout stations",
+            "If this doesn't work, you may have to think about checking customers' receipts"
+          ],
+          "choiceAnalysis": "選択肢1「スタッフに追加研修」→正解。まず行うべきこと。選択肢2「防犯カメラを増設」→既に導入済み。選択肢3「出口でレシート確認」→次の手段。選択肢4「果物の価格表示」→言及なし。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 1
+        },
+        {
+          "number": 28,
+          "situation": "You want a new washing machine. You currently own a Duplanne washing machine. You visit an electronics store in July and hear the following announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome to our summer sale. We're offering great discounts on all brands, including Rannexe and Duplanne. Interested in a new vacuum cleaner? Use the coupon available on our smartphone app to get $50 off any brand. How about a new washing machine? This month, exchange your used Rannexe washing machine for a $100 credit toward any new Rannexe product. During the month of August, exchange any old Duplanne appliance and get $150 off a new one. Finally, we are offering $75 cash back on any new dishwasher until the end of August."
+            }
+          ],
+          "question": "What should you do to save the most money?",
+          "choices": [
+            "Download the store's smartphone app.",
+            "Apply for the cash-back deal.",
+            "Exchange your washing machine this month.",
+            "Buy a new Duplanne washing machine in August."
+          ],
+          "explanation": "Duplanne洗濯機を持っており、8月にDuplanne製品を下取りすると$150割引。Rannexe下取りは$100で対象外、アプリは掃除機用。8月まで待つのが最もお得。",
+          "highlights": [
+            "During the month of August, exchange any old Duplanne appliance and get $150 off a new one"
+          ],
+          "choiceAnalysis": "選択肢1「アプリをダウンロード」→掃除機用$50。選択肢2「キャッシュバック」→食洗機用$75。選択肢3「今月下取り」→Rannexeのみ$100。選択肢4「8月にDuplanne洗濯機を購入」→正解。$150割引。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 4
+        },
+        {
+          "number": 29,
+          "situation": "You see a suit you want in a local store, but it does not have one in your size. You do not want to travel out of town. A clerk tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "This suit is a clearance item, so we only have what's here on the shelves. Our other location may still have one in your size, though. If you'd like, I can check online for you. If our other store has one, you could go there, if you don't mind driving out of town. The other option would be to reserve one for you and have it sent over to this store at no extra cost. That might take a few days, but if you give me your number, I can call you when it arrives."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Wait until the store gets some new stock.",
+            "Have the clerk check the other store.",
+            "Order the suit from the online store.",
+            "Have the suit delivered to your home."
+          ],
+          "explanation": "町外に出たくないので、店員に他店舗の在庫を確認してもらい、この店に取り寄せてもらうのが最適です。",
+          "highlights": [
+            "I can check online for you",
+            "reserve one for you and have it sent over to this store at no extra cost"
+          ],
+          "choiceAnalysis": "選択肢1「新入荷を待つ」→クリアランス品なので入荷なし。選択肢2「店員に他店舗を確認してもらう」→正解。取り寄せ可能。選択肢3「オンラインストアで注文」→店員が在庫確認するだけ。選択肢4「自宅に配送」→店舗に送付。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,948 @@
+{
+  "title": "2025年度 第1回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, do you have a minute to talk?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure. What's the problem?"
+            },
+            {
+              "speaker": "female",
+              "text": "One of our clients asked me a question about your project, but I'm not up-to-date on the details."
+            },
+            {
+              "speaker": "male",
+              "text": "Didn't you get my e-mails?"
+            },
+            {
+              "speaker": "female",
+              "text": "I guess you must have forgotten to add my address. Could you make sure that I'm included from now on?"
+            },
+            {
+              "speaker": "male",
+              "text": "Of course. Sorry. I'll make sure to stick a note on my computer monitor to remind me."
+            }
+          ],
+          "question": "What does the woman ask the man to do?",
+          "choices": [
+            "Help her contact clients.",
+            "Take on more projects.",
+            "Add her to e-mails.",
+            "Leave notes on her desk."
+          ],
+          "explanation": "女性はプロジェクトのメールに自分のアドレスを追加するよう頼んでいます。",
+          "highlights": [
+            "Could you make sure that I'm included from now on?"
+          ],
+          "choiceAnalysis": "選択肢1「クライアントへの連絡を手伝う」→言及なし。選択肢2「もっとプロジェクトを引き受ける」→言及なし。選択肢3「メールに追加する」→正解。選択肢4「メモを机に残す」→自分のモニターにメモ。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 3
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Can I help you, sir?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'm trying to check out this novel a friend recommended, but the automated checkout won't let me."
+            },
+            {
+              "speaker": "female",
+              "text": "Let me see. It seems you haven't paid to replace a missing book."
+            },
+            {
+              "speaker": "male",
+              "text": "Really? I'm sure I paid that by credit card online."
+            },
+            {
+              "speaker": "female",
+              "text": "If you have proof of payment, I can restore your borrowing privileges."
+            },
+            {
+              "speaker": "male",
+              "text": "I'll look for that, but can I just borrow the book now?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm afraid I can't make any exceptions."
+            }
+          ],
+          "question": "What does the woman tell the man?",
+          "choices": [
+            "The automated system is broken.",
+            "The novel he wants is popular.",
+            "He cannot pay by credit card.",
+            "He cannot borrow the book now."
+          ],
+          "explanation": "女性は例外は認められないと言い、今は本を借りられないと伝えています。",
+          "highlights": [
+            "I'm afraid I can't make any exceptions"
+          ],
+          "choiceAnalysis": "選択肢1「自動システムが壊れている」→未払いが原因。選択肢2「人気の小説」→言及なし。選択肢3「カード払い不可」→言及なし。選択肢4「今は借りられない」→正解。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 4
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Is Kristoff in his office?"
+            },
+            {
+              "speaker": "female",
+              "text": "No, he's out again today. He's at his daughter's soccer game, I think."
+            },
+            {
+              "speaker": "male",
+              "text": "Family time is important, but our manager needs to be around to actually manage things. He's already taken around six days off this month to help out with school field trips or take his kids somewhere."
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah, we missed a deadline last week because he wasn't around."
+            },
+            {
+              "speaker": "male",
+              "text": "I think we need to bring this up with the corporate office. It's getting serious."
+            }
+          ],
+          "question": "Why is the man concerned?",
+          "choices": [
+            "He could not submit his project.",
+            "His boss is often too strict.",
+            "He could not take time off.",
+            "His boss misses a lot of work."
+          ],
+          "explanation": "マネージャーが今月約6日も休んでおり、チームの締め切りにも影響が出ています。",
+          "highlights": [
+            "He's already taken around six days off this month"
+          ],
+          "choiceAnalysis": "選択肢1「プロジェクト提出できない」→締め切りの話。選択肢2「上司が厳しすぎる」→逆に不在。選択肢3「休みが取れない」→言及なし。選択肢4「上司がよく休む」→正解。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 4
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "How should we celebrate our anniversary? Twenty-five years is a big deal."
+            },
+            {
+              "speaker": "male",
+              "text": "The kids want us to have a party with a fancy dinner, music, and dancing."
+            },
+            {
+              "speaker": "female",
+              "text": "I was thinking something a bit simpler. Maybe renting a house somewhere that we could all stay in for a couple of days."
+            },
+            {
+              "speaker": "male",
+              "text": "You know, we could save money if we just lit some candles while eating a nice steak dinner at home."
+            },
+            {
+              "speaker": "female",
+              "text": "A dinner that I'd have to cook? I think twenty-five years deserves a bit more than that."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. Your idea sounds good."
+            }
+          ],
+          "question": "What does the woman suggest?",
+          "choices": [
+            "Cooking a special meal.",
+            "Planning a big party.",
+            "Having a quiet dinner without the kids.",
+            "Taking a vacation as a family."
+          ],
+          "explanation": "女性はどこかに家を借りて数日間みんなで過ごすことを提案しています。",
+          "highlights": [
+            "Maybe renting a house somewhere that we could all stay in for a couple of days"
+          ],
+          "choiceAnalysis": "選択肢1「特別な食事を作る」→それは男性の提案で拒否。選択肢2「大きなパーティー」→子供たちの提案。選択肢3「子供なしの静かなディナー」→みんなで。選択肢4「家族旅行」→正解。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 4
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Professor Barnes, could you remind me when our midterm paper is due?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sure, Mason. It's due at 5 p.m. a week from today."
+            },
+            {
+              "speaker": "male",
+              "text": "Got it. I can include my opinion in the paper, right?"
+            },
+            {
+              "speaker": "female",
+              "text": "If it's supported by research. You need sources to back up your ideas."
+            },
+            {
+              "speaker": "male",
+              "text": "I've found some excellent books in the library."
+            },
+            {
+              "speaker": "female",
+              "text": "Make sure they're up-to-date. It might be wise to include some journal articles to ensure your paper is based on the latest research."
+            },
+            {
+              "speaker": "male",
+              "text": "OK."
+            }
+          ],
+          "question": "What advice does the woman give the man about the midterm paper?",
+          "choices": [
+            "He should try to submit it early.",
+            "He should look for recent sources.",
+            "He should use books rather than journal articles.",
+            "He should not include his opinion."
+          ],
+          "explanation": "教授は最新の研究に基づくよう、ジャーナル記事を含めることを勧めています。",
+          "highlights": [
+            "Make sure they're up-to-date",
+            "include some journal articles to ensure your paper is based on the latest research"
+          ],
+          "choiceAnalysis": "選択肢1「早く提出」→言及なし。選択肢2「最新の資料を探す」→正解。選択肢3「ジャーナルより本」→逆。選択肢4「意見を入れない」→研究に裏付けがあればOK。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 2
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "I'm so sorry about hitting your car. Are you OK?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm fine. And it looks like the damage is minimal, too."
+            },
+            {
+              "speaker": "male",
+              "text": "A cat suddenly appeared on the road, and I was trying not to hit it."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I'm glad it's safe."
+            },
+            {
+              "speaker": "male",
+              "text": "Me, too. Obviously, my insurance will need to cover this since I'm completely responsible."
+            },
+            {
+              "speaker": "female",
+              "text": "OK. Let's exchange information, and we can deal with it later. I'm late for a business meeting."
+            },
+            {
+              "speaker": "male",
+              "text": "Definitely. I really hope I didn't mess up your whole day."
+            }
+          ],
+          "question": "What does the man say about the accident?",
+          "choices": [
+            "He does not have any insurance.",
+            "He was trying to avoid hitting an animal.",
+            "He was not the one who caused it.",
+            "He thinks the damage is serious."
+          ],
+          "explanation": "男性は猫が道路に現れ、それを避けようとしたと説明しています。",
+          "highlights": [
+            "A cat suddenly appeared on the road, and I was trying not to hit it"
+          ],
+          "choiceAnalysis": "選択肢1「保険なし」→保険でカバー。選択肢2「動物を避けようとした」→正解。選択肢3「原因ではない」→完全に責任がある。選択肢4「損害が深刻」→最小限。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 2
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I had a talk with Benny's school counselor today."
+            },
+            {
+              "speaker": "male",
+              "text": "And?"
+            },
+            {
+              "speaker": "female",
+              "text": "She's concerned because his grades are slipping."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, it must be hard to balance studying with all the club activities he's been doing."
+            },
+            {
+              "speaker": "female",
+              "text": "I think he's taken on too much this year."
+            },
+            {
+              "speaker": "male",
+              "text": "But extracurricular activities are important, too. They look good on college applications."
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, but not at the expense of schoolwork. He'll need to cut back on something."
+            },
+            {
+              "speaker": "male",
+              "text": "OK, but I think he should continue playing baseball."
+            }
+          ],
+          "question": "Why is the woman concerned about Benny?",
+          "choices": [
+            "He does not have enough time to study.",
+            "He does not enjoy his club activities.",
+            "He did not make the baseball team.",
+            "He is not interested in going to college."
+          ],
+          "explanation": "女性はBennyが部活動をやりすぎて成績が下がっていることを心配しています。",
+          "highlights": [
+            "his grades are slipping",
+            "he's taken on too much this year"
+          ],
+          "choiceAnalysis": "選択肢1「勉強の時間がない」→正解。活動が多すぎて成績に影響。選択肢2「部活を楽しんでいない」→言及なし。選択肢3「野球チームに入れなかった」→続けるべきと言っている。選択肢4「大学に興味なし」→言及なし。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 1
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "We need to talk about saving for Caitlin's college expenses."
+            },
+            {
+              "speaker": "male",
+              "text": "She just started elementary school. What's the hurry?"
+            },
+            {
+              "speaker": "female",
+              "text": "There are investment accounts specifically designed for long-term savings. A little each month now is better than big amounts later on."
+            },
+            {
+              "speaker": "male",
+              "text": "I guess so. But I expect her to get a job to help pay her tuition."
+            },
+            {
+              "speaker": "female",
+              "text": "Certainly, but she won't be able to pay it all on her own."
+            },
+            {
+              "speaker": "male",
+              "text": "Maybe we need some expert advice. I'll call the bank and set up an appointment with an adviser."
+            }
+          ],
+          "question": "What does the man decide to do?",
+          "choices": [
+            "Find a job for Caitlin.",
+            "Work extra hours at his job.",
+            "Search for a new bank.",
+            "Get help from a professional."
+          ],
+          "explanation": "男性は銀行に電話してアドバイザーとの予約を取ることにしました。",
+          "highlights": [
+            "I'll call the bank and set up an appointment with an adviser"
+          ],
+          "choiceAnalysis": "選択肢1「Caitlinに仕事を見つける」→将来の話。選択肢2「残業する」→言及なし。選択肢3「新しい銀行を探す」→言及なし。選択肢4「専門家の助けを受ける」→正解。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 4
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "I wasn't very impressed by that restaurant we went to last night."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? I thought the food tasted pretty good, and it had a lively atmosphere."
+            },
+            {
+              "speaker": "male",
+              "text": "I guess the food was OK, but it took ages for our order to arrive, and the waitstaff was rude."
+            },
+            {
+              "speaker": "female",
+              "text": "I have to admit, the guy who served us was a little impolite, but I think that was just because he had to deal with so many tables at once."
+            },
+            {
+              "speaker": "male",
+              "text": "That's no excuse. The restaurant should hire more staff."
+            }
+          ],
+          "question": "What is the man's opinion about the restaurant?",
+          "choices": [
+            "The food tasted bad.",
+            "The service was poor.",
+            "It had a nice atmosphere.",
+            "It should pay its staff more."
+          ],
+          "explanation": "男性は注文が遅く、ウェイターが失礼だったとサービスの悪さを訴えています。",
+          "highlights": [
+            "it took ages for our order to arrive, and the waitstaff was rude"
+          ],
+          "choiceAnalysis": "選択肢1「食べ物がまずい」→OKだった。選択肢2「サービスが悪い」→正解。選択肢3「雰囲気が良い」→女性の意見。選択肢4「給料を上げるべき」→スタッフを増やすべき。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 2
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "David, have you heard about the new project our department is taking on?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah, my boss is the project leader, so he announced it in our weekly team meeting. I'm really excited about it."
+            },
+            {
+              "speaker": "female",
+              "text": "It just sounds like extra work to me, and we're already struggling to cope with our workload."
+            },
+            {
+              "speaker": "male",
+              "text": "I agree that it's going to make us busy, but I think it'll be worth it. If the project's a success, we'll have a much better chance of being promoted."
+            },
+            {
+              "speaker": "female",
+              "text": "Even so, I'm still concerned."
+            }
+          ],
+          "question": "What is one thing the woman thinks about the project?",
+          "choices": [
+            "It is unlikely to succeed.",
+            "It will create too much work.",
+            "She should be the project leader.",
+            "The man should join the project team."
+          ],
+          "explanation": "女性は余分な仕事が増えるだけで、既に業務量に苦しんでいると懸念しています。",
+          "highlights": [
+            "It just sounds like extra work to me, and we're already struggling to cope with our workload"
+          ],
+          "choiceAnalysis": "選択肢1「成功しない」→言及なし。選択肢2「仕事が増えすぎる」→正解。選択肢3「リーダーになるべき」→言及なし。選択肢4「男性が参加すべき」→言及なし。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 2
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "We may need to replace the water heater in the bathroom. The water kept going cold while I was having a shower."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? I had no trouble getting hot water this morning. Water heaters are expensive, so I'd rather not get a new one unless we have to."
+            },
+            {
+              "speaker": "male",
+              "text": "I understand what you're saying, but it would be better to replace it before it stops working altogether."
+            },
+            {
+              "speaker": "female",
+              "text": "Fair enough, but let's just keep an eye on it for now."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. But if the problem keeps happening, I'm calling the plumber."
+            }
+          ],
+          "question": "What do the man and woman agree to do?",
+          "choices": [
+            "Contact a plumber as soon as possible.",
+            "Reduce how much hot water they use.",
+            "Get a new shower for their bathroom.",
+            "Wait before replacing the water heater."
+          ],
+          "explanation": "二人は今のところ様子を見ることに同意しました。",
+          "highlights": [
+            "let's just keep an eye on it for now",
+            "OK"
+          ],
+          "choiceAnalysis": "選択肢1「すぐ配管工に連絡」→問題が続いたら。選択肢2「お湯の使用を減らす」→言及なし。選択肢3「新しいシャワー」→給湯器の話。選択肢4「交換前に待つ」→正解。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 4
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Professor Roberts, could you remind me of the deadline for the assignment?"
+            },
+            {
+              "speaker": "male",
+              "text": "It's due at the end of the month, but I encourage you not to leave it to the last minute. You'll need to do a fair bit of research, which might take longer than you think."
+            },
+            {
+              "speaker": "female",
+              "text": "OK. I'll choose a topic and make an essay outline this weekend."
+            },
+            {
+              "speaker": "male",
+              "text": "Good idea. And feel free to ask me if you need any help finding good sources."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks, Professor. I appreciate that."
+            }
+          ],
+          "question": "What will the student probably do?",
+          "choices": [
+            "Get started early on her assignment.",
+            "Change the topic for her assignment.",
+            "Send the professor a list of her sources.",
+            "Ask the professor to extend the deadline."
+          ],
+          "explanation": "学生は今週末にトピックを選んでアウトラインを作ると言っており、早めに取り組む予定です。",
+          "highlights": [
+            "I'll choose a topic and make an essay outline this weekend"
+          ],
+          "choiceAnalysis": "選択肢1「早めに取り組む」→正解。選択肢2「トピックを変更」→まだ選んでいない。選択肢3「資料リストを送る」→言及なし。選択肢4「締め切り延長を頼む」→言及なし。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Ancient Roman historical records refer to an immense forest known as the Great Wood of Caledon in what is now Scotland. Rome had conquered the rest of Britain, but had failed repeatedly to conquer this region. Many Roman historians claimed the invasions were unsuccessful because of the difficulty of fighting in the dense pine forest that covered the landscape. Indeed, the Romans were long blamed for the destruction of a Scottish pine forest some two thousand years ago."
+            }
+          ],
+          "question": "What did many ancient Roman historians say about the Great Wood of Caledon?",
+          "choices": [
+            "It covered most areas of Britain.",
+            "It was divided into multiple sections.",
+            "It led to the failure of Roman invasions.",
+            "It was an important resource for Roman armies."
+          ],
+          "explanation": "多くのローマの歴史家は、密集した松の森での戦闘の困難さのため侵略が失敗したと主張しました。",
+          "highlights": [
+            "the invasions were unsuccessful because of the difficulty of fighting in the dense pine forest"
+          ],
+          "choiceAnalysis": "選択肢1「ブリテンの大部分を覆う」→スコットランドの地域。選択肢2「複数のセクションに分かれる」→言及なし。選択肢3「ローマの侵略失敗の原因」→正解。選択肢4「重要な資源」→言及なし。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 3
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "However, modern research suggests this may not all be true. First, the forest also contained trees other than pine, and the forests do not seem to have been as dark and dense as Roman writings suggested. Furthermore, the forest peaked in size some six thousand years ago and had been in decline ever since. It was likely ancient humans chopping down the forest for hunting and agriculture that was mainly responsible for reducing its size rather than the Romans being responsible."
+            }
+          ],
+          "question": "What does modern research suggest about the Great Wood of Caledon?",
+          "choices": [
+            "It cannot be more than six thousand years old.",
+            "Humans are not to blame for its destruction.",
+            "Ancient historians were mostly correct about it.",
+            "It had already shrunk when the Romans arrived."
+          ],
+          "explanation": "森林は6000年前にピークに達し、それ以降ずっと減少していました。ローマ人が到着する前にすでに縮小していました。",
+          "highlights": [
+            "the forest peaked in size some six thousand years ago and had been in decline ever since"
+          ],
+          "choiceAnalysis": "選択肢1「6000年以内」→6000年前にピーク。選択肢2「人間のせいではない」→古代人が原因。選択肢3「歴史家は正しかった」→正しくなかった。選択肢4「ローマ到着前に縮小」→正解。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 4
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In 1936, photographers Gerda Taro and Robert Capa traveled to Spain to cover the civil war there. Taro became interested in photography after first meeting Capa, who would later become a famous war photographer. While Taro helped promote Capa's photos, Capa helped her learn photography, and she became an officially registered member of the press. While in Spain, the couple photographed not just frontline battles but also other aspects of war, including the suffering of civilians and refugees."
+            }
+          ],
+          "question": "What does the speaker say about Gerda Taro and Robert Capa?",
+          "choices": [
+            "Their photographs showed the damaging effects of war.",
+            "Capa prevented Taro from becoming a photographer.",
+            "They were unable to travel to Spain together.",
+            "Taro first introduced Capa to war photography."
+          ],
+          "explanation": "二人は最前線の戦闘だけでなく、市民や難民の苦しみなど戦争の他の側面も撮影しました。",
+          "highlights": [
+            "photographed not just frontline battles but also other aspects of war, including the suffering of civilians and refugees"
+          ],
+          "choiceAnalysis": "選択肢1「戦争の被害を示す写真」→正解。選択肢2「Capaが妨げた」→助けた。選択肢3「一緒にスペインに行けなかった」→一緒に行った。選択肢4「TaroがCapaに紹介」→逆。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 1
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Taro also began to work more independently, and it is said she was determined to experience the reality of war firsthand. Sadly, in one operation in 1937, she was struck by a tank and later died. She is said to be the first female photographer to have been killed reporting on war. Soon after her death, her work was largely forgotten. It was only many decades later that it became more widely appreciated."
+            }
+          ],
+          "question": "What does the speaker conclude about Taro?",
+          "choices": [
+            "She had not wanted to go to the front line.",
+            "Her photographic techniques were not original.",
+            "Her work got little attention for many years after she died.",
+            "She preferred working with Capa to working alone."
+          ],
+          "explanation": "死後すぐに作品はほとんど忘れられ、何十年も後になって初めて広く評価されるようになりました。",
+          "highlights": [
+            "her work was largely forgotten",
+            "It was only many decades later that it became more widely appreciated"
+          ],
+          "choiceAnalysis": "選択肢1「前線に行きたくなかった」→自ら最前線へ。選択肢2「技術が独創的でない」→言及なし。選択肢3「死後何年も注目されなかった」→正解。選択肢4「一緒に仕事を好んだ」→独立して活動。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 3
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Researchers in the United States have discovered that spiders can detect sounds through their webs. They found that the silk used in spiderwebs could pick up air disturbances created by sound waves up to three meters away. The silk is also capable of detecting frequencies outside the range of human hearing. A mechanical engineer in the US believes this knowledge can be used to help make more powerful and more sensitive microphones."
+            }
+          ],
+          "question": "What is true according to the speaker?",
+          "choices": [
+            "Spider silk can pick up sounds humans cannot.",
+            "Spiders have no need to detect sounds.",
+            "Spiders produce sounds that humans cannot hear.",
+            "Spider webs can be damaged by sound waves."
+          ],
+          "explanation": "蜘蛛の糸は人間の聴覚の範囲外の周波数も検出できます。",
+          "highlights": [
+            "detecting frequencies outside the range of human hearing"
+          ],
+          "choiceAnalysis": "選択肢1「人間に聞こえない音を検出」→正解。選択肢2「音を検出する必要がない」→逆。選択肢3「蜘蛛が人間に聞こえない音を出す」→検出の話。選択肢4「音波で損傷」→言及なし。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 1
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Human hearing is controlled by air pressure. Pressure changes cause the eardrum to vibrate at different frequencies, and the brain processes the resulting vibrations as sounds. Currently, microphones are designed based on this principle, but one drawback is that making microphones bigger is the only way to make them more sensitive. However, the US researchers have demonstrated that microphones that respond to airflow in the way that spider silk does can be significantly smaller without losing sensitivity."
+            }
+          ],
+          "question": "What is one thing the speaker says about current microphones?",
+          "choices": [
+            "They can negatively affect human hearing.",
+            "They become less effective as they get smaller.",
+            "They cannot detect some frequencies produced by humans.",
+            "They make vibrations that the brain cannot process."
+          ],
+          "explanation": "現在のマイクロフォンは大きくすることが感度を上げる唯一の方法であり、小さくすると効果が低下します。",
+          "highlights": [
+            "making microphones bigger is the only way to make them more sensitive"
+          ],
+          "choiceAnalysis": "選択肢1「聴覚に悪影響」→言及なし。選択肢2「小さくなると効果が低下」→正解。選択肢3「人間の周波数を検出できない」→言及なし。選択肢4「脳が処理できない振動」→言及なし。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 2
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Ancient Egypt was heavily dependent on the Nile River. Each year, the river flooded the surrounding plains, leaving fertile soil behind when the water level dropped. This allowed the ancient Egyptians to grow crops, so the size of the flood had a major impact on the annual harvest. If the flood was too small, only a limited area would be covered with the soil, leading to a poor harvest. If the flood was too big, the crops could be destroyed."
+            }
+          ],
+          "question": "What is one thing the speaker says about the ancient Egyptians?",
+          "choices": [
+            "Their agriculture polluted the Nile River.",
+            "Their agriculture relied on the Nile River.",
+            "Their crops were poorly suited to the region.",
+            "Their farming methods were very advanced."
+          ],
+          "explanation": "古代エジプトはナイル川に大きく依存しており、毎年の洪水が農業を可能にしていました。",
+          "highlights": [
+            "Ancient Egypt was heavily dependent on the Nile River"
+          ],
+          "choiceAnalysis": "選択肢1「農業がナイル川を汚染」→言及なし。選択肢2「農業がナイル川に依存」→正解。選択肢3「作物が不適」→言及なし。選択肢4「先進的な農法」→言及なし。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 2
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "To predict the size of the annual flood, the ancient Egyptians built large stone structures called nilometers, which measured the river's water level. In fact, historians now believe these structures had an additional purpose. The ancient Egyptian government placed a tax on goods, and the rate of this tax was decided each year. If nilometer measurements suggested there would be a good harvest, the tax was set at a higher rate."
+            }
+          ],
+          "question": "What do we learn about nilometers?",
+          "choices": [
+            "Some were less accurate than others.",
+            "Historians are unsure why they were built.",
+            "Historians think they had more than one function.",
+            "They were paid for using taxpayers' money."
+          ],
+          "explanation": "歴史家はナイロメーターには水位測定に加えて税率の決定という追加の目的があったと考えています。",
+          "highlights": [
+            "historians now believe these structures had an additional purpose"
+          ],
+          "choiceAnalysis": "選択肢1「精度にばらつき」→言及なし。選択肢2「目的が不明」→目的がわかっている。選択肢3「複数の機能があった」→正解。選択肢4「税金で支払い」→言及なし。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 3
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Scientists have long known that climatic conditions affect physical health, but a UK study suggests they also influence the brain. By analyzing past research, the study's authors found that heat waves caused a rise in hospital visits due to brain conditions. According to the study's leader, the brain only functions properly within a certain temperature range, so it usually regulates its own temperature. However, brain conditions can prevent this from happening, making sufferers of such conditions more vulnerable to the effects of high temperatures."
+            }
+          ],
+          "question": "What is one thing the UK study showed?",
+          "choices": [
+            "Hospitals lack expertise regarding brain conditions.",
+            "Brain conditions are difficult to treat.",
+            "Brain conditions make people more sensitive to heat.",
+            "Past research on brain conditions was incorrect."
+          ],
+          "explanation": "脳の疾患があると体温調節ができなくなり、高温の影響を受けやすくなります。",
+          "highlights": [
+            "brain conditions can prevent this from happening, making sufferers of such conditions more vulnerable to the effects of high temperatures"
+          ],
+          "choiceAnalysis": "選択肢1「病院に専門知識がない」→言及なし。選択肢2「治療が困難」→言及なし。選択肢3「脳疾患で熱に敏感に」→正解。選択肢4「過去の研究が間違い」→過去の研究を分析。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 3
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In fact, the study showed that healthy people were also affected by climatic conditions. Extreme weather events such as storms disrupt people's lives and create stress, which can have a negative effect on brain function over time. One of the study's authors warned that this meant the number of people suffering from brain conditions would likely increase because global warming is making extreme weather events more common."
+            }
+          ],
+          "question": "What does one of the study's authors believe will happen?",
+          "choices": [
+            "The effects of global warming will be reduced.",
+            "New kinds of brain conditions will appear.",
+            "People will adapt to extreme weather events.",
+            "More people will suffer from brain conditions."
+          ],
+          "explanation": "地球温暖化により異常気象が増え、脳疾患を患う人が増える可能性があると警告しています。",
+          "highlights": [
+            "the number of people suffering from brain conditions would likely increase"
+          ],
+          "choiceAnalysis": "選択肢1「温暖化の影響が減る」→逆。選択肢2「新種の脳疾患」→増加。選択肢3「適応する」→言及なし。選択肢4「脳疾患が増える」→正解。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 4
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In the late twentieth century, the sociologist Ray Oldenburg proposed the idea of the \"third place\"—a space separate from home and the workplace, such as a park or café, where people can relax and socialize. These spaces can help individuals release stress, stimulate creativity, and achieve a healthier work-life balance. While third places can vary widely, Oldenburg noted some essential characteristics. For example, cost should not be a barrier to entering, and people should be free to come and go as they wish."
+            }
+          ],
+          "question": "What is true about \"third places\"?",
+          "choices": [
+            "They are usually located within the workplace.",
+            "Financial cost does not prevent people from entering.",
+            "Creative people benefit from them the most.",
+            "They can make work-life balance harder to achieve."
+          ],
+          "explanation": "サードプレイスの特徴として、費用が入場の障壁にならないべきとされています。",
+          "highlights": [
+            "cost should not be a barrier to entering"
+          ],
+          "choiceAnalysis": "選択肢1「職場内にある」→家と職場から離れた場所。選択肢2「費用が障壁にならない」→正解。選択肢3「クリエイティブな人に最も有益」→言及なし。選択肢4「WLBを困難にする」→逆。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 2
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Third places can be especially beneficial for workplace leaders. For such people, balancing life and work can be particularly challenging, especially since remote working has blurred the lines between work and homelife. Socializing in third places can help leaders gain new perspectives and bring renewed energy to work. This can enhance leadership effectiveness and also help create a workplace culture that benefits employees' well-being."
+            }
+          ],
+          "question": "According to the speaker, what can happen when leaders visit third places?",
+          "choices": [
+            "They may be inspired to change careers.",
+            "Remote work could become more difficult to manage.",
+            "Their work environment can become healthier.",
+            "They could benefit from increased formal training."
+          ],
+          "explanation": "リーダーがサードプレイスを訪れることで、従業員の幸福に寄与する職場文化を作ることができます。",
+          "highlights": [
+            "help create a workplace culture that benefits employees' well-being"
+          ],
+          "choiceAnalysis": "選択肢1「転職に触発される」→言及なし。選択肢2「リモートワークが困難に」→言及なし。選択肢3「職場環境が健全に」→正解。選択肢4「研修が有益」→言及なし。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You are planning a painting workshop for twenty people. You call an arts center to ask about renting a room and are told the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "If you're holding an exhibition, we have the Rose Gallery and the Sun Gallery. The Sun Gallery can hold up to fifty people, while the Rose Gallery can hold around ninety. However, those rooms are only for displaying art, so if you're planning a workshop or class, we have the Blue Room or the Sky Studio. They can each accommodate up to thirty people. If you're using ink or paints, the Blue Room is more suitable because it has a sink for washing brushes and other equipment. All rooms can be rented by the day or by the hour."
+            }
+          ],
+          "question": "Which room should you rent?",
+          "choices": [
+            "The Rose Gallery.",
+            "The Sun Gallery.",
+            "The Blue Room.",
+            "The Sky Studio."
+          ],
+          "explanation": "ペイントのワークショップで20人→ワークショップ用＋絵の具使用→Blue Roomがシンク付きで最適。",
+          "highlights": [
+            "if you're planning a workshop or class, we have the Blue Room or the Sky Studio",
+            "If you're using ink or paints, the Blue Room is more suitable"
+          ],
+          "choiceAnalysis": "選択肢1「Rose Gallery」→展示用のみ。選択肢2「Sun Gallery」→展示用のみ。選択肢3「Blue Room」→正解。ワークショップ＋絵の具＋シンク付き。選択肢4「Sky Studio」→シンクなし。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 3
+        },
+        {
+          "number": 26,
+          "situation": "You are a tenth-grade high school student. You are in the art classroom at school when you hear the following announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Attention students and staff. The fire drill will begin in ten minutes. Ninth-grade classes should proceed to the main sports field behind the gym. Please note that due to maintenance work, you cannot walk through the gym to reach the field. Tenth-grade classes should head to the staff parking lot. Eleventh- and twelfth-grade classes are to assemble in the small auditorium. Students and staff currently in the art and music rooms should also proceed to this location, regardless of class year. Remember, this is a drill designed for your safety, so please follow instructions carefully. Thank you for your cooperation."
+            }
+          ],
+          "question": "Where should you go?",
+          "choices": [
+            "To the main sports field.",
+            "To the staff parking lot.",
+            "To the gym.",
+            "To the small auditorium."
+          ],
+          "explanation": "10年生だが、アート室にいる→学年に関係なく小講堂に行くべき。",
+          "highlights": [
+            "Students and staff currently in the art and music rooms should also proceed to this location, regardless of class year"
+          ],
+          "choiceAnalysis": "選択肢1「運動場」→9年生用。選択肢2「駐車場」→10年生用だが例外あり。選択肢3「体育館」→メンテナンス中で通れない。選択肢4「小講堂」→正解。アート室にいるため。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 4
+        },
+        {
+          "number": 27,
+          "situation": "You have a tree in your yard that has a disease. It is sixty centimeters in diameter. A tree specialist is giving you advice.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "As I warned you last year, the chemical treatment we applied is not always effective. The disease has progressed, and it's no longer possible to save the tree. It's a shame, but due to its condition, your only option is to have it removed. If the tree is more than fifty centimeters in diameter, you'll need a permit from city hall for the removal. I'm afraid I can't apply on your behalf. Once that's taken care of, you can book a date to have the tree taken down."
+            }
+          ],
+          "question": "What should you do next?",
+          "choices": [
+            "Purchase more of the chemical.",
+            "Continue to check the tree's condition.",
+            "Get in touch with city hall.",
+            "Book a date with the tree specialist."
+          ],
+          "explanation": "60cmの木→50cm以上なので市役所から伐採許可が必要。専門家は代理申請できない。",
+          "highlights": [
+            "you'll need a permit from city hall",
+            "I can't apply on your behalf"
+          ],
+          "choiceAnalysis": "選択肢1「薬品を購入」→効果がなかった。選択肢2「状態を監視」→もう救えない。選択肢3「市役所に連絡」→正解。許可が必要。選択肢4「日程を予約」→許可の後。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 3
+        },
+        {
+          "number": 28,
+          "situation": "You are on vacation with your husband. You are both interested in history and physical activities. A staff member at the tourist office gives you some tour options.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "First up is the evening city tour. You'll walk to the hilltop castle, the old cathedral, and the Roman bridge a few kilometers out of town. We also have a daytime bus tour that includes those sites, so that's less physically demanding than the walking tour. A daytime tour requiring fitness is the cycling tour, which takes you beyond the city to explore local nature spots, including the stunning lake. Finally, we have a two-hour tour along the city's river. Just relax on a riverboat, enjoy lunch, and listen as the guide gives you the lowdown on local history."
+            }
+          ],
+          "question": "Which tour should you take?",
+          "choices": [
+            "The evening city tour.",
+            "The daytime bus tour.",
+            "The cycling tour.",
+            "The river tour."
+          ],
+          "explanation": "歴史に興味あり＋体を動かしたい→夕方のウォーキングツアーは城や大聖堂、ローマ橋を歩いて巡る→歴史＋身体活動の両方を満たす。",
+          "highlights": [
+            "the evening city tour",
+            "You'll walk to the hilltop castle, the old cathedral, and the Roman bridge"
+          ],
+          "choiceAnalysis": "選択肢1「夕方のウォーキングツアー」→正解。歴史的名所＋ウォーキング。選択肢2「バスツアー」→身体的に楽。選択肢3「サイクリング」→自然スポットで歴史少なめ。選択肢4「リバーツアー」→リラックス中心。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 1
+        },
+        {
+          "number": 29,
+          "situation": "You are the manager of a store. Part-time employees can work a maximum of thirty hours per week. You receive the following voicemail from a coworker.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "This is Jamal. I'm afraid Amy can't work tomorrow, so we need to find a replacement to work her six-hour shift. Miranda should be willing—oh, she's already worked thirty hours this week. Jack and Dana have worked just fifteen hours, so they'd be below the limit. Jack isn't trained for Amy's job, though. And Dana doesn't want to do it unless there's no one else who can come in. Hmm. Rakesh has worked twenty hours, so he might be your best bet. Oh, wait, he's already doing his regular shift for tomorrow, so he's unavailable."
+            }
+          ],
+          "question": "Who should you ask to work tomorrow?",
+          "choices": [
+            "Miranda.",
+            "Jack.",
+            "Dana.",
+            "Rakesh."
+          ],
+          "explanation": "Miranda→30時間で上限。Jack→訓練されていない。Rakesh→明日既にシフトあり。Dana→他にいなければOK→他に適任者がいないのでDanaに頼むべき。",
+          "highlights": [
+            "Dana doesn't want to do it unless there's no one else who can come in"
+          ],
+          "choiceAnalysis": "選択肢1「Miranda」→30時間で上限。選択肢2「Jack」→訓練されていない。選択肢3「Dana」→正解。他に選択肢がない。選択肢4「Rakesh」→明日シフトあり。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

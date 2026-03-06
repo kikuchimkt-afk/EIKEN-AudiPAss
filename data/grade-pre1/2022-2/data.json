@@ -1,0 +1,971 @@
+{
+  "title": "2022年度 第2回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Leaving for lunch already, Noah?"
+            },
+            {
+              "speaker": "male",
+              "text": "Actually, I'm on my way upstairs. We have our company medical checkups today, remember?"
+            },
+            {
+              "speaker": "female",
+              "text": "No, I completely forgot about them."
+            },
+            {
+              "speaker": "male",
+              "text": "You can still go. You don't need an appointment."
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah, but I had a big breakfast this morning. You're not supposed to eat before the blood test, right?"
+            },
+            {
+              "speaker": "male",
+              "text": "Right. In fact, I'm starving. Anyway, you'll have another chance next week. They'll be back again on Wednesday."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? I'll make sure to remember."
+            }
+          ],
+          "question": "What will the woman probably do?",
+          "choices": [
+            "Get a blood test today.",
+            "Try to eat less for breakfast.",
+            "Go to lunch with Noah.",
+            "Have a medical checkup next week."
+          ],
+          "explanation": "女性は今日は朝食を食べてしまったので血液検査ができませんが、来週水曜日に受けると言っています。",
+          "highlights": [
+            "you'll have another chance next week",
+            "I'll make sure to remember"
+          ],
+          "choiceAnalysis": "選択肢1「今日血液検査」→朝食を食べた。選択肢2「朝食を減らす」→言及なし。選択肢3「Noahとランチ」→Noahは検診へ。選択肢4「来週健康診断」→正解。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 4
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Looks like I'll be putting in another 60-hour week. Seems like I live here at the office these days."
+            },
+            {
+              "speaker": "male",
+              "text": "You do live at the office these days, and they don't pay you nearly enough. Why don't you drop a hint that you'd like to review your compensation?"
+            },
+            {
+              "speaker": "female",
+              "text": "But I've only been working here a year."
+            },
+            {
+              "speaker": "male",
+              "text": "In which time they've doubled your responsibilities. Come on, Laurie! You need to stand up for yourself."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, maybe you're right."
+            }
+          ],
+          "question": "How does the man feel about the woman's situation?",
+          "choices": [
+            "She needs to take more time off.",
+            "She should be less concerned about money.",
+            "She is not ready for so much responsibility.",
+            "She deserves more pay."
+          ],
+          "explanation": "男性は女性の仕事量が倍増したのに給料が十分でないと考え、報酬の見直しを求めるべきだと言っています。",
+          "highlights": [
+            "they don't pay you nearly enough",
+            "they've doubled your responsibilities"
+          ],
+          "choiceAnalysis": "選択肢1「もっと休むべき」→給料の話。選択肢2「お金を気にしすぎ」→逆。選択肢3「責任に対して準備不足」→言及なし。選択肢4「もっと給料をもらうべき」→正解。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 4
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Doctor, how were the test results?"
+            },
+            {
+              "speaker": "female",
+              "text": "Not bad. It's just a sprain. Nevertheless, I still think you should avoid strenuous exercise for at least a couple of weeks after you leave the hospital today."
+            },
+            {
+              "speaker": "male",
+              "text": "But my softball team's got a big game this Thursday."
+            },
+            {
+              "speaker": "female",
+              "text": "I'm afraid you're going to have to sit that one out. You should wait till you fully recover or you may make it worse."
+            }
+          ],
+          "question": "What does the doctor tell the man?",
+          "choices": [
+            "He needs to undergo further tests.",
+            "He will not be able to play in the game.",
+            "He needs to find a different form of exercise.",
+            "He has to stay at the hospital."
+          ],
+          "explanation": "医師は捻挫なので数週間は激しい運動を避けるべきだと言い、木曜日の試合には出られないと告げました。",
+          "highlights": [
+            "you should avoid strenuous exercise for at least a couple of weeks",
+            "you're going to have to sit that one out"
+          ],
+          "choiceAnalysis": "選択肢1「さらに検査が必要」→検査結果は出た。選択肢2「試合に出られない」→正解。選択肢3「別の運動を」→言及なし。選択肢4「入院が必要」→今日退院。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 2
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Phil. I'm sorry to bother you on your day off, but I'm not feeling well. Could you cover my shift this afternoon?"
+            },
+            {
+              "speaker": "male",
+              "text": "Unfortunately, I've already got plans."
+            },
+            {
+              "speaker": "female",
+              "text": "I see. Do you know who might be able to change shifts with me?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'm not sure."
+            },
+            {
+              "speaker": "female",
+              "text": "Maybe the new guy can cover it."
+            },
+            {
+              "speaker": "male",
+              "text": "I'd just get in touch with the manager. It's her responsibility to deal with these issues."
+            },
+            {
+              "speaker": "female",
+              "text": "I know, but I hate bothering her. Maybe I should just work the shift."
+            },
+            {
+              "speaker": "male",
+              "text": "No, don't do that. You might make everyone else sick."
+            }
+          ],
+          "question": "What does the man imply the woman should do?",
+          "choices": [
+            "Contact the new employee.",
+            "Speak to the manager.",
+            "Work the shift herself.",
+            "Change shifts with him."
+          ],
+          "explanation": "男性はマネージャーに連絡すべきだと言い、体調不良のまま出勤すると他の人にうつすかもしれないと警告しています。",
+          "highlights": [
+            "I'd just get in touch with the manager. It's her responsibility to deal with these issues"
+          ],
+          "choiceAnalysis": "選択肢1「新人に連絡」→マネージャーを勧めた。選択肢2「マネージャーに話す」→正解。選択肢3「自分で出勤」→止めた。選択肢4「Philと交代」→予定がある。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 2
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I'm looking forward to our business trip next week."
+            },
+            {
+              "speaker": "male",
+              "text": "Me, too. I'll double-check the flight schedule tomorrow."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks."
+            },
+            {
+              "speaker": "male",
+              "text": "Have you finished putting together the presentation for our meeting?"
+            },
+            {
+              "speaker": "female",
+              "text": "Not yet. I was planning to get it done tomorrow."
+            },
+            {
+              "speaker": "male",
+              "text": "That's a good idea. I remember trying to finish one at a hotel last year, and I couldn't connect to the Internet."
+            },
+            {
+              "speaker": "female",
+              "text": "Our hotel is supposed to have good Wi-Fi, but don't worry. It'll be done before we go."
+            }
+          ],
+          "question": "What will the woman do before leaving for the trip?",
+          "choices": [
+            "Contact the hotel about Internet access.",
+            "Confirm the meeting schedule.",
+            "Finish preparing the presentation.",
+            "Buy a ticket for the flight."
+          ],
+          "explanation": "女性は出発前にプレゼンテーションの準備を完了させると言っています。",
+          "highlights": [
+            "It'll be done before we go"
+          ],
+          "choiceAnalysis": "選択肢1「ホテルのネット確認」→心配ないと言った。選択肢2「会議スケジュール確認」→男性の役割。選択肢3「プレゼン準備完了」→正解。選択肢4「航空券購入」→男性がフライト確認。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 3
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Shall we order some more wine?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'd love to, but we should probably catch the bus home soon. It's already eleven."
+            },
+            {
+              "speaker": "female",
+              "text": "Eleven? Oh, dear. The last one will have left by the time we get to the bus stop."
+            },
+            {
+              "speaker": "male",
+              "text": "We can still catch the last train."
+            },
+            {
+              "speaker": "female",
+              "text": "That train doesn't come for another hour. I say we treat ourselves to a taxi."
+            },
+            {
+              "speaker": "male",
+              "text": "Works for me."
+            },
+            {
+              "speaker": "female",
+              "text": "Great. Let's head over to the main street. We can probably catch one there."
+            }
+          ],
+          "question": "What does the couple decide to do?",
+          "choices": [
+            "Take a taxi home.",
+            "Order more wine.",
+            "Catch the last train home.",
+            "Walk to the closest bus stop."
+          ],
+          "explanation": "バスは終了、電車は1時間待ち。二人はタクシーで帰ることに決めました。",
+          "highlights": [
+            "I say we treat ourselves to a taxi",
+            "Works for me"
+          ],
+          "choiceAnalysis": "選択肢1「タクシーで帰る」→正解。選択肢2「ワインを追加注文」→帰ることに。選択肢3「最終電車」→1時間待ちなのでタクシー。選択肢4「バス停へ歩く」→最終バスは出た。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 1
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Honey, did you see that the new restaurant down the block finally opened?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm sorry, I can't chat right now. I need to start making dinner so it'll be ready by the time the kids get home from school."
+            },
+            {
+              "speaker": "male",
+              "text": "Leave dinner to me."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? But you don't cook. You aren't planning to order takeout, are you? We just bought groceries."
+            },
+            {
+              "speaker": "male",
+              "text": "No. I know I'm not a good chef, but I found a cooking website for beginners. I saw a great recipe for a pasta dish I think I can make."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, that would be lovely!"
+            }
+          ],
+          "question": "What does the man offer to do?",
+          "choices": [
+            "Pick up the children from school.",
+            "Cook dinner for his family.",
+            "Buy the ingredients for tonight's dinner.",
+            "Order food from a new restaurant."
+          ],
+          "explanation": "男性は初心者向け料理サイトのレシピを使ってパスタを作ると申し出ています。",
+          "highlights": [
+            "Leave dinner to me",
+            "I found a cooking website for beginners. I saw a great recipe for a pasta dish I think I can make"
+          ],
+          "choiceAnalysis": "選択肢1「子供を迎えに行く」→言及なし。選択肢2「家族のために料理する」→正解。選択肢3「食材を買う」→既に買った。選択肢4「レストランから注文」→自分で作る。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 2
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "AFP Automotive."
+            },
+            {
+              "speaker": "male",
+              "text": "Hi. I'm on Highway 5. My engine overheated, and it won't start. I need my car towed, and I could use a ride downtown. I have to be at a meeting in an hour."
+            },
+            {
+              "speaker": "female",
+              "text": "Could you tell me your policy number?"
+            },
+            {
+              "speaker": "male",
+              "text": "It's A735."
+            },
+            {
+              "speaker": "female",
+              "text": "I'm sorry. A car will arrive in about 10 minutes to take you downtown, but the system says you don't have towing coverage."
+            },
+            {
+              "speaker": "male",
+              "text": "Really? I thought my plan included towing."
+            },
+            {
+              "speaker": "female",
+              "text": "Unfortunately, you'll have to pay out of pocket this time, but we can add it to your insurance policy in the future."
+            }
+          ],
+          "question": "What is one problem the man has?",
+          "choices": [
+            "He has to pay an unexpected fee.",
+            "He canceled his insurance policy.",
+            "He is late for a meeting.",
+            "The company cannot find his policy number."
+          ],
+          "explanation": "男性は牽引が保険でカバーされておらず、自費で払わなければなりません。",
+          "highlights": [
+            "you don't have towing coverage",
+            "you'll have to pay out of pocket"
+          ],
+          "choiceAnalysis": "選択肢1「予期しない費用を払う必要」→正解。選択肢2「保険を解約した」→言及なし。選択肢3「会議に遅刻」→まだ間に合う可能性。選択肢4「ポリシー番号が見つからない」→見つかった。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 1
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Excuse me, Professor Garcia. Could I ask you for some advice?"
+            },
+            {
+              "speaker": "female",
+              "text": "Of course. Is it about our art classes?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sort of. I'm thinking about changing my major from communications to graphic design, but I'm not sure if it's a good idea."
+            },
+            {
+              "speaker": "female",
+              "text": "Why are you considering the change?"
+            },
+            {
+              "speaker": "male",
+              "text": "It gives me career options. I could do advertising, marketing, or even web design."
+            },
+            {
+              "speaker": "female",
+              "text": "Those are good careers. What's your concern?"
+            },
+            {
+              "speaker": "male",
+              "text": "Well, I'm not confident that my artistic skills are good enough."
+            },
+            {
+              "speaker": "female",
+              "text": "I've seen your work. If you make the effort, I think you could be quite successful."
+            }
+          ],
+          "question": "What does the woman imply?",
+          "choices": [
+            "The man should not change his major.",
+            "A career in communications might suit the man better.",
+            "Graphic design is a good choice for the man.",
+            "The man is not doing well in class."
+          ],
+          "explanation": "教授は男性の作品を見て、努力すれば成功できると評価し、グラフィックデザインを勧めています。",
+          "highlights": [
+            "I've seen your work. If you make the effort, I think you could be quite successful"
+          ],
+          "choiceAnalysis": "選択肢1「専攻を変えるべきでない」→逆に支持。選択肢2「コミュニケーションが合う」→言及なし。選択肢3「グラフィックデザインが良い」→正解。選択肢4「授業の成績が悪い」→言及なし。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 3
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Alicia, can I talk to you about that online meeting software we're using?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sure, Ben. What is it?"
+            },
+            {
+              "speaker": "male",
+              "text": "We've been using the free version, but I think we should consider paying to upgrade to the full version. The free version can be inconvenient at times."
+            },
+            {
+              "speaker": "female",
+              "text": "The participant limit has been a problem. Sometimes we'd like to have more than eight people in a meeting at once. Could you submit an official request with the cost?"
+            },
+            {
+              "speaker": "male",
+              "text": "Does that mean there's room in the budget for an upgrade?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'll see what I can do."
+            }
+          ],
+          "question": "What will the man do next?",
+          "choices": [
+            "Find another online chat tool.",
+            "Prepare a request for a software upgrade.",
+            "Get more people to join online meetings.",
+            "Ask to increase the company's budget."
+          ],
+          "explanation": "女性はコストを含む公式リクエストを提出するよう求めました。",
+          "highlights": [
+            "Could you submit an official request with the cost"
+          ],
+          "choiceAnalysis": "選択肢1「別のツールを探す」→アップグレードの話。選択肢2「ソフトウェアアップグレードのリクエストを準備」→正解。選択肢3「参加者を増やす」→制限があるのが問題。選択肢4「予算増額を要求」→言及なし。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 2
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Carol, I have a favor to ask you."
+            },
+            {
+              "speaker": "female",
+              "text": "What is it?"
+            },
+            {
+              "speaker": "male",
+              "text": "Inspectors from Mexico are coming to our plant tomorrow, and our regular interpreter is on vacation. I remember you majored in Spanish in college. Do you think you could substitute?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I did study Spanish, but I'm not sure I can handle all the technical terms."
+            },
+            {
+              "speaker": "male",
+              "text": "What if we asked Barbara to do your regular work today, and you spent the rest of the afternoon brushing up on vocabulary?"
+            },
+            {
+              "speaker": "female",
+              "text": "OK. I'll do my best."
+            }
+          ],
+          "question": "What will the woman do for the rest of the day?",
+          "choices": [
+            "Go to the plant.",
+            "Study Spanish.",
+            "Meet with Barbara.",
+            "Look for an interpreter."
+          ],
+          "explanation": "女性は午後の残りをスペイン語の語彙の復習に充てることになりました。",
+          "highlights": [
+            "you spent the rest of the afternoon brushing up on vocabulary"
+          ],
+          "choiceAnalysis": "選択肢1「工場に行く」→明日の話。選択肢2「スペイン語を勉強」→正解。選択肢3「Barbaraと会う」→Barbaraが通常業務を代行。選択肢4「通訳を探す」→女性が代行。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 2
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Excuse me, ma'am, this is a no-parking zone."
+            },
+            {
+              "speaker": "female",
+              "text": "I'm sorry, officer. I felt ill while I was driving, so I stopped my car here to take a short rest."
+            },
+            {
+              "speaker": "male",
+              "text": "Are you OK? I can call an ambulance for you."
+            },
+            {
+              "speaker": "female",
+              "text": "No, thanks. I'm feeling much better now, but can I rest here for another 10 minutes or so?"
+            },
+            {
+              "speaker": "male",
+              "text": "No problem. I'll stand by in the police car until you feel well enough to leave. Honk your horn if you need help."
+            },
+            {
+              "speaker": "female",
+              "text": "I will. Thanks."
+            }
+          ],
+          "question": "What is the police officer going to do?",
+          "choices": [
+            "Radio for an ambulance.",
+            "Move the woman's car for her.",
+            "Give the woman a parking ticket.",
+            "Wait in his police car."
+          ],
+          "explanation": "警察官はパトカーで待機し、女性が出発できるようになるまで見守ると言いました。",
+          "highlights": [
+            "I'll stand by in the police car until you feel well enough to leave"
+          ],
+          "choiceAnalysis": "選択肢1「救急車を呼ぶ」→断られた。選択肢2「車を移動する」→言及なし。選択肢3「駐車違反切符」→言及なし。選択肢4「パトカーで待機」→正解。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "When the P-47 Thunderbolt first appeared in World War II, American pilots worried that this extremely heavy fighter plane would be at a disadvantage against smaller, lighter German planes. The P-47 was indeed slower at low altitudes, but when it was flying high, it could outrun almost any other plane. One serious weakness early on was its limited fuel supply. Eventually, however, extra tanks were fitted onto the P-47 so that it could go on longer missions."
+            }
+          ],
+          "question": "What problem did the P-47 Thunderbolt have at first?",
+          "choices": [
+            "It could not fly high enough.",
+            "It was too small and light.",
+            "It could only fly short distances.",
+            "It used a rare kind of fuel."
+          ],
+          "explanation": "初期のP-47は燃料供給が限られており、長距離ミッションに行けませんでした。",
+          "highlights": [
+            "One serious weakness early on was its limited fuel supply"
+          ],
+          "choiceAnalysis": "選択肢1「十分に高く飛べない」→高高度では優秀。選択肢2「小さくて軽すぎ」→逆に重い。選択肢3「短距離しか飛べない」→正解。燃料不足。選択肢4「珍しい燃料」→言及なし。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 3
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The P-47 had eight powerful machine guns and was able to carry an impressive selection of bombs and rockets. The real reason that pilots came to love it, though, is that it was one of the most durable planes of the war and survived many hits that would have destroyed other planes. In one extreme case, a pilot was able to land his P-47 after it was shot over 100 times."
+            }
+          ],
+          "question": "What did pilots like most about flying the P-47 Thunderbolt?",
+          "choices": [
+            "It was tougher than other planes.",
+            "It had a new kind of weapon.",
+            "It could land very quickly.",
+            "It could drop bombs accurately."
+          ],
+          "explanation": "パイロットがP-47を愛した本当の理由は、他の飛行機なら破壊されるような被弾にも耐える耐久性でした。",
+          "highlights": [
+            "it was one of the most durable planes of the war and survived many hits that would have destroyed other planes"
+          ],
+          "choiceAnalysis": "選択肢1「他の飛行機より頑丈」→正解。選択肢2「新兵器」→言及なし。選択肢3「素早く着陸」→被弾後に着陸できた話。選択肢4「正確な爆撃」→言及なし。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 1
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Ascension Island lies in the middle of the Atlantic Ocean. Originally, it was nearly treeless, and fresh water was scarce, which made for tough living conditions for the first settlers. However, in the 1840s, a British scientist named Sir Joseph Hooker started a program to transform the desert island. He started importing trees and other plants that were able to survive in the island's dry environment by absorbing water from mist in the air. His program eventually resulted in an entire mountain being covered in forest. However, Hooker's plants have been so successful that several native plant species have gone extinct."
+            }
+          ],
+          "question": "What was one result of Sir Joseph Hooker's program for Ascension Island?",
+          "choices": [
+            "Water supplies decreased.",
+            "The air became less polluted.",
+            "Many people had to leave the island.",
+            "The number of trees increased."
+          ],
+          "explanation": "Hookerのプログラムにより、山全体が森で覆われるほど木が増えました。",
+          "highlights": [
+            "His program eventually resulted in an entire mountain being covered in forest"
+          ],
+          "choiceAnalysis": "選択肢1「水の供給が減少」→逆に水が増えた。選択肢2「大気汚染が減少」→言及なし。選択肢3「多くの人が島を離れた」→言及なし。選択肢4「木の数が増えた」→正解。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 4
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "There is now a debate about the island's future. Some people say efforts must be made to preserve the plants that were originally found on the island. Others, though, want the new ecosystem to be left as is, since it has had benefits, such as increasing available water and creating the potential for agriculture."
+            }
+          ],
+          "question": "What do people disagree about regarding Ascension Island?",
+          "choices": [
+            "How to classify the new ecosystem.",
+            "What to use the water supply for.",
+            "Whether native plants should be protected.",
+            "Where agriculture should be allowed."
+          ],
+          "explanation": "元の植物を保存すべきか、新しい生態系をそのままにすべきかが議論になっています。",
+          "highlights": [
+            "efforts must be made to preserve the plants that were originally found",
+            "want the new ecosystem to be left as is"
+          ],
+          "choiceAnalysis": "選択肢1「新生態系の分類」→言及なし。選択肢2「水の用途」→言及なし。選択肢3「在来植物を保護すべきか」→正解。選択肢4「農業の場所」→言及なし。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 3
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "One of the twentieth century's greatest street photographers, Vivian Maier is known for her fascinating images of people in cities like Chicago and New York. Maier worked in childcare, but her true passion was photography. She always had her camera with her, and this habit allowed her to capture unique and unusual shots of people going about their daily lives. Her photos depict everything from strangely dressed tourists to emergency workers caring for accident victims."
+            }
+          ],
+          "question": "What is one thing we learn about Vivian Maier?",
+          "choices": [
+            "She carried her camera everywhere.",
+            "She made friends with emergency workers.",
+            "She lent her camera to the children she took care of.",
+            "She went to many places as a tourist."
+          ],
+          "explanation": "Maierは常にカメラを持ち歩き、日常生活の独自の瞬間を捉えました。",
+          "highlights": [
+            "She always had her camera with her"
+          ],
+          "choiceAnalysis": "選択肢1「いつもカメラを持ち歩いた」→正解。選択肢2「救急隊員と友達に」→写真を撮っただけ。選択肢3「子供にカメラを貸した」→言及なし。選択肢4「観光客として各地へ」→言及なし。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 1
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Despite the incredible number of photos she took, Maier was an intensely private person. Unlike most photographers, she refused to allow others to see her work. Nevertheless, a collection of her photos was purchased at an auction in 2007, and the buyers began exhibiting her unusual work. It was not until after her death in 2009, however, that she was recognized as an artistic genius."
+            }
+          ],
+          "question": "How was Maier different from other photographers?",
+          "choices": [
+            "She became famous early in her career.",
+            "She mainly took photos at auctions.",
+            "She held very large exhibitions.",
+            "She did not show people her photos."
+          ],
+          "explanation": "Maierは非常にプライベートな人物で、他のカメラマンと違い、自分の作品を人に見せることを拒否しました。",
+          "highlights": [
+            "she refused to allow others to see her work"
+          ],
+          "choiceAnalysis": "選択肢1「早くに有名に」→死後に認められた。選択肢2「オークションで撮影」→写真がオークションで売られた。選択肢3「大規模な展覧会」→自分ではしなかった。選択肢4「写真を見せなかった」→正解。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 4
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Cats are one of the most popular pets today, but like many other pets, they affect the environment through their eating habits. As carnivores, cats primarily eat meat, the production of which releases substantial amounts of carbon dioxide gas into the atmosphere and often creates air and water pollution. According to a recent study, however, the management of cats' waste may be more harmful to the environment than their diet is."
+            }
+          ],
+          "question": "What is one thing the speaker says about cat-food production?",
+          "choices": [
+            "It does not require the use of fresh water.",
+            "It can only be done in certain climates.",
+            "It produces a large amount of gas.",
+            "It uses less meat than it did in the past."
+          ],
+          "explanation": "キャットフードの主原料である肉の生産は、大量の二酸化炭素を大気中に放出します。",
+          "highlights": [
+            "the production of which releases substantial amounts of carbon dioxide gas into the atmosphere"
+          ],
+          "choiceAnalysis": "選択肢1「淡水不要」→言及なし。選択肢2「特定の気候でのみ」→言及なし。選択肢3「大量のガスを生産」→正解。選択肢4「以前より肉の使用量が少ない」→言及なし。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 3
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Cat owners commonly prepare boxes for their cats that contain cat litter, a material that traps the cats' waste. However, the clay that is used in most litter is usually acquired through surface mining, a process that requires oil-powered heavy machinery and can destroy large natural areas. Recently, more manufacturers have begun producing litter made from environmentally friendly materials like wood and seeds. Nevertheless, clay-based litter is still the most used type due to its low cost and exceptional odor absorption."
+            }
+          ],
+          "question": "What do we learn about the process of collecting clay?",
+          "choices": [
+            "The machines it uses are very expensive.",
+            "It is damaging to wide areas of land.",
+            "It releases chemicals into nearby farmland.",
+            "It is frequently dangerous for workers."
+          ],
+          "explanation": "猫砂に使われる粘土の採取は露天掘りで行われ、広い自然地域を破壊する可能性があります。",
+          "highlights": [
+            "surface mining, a process that requires oil-powered heavy machinery and can destroy large natural areas"
+          ],
+          "choiceAnalysis": "選択肢1「機械が高価」→言及なし。選択肢2「広い土地に損害」→正解。選択肢3「農地に化学物質」→言及なし。選択肢4「作業員に危険」→言及なし。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 2
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "For many young people today, experiences have become more important than material things. This has created money-making opportunities for businesses that can provide memorable and exciting experiences. One recent example is \"axe-throwing bars.\" While axes would normally be associated with chopping wood in a forest, now people in many cities can go to special bars and throw axes like darts. Some worry about the possible dangers of this activity, but fans argue that it is a fun way to release stress."
+            }
+          ],
+          "question": "What is one reason for the popularity of \"axe-throwing bars\"?",
+          "choices": [
+            "Young people's changing interests.",
+            "Young people's increasing need for exercise.",
+            "Young people's economic situation.",
+            "Young people's passion for nature."
+          ],
+          "explanation": "若者にとって体験がモノより重要になったことが、斧投げバーなどの体験型ビジネスの人気の理由です。",
+          "highlights": [
+            "experiences have become more important than material things"
+          ],
+          "choiceAnalysis": "選択肢1「若者の興味の変化」→正解。選択肢2「運動の必要性」→言及なし。選択肢3「経済状況」→言及なし。選択肢4「自然への情熱」→言及なし。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 1
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Such businesses that sell experiences have spread across the US, but critics argue these businesses may negatively affect communities in the long run. They say the businesses are probably a short-term trend whose popularity will not last. And, when the businesses close, their employees are left without a source of income. The critics recommend that cities encourage the development of businesses that will be popular for decades, not just a few years."
+            }
+          ],
+          "question": "What is one criticism of businesses that sell experiences?",
+          "choices": [
+            "They are unlikely to survive long.",
+            "They do not do well outside of cities.",
+            "They rarely employ local people.",
+            "They take up too much space."
+          ],
+          "explanation": "批評家は体験ビジネスは短期的なトレンドで長続きしないと主張しています。",
+          "highlights": [
+            "the businesses are probably a short-term trend whose popularity will not last"
+          ],
+          "choiceAnalysis": "選択肢1「長く続かない」→正解。選択肢2「都市部以外でうまくいかない」→言及なし。選択肢3「地元の人を雇わない」→従業員が失業。選択肢4「スペースを取りすぎ」→言及なし。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 1
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "T. rex had two large holes at the top of its skull, which scientists used to believe held muscles that aided jaw movement. Recently, however, researchers realized that this would not have been an efficient location for jaw muscles, so they began searching for another explanation. They looked at a modern animal descended from dinosaurs: the alligator."
+            }
+          ],
+          "question": "Why did the researchers decide to analyze alligators?",
+          "choices": [
+            "Alligators have efficient jaws.",
+            "Alligators are related to dinosaurs.",
+            "Alligators have muscles in unusual places.",
+            "Alligators evolved at the same time as T. rex."
+          ],
+          "explanation": "研究者は恐竜の子孫である現代の動物としてワニを調査対象に選びました。",
+          "highlights": [
+            "a modern animal descended from dinosaurs: the alligator"
+          ],
+          "choiceAnalysis": "選択肢1「効率的な顎」→言及なし。選択肢2「恐竜の子孫」→正解。選択肢3「珍しい場所に筋肉」→言及なし。選択肢4「T. rexと同時に進化」→子孫。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 2
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The researchers found that alligator skulls have similar holes. They are filled with blood vessels that help alligators control the amount of heat in their bodies. When alligators need to warm themselves, these areas absorb external heat, and they release heat when alligators need to cool down. Since large meat-eating dinosaurs such as T. rex likely tended to overheat, these holes and blood vessels could have functioned as a sort of internal air-conditioning system. Of course, we cannot observe living dinosaurs, but studies like this provide interesting clues as to what these prehistoric giants were like."
+            }
+          ],
+          "question": "What do the researchers now think the holes in T. rex skulls were used for?",
+          "choices": [
+            "To help with food digestion.",
+            "To sense other animals.",
+            "To create new blood vessels.",
+            "To control their body temperature."
+          ],
+          "explanation": "研究者はT. rexの頭蓋骨の穴が、体温調節のための内部エアコンシステムとして機能していたと考えています。",
+          "highlights": [
+            "help alligators control the amount of heat in their bodies",
+            "functioned as a sort of internal air-conditioning system"
+          ],
+          "choiceAnalysis": "選択肢1「消化を助ける」→言及なし。選択肢2「他の動物を感知」→言及なし。選択肢3「新しい血管を作る」→言及なし。選択肢4「体温を調節」→正解。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You are on a plane that has just landed, and you need to catch your connecting flight. A flight attendant is making an announcement.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome to Greenville. As we approach the gate, please remain in your seats with your seat belts fastened. We realize many of you have connecting flights, so we have gate agents standing by who can direct you to your connecting gates once you exit the plane. Please have your boarding passes ready to show them. If this is your final destination, you can find your luggage on the carousels in the main terminal. If you need to arrange ground transportation, look for the bus service just past the baggage claim. Customer service representatives are available throughout the airport if you need assistance."
+            }
+          ],
+          "question": "What should you do first after getting off the plane?",
+          "choices": [
+            "Collect your luggage.",
+            "Take a bus to another terminal.",
+            "Find a gate agent.",
+            "Get a new boarding pass printed."
+          ],
+          "explanation": "乗り継ぎ便がある場合、飛行機を出たらゲートエージェントに搭乗券を見せて乗り継ぎゲートを教えてもらいます。",
+          "highlights": [
+            "we have gate agents standing by who can direct you to your connecting gates once you exit the plane"
+          ],
+          "choiceAnalysis": "選択肢1「荷物を受け取る」→最終目的地の場合。選択肢2「バスで別ターミナル」→地上交通の手配。選択肢3「ゲートエージェントを見つける」→正解。選択肢4「新しい搭乗券を印刷」→言及なし。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 3
+        },
+        {
+          "number": 26,
+          "situation": "You want to buy some stick-type incense to burn to help you relax. A store clerk tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "We sell four original incense brands. Bouquet Himalaya is a paper-type incense that features the scents of flowers from India. It has a deep, calming effect and helps relieve stress and anxiety. Next, Magnolia's Sanctuary is a stick-type incense that contains sweet-smelling substances. This incense will immediately lift your spirits and is perfect for creating an energizing mood. Akebono is a cone-type purifying incense made with sage, and it's popular among meditation practitioners. Finally, Shirley's Gift is a stick-type incense that was also developed specifically for releasing tension. The aroma calms the mind, creating a tranquil atmosphere."
+            }
+          ],
+          "question": "Which incense brand should you buy?",
+          "choices": [
+            "Bouquet Himalaya.",
+            "Magnolia's Sanctuary.",
+            "Akebono.",
+            "Shirley's Gift."
+          ],
+          "explanation": "スティック型でリラクゼーション効果のあるお香を探しているので、Shirley's Giftが最適です。スティック型で緊張を解放するために開発されました。",
+          "highlights": [
+            "Shirley's Gift is a stick-type incense that was also developed specifically for releasing tension"
+          ],
+          "choiceAnalysis": "選択肢1「Bouquet Himalaya」→紙タイプ。選択肢2「Magnolia's Sanctuary」→スティックだが活力アップ用。選択肢3「Akebono」→コーンタイプ。選択肢4「Shirley's Gift」→正解。スティック型でリラックス。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 4
+        },
+        {
+          "number": 27,
+          "situation": "It is Monday, and you receive a voice mail from a representative at your new Internet provider. You have to work this Thursday from noon to 8 p.m.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "I'm calling to confirm your appointment to set up your new Internet service. It's scheduled for this Thursday. Our technician will arrive sometime between noon and 3 p.m. If this time slot is OK, no action is necessary. However, if it's not, please contact us to reschedule. Please note that we're currently experiencing high demand, so our only available appointment times would be next week. Also, our technicians are only available Monday through Friday between 9 a.m. and 6 p.m. Remember that our offices are closed on weekends. Thank you."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Reschedule for this weekend.",
+            "Reschedule for a weekday next week.",
+            "Reschedule for this Thursday morning.",
+            "Reschedule for this Friday after 6 p.m."
+          ],
+          "explanation": "木曜日の昼～15時は仕事のため不可。技術者は平日9時～18時のみ対応。今週は木曜しか空きがなく、次の予約は来週になります。",
+          "highlights": [
+            "our only available appointment times would be next week",
+            "technicians are only available Monday through Friday between 9 a.m. and 6 p.m."
+          ],
+          "choiceAnalysis": "選択肢1「今週末に変更」→週末は休業。選択肢2「来週の平日に変更」→正解。選択肢3「木曜の午前に変更」→今週の空きは木曜のみで変更不可。選択肢4「金曜18時以降」→18時までしか対応しない。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 2
+        },
+        {
+          "number": 28,
+          "situation": "You are applying to a college to study psychology. An admissions officer is talking to you about your application.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "I've checked your application, and it appears that you've submitted all of the required forms that were on our website. It looks like you also paid your application fee when you submitted those documents. And we've been contacted by your high school regarding your transcripts, which should be arriving shortly. If you aren't sure what you want to major in yet, please consider attending our open-campus event next week. Otherwise, all that's left for you to do is submit a letter from a teacher or employer recommending you. Once we receive that, we can start processing your application."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Pay your application fee.",
+            "Go to a campus event next week.",
+            "Get a letter of recommendation.",
+            "Submit your high school records."
+          ],
+          "explanation": "書類提出済み、受験料支払済み、成績証明書は送付中。残りは推薦状の提出だけです。専攻は心理学で決まっているのでオープンキャンパスは不要。",
+          "highlights": [
+            "all that's left for you to do is submit a letter from a teacher or employer recommending you"
+          ],
+          "choiceAnalysis": "選択肢1「受験料を支払う」→支払済み。選択肢2「オープンキャンパスに参加」→専攻は決まっている。選択肢3「推薦状を提出」→正解。選択肢4「高校の成績を提出」→手配済み。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 3
+        },
+        {
+          "number": 29,
+          "situation": "You are on a trip abroad and want to take a free local tour. You get carsick easily. You are told the following at your hotel's information desk.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "There are four local tours today. Our bus tour starting at 1 p.m. takes passengers to major sites all over the city, and it costs nothing. Next, a walking tour starts at 2:30. Local volunteer guides will escort you around the downtown area, and there's no charge. If you enjoy bike riding, join the tour starting at three. It costs $35, which includes bike rental fees and refreshments. Finally, if you take our tour starting at five, you can try various kinds of local cuisine. The participation fee is just a few dollars, but you'll have to pay for what you eat and drink at food stands or restaurants."
+            }
+          ],
+          "question": "Which tour is the best for you?",
+          "choices": [
+            "The one from 1 p.m.",
+            "The one from 2:30 p.m.",
+            "The one from 3 p.m.",
+            "The one from 5 p.m."
+          ],
+          "explanation": "無料で乗り物酔いしやすいので、バスツアー（1時）は不可。自転車ツアー（3時）は有料。料理ツアー（5時）も有料。ウォーキングツアー（2:30）が無料で車酔いの心配なし。",
+          "highlights": [
+            "a walking tour starts at 2:30",
+            "there's no charge"
+          ],
+          "choiceAnalysis": "選択肢1「1時バスツアー」→乗り物酔いする。選択肢2「2:30ウォーキングツアー」→正解。無料で歩き。選択肢3「3時自転車ツアー」→$35有料。選択肢4「5時料理ツアー」→有料。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

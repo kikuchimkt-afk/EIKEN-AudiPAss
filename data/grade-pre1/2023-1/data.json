@@ -1,0 +1,947 @@
+{
+  "title": "2023年度 第1回検定一次試験 英検準1級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 12",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Professor. Can I talk to you about my assignment?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure. I was surprised when you didn't turn it in at the start of class. That's never happened before."
+            },
+            {
+              "speaker": "female",
+              "text": "My brother was in an accident, and I was at the hospital with him."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm sorry to hear that. Is he OK?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, he's home now, but I didn't have time to get my assignment done."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, I can let you turn it in tomorrow. How would that be?"
+            },
+            {
+              "speaker": "female",
+              "text": "Great. Thank you!"
+            }
+          ],
+          "question": "What will the woman probably do tomorrow?",
+          "choices": [
+            "Visit her brother in the hospital.",
+            "Submit her assignment.",
+            "Ask her brother for help.",
+            "Choose a new assignment topic."
+          ],
+          "explanation": "教授が明日提出を認めたので、女性は明日課題を提出するでしょう。",
+          "highlights": [
+            "I can let you turn it in tomorrow"
+          ],
+          "choiceAnalysis": "選択肢1「兄弟を訪問」→もう帰宅済み。選択肢2「課題を提出」→正解。選択肢3「兄弟に助けを求める」→言及なし。選択肢4「新しいトピック」→言及なし。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 2
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I can't believe the government wants to raise taxes again."
+            },
+            {
+              "speaker": "male",
+              "text": "They say it's necessary to pay for the new education plan."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, it seems like there are a lot of areas in the budget that could be reduced instead. Spending on highways, for one."
+            },
+            {
+              "speaker": "male",
+              "text": "That's for sure. I read a news report just yesterday saying that few drivers are using the new highways, even though they cost billions."
+            },
+            {
+              "speaker": "female",
+              "text": "Right. I'd write a letter to the government if I thought it'd do any good."
+            }
+          ],
+          "question": "What do these people think?",
+          "choices": [
+            "Too much money is spent on education.",
+            "The budget is likely to be decreased soon.",
+            "The government is wasting money.",
+            "The media is unfair to the government."
+          ],
+          "explanation": "ほとんど使われていない高速道路に何十億もかけているなど、政府が無駄遣いしていると考えています。",
+          "highlights": [
+            "few drivers are using the new highways, even though they cost billions"
+          ],
+          "choiceAnalysis": "選択肢1「教育に使いすぎ」→高速道路について。選択肢2「予算が減る」→言及なし。選択肢3「政府の無駄遣い」→正解。選択肢4「メディアが不公平」→言及なし。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 3
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Thanks for inviting me to lunch."
+            },
+            {
+              "speaker": "female",
+              "text": "Sure. I wanted to celebrate your promotion. It's too bad I won't see you as often, though, since you'll be moving to the fourth floor."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, we'll still have meetings together. And maybe we could have a weekly lunch or something."
+            },
+            {
+              "speaker": "female",
+              "text": "Great idea. But you'll probably be eating at your desk a lot more often."
+            },
+            {
+              "speaker": "male",
+              "text": "That's true. I guess my workload is going to be pretty heavy."
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, at least until you get used to your new position."
+            }
+          ],
+          "question": "What is one thing we learn from the conversation?",
+          "choices": [
+            "The man will become much busier.",
+            "The woman will need to attend more meetings.",
+            "The woman dislikes the people on the fourth floor.",
+            "The man did not want his new position."
+          ],
+          "explanation": "男性は昇進により仕事量が増え、デスクで食事することが多くなると認めています。",
+          "highlights": [
+            "my workload is going to be pretty heavy"
+          ],
+          "choiceAnalysis": "選択肢1「男性がもっと忙しくなる」→正解。選択肢2「女性が会議に多く出る」→言及なし。選択肢3「4階の人が嫌い」→言及なし。選択肢4「昇進を望まなかった」→言及なし。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 1
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I'm going next door to see Carol. I'll be back in an hour."
+            },
+            {
+              "speaker": "male",
+              "text": "Sure. By the way, how is she doing after her surgery?"
+            },
+            {
+              "speaker": "female",
+              "text": "She's doing much better, but she still has trouble moving around. Today, I'm going to do a little cleaning and prepare some food for her that she can just heat up."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm sure she appreciates your help."
+            },
+            {
+              "speaker": "female",
+              "text": "I think she does. The other day, she got me a gift certificate to a spa so I can get a massage."
+            }
+          ],
+          "question": "Why is the woman visiting her neighbor?",
+          "choices": [
+            "To give her a massage.",
+            "To pick up some food.",
+            "To give her a gift certificate.",
+            "To do some housework."
+          ],
+          "explanation": "女性はCarolの家で掃除をして、温めるだけでいい食事を作ってあげます。",
+          "highlights": [
+            "I'm going to do a little cleaning and prepare some food"
+          ],
+          "choiceAnalysis": "選択肢1「マッサージ」→スパのギフト券をもらった。選択肢2「食べ物を取りに」→作ってあげる。選択肢3「ギフト券をあげる」→もらった。選択肢4「家事をする」→正解。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 4
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Alan, the printer is giving me that error message again."
+            },
+            {
+              "speaker": "male",
+              "text": "Are you sure the paper is the right size?"
+            },
+            {
+              "speaker": "female",
+              "text": "Of course. I've checked it several times."
+            },
+            {
+              "speaker": "male",
+              "text": "This is ridiculous. We just bought that printer two weeks ago. I'll call the computer shop and ask them to replace it."
+            },
+            {
+              "speaker": "female",
+              "text": "I think we should try to get a refund instead. I've seen reviews saying this brand's printers frequently need to be repaired."
+            },
+            {
+              "speaker": "male",
+              "text": "OK, I'll look into it. We can use our old one until we decide which model we want to buy."
+            }
+          ],
+          "question": "What will the man probably do first?",
+          "choices": [
+            "Ask the shop to replace the printer.",
+            "Get the old printer fixed.",
+            "Try to get money back from the shop.",
+            "Visit the shop to check other models."
+          ],
+          "explanation": "女性の提案で返金を求めることにし、男性は「調べてみる」と言いました。",
+          "highlights": [
+            "we should try to get a refund instead",
+            "I'll look into it"
+          ],
+          "choiceAnalysis": "選択肢1「交換を依頼」→返金に変更。選択肢2「古いプリンターを修理」→言及なし。選択肢3「返金を求める」→正解。選択肢4「他のモデルを確認」→後で。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 3
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "How was your business trip to Tokyo last week?"
+            },
+            {
+              "speaker": "male",
+              "text": "It was a disaster."
+            },
+            {
+              "speaker": "female",
+              "text": "What happened? Did the client back out of the deal?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, but their lawyer objected to the wording of the contract, and there was a big delay while we modified the text. Then, before we could finalize the deal, we had an emergency at headquarters, and I had to return immediately."
+            },
+            {
+              "speaker": "female",
+              "text": "That's awful."
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. I'm going to have to go back to Tokyo in a couple of weeks."
+            }
+          ],
+          "question": "What was one problem the man had during his trip?",
+          "choices": [
+            "His client canceled the deal.",
+            "The contract needed to be revised.",
+            "The lawyer made a serious mistake.",
+            "He arrived late for an important meeting."
+          ],
+          "explanation": "弁護士が契約書の文言に異議を唱え、修正のために大きな遅れが生じました。",
+          "highlights": [
+            "their lawyer objected to the wording of the contract, and there was a big delay while we modified the text"
+          ],
+          "choiceAnalysis": "選択肢1「契約撤回」→撤回していない。選択肢2「契約書の修正が必要」→正解。選択肢3「弁護士がミス」→異議を唱えた。選択肢4「遅刻」→言及なし。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 2
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Nick. How's your new job going?"
+            },
+            {
+              "speaker": "male",
+              "text": "Well, it's taking me a while to adjust."
+            },
+            {
+              "speaker": "female",
+              "text": "Are your responsibilities very different from your last job?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, but my boss is. She always says she's going to do things but then forgets about them! I'm constantly having to remind her about deadlines."
+            },
+            {
+              "speaker": "female",
+              "text": "That sounds frustrating."
+            },
+            {
+              "speaker": "male",
+              "text": "It sure is. Still, at least she isn't bothering me about my work."
+            },
+            {
+              "speaker": "female",
+              "text": "I guess things could be worse."
+            }
+          ],
+          "question": "What does the man say about his new job?",
+          "choices": [
+            "His boss does not trust him.",
+            "He has very tight deadlines.",
+            "He lacks the skills required.",
+            "His boss is not well organized."
+          ],
+          "explanation": "上司がやると言ったことを忘れ、常にデッドラインについてリマインドしなければならないと不満を言っています。",
+          "highlights": [
+            "She always says she's going to do things but then forgets about them"
+          ],
+          "choiceAnalysis": "選択肢1「信頼されていない」→仕事には口出ししない。選択肢2「締め切りがきつい」→上司の問題。選択肢3「スキル不足」→言及なし。選択肢4「上司が整理できない」→正解。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 4
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "I'm thinking we should replace the sofa soon. It's getting pretty worn out."
+            },
+            {
+              "speaker": "female",
+              "text": "Do you want to check out that new furniture store down the road?"
+            },
+            {
+              "speaker": "male",
+              "text": "Nah, I was thinking of just getting one online. That's usually much cheaper."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? I'd rather we try a sofa out before actually buying it."
+            },
+            {
+              "speaker": "male",
+              "text": "I suppose you're right. Our budget isn't very large, though, so we'll probably have to put off the purchase until the store offers some discounts."
+            },
+            {
+              "speaker": "female",
+              "text": "Let's look around some other stores, too. They might have some good deals on."
+            }
+          ],
+          "question": "What will the couple probably do?",
+          "choices": [
+            "Get a new sofa right away.",
+            "Buy a sofa online.",
+            "Look for a sofa on sale.",
+            "Repair their current sofa."
+          ],
+          "explanation": "予算が少ないのでセールを待つか、他の店でお得な商品を探そうとしています。",
+          "highlights": [
+            "put off the purchase until the store offers some discounts",
+            "They might have some good deals on"
+          ],
+          "choiceAnalysis": "選択肢1「すぐ購入」→セールを待つ。選択肢2「オンラインで」→実物を見たい。選択肢3「セール品を探す」→正解。選択肢4「修理する」→言及なし。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 3
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "It's so warm today! Hard to believe it's February. I could even go for some ice cream."
+            },
+            {
+              "speaker": "male",
+              "text": "Today is lovely, but the weather report says we may get a big snowstorm this weekend."
+            },
+            {
+              "speaker": "female",
+              "text": "Are you kidding? That would be a temperature drop of nearly 20 degrees."
+            },
+            {
+              "speaker": "male",
+              "text": "We'd better check how much food and water we have and go to the grocery store if necessary."
+            },
+            {
+              "speaker": "female",
+              "text": "Good idea. After getting snowed in at our cabin last year, I want to make sure we're stocked up just in case."
+            }
+          ],
+          "question": "What does the man suggest?",
+          "choices": [
+            "Checking the weather news.",
+            "Taking a trip to their cabin this weekend.",
+            "Preparing emergency supplies.",
+            "Going out for ice cream."
+          ],
+          "explanation": "男性は食料と水の在庫を確認し、必要なら買い物に行くことを提案しています。",
+          "highlights": [
+            "check how much food and water we have and go to the grocery store if necessary"
+          ],
+          "choiceAnalysis": "選択肢1「天気予報を確認」→既に確認済み。選択肢2「キャビンへ旅行」→去年の話。選択肢3「非常用品を準備」→正解。選択肢4「アイスクリーム」→女性の話。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 3
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Good morning, Ms. Redfield. I just got a call from Irene. She says she needs to take a half day off this morning."
+            },
+            {
+              "speaker": "female",
+              "text": "Again? That's the second time this week."
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. I'm a bit worried. She's also been late quite a few times in the last couple of months."
+            },
+            {
+              "speaker": "female",
+              "text": "She's quite skilled with computers, though, and the clients seem very satisfied with her. I am concerned about her motivation, however. It might be best to have a talk with her, in case she's considering leaving the company."
+            },
+            {
+              "speaker": "male",
+              "text": "I'll set up a meeting."
+            }
+          ],
+          "question": "What does the woman imply about Irene?",
+          "choices": [
+            "She lacks enthusiasm for her job.",
+            "She is going to be dismissed.",
+            "She is unpopular with the clients.",
+            "She needs to improve her computer skills."
+          ],
+          "explanation": "女性はIreneのモチベーションに懸念を持っており、退社を考えているかもしれないと示唆しています。",
+          "highlights": [
+            "I am concerned about her motivation"
+          ],
+          "choiceAnalysis": "選択肢1「仕事への意欲が不足」→正解。選択肢2「解雇される」→話し合いを提案。選択肢3「顧客に不人気」→顧客は満足している。選択肢4「コンピュータスキル」→スキルは高い。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 1
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, Jack! How was your trip to the Yucatán?"
+            },
+            {
+              "speaker": "male",
+              "text": "Great. Check out these paintings I picked up."
+            },
+            {
+              "speaker": "female",
+              "text": "Wow! They're gorgeous! Did you find them at a local gallery?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, I got them from artists at local markets, and they were unbelievably cheap."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, you should get better frames for them before you put them on the wall."
+            },
+            {
+              "speaker": "male",
+              "text": "Actually, I looked into that today. They cost 10 times what the paintings did, so I'm hesitant."
+            },
+            {
+              "speaker": "female",
+              "text": "I really think they deserve better than these cheap frames, don't you?"
+            }
+          ],
+          "question": "What does the woman say about the paintings?",
+          "choices": [
+            "The man should try to sell them for a profit.",
+            "They should be hung in an art gallery.",
+            "The man should find out what they are worth.",
+            "They should be displayed properly."
+          ],
+          "explanation": "女性は安いフレームではなく、もっと良いフレームに入れて飾るべきだと言っています。",
+          "highlights": [
+            "you should get better frames for them",
+            "they deserve better than these cheap frames"
+          ],
+          "choiceAnalysis": "選択肢1「売る」→言及なし。選択肢2「ギャラリーに飾る」→言及なし。選択肢3「価値を調べる」→言及なし。選択肢4「適切に飾る」→正解。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 4
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, Joseph? There's no water coming from the faucet."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, right, they're inspecting the pipes down the street."
+            },
+            {
+              "speaker": "female",
+              "text": "What? That's news to me."
+            },
+            {
+              "speaker": "male",
+              "text": "Sorry, I forgot to tell you. There won't be any water until 7 p.m. We got a couple of notices about it while you were out of town."
+            },
+            {
+              "speaker": "female",
+              "text": "Why didn't you tell me earlier? I wanted to wash some clothes tonight for work tomorrow."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm sorry. I did prepare some bottles of water, so we have enough for cooking and drinking."
+            },
+            {
+              "speaker": "female",
+              "text": "That's something, at least."
+            }
+          ],
+          "question": "Why does the man apologize to the woman?",
+          "choices": [
+            "He forgot to fill the water bottles.",
+            "He did not tell her the water would be turned off.",
+            "He lost the notices about the water pipe inspection.",
+            "He damaged the water pipes."
+          ],
+          "explanation": "男性は断水の通知を受け取っていたのに女性に伝え忘れたことを謝っています。",
+          "highlights": [
+            "Sorry, I forgot to tell you"
+          ],
+          "choiceAnalysis": "選択肢1「ボトルに水を入れ忘れた」→準備済み。選択肢2「断水を伝えなかった」→正解。選択肢3「通知を紛失」→言及なし。選択肢4「水道管を壊した」→検査中。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 13 〜 No. 24",
+      "questions": [
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "For centuries, Native Americans all over North America grew corn, beans, and squash, which were often called the Three Sisters. The Three Sisters were planted together because of the strong benefits that the combination brings. When beans are grown with corn, the corn provides support for the beans as they climb up to get more sunlight. Additionally, squash keeps weeds away, and beans increase the amount of the beneficial chemical nitrogen in the soil. To make the combination work, however, planting each crop at the time when it will most help the others is essential."
+            }
+          ],
+          "question": "What is one thing that we learn about growing the Three Sisters?",
+          "choices": [
+            "When each of the crops is planted is important.",
+            "They only grow in a small region of North America.",
+            "They have difficulty competing with weeds.",
+            "There needs to be space between the plants."
+          ],
+          "explanation": "組み合わせを機能させるには、それぞれの作物を他の作物を最も助ける時期に植えることが重要です。",
+          "highlights": [
+            "planting each crop at the time when it will most help the others is essential"
+          ],
+          "choiceAnalysis": "選択肢1「植える時期が重要」→正解。選択肢2「限られた地域」→北米全域。選択肢3「雑草と競争」→カボチャが雑草を防ぐ。選択肢4「間隔が必要」→言及なし。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 1
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In the distant past, Native American farmers were even able to grow the Three Sisters in the desert areas of the American southwest, but, unfortunately, most of this knowledge has been lost. Some Native Americans are currently working to rediscover the techniques that would allow them to grow the vegetables in very dry conditions."
+            }
+          ],
+          "question": "What are some Native Americans trying to do now?",
+          "choices": [
+            "Use more-modern growing techniques.",
+            "Find new plants that can be grown in the desert.",
+            "Teach others how to grow the Three Sisters.",
+            "Recover forgotten growing methods."
+          ],
+          "explanation": "砂漠地帯での栽培技術を再発見しようとしています。",
+          "highlights": [
+            "working to rediscover the techniques"
+          ],
+          "choiceAnalysis": "選択肢1「近代的な技術」→言及なし。選択肢2「新しい植物」→Three Sistersの技術。選択肢3「教える」→言及なし。選択肢4「忘れられた栽培法を取り戻す」→正解。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 4
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In previous generations, children generally had more freedom to explore their surroundings. These days, parents commonly prohibit children from taking walks, crossing streets, or even playing at playgrounds unsupervised. Author Tim Gill argues children today would benefit from being allowed to do things on their own. However, he acknowledges that since modern cities have become increasingly dangerous places, it is difficult for parents to avoid setting strict rules for children."
+            }
+          ],
+          "question": "What does Tim Gill imply about modern parents?",
+          "choices": [
+            "They do not give enough thought to their children's safety.",
+            "They are often forced to set strict rules for their children.",
+            "They should spend more time with their children.",
+            "They are giving their children a variety of experiences."
+          ],
+          "explanation": "Gillは現代の都市が危険になっているため、親が厳しいルールを設けざるを得ないことを認めています。",
+          "highlights": [
+            "it is difficult for parents to avoid setting strict rules"
+          ],
+          "choiceAnalysis": "選択肢1「安全への配慮不足」→逆に厳しすぎる。選択肢2「厳しいルールを設けざるを得ない」→正解。選択肢3「もっと時間を」→言及なし。選択肢4「多様な経験」→制限している。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 2
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Gill believes design is the key to making cities child friendly. Cities are currently designed to allow people to travel easily by car, but cars are one of the greatest threats to children's safety. Rather than simply building more playground spaces, Gill wants to make cities safer for children to move through. While completely rebuilding cities is not realistic in the short term, Gill suggests that easier measures such as turning streets into car-free zones for a short time each week could have immediate benefits."
+            }
+          ],
+          "question": "What is one thing Gill suggests that cities do?",
+          "choices": [
+            "Set times when streets are closed to cars.",
+            "Remove parking lots from playgrounds.",
+            "Build new roads outside the center of cities.",
+            "Make cars safer by changing their design."
+          ],
+          "explanation": "Gillは毎週短時間、通りを車両禁止区域にすることを提案しています。",
+          "highlights": [
+            "turning streets into car-free zones for a short time each week"
+          ],
+          "choiceAnalysis": "選択肢1「車両を禁止する時間を設ける」→正解。選択肢2「駐車場を撤去」→言及なし。選択肢3「郊外に新道路」→言及なし。選択肢4「車のデザインを変える」→言及なし。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 1
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "An enormous collection of primitive paintings discovered in the Amazon jungle is causing debate among scientists. Thousands of images have been discovered on rock walls, and the team of researchers who discovered them believe that they include representations of extinct creatures that disappeared after the Ice Age ended. If so, the artists may have been the first humans ever to reach the Amazon region, arriving before it was covered in rain forest. Many of the larger animals appear to be surrounded by men with their hands raised in the air, and it is suspected the animals were being worshipped."
+            }
+          ],
+          "question": "What does the team of researchers believe about the paintings?",
+          "choices": [
+            "They explain how the rain forest formed.",
+            "They show what early humans looked like.",
+            "They include creatures that have died out.",
+            "They were used in religious ceremonies."
+          ],
+          "explanation": "研究チームは絵に氷河期後に絶滅した生物が描かれていると信じています。",
+          "highlights": [
+            "they include representations of extinct creatures"
+          ],
+          "choiceAnalysis": "選択肢1「熱帯雨林の形成」→言及なし。選択肢2「初期人類の姿」→動物の絵。選択肢3「絶滅した生物が含まれる」→正解。選択肢4「宗教儀式」→崇拝の推測あるが主題は生物。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 3
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Other scientists, however, have expressed doubts regarding the age of the paintings. Since the images are extremely well-preserved, these critics believe it is likely they were painted centuries rather than millennia ago. Furthermore, since the images lack detail, the scientists argue that they might represent creatures brought to the Americas by Europeans."
+            }
+          ],
+          "question": "What do some other scientists think about the paintings?",
+          "choices": [
+            "They do not need to be preserved.",
+            "They were probably made by Europeans.",
+            "They used to be much more detailed.",
+            "They are not thousands of years old."
+          ],
+          "explanation": "批判的な科学者たちは保存状態が良いことから、数千年前ではなく数百年前のものだと考えています。",
+          "highlights": [
+            "they were painted centuries rather than millennia ago"
+          ],
+          "choiceAnalysis": "選択肢1「保存不要」→言及なし。選択肢2「ヨーロッパ人が描いた」→ヨーロッパ人が持ち込んだ動物。選択肢3「以前はもっと精密」→言及なし。選択肢4「数千年前ではない」→正解。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 4
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Milton Berle was one of America's most famous comedians. He was successful on stage and in films, and in the 1940s, he began hosting one of the world's first television programs. Berle's variety show was known for its silly comedy and wide range of guest performers. Televisions were rare luxury items when it began, but the program was such an incredible hit that it became a driving reason behind the huge increase in TV ownership."
+            }
+          ],
+          "question": "What is one thing that we learn about Milton Berle's TV show?",
+          "choices": [
+            "It was based on a popular movie.",
+            "It gave away many luxury items.",
+            "It had weekly comedy competitions.",
+            "It led many people to buy TV sets."
+          ],
+          "explanation": "番組が大ヒットし、テレビ所有者の急増の原動力となりました。",
+          "highlights": [
+            "it became a driving reason behind the huge increase in TV ownership"
+          ],
+          "choiceAnalysis": "選択肢1「映画に基づく」→言及なし。選択肢2「豪華商品を配った」→テレビが贅沢品だった。選択肢3「コメディ大会」→言及なし。選択肢4「テレビ購入を促した」→正解。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 4
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "As well as his pioneering work as an entertainer, Berle also fought for civil rights, famously helping to break down barriers against Black performers appearing on TV. When an advertiser tried to prevent a Black dance group from appearing on his show, Berle refused to perform until the advertiser gave in and the dancers were allowed on. Berle also set a record for appearing in more charity performances than any other performer."
+            }
+          ],
+          "question": "What is one thing Berle was known for?",
+          "choices": [
+            "Starting a charity to support Black performers.",
+            "Fighting racism in the TV industry.",
+            "The unique advertisements he produced.",
+            "His amazing dancing ability."
+          ],
+          "explanation": "Berleは黒人パフォーマーがテレビに出演する障壁を打ち破るために戦いました。",
+          "highlights": [
+            "helping to break down barriers against Black performers appearing on TV"
+          ],
+          "choiceAnalysis": "選択肢1「慈善団体を設立」→チャリティー公演の記録。選択肢2「テレビ業界の人種差別と戦う」→正解。選択肢3「ユニークな広告」→広告主と対立。選択肢4「ダンス能力」→ダンスグループは別。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 2
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The term \"déjà vu\" refers to a person's feeling that they have already experienced the situation they are currently in. While causes for déjà vu have been proposed since the nineteenth century, little research was done on it until the 2000s, when the scientist Alan Brown studied the phenomenon. He found that people experience it less as they age and that it is usually triggered by a location or setting."
+            }
+          ],
+          "question": "What was one of Alan Brown's findings about déjà vu?",
+          "choices": [
+            "It occurs more often when people are younger.",
+            "Previous research on it had involved mainly male subjects.",
+            "It became more common after the nineteenth century.",
+            "People often mistake it for other feelings."
+          ],
+          "explanation": "Brownは年齢とともにデジャヴが減少することを発見しました。つまり若い人の方がより多く経験します。",
+          "highlights": [
+            "people experience it less as they age"
+          ],
+          "choiceAnalysis": "選択肢1「若い時に多い」→正解。選択肢2「男性被験者」→言及なし。選択肢3「19世紀以降に増加」→研究の話。選択肢4「他の感情と間違える」→言及なし。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 1
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "More recently, researchers used virtual reality to study déjà vu. They had subjects enter virtual environments, such as bowling alleys or subway stations. Some of these spaces were laid out similarly—for example, pieces of furniture with similar shapes but different appearances were arranged in the same positions. The researchers found subjects were more likely to feel déjà vu when entering new spaces that were organized like spaces they had previously entered. Still, they say this is likely just one of many factors that cause déjà vu."
+            }
+          ],
+          "question": "In the virtual reality study, what led some subjects to experience déjà vu?",
+          "choices": [
+            "Exploring large public locations.",
+            "Viewing spaces that had exactly the same furniture.",
+            "Performing the same activity in different spaces.",
+            "Entering a space with a familiar layout."
+          ],
+          "explanation": "以前に入った空間と同じ配置の新しい空間に入ったときにデジャヴを感じやすかったです。",
+          "highlights": [
+            "more likely to feel déjà vu when entering new spaces that were organized like spaces they had previously entered"
+          ],
+          "choiceAnalysis": "選択肢1「大きな公共施設」→ボウリング場や地下鉄は例。選択肢2「全く同じ家具」→似た形だが違う見た目。選択肢3「同じ活動」→言及なし。選択肢4「馴染みのある配置」→正解。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 4
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "During medieval times, one of the deadliest weapons used by English armies was the longbow. About two meters in length, this powerful weapon allowed an archer to fire extremely rapidly, shooting up to six arrows per minute. A variety of arrows were used, such as the bodkin and the broadhead. The bodkin arrow was the most common, and its narrow tip could pass through most kinds of armor. The larger broadheads, on the other hand, caused more-devastating wounds to lightly armored enemies."
+            }
+          ],
+          "question": "What is one thing that we learn about bodkin arrows?",
+          "choices": [
+            "They traveled faster than other arrows.",
+            "They were effective against armor.",
+            "They were the longest type of arrow.",
+            "They were commonly made with steel."
+          ],
+          "explanation": "ボドキン矢は細い先端でほとんどの鎧を貫通できました。",
+          "highlights": [
+            "its narrow tip could pass through most kinds of armor"
+          ],
+          "choiceAnalysis": "選択肢1「速い」→言及なし。選択肢2「鎧に有効」→正解。選択肢3「最も長い」→言及なし。選択肢4「鉄製」→言及なし。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 2
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Though highly effective, the longbow required years of practice to master. Since it was an essential tool for English armies, King Henry VIII even passed a law requiring that all healthy males train regularly in its use. Examinations of the skeletons of longbowmen have found that this training actually altered them physically. Bones in their arms became thickened, and their spines became twisted through constant use of the bow."
+            }
+          ],
+          "question": "What does the speaker say about King Henry VIII?",
+          "choices": [
+            "He forced men to practice using longbows.",
+            "He was an expert at shooting a longbow.",
+            "He was badly injured in a longbow attack.",
+            "He sold longbows to foreign armies."
+          ],
+          "explanation": "ヘンリー8世はすべての健康な男性に定期的にロングボウの訓練をすることを義務付ける法律を制定しました。",
+          "highlights": [
+            "passed a law requiring that all healthy males train regularly in its use"
+          ],
+          "choiceAnalysis": "選択肢1「男性にロングボウの訓練を強制」→正解。選択肢2「専門家だった」→言及なし。選択肢3「攻撃で負傷」→言及なし。選択肢4「外国に販売」→言及なし。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+      "questionRange": "No. 25 〜 No. 29",
+      "questions": [
+        {
+          "number": 25,
+          "situation": "You need a bag to use during your upcoming business trip. You will also go hiking using the bag on your days off. A shop employee tells you the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "OK, the Western is an all-leather backpack. It converts to a briefcase, so it's great for business environments. It's a bit heavy, though, so I wouldn't use it on long walks. The Dangerfield is a waxed canvas backpack that's water-resistant, so it's great for outdoor activities. It's also handsome enough for the office. The Spartan is also made of waxed canvas. It's very functional but a bit too sporty for professional contexts. The Winfield is a similar bag, but it's made of water-resistant leather. The thin strap can make it uncomfortable to carry for extended periods of time, though."
+            }
+          ],
+          "question": "Which bag should you buy?",
+          "choices": [
+            "The Western.",
+            "The Dangerfield.",
+            "The Spartan.",
+            "The Winfield."
+          ],
+          "explanation": "ビジネスにもハイキングにも使える必要あり。Western→重くて長い散歩に不向き。Spartan→ビジネスにはカジュアルすぎ。Winfield→長時間背負うと不快。Dangerfield→防水でアウトドア向き＆オフィスでも見栄えが良い。",
+          "highlights": [
+            "The Dangerfield is a waxed canvas backpack that's water-resistant",
+            "It's also handsome enough for the office"
+          ],
+          "choiceAnalysis": "選択肢1「Western」→重くてハイキング不向き。選択肢2「Dangerfield」→正解。選択肢3「Spartan」→ビジネスに不向き。選択肢4「Winfield」→長時間は不快。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 2
+        },
+        {
+          "number": 26,
+          "situation": "You need to park your car near the airport for 16 days. You want the best price but are worried about your car being damaged. A friend tells you about options.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Nearest to the airport are SKM Budget Parking and the Vanier Plaza Hotel. They both offer covered parking lots that feature security patrols. SKM Budget Parking is the better deal at $13 per day. It only offers short-term parking, though, for up to a week max. If your trip is longer than that, you could pay a $17 rate at the Vanier Plaza Hotel. If an open, non-patrolled parking lot is acceptable, then Nelson Street Skypark offers parking for $9 per day. Another option would be the Econolodge, which is $19 per day. It's indoors and quite safe, though it's a little far."
+            }
+          ],
+          "question": "Which parking lot should you use?",
+          "choices": [
+            "SKM Budget Parking.",
+            "The Vanier Plaza Hotel.",
+            "Nelson Street Skypark.",
+            "The Econolodge."
+          ],
+          "explanation": "16日間→SKMは1週間まで。車の損傷が心配→セキュリティパトロール付きが必要→Nelson Streetはパトロールなし。Econolodge→$19/日で高い。Vanier Plaza→$17/日で屋根付き＆パトロール付きで長期OK。",
+          "highlights": [
+            "Vanier Plaza Hotel",
+            "$17 rate",
+            "covered parking lots that feature security patrols"
+          ],
+          "choiceAnalysis": "選択肢1「SKM」→1週間制限。選択肢2「Vanier Plaza」→正解。選択肢3「Nelson Street」→パトロールなし。選択肢4「Econolodge」→高くて遠い。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 2
+        },
+        {
+          "number": 27,
+          "situation": "Your air conditioner suddenly stopped working, and its blue light is flashing. You call customer support and hear the following recorded message.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Please look at the display. If the green light is blinking, this means it needs to be cleaned. To do this, simply remove the filter and clean it carefully. You can find a tutorial video on our website. If the blue light is flashing, the air conditioner may be overheating. In such a case, you can speed up cooling by leaving the panel open. Be sure to unplug the air conditioner before touching the unit. If this does not solve the problem, and you would like to schedule a service call by a technician, press 1."
+            }
+          ],
+          "question": "What should you do first?",
+          "choices": [
+            "Remove the air conditioner filter.",
+            "Open up the air conditioner panel.",
+            "Disconnect the air conditioner.",
+            "Arrange a service appointment."
+          ],
+          "explanation": "青いライト→オーバーヒートの可能性。パネルを開ける前にまずコンセントを抜く必要がある。最初の行動はプラグを抜くこと。",
+          "highlights": [
+            "Be sure to unplug the air conditioner before touching the unit"
+          ],
+          "choiceAnalysis": "選択肢1「フィルター除去」→緑ランプの場合。選択肢2「パネルを開ける」→先にプラグを抜く。選択肢3「コンセントを抜く」→正解。最初にすべきこと。選択肢4「修理予約」→それでも直らない場合。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 3
+        },
+        {
+          "number": 28,
+          "situation": "You want to order a back issue of a monthly science magazine. You are interested in genetics. You call the magazine publisher and are told the following.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "I understand you've only read the September issue. I'll explain the others briefly. The July issue has an overview of the latest advancements in physics, centering on last year's breakthrough in the field of particle physics. The next issue focuses on recent genetic discoveries and various ongoing experiments with DNA and RNA, but unfortunately, this one is out of print. The October issue is also centered around research in genetics, especially its potential medical applications. Finally, if you'd like to deepen your understanding of modern geology, the November issue would be perfect. It thoroughly explains the current mainstream theories on volcano formation."
+            }
+          ],
+          "question": "Which issue should you order?",
+          "choices": [
+            "The July issue.",
+            "The August issue.",
+            "The October issue.",
+            "The November issue."
+          ],
+          "explanation": "遺伝学に興味がある。7月→物理学。8月→遺伝学だが品切れ。10月→遺伝学（医療応用）→注文可能。11月→地質学。",
+          "highlights": [
+            "The October issue is also centered around research in genetics"
+          ],
+          "choiceAnalysis": "選択肢1「7月」→物理学。選択肢2「8月」→品切れ。選択肢3「10月」→正解。遺伝学で入手可能。選択肢4「11月」→地質学。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 3
+        },
+        {
+          "number": 29,
+          "situation": "You bought five cans of Bentham Foods tuna fish at the supermarket on May 30. You hear the following announcement on TV. You have not eaten any of the tuna.",
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Bentham Foods is recalling all cans of its tuna sold from May 15 to July 1 because of suspected health risks. Customers who have consumed tuna from these cans are advised to call our recall hotline. For unopened cans, if you have one or more cases of 24 cans, please visit our website for instructions on how to arrange a pickup and a full refund. Customers with less than one case may exchange the cans or return them for a full refund at the store where they were purchased. The cans don't pose any risk while unopened, but please avoid consuming tuna from any cans bought during the affected dates."
+            }
+          ],
+          "question": "What should you do?",
+          "choices": [
+            "Take the cans to the store you bought them at.",
+            "Call the Bentham Foods recall hotline.",
+            "Arrange to have the cans picked up.",
+            "Visit the Bentham Foods website for instructions."
+          ],
+          "explanation": "5缶（24缶未満）で未開封→購入店で交換か返金。食べていないのでホットラインに電話する必要なし。",
+          "highlights": [
+            "Customers with less than one case may exchange the cans or return them for a full refund at the store where they were purchased"
+          ],
+          "choiceAnalysis": "選択肢1「購入店に持っていく」→正解。5缶は1ケース未満。選択肢2「ホットラインに電話」→食べた人向け。選択肢3「回収手配」→24缶以上の場合。選択肢4「ウェブサイト」→24缶以上の場合。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
