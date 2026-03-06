@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AudiPass — 英検リスニング</title>
+  <meta name="description" content="AudiPass - 英検リスニング問題の音声再生・解答・解説">
+  <link rel="stylesheet" href="quiz.css">
+</head>
+
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="back-link" id="backLink">← AudiPass トップへ</a>
+      <div class="header-title" id="headerTitle">AudiPass</div>
+      <h1 class="header-subtitle" id="headerSubtitle">読み込み中...</h1>
+    </div>
+  </header>
+
+  <!-- Tabs -->
+  <div class="tabs-container">
+    <div class="tabs" id="tabsBar"></div>
+  </div>
+
+  <!-- Part Description -->
+  <div class="part-info">
+    <div class="part-description" id="partDescription"></div>
+  </div>
+
+  <!-- Controls -->
+  <div class="controls-bar">
+    <div class="score-display" id="scoreDisplay"></div>
+    <div class="controls-right">
+      <button class="control-btn" id="expandAllBtn">すべて開く</button>
+      <button class="control-btn" id="collapseAllBtn">すべて閉じる</button>
+      <button class="control-btn control-btn-accent" id="resetBtn">リセット</button>
+    </div>
+  </div>
+
+  <!-- Questions -->
+  <div class="questions-container" id="questionsContainer"></div>
+
+  <script src="app.js"></script>
+</body>
+
+</html>
