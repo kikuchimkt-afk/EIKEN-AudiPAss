@@ -1,0 +1,177 @@
+[
+  {
+    "start": 0.0,
+    "end": 24.82,
+    "duration": 24.82,
+    "filename": "segment_21.mp3",
+    "index": 21
+  },
+  {
+    "start": 26.4,
+    "end": 27.83,
+    "duration": 1.43,
+    "filename": "segment_22.mp3",
+    "index": 22
+  },
+  {
+    "start": 29.49,
+    "end": 64.4,
+    "duration": 34.91,
+    "filename": "segment_23.mp3",
+    "index": 23
+  },
+  {
+    "start": 74.56,
+    "end": 109.42,
+    "duration": 34.86,
+    "filename": "segment_24.mp3",
+    "index": 24
+  },
+  {
+    "start": 119.55,
+    "end": 152.65,
+    "duration": 33.1,
+    "filename": "segment_25.mp3",
+    "index": 25
+  },
+  {
+    "start": 162.74,
+    "end": 195.39,
+    "duration": 32.65,
+    "filename": "segment_26.mp3",
+    "index": 26
+  },
+  {
+    "start": 205.55,
+    "end": 206.52,
+    "duration": 0.97,
+    "filename": "segment_27.mp3",
+    "index": 27
+  },
+  {
+    "start": 209.69,
+    "end": 245.4,
+    "duration": 35.71,
+    "filename": "segment_28.mp3",
+    "index": 28
+  },
+  {
+    "start": 255.54,
+    "end": 293.03,
+    "duration": 37.49,
+    "filename": "segment_29.mp3",
+    "index": 29
+  },
+  {
+    "start": 303.19,
+    "end": 337.12,
+    "duration": 33.93,
+    "filename": "segment_30.mp3",
+    "index": 30
+  },
+  {
+    "start": 347.26,
+    "end": 382.51,
+    "duration": 35.25,
+    "filename": "segment_31.mp3",
+    "index": 31
+  },
+  {
+    "start": 392.7,
+    "end": 393.95,
+    "duration": 1.25,
+    "filename": "segment_32.mp3",
+    "index": 32
+  },
+  {
+    "start": 397.12,
+    "end": 433.16,
+    "duration": 36.04,
+    "filename": "segment_33.mp3",
+    "index": 33
+  },
+  {
+    "start": 443.29,
+    "end": 480.88,
+    "duration": 37.59,
+    "filename": "segment_34.mp3",
+    "index": 34
+  },
+  {
+    "start": 491.02,
+    "end": 527.65,
+    "duration": 36.63,
+    "filename": "segment_35.mp3",
+    "index": 35
+  },
+  {
+    "start": 537.78,
+    "end": 578.25,
+    "duration": 40.47,
+    "filename": "segment_36.mp3",
+    "index": 36
+  },
+  {
+    "start": 588.4,
+    "end": 589.63,
+    "duration": 1.23,
+    "filename": "segment_37.mp3",
+    "index": 37
+  },
+  {
+    "start": 592.78,
+    "end": 627.95,
+    "duration": 35.17,
+    "filename": "segment_38.mp3",
+    "index": 38
+  },
+  {
+    "start": 638.12,
+    "end": 674.1,
+    "duration": 35.98,
+    "filename": "segment_39.mp3",
+    "index": 39
+  },
+  {
+    "start": 684.23,
+    "end": 720.39,
+    "duration": 36.16,
+    "filename": "segment_40.mp3",
+    "index": 40
+  },
+  {
+    "start": 730.52,
+    "end": 751.98,
+    "duration": 21.46,
+    "filename": "segment_41.mp3",
+    "index": 41
+  },
+  {
+    "start": 762.38,
+    "end": 787.46,
+    "duration": 25.08,
+    "filename": "segment_42.mp3",
+    "index": 42
+  },
+  {
+    "start": 789.08,
+    "end": 795.8,
+    "duration": 6.72,
+    "filename": "segment_43.mp3",
+    "index": 43
+  },
+  {
+    "start": 797.39,
+    "end": 808.87,
+    "duration": 11.48,
+    "filename": "segment_44.mp3",
+    "index": 44
+  },
+  {
+    "start": 811.16,
+    "end": 815.65,
+    "duration": 4.49,
+    "filename": "segment_45.mp3",
+    "index": 45
+  }
+]

@@ -6,7 +6,7 @@ tools/
 # 旧バージョンの残骸（現行アプリ未使用）
 data.js
 style.css
-audio/
+/audio/
 
 # PDF / ログ / スクリプト
 *.pdf
