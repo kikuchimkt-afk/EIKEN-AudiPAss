@@ -1,0 +1,894 @@
+{
+  "title": "2018年度 第1回検定一次試験 英検2級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 15",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Beth, are you ready? It's time to go. I'll be waiting for you in the car."
+            },
+            {
+              "speaker": "female",
+              "text": "Ready? Where are we going? I just asked my friend to come over."
+            },
+            {
+              "speaker": "male",
+              "text": "Don't you remember? We're having dinner with Aunt Alice at her house tonight."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, right! I totally forgot. I'll call my friend back and tell her not to come. I hope she isn't on her way here already."
+            }
+          ],
+          "question": "What is the girl's problem?",
+          "choices": [
+            "She forgot about the dinner plans.",
+            "She could not go for a drive.",
+            "She made too much food.",
+            "She lost her aunt's gift."
+          ],
+          "explanation": "Alice叔母との夕食の予定を完全に忘れていました。",
+          "highlights": [
+            "I totally forgot"
+          ],
+          "choiceAnalysis": "選択肢1「夕食の予定を忘れた」→正解。選択肢2「ドライブに行けない」→夕食を忘れた。選択肢3「食べ物を作りすぎた」→忘れた。選択肢4「叔母のプレゼントをなくした」→忘れた。",
+          "answer": 1,
+          "audioFile": "audio/part1_q01.mp3"
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Excuse me. I wanted to order the salmon pasta, but I didn't see it anywhere on the menu."
+            },
+            {
+              "speaker": "female",
+              "text": "Sorry, but we only serve salmon pasta on Wednesdays. Today's special is clam chowder."
+            },
+            {
+              "speaker": "male",
+              "text": "That's too bad. My friend recommended that I order the salmon pasta here. I was really hoping to try it."
+            },
+            {
+              "speaker": "female",
+              "text": "My apologies, sir."
+            }
+          ],
+          "question": "Why is the man disappointed?",
+          "choices": [
+            "His friend cannot meet him for lunch.",
+            "He cannot order what he wanted.",
+            "There is no more clam chowder.",
+            "The salmon pasta is not very good."
+          ],
+          "explanation": "注文したかったサーモンパスタが今日は提供されていません。",
+          "highlights": [
+            "we only serve salmon pasta on Wednesdays"
+          ],
+          "choiceAnalysis": "選択肢1「友達と会えない」→注文できない。選択肢2「注文したいものが頼めない」→正解。選択肢3「クラムチャウダーがない」→サーモンパスタ。選択肢4「パスタがおいしくない」→提供なし。",
+          "answer": 2,
+          "audioFile": "audio/part1_q02.mp3"
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Look, Isabel. My mom sent some baby clothes for Greg. I'm afraid they're a little too big for him, though."
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah, but that's OK. Greg is getting bigger, so he'll be able to wear them in a month or two."
+            },
+            {
+              "speaker": "male",
+              "text": "You're right. It's amazing to see how fast he's growing."
+            },
+            {
+              "speaker": "female",
+              "text": "I know. That's part of the fun of being a parent."
+            }
+          ],
+          "question": "What is one thing the man and woman say about their son?",
+          "choices": [
+            "He will visit his grandmother soon.",
+            "He is growing quickly.",
+            "He is too big for his new clothes.",
+            "He already has enough clothes."
+          ],
+          "explanation": "息子がとても早く成長していると言っています。",
+          "highlights": [
+            "It's amazing to see how fast he's growing"
+          ],
+          "choiceAnalysis": "選択肢1「祖母を訪問」→成長が早い。選択肢2「早く成長している」→正解。選択肢3「服が小さい」→服が大きい。選択肢4「服が十分」→成長。",
+          "answer": 2,
+          "audioFile": "audio/part1_q03.mp3"
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me, sir. I'd like to buy a bottle of red wine for my friend's birthday, but I don't know much about wine. Red is her favorite, though."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, these over here are red wines from France. They're quite popular with our customers."
+            },
+            {
+              "speaker": "female",
+              "text": "Hmm. Those are a little too expensive for me. Do you have anything cheaper?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure. Let me show you some wines that are on sale."
+            }
+          ],
+          "question": "What is one thing the woman says?",
+          "choices": [
+            "Red wine is her favorite.",
+            "Her friend does not like French wine.",
+            "She drank a lot of wine in France.",
+            "She does not want to spend too much money."
+          ],
+          "explanation": "フランスワインが高すぎるのでもっと安いものを探しています。",
+          "highlights": [
+            "Those are a little too expensive for me"
+          ],
+          "choiceAnalysis": "選択肢1「赤ワインが好き」→友達の好み。選択肢2「友達がフランスワインを嫌い」→高い。選択肢3「フランスでワインをたくさん飲んだ」→高い。選択肢4「あまりお金をかけたくない」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q04.mp3"
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "No! The other team scored again. That's the second time this inning."
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah. The Gray Sox aren't playing very well. Their defense is so bad."
+            },
+            {
+              "speaker": "male",
+              "text": "They've been bad all season. I can't believe the newspapers were picking them to win the championship at the beginning of the season!"
+            },
+            {
+              "speaker": "female",
+              "text": "I know. Well, I hope they fire the manager soon. The team needs someone who can show these players how to win."
+            }
+          ],
+          "question": "Why are the man and woman upset with the Gray Sox?",
+          "choices": [
+            "Their championship parade was canceled.",
+            "Their manager is changing teams.",
+            "They have not been playing well.",
+            "They do not have a nice stadium."
+          ],
+          "explanation": "シーズンを通して成績が悪いからです。",
+          "highlights": [
+            "The Gray Sox aren't playing very well",
+            "They've been bad all season"
+          ],
+          "choiceAnalysis": "選択肢1「パレード中止」→成績不振。選択肢2「監督が移動」→解雇を望む。選択肢3「プレーが良くない」→正解。選択肢4「スタジアムが悪い」→プレー。",
+          "answer": 3,
+          "audioFile": "audio/part1_q05.mp3"
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Grace, how did your speech go in history class today?"
+            },
+            {
+              "speaker": "female",
+              "text": "It was terrible, Dad. When I got to class, I realized that I had left my notes at home!"
+            },
+            {
+              "speaker": "male",
+              "text": "Does that mean you didn't give your speech?"
+            },
+            {
+              "speaker": "female",
+              "text": "No. My teacher told me to do it from memory. I tried, but I forgot to say a lot of things."
+            }
+          ],
+          "question": "Why did Grace's speech go terribly?",
+          "choices": [
+            "Her teacher came to class late.",
+            "Her classmates did not listen to it.",
+            "She had to do it without any notes.",
+            "She forgot to practice for it."
+          ],
+          "explanation": "ノートを家に忘れて記憶だけでスピーチしなければなりませんでした。",
+          "highlights": [
+            "I had left my notes at home",
+            "My teacher told me to do it from memory"
+          ],
+          "choiceAnalysis": "選択肢1「先生が遅刻」→ノートを忘れた。選択肢2「クラスメイトが聞かない」→ノートなし。選択肢3「ノートなしでやった」→正解。選択肢4「練習を忘れた」→ノートを忘れた。",
+          "answer": 3,
+          "audioFile": "audio/part1_q06.mp3"
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me, sir, but you should be careful walking on this beach without shoes. Sometimes there's broken glass and other trash in the sand."
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks for warning me. I'll put my sandals back on."
+            },
+            {
+              "speaker": "female",
+              "text": "This beach used to be so much nicer. People don't clean up after themselves like they used to."
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah. People should take their garbage home with them."
+            }
+          ],
+          "question": "What is one thing the woman tells the man?",
+          "choices": [
+            "He should wear shoes.",
+            "He needs to clean up his trash.",
+            "She has cut her foot.",
+            "She has lost her sandals."
+          ],
+          "explanation": "靴なしでビーチを歩くのは危険だと注意しています。",
+          "highlights": [
+            "you should be careful walking on this beach without shoes"
+          ],
+          "choiceAnalysis": "選択肢1「靴を履くべき」→正解。選択肢2「ゴミを片付ける」→靴を履く。選択肢3「足を切った」→彼に注意。選択肢4「サンダルをなくした」→彼のサンダル。",
+          "answer": 1,
+          "audioFile": "audio/part1_q07.mp3"
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Have you tried the new café across the street, James?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah. I went there yesterday."
+            },
+            {
+              "speaker": "female",
+              "text": "I was thinking about going today. Was the food any good?"
+            },
+            {
+              "speaker": "male",
+              "text": "It was OK. Actually, their menu is pretty boring, and the café isn't decorated nicely. But it's the closest place to our office. Since we only get 45 minutes for lunch, it's worth going there."
+            }
+          ],
+          "question": "What does the man think is good about the café?",
+          "choices": [
+            "It is located nearby.",
+            "It is decorated beautifully.",
+            "The staff is friendly.",
+            "The food is inexpensive."
+          ],
+          "explanation": "オフィスから一番近い場所にあるのが良い点です。",
+          "highlights": [
+            "it's the closest place to our office"
+          ],
+          "choiceAnalysis": "選択肢1「近くにある」→正解。選択肢2「装飾がきれい」→きれいではない。選択肢3「スタッフが親切」→近い。選択肢4「食事が安い」→近い。",
+          "answer": 1,
+          "audioFile": "audio/part1_q08.mp3"
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Ms. Gray, why do you want to work for a French company?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I spent a year studying in France, Mr. Girard. I'd like to use the French I learned while I was there."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. If you were to get the job, you'd be required to go to Paris a few times a year. Would that be a problem?"
+            },
+            {
+              "speaker": "female",
+              "text": "Certainly not. I'd welcome the opportunity."
+            }
+          ],
+          "question": "What is one thing we learn about the woman?",
+          "choices": [
+            "She has never studied French.",
+            "She traveled to France a few times last year.",
+            "She used to work at a French company.",
+            "She has been to France before."
+          ],
+          "explanation": "フランスに1年間留学した経験があります。",
+          "highlights": [
+            "I spent a year studying in France"
+          ],
+          "choiceAnalysis": "選択肢1「フランス語を学んだことがない」→1年間留学。選択肢2「何度も旅行」→1年間留学。選択肢3「フランスの会社で働いていた」→留学。選択肢4「フランスに行ったことがある」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q09.mp3"
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Congratulations! You're the tenth caller. That means you win two tickets to the Cool FM Jazz Festival!"
+            },
+            {
+              "speaker": "male",
+              "text": "Really? I won? I always listen to your show, but I've never tried calling in before."
+            },
+            {
+              "speaker": "female",
+              "text": "It's your lucky day, then. Enjoy the concert, and thanks for listening to Cool FM Jazz Radio. Please hold the line so we can get your contact details."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. Thanks!"
+            }
+          ],
+          "question": "How did the man win tickets to a concert?",
+          "choices": [
+            "He contacted a musician.",
+            "He called a radio show.",
+            "He wrote a song.",
+            "He answered a question about jazz."
+          ],
+          "explanation": "ラジオ番組に電話して10番目の電話者として当選しました。",
+          "highlights": [
+            "You're the tenth caller"
+          ],
+          "choiceAnalysis": "選択肢1「ミュージシャンに連絡」→ラジオに電話。選択肢2「ラジオ番組に電話」→正解。選択肢3「歌を書いた」→電話。選択肢4「ジャズの質問に答えた」→10番目の電話者。",
+          "answer": 2,
+          "audioFile": "audio/part1_q10.mp3"
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hello. Bill Davis speaking."
+            },
+            {
+              "speaker": "female",
+              "text": "Hi, Bill, it's Debbie Sanders from next door. I just got home from work, and I thought I saw your cat run across the street."
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks for calling, Debbie. But my cat's inside. She's sleeping in my bedroom."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, great. I was worried she might get hit by a car."
+            }
+          ],
+          "question": "Why did the woman call the man?",
+          "choices": [
+            "She thought his cat was in danger.",
+            "She was returning his phone call.",
+            "She thought she saw him at work.",
+            "She wanted to ask him a favor."
+          ],
+          "explanation": "猫が道路を横切るのを見て車にひかれるかもしれないと心配しました。",
+          "highlights": [
+            "I was worried she might get hit by a car"
+          ],
+          "choiceAnalysis": "選択肢1「猫が危険だと思った」→正解。選択肢2「折り返し電話」→猫の心配。選択肢3「仕事場で見た」→猫。選択肢4「お願い」→猫の心配。",
+          "answer": 1,
+          "audioFile": "audio/part1_q11.mp3"
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Merry Christmas, honey. I got you a present. Go ahead, open it."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks, Brad. Oh! Tickets for a city orchestra concert!"
+            },
+            {
+              "speaker": "male",
+              "text": "We used to go listen to the orchestra all the time before the kids were born. I miss that."
+            },
+            {
+              "speaker": "female",
+              "text": "Me, too. We used to go once or twice a month. Well, this will be so much fun. Thanks, honey."
+            }
+          ],
+          "question": "What is one thing we learn about the couple?",
+          "choices": [
+            "They will go to a Christmas party.",
+            "They do not have any kids.",
+            "They do not like classical music.",
+            "They used to go to concerts often."
+          ],
+          "explanation": "子供が生まれる前は月に1〜2回コンサートに行っていました。",
+          "highlights": [
+            "We used to go listen to the orchestra all the time",
+            "We used to go once or twice a month"
+          ],
+          "choiceAnalysis": "選択肢1「クリスマスパーティー」→コンサート。選択肢2「子供がいない」→子供が生まれた後。選択肢3「クラシックが嫌い」→好き。選択肢4「よくコンサートに行っていた」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q12.mp3"
+        },
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Erica, you're not doing very well in my class. Is anything wrong?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sorry, Professor Gibson. Everything we're studying in class is new to me, so it's taking me a lot of time to understand it all."
+            },
+            {
+              "speaker": "male",
+              "text": "I see. Well, I'll try to take more time to explain everything."
+            },
+            {
+              "speaker": "female",
+              "text": "Thank you. And I'll try to study harder."
+            }
+          ],
+          "question": "What does Professor Gibson say he will try to do?",
+          "choices": [
+            "Start a new class for Erica.",
+            "Teach more new things in class.",
+            "Explain things more in class.",
+            "Help Erica choose classes."
+          ],
+          "explanation": "授業でもっと時間をかけて説明するようにすると言っています。",
+          "highlights": [
+            "I'll try to take more time to explain everything"
+          ],
+          "choiceAnalysis": "選択肢1「新しいクラス」→説明に時間をかける。選択肢2「新しいことを教える」→説明。選択肢3「授業でもっと説明する」→正解。選択肢4「クラス選び」→説明。",
+          "answer": 3,
+          "audioFile": "audio/part1_q13.mp3"
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Honey, my company is moving to a new office building in Milton this summer."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, no. That's terrible. Milton is so far away."
+            },
+            {
+              "speaker": "male",
+              "text": "I know. It'll take me about 90 minutes to get to work every day. I'll have to take three trains to get there."
+            },
+            {
+              "speaker": "female",
+              "text": "You'll need to get up really early every morning."
+            }
+          ],
+          "question": "Why is the man worried?",
+          "choices": [
+            "His family wants to move to Milton.",
+            "His new office will be far away.",
+            "He has to do a lot of overtime.",
+            "He has trouble waking up on time."
+          ],
+          "explanation": "新しいオフィスが遠く、通勤に90分かかるからです。",
+          "highlights": [
+            "It'll take me about 90 minutes to get to work every day"
+          ],
+          "choiceAnalysis": "選択肢1「家族が引っ越したい」→オフィスが遠い。選択肢2「新オフィスが遠い」→正解。選択肢3「残業」→通勤時間。選択肢4「起きられない」→早起き必要。",
+          "answer": 2,
+          "audioFile": "audio/part1_q14.mp3"
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "What are these pictures of, John?"
+            },
+            {
+              "speaker": "male",
+              "text": "They're from the fishing trip I took with my dad last summer. Here's one of us holding up some of the fish."
+            },
+            {
+              "speaker": "female",
+              "text": "Wow! You caught some big ones."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, my dad did. I wasn't so lucky. I didn't catch any. But I still had a great time. It was nice to spend some time with my dad."
+            }
+          ],
+          "question": "What is one thing the boy says about the fishing trip?",
+          "choices": [
+            "He was not able to go.",
+            "He caught a lot of fish.",
+            "He does not like fishing.",
+            "He enjoyed being with his father."
+          ],
+          "explanation": "魚は釣れなかったけど父親と過ごせて楽しかったと言っています。",
+          "highlights": [
+            "It was nice to spend some time with my dad"
+          ],
+          "choiceAnalysis": "選択肢1「行けなかった」→行った。選択肢2「たくさん釣った」→1匹も釣れない。選択肢3「釣りが嫌い」→楽しかった。選択肢4「父と過ごせて楽しかった」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q15.mp3"
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 16 〜 No. 30",
+      "questions": [
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Pangolins are small animals that live in Africa and Asia. They eat insects, and they have special skin that is very tough. When pangolins are scared, they roll up into a ball to protect themselves. In fact, their name comes from a Malaysian word which means \"to roll up.\" Unfortunately, pangolins are hunted for their meat and skin, so there are not many of them left."
+            }
+          ],
+          "question": "What is true about pangolins?",
+          "choices": [
+            "They came to Africa from Asia.",
+            "They are a small type of insect.",
+            "They can roll into the shape of a ball.",
+            "They hunt other pangolins."
+          ],
+          "explanation": "怖がると丸まってボール状になります。",
+          "highlights": [
+            "they roll up into a ball to protect themselves"
+          ],
+          "choiceAnalysis": "選択肢1「アジアからアフリカへ」→両方に住む。選択肢2「昆虫の一種」→昆虫を食べる。選択肢3「ボール状に丸まれる」→正解。選択肢4「他のパンゴリンを狩る」→人間に狩られる。",
+          "answer": 3,
+          "audioFile": "audio/part2_q16.mp3"
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Sharon is in her first year of high school, but she is already thinking about college. She wants to get into a good college and is looking for ways to improve her chances. Sharon studies hard and also likes to exercise, so her teacher suggested she join a sports team. He said that top students who join clubs and other activities are more likely to be selected by colleges."
+            }
+          ],
+          "question": "Why did Sharon's teacher suggest that she join a sports team?",
+          "choices": [
+            "It could improve her health.",
+            "It could help her get into a good college.",
+            "She was looking for a new hobby.",
+            "She was stressed from studying too much."
+          ],
+          "explanation": "クラブ活動に参加する優秀な学生は大学に選ばれやすいからです。",
+          "highlights": [
+            "top students who join clubs and other activities are more likely to be selected by colleges"
+          ],
+          "choiceAnalysis": "選択肢1「健康改善」→大学入学。選択肢2「良い大学に入るため」→正解。選択肢3「新しい趣味」→大学入学。選択肢4「ストレス」→大学入学。",
+          "answer": 2,
+          "audioFile": "audio/part2_q17.mp3"
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome, runners, to the Greentown 10K Marathon. Thank you for registering in advance. Today is a big day, whether you're a professional athlete or someone just running for fun. For those who are registered as professional runners, please talk to one of the staff members at the starting line to inform them that you have arrived. Everyone else, please wait a while longer. Runners, enjoy the marathon!"
+            }
+          ],
+          "question": "What should the professional runners do now?",
+          "choices": [
+            "Greet the other runners.",
+            "Register for the marathon.",
+            "Tell a staff member they have arrived.",
+            "Wait for the staff members to arrive."
+          ],
+          "explanation": "スタートラインのスタッフに到着を伝えるべきです。",
+          "highlights": [
+            "please talk to one of the staff members at the starting line to inform them that you have arrived"
+          ],
+          "choiceAnalysis": "選択肢1「他のランナーに挨拶」→スタッフに到着報告。選択肢2「登録」→事前登録済み。選択肢3「到着をスタッフに伝える」→正解。選択肢4「スタッフを待つ」→スタッフに伝える。",
+          "answer": 3,
+          "audioFile": "audio/part2_q18.mp3"
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Ruby went to Cambodia with her friends. She was excited to visit a famous temple there. However, on the day she went to the temple, she was wearing shorts. When Ruby tried to go into the temple, she was told that women must wear long skirts or dresses to enter temples in Cambodia. Luckily, there was a shop nearby selling long skirts. Ruby bought one and was able to visit the temple."
+            }
+          ],
+          "question": "Why did Ruby buy a long skirt?",
+          "choices": [
+            "She needed it to enter a temple.",
+            "She needed to buy a present for her friend.",
+            "She wanted to support local shops.",
+            "She wanted it to protect her knees."
+          ],
+          "explanation": "カンボジアの寺院に入るにはロングスカートが必要でした。",
+          "highlights": [
+            "women must wear long skirts or dresses to enter temples in Cambodia"
+          ],
+          "choiceAnalysis": "選択肢1「寺院に入るため」→正解。選択肢2「友達へのプレゼント」→寺院入場。選択肢3「地元の店を応援」→寺院入場。選択肢4「膝を保護」→寺院入場。",
+          "answer": 1,
+          "audioFile": "audio/part2_q19.mp3"
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In 1798, French soldiers went to fight in Egypt. Many scientists went with them, too. These scientists studied a lot about Egypt's history and its natural world. Some of them also began to learn how to read the old Egyptian language. Later, they published many books about Egypt. Because of the scientists' work, people in Europe learned a lot about Egypt."
+            }
+          ],
+          "question": "What did the French scientists do in Egypt?",
+          "choices": [
+            "They fought as soldiers.",
+            "They discovered many old books.",
+            "They taught French to the Egyptians.",
+            "They studied its history and environment."
+          ],
+          "explanation": "エジプトの歴史と自然を研究しました。",
+          "highlights": [
+            "These scientists studied a lot about Egypt's history and its natural world"
+          ],
+          "choiceAnalysis": "選択肢1「兵士として戦った」→科学者として研究。選択肢2「古い本を発見」→本を出版。選択肢3「フランス語を教えた」→研究。選択肢4「歴史と環境を研究」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part2_q20.mp3"
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thank you all for coming to tonight's Mystery Dinner Theater show, where you can have a delicious dinner while watching a mysterious and exciting play. The play is about to start, so please enjoy the opening scene. We will be bringing drinks to your tables soon, and meals will be served in 30 minutes. Also, there will be a short break in an hour. Please sit back, relax, and enjoy."
+            }
+          ],
+          "question": "What will happen first?",
+          "choices": [
+            "The play will begin.",
+            "The actors will come to the tables.",
+            "There will be a short break.",
+            "There will be a dinner."
+          ],
+          "explanation": "劇がもうすぐ始まります。飲み物はすぐ後、食事は30分後です。",
+          "highlights": [
+            "The play is about to start"
+          ],
+          "choiceAnalysis": "選択肢1「劇が始まる」→正解。選択肢2「俳優がテーブルへ」→劇開始。選択肢3「休憩」→1時間後。選択肢4「夕食」→30分後。",
+          "answer": 1,
+          "audioFile": "audio/part2_q21.mp3"
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Nova is an American TV program that teaches people about science. It is based on a similar show from Britain, and it talks about many topics, such as nature and space. The person who made Nova, Michael Ambrosino, thought that Americans were not learning enough about science, so he wanted to make a TV program which made science interesting. The program is very successful and has won many awards."
+            }
+          ],
+          "question": "Why was the TV program Nova made?",
+          "choices": [
+            "To win a science award.",
+            "To promote space travel.",
+            "To show animals in nature.",
+            "To teach Americans about science."
+          ],
+          "explanation": "アメリカ人が科学を十分に学んでいないと考えて作られました。",
+          "highlights": [
+            "Americans were not learning enough about science"
+          ],
+          "choiceAnalysis": "選択肢1「科学賞を取る」→科学教育。選択肢2「宇宙旅行促進」→科学教育。選択肢3「動物を見せる」→科学全般。選択肢4「アメリカ人に科学を教える」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part2_q22.mp3"
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Rachel plays on her high school soccer team. She usually plays well, but last week, her team lost a big game without scoring even one goal. Every time Rachel tried to pass the ball to a teammate, she kicked it to the other team. She was so upset that she wanted to quit playing soccer. However, Rachel has decided to practice more so she can do better next time."
+            }
+          ],
+          "question": "What did Rachel decide to try to do?",
+          "choices": [
+            "Watch more soccer games.",
+            "Get better at playing soccer.",
+            "Quit playing for the team.",
+            "Find new players to join the team."
+          ],
+          "explanation": "もっと練習して次は上手くプレーすると決めました。",
+          "highlights": [
+            "Rachel has decided to practice more so she can do better next time"
+          ],
+          "choiceAnalysis": "選択肢1「試合を見る」→練習。選択肢2「サッカーが上手くなる」→正解。選択肢3「やめる」→続ける決意。選択肢4「新メンバー」→自分が練習。",
+          "answer": 2,
+          "audioFile": "audio/part2_q23.mp3"
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Theresa works full-time for a marketing company. Next month, the company is going to move to a smaller office to save money. There will not be enough room for everyone, so the company asked its employees if any of them wanted to work from home. Theresa said yes. She will come to the office once a week for meetings and work from her computer at home on the other days."
+            }
+          ],
+          "question": "What will Theresa start doing?",
+          "choices": [
+            "Working mostly from home.",
+            "Going to a different company.",
+            "Making a marketing presentation.",
+            "Looking for new desks for her office."
+          ],
+          "explanation": "主に在宅勤務を始め、週1回だけオフィスに行きます。",
+          "highlights": [
+            "work from her computer at home on the other days"
+          ],
+          "choiceAnalysis": "選択肢1「主に在宅勤務」→正解。選択肢2「別の会社」→在宅勤務。選択肢3「プレゼン」→在宅勤務。選択肢4「机を探す」→在宅勤務。",
+          "answer": 1,
+          "audioFile": "audio/part2_q24.mp3"
+        },
+        {
+          "number": 25,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Ralph is in college and lives in an apartment with his friend Scott. In the beginning, things went well, but after a couple of months they started arguing. Scott often forgets to wash his dishes after eating, and Ralph sometimes plays his music too loudly. They decided to have a talk this week about how to get along better."
+            }
+          ],
+          "question": "Why are Ralph and Scott going to have a talk?",
+          "choices": [
+            "Ralph wants to move out.",
+            "Scott uses too much water.",
+            "They have been fighting.",
+            "Their neighbor is too loud."
+          ],
+          "explanation": "口論が増えてきたのでうまくやっていく方法を話し合います。",
+          "highlights": [
+            "they started arguing"
+          ],
+          "choiceAnalysis": "選択肢1「引っ越したい」→話し合い。選択肢2「水の使いすぎ」→口論。選択肢3「喧嘩している」→正解。選択肢4「隣人がうるさい」→お互いの問題。",
+          "answer": 3,
+          "audioFile": "audio/part2_q25.mp3"
+        },
+        {
+          "number": 26,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Recently, Marie has been worried about her health. She went to her doctor for advice, and he suggested she should exercise more. The next day, Marie bought a special watch so that she can measure how far she walks every day. The watch also measures how long she sleeps and how fast her heart beats. Now, she can make sure that she gets enough exercise every day."
+            }
+          ],
+          "question": "Why did Marie buy a special watch?",
+          "choices": [
+            "To wake her up in the morning.",
+            "To see if she is exercising enough.",
+            "To help her with a heart problem.",
+            "To go to appointments on time."
+          ],
+          "explanation": "毎日十分な運動をしているか確認するためです。",
+          "highlights": [
+            "she can make sure that she gets enough exercise every day"
+          ],
+          "choiceAnalysis": "選択肢1「朝起きる」→運動量確認。選択肢2「十分運動しているか確認」→正解。選択肢3「心臓の問題」→運動量。選択肢4「予約の時間」→運動量。",
+          "answer": 2,
+          "audioFile": "audio/part2_q26.mp3"
+        },
+        {
+          "number": 27,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Sam is writing a research paper for his college Japanese history class. He chose the history of the Edo period as his topic. When he started to do the research, he found that there was too much information for one paper, and he did not have enough time to read all of it. He will ask his teacher if he can write about paintings from the Edo period, instead."
+            }
+          ],
+          "question": "Why did Sam have trouble with his research paper?",
+          "choices": [
+            "His topic had too much information.",
+            "His teacher would not help him.",
+            "He was not interested in paintings.",
+            "He knew little about Japan."
+          ],
+          "explanation": "江戸時代という広いテーマに情報が多すぎました。",
+          "highlights": [
+            "there was too much information for one paper"
+          ],
+          "choiceAnalysis": "選択肢1「テーマの情報が多すぎた」→正解。選択肢2「先生が手伝わない」→先生に相談予定。選択肢3「絵に興味ない」→テーマ変更希望。選択肢4「日本について詳しくない」→情報多すぎ。",
+          "answer": 1,
+          "audioFile": "audio/part2_q27.mp3"
+        },
+        {
+          "number": 28,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thank you for shopping at Wilkie's Department Store. Remember, any suit that you buy can be changed to fit you perfectly for free. Also, we are having a special sale on selected top-brand suits this month. You will find them on the third floor, so be sure to check out the low prices. Don't miss this great offer."
+            }
+          ],
+          "question": "What is one thing that Wilkie's Department Store does for customers?",
+          "choices": [
+            "Orders suits from any brand.",
+            "Makes changes to suits for free.",
+            "Gives them lower prices if they ask.",
+            "Accepts coupons on the third floor."
+          ],
+          "explanation": "購入したスーツの無料お直しサービスを提供しています。",
+          "highlights": [
+            "any suit that you buy can be changed to fit you perfectly for free"
+          ],
+          "choiceAnalysis": "選択肢1「どのブランドでも注文」→特定のブランド。選択肢2「無料でスーツのお直し」→正解。選択肢3「頼めば値下げ」→セール。選択肢4「クーポン受付」→無料お直し。",
+          "answer": 2,
+          "audioFile": "audio/part2_q28.mp3"
+        },
+        {
+          "number": 29,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Mr. Simpson has been a pilot for 25 years, and he was recently asked if he wanted to teach young pilots. The salary and working hours are about the same, but he would not be able to fly anymore. Even though he did not want to stop flying, Mr. Simpson decided to take the job because he wants to help new pilots improve their skills."
+            }
+          ],
+          "question": "Why did Mr. Simpson decide to become an instructor?",
+          "choices": [
+            "He wants to work less.",
+            "He wants to stop flying.",
+            "He wants to help younger pilots.",
+            "He wants to get more money."
+          ],
+          "explanation": "新しいパイロットの技術向上を手伝いたいからです。",
+          "highlights": [
+            "he wants to help new pilots improve their skills"
+          ],
+          "choiceAnalysis": "選択肢1「仕事を減らしたい」→同じ労働時間。選択肢2「飛ぶのをやめたい」→やめたくない。選択肢3「若いパイロットを助けたい」→正解。選択肢4「もっとお金」→同じ給料。",
+          "answer": 3,
+          "audioFile": "audio/part2_q29.mp3"
+        },
+        {
+          "number": 30,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "There is a kind of German Christmas decoration called a Frobel star. Frobel stars are made by joining four pieces of folded paper together to make a star shape. No one knows when they were invented, but children in German kindergartens were taught how to make them to learn about shapes. Frobel stars became popular in Germany in this way."
+            }
+          ],
+          "question": "What is one thing we learn about Frobel stars?",
+          "choices": [
+            "They are made out of paper.",
+            "They are given as Christmas presents.",
+            "They were unpopular with children.",
+            "They were invented by a student."
+          ],
+          "explanation": "4枚の折り紙を組み合わせて作られます。",
+          "highlights": [
+            "made by joining four pieces of folded paper together"
+          ],
+          "choiceAnalysis": "選択肢1「紙で作られる」→正解。選択肢2「クリスマスプレゼント」→装飾品。選択肢3「子供に不人気」→幼稚園で教わる。選択肢4「学生が発明」→発明者不明。",
+          "answer": 1,
+          "audioFile": "audio/part2_q30.mp3"
+        }
+      ]
+    }
+  ]
+}

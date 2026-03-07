@@ -1,0 +1,900 @@
+{
+  "title": "2018年度 第3回検定一次試験 英検2級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 15",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Mystical Mystery Bookstore, how may I help you?"
+            },
+            {
+              "speaker": "female",
+              "text": "Hi. I'm a big fan of the writer Nathan Hemmingway. Do you have any copies of his new book, Night Train to Moscow?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sorry, ma'am, we don't—and I doubt any other stores do, either. It's the number-one bestseller right now. We've ordered more copies, but they won't get here until Wednesday."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, I see. Well, I'll stop by on Wednesday, then."
+            }
+          ],
+          "question": "What do we learn about the book Night Train to Moscow?",
+          "choices": [
+            "It is not for sale yet.",
+            "It is not a new book.",
+            "It is very popular.",
+            "It will be finished soon."
+          ],
+          "explanation": "ナンバーワンベストセラーでどの店にもないほど人気です。",
+          "highlights": [
+            "It's the number-one bestseller right now"
+          ],
+          "choiceAnalysis": "選択肢1「まだ発売前」→売り切れ。選択肢2「新しくない」→新刊。選択肢3「とても人気」→正解。選択肢4「もうすぐ完成」→もう出版されている。",
+          "answer": 3,
+          "audioFile": "audio/part1_q01.mp3"
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Danny, thanks for dinner. Does this apartment building have a place to put cans for recycling?"
+            },
+            {
+              "speaker": "male",
+              "text": "Actually, Akina, there isn't one. The city doesn't collect cans or bottles in this neighborhood, so I drop them off at the supermarket."
+            },
+            {
+              "speaker": "female",
+              "text": "The city doesn't recycle in this area?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah, it's a lot of trouble carrying them to the supermarket. But next year, the city will start collecting bottles and cans here."
+            }
+          ],
+          "question": "What does the man do with his empty bottles and cans?",
+          "choices": [
+            "He takes them to the supermarket.",
+            "He sells them to a recycling center.",
+            "He gives them to his apartment manager.",
+            "He sends them to another city."
+          ],
+          "explanation": "スーパーマーケットに持って行っています。",
+          "highlights": [
+            "I drop them off at the supermarket"
+          ],
+          "choiceAnalysis": "選択肢1「スーパーに持っていく」→正解。選択肢2「リサイクルセンターに売る」→スーパー。選択肢3「管理人に渡す」→スーパー。選択肢4「別の市に送る」→スーパー。",
+          "answer": 1,
+          "audioFile": "audio/part1_q02.mp3"
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Have you seen my gray suit, Dorothy? It was in the closet a week ago, but now I can't find it."
+            },
+            {
+              "speaker": "female",
+              "text": "I took it to the dry cleaner's because it had a big stain on it."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh. When will it be ready? I want to wear it to an important meeting tomorrow."
+            },
+            {
+              "speaker": "female",
+              "text": "Don't worry, Barry. I'll pick it up this afternoon."
+            }
+          ],
+          "question": "Why is Barry looking for his suit?",
+          "choices": [
+            "He wants to show Dorothy a stain on it.",
+            "He has to take it on a business trip.",
+            "He wants to wear it to a meeting.",
+            "He has to take it to the dry cleaner's."
+          ],
+          "explanation": "明日の重要な会議に着ていきたいからです。",
+          "highlights": [
+            "I want to wear it to an important meeting tomorrow"
+          ],
+          "choiceAnalysis": "選択肢1「シミを見せたい」→会議に着る。選択肢2「出張」→会議。選択肢3「会議に着たい」→正解。選択肢4「クリーニング」→もう出している。",
+          "answer": 3,
+          "audioFile": "audio/part1_q03.mp3"
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Welcome to Silverton Library. Can I help you?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm writing a paper about the Rockefeller Tower. I need some old newspaper articles that were written while it was being built. Those are on the second floor, right?"
+            },
+            {
+              "speaker": "male",
+              "text": "Well, newspapers and magazines used to be on the second floor. Now, they're all on the library's computer system. The computer room is right over there."
+            },
+            {
+              "speaker": "female",
+              "text": "OK, great! Thank you very much."
+            }
+          ],
+          "question": "Where will the woman find the newspapers?",
+          "choices": [
+            "On the second floor of the building.",
+            "On the library's computer system.",
+            "In the old library building.",
+            "In the room next to the computer room."
+          ],
+          "explanation": "新聞は今は図書館のコンピュータシステムに入っています。",
+          "highlights": [
+            "they're all on the library's computer system"
+          ],
+          "choiceAnalysis": "選択肢1「2階」→以前は2階。選択肢2「コンピュータシステム」→正解。選択肢3「旧図書館」→コンピュータ。選択肢4「コンピュータ室の隣」→コンピュータシステム。",
+          "answer": 2,
+          "audioFile": "audio/part1_q04.mp3"
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Honey, I can't find my smartphone. Can you call it with yours?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure. Hold on a second—OK, it's ringing."
+            },
+            {
+              "speaker": "female",
+              "text": "OK, listen. Do you hear anything? Wait, I think I can hear it!"
+            },
+            {
+              "speaker": "male",
+              "text": "Me, too. The ringing is coming from over there. Let me check—found it! You must have dropped it under the sofa."
+            }
+          ],
+          "question": "How did the couple find the woman's smartphone?",
+          "choices": [
+            "The woman checked the GPS location.",
+            "The woman saw it in her handbag.",
+            "The man remembered where it was.",
+            "The man called it with his phone."
+          ],
+          "explanation": "男性が自分の電話からかけて着信音で見つけました。",
+          "highlights": [
+            "Can you call it with yours"
+          ],
+          "choiceAnalysis": "選択肢1「GPS位置」→電話をかけた。選択肢2「バッグの中」→ソファの下。選択肢3「男性が覚えていた」→電話をかけた。選択肢4「男性が電話をかけた」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q05.mp3"
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello?"
+            },
+            {
+              "speaker": "male",
+              "text": "Hi, Amanda. It's Dad. Your mom and I are thinking of visiting you in Spain this summer. What do you think?"
+            },
+            {
+              "speaker": "female",
+              "text": "That'd be great! I could show you my college and take you around the city of Barcelona."
+            },
+            {
+              "speaker": "male",
+              "text": "Should we get a hotel room?"
+            },
+            {
+              "speaker": "female",
+              "text": "No. You can stay at my apartment. I'll borrow some blankets from my friends."
+            }
+          ],
+          "question": "What are Amanda's parents thinking about doing?",
+          "choices": [
+            "Going to see Amanda in Spain.",
+            "Buying some blankets for Amanda.",
+            "Moving into an apartment in Barcelona.",
+            "Traveling with their friends from college."
+          ],
+          "explanation": "この夏スペインのAmandaを訪ねることを考えています。",
+          "highlights": [
+            "Your mom and I are thinking of visiting you in Spain"
+          ],
+          "choiceAnalysis": "選択肢1「スペインのAmandaに会いに行く」→正解。選択肢2「毛布を買う」→Amandaが借りる。選択肢3「引っ越す」→訪問。選択肢4「友人と旅行」→娘を訪問。",
+          "answer": 1,
+          "audioFile": "audio/part1_q06.mp3"
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Bobby, thank you so much for the card. How did you know it was my birthday today?"
+            },
+            {
+              "speaker": "male",
+              "text": "Jane told me. Are you having a good day?"
+            },
+            {
+              "speaker": "female",
+              "text": "It's been great. Oh, some of us are going to a restaurant tonight to celebrate. Would you like to come?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sorry. I'd love to, but I have a French class tonight."
+            }
+          ],
+          "question": "What does the woman thank Bobby for?",
+          "choices": [
+            "Coming to her party.",
+            "Helping her study French.",
+            "Giving her a birthday card.",
+            "Buying her dinner at a restaurant."
+          ],
+          "explanation": "誕生日カードをくれたことに感謝しています。",
+          "highlights": [
+            "thank you so much for the card"
+          ],
+          "choiceAnalysis": "選択肢1「パーティーに来る」→来れない。選択肢2「フランス語の勉強」→カード。選択肢3「誕生日カード」→正解。選択肢4「夕食を買う」→カード。",
+          "answer": 3,
+          "audioFile": "audio/part1_q07.mp3"
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Mrs. Begley, why did I get such a bad grade on my history paper? I spent hours researching the topic, and I checked it three times for mistakes."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, your writing was fine—and what you wrote about England was great."
+            },
+            {
+              "speaker": "male",
+              "text": "So, I don't get it. What was the problem?"
+            },
+            {
+              "speaker": "female",
+              "text": "You didn't follow my directions, Charles. Everyone was supposed to write about the history of the Internet."
+            }
+          ],
+          "question": "Why did the boy get a poor score on his paper?",
+          "choices": [
+            "He wrote about the wrong subject.",
+            "He turned in the paper late.",
+            "He did not do any research.",
+            "He made a lot of spelling mistakes."
+          ],
+          "explanation": "インターネットの歴史について書くべきところ、イングランドについて書きました。",
+          "highlights": [
+            "You didn't follow my directions",
+            "Everyone was supposed to write about the history of the Internet"
+          ],
+          "choiceAnalysis": "選択肢1「間違ったテーマで書いた」→正解。選択肢2「遅れて提出」→テーマが違う。選択肢3「調査なし」→調査はした。選択肢4「スペルミス」→テーマが違う。",
+          "answer": 1,
+          "audioFile": "audio/part1_q08.mp3"
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hello. I'd like to donate some old clothes to this charity."
+            },
+            {
+              "speaker": "female",
+              "text": "Thank you. First we have to check them to see if they're in good condition. Do they have any holes in them?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, they don't. The colors of the shirts have changed a bit, though."
+            },
+            {
+              "speaker": "female",
+              "text": "That's fine. If that's all that's wrong with them, we should be able to accept them."
+            }
+          ],
+          "question": "What does the man want to do?",
+          "choices": [
+            "Buy some clothes from the woman.",
+            "Take some clothes to the dry cleaner's.",
+            "Give some clothes to a charity.",
+            "Fix some holes in his clothes."
+          ],
+          "explanation": "古い服をチャリティーに寄付したいと言っています。",
+          "highlights": [
+            "I'd like to donate some old clothes to this charity"
+          ],
+          "choiceAnalysis": "選択肢1「買う」→寄付。選択肢2「クリーニング」→寄付。選択肢3「チャリティーに寄付」→正解。選択肢4「穴を直す」→穴はない。",
+          "answer": 3,
+          "audioFile": "audio/part1_q09.mp3"
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Jack, I need you to finish your story by the deadline. I want it in tomorrow's paper."
+            },
+            {
+              "speaker": "male",
+              "text": "I just finished it 30 minutes ago. I've given it to the editors—they're checking it now."
+            },
+            {
+              "speaker": "female",
+              "text": "Great. Well, I'll go see if I can get them to edit it quickly. This is going to be a big story, Jack."
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks. I hope so too, Mary."
+            }
+          ],
+          "question": "What does the woman suggest about the man's newspaper story?",
+          "choices": [
+            "It had too many words.",
+            "It is very important.",
+            "It is not very interesting.",
+            "It was written too quickly."
+          ],
+          "explanation": "大きな記事になると言っています。",
+          "highlights": [
+            "This is going to be a big story"
+          ],
+          "choiceAnalysis": "選択肢1「文字数が多い」→大きな記事。選択肢2「とても重要」→正解。選択肢3「面白くない」→大きな記事。選択肢4「急いで書いた」→大きな記事。",
+          "answer": 2,
+          "audioFile": "audio/part1_q10.mp3"
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Excuse me. The restaurant will be closing in a half hour, so the kitchen is taking last orders. Would you like anything else, ma'am?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes. I'd like some dessert, please."
+            },
+            {
+              "speaker": "male",
+              "text": "Certainly. I'll bring you the menu. By the way, today's ice-cream flavor is chocolate mint."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks."
+            }
+          ],
+          "question": "What will the waiter do next?",
+          "choices": [
+            "Let the woman taste the ice cream.",
+            "Bring the woman's change.",
+            "Get a menu for the woman.",
+            "Tell the woman what time they close."
+          ],
+          "explanation": "デザートメニューを持ってきます。",
+          "highlights": [
+            "I'll bring you the menu"
+          ],
+          "choiceAnalysis": "選択肢1「アイス試食」→メニュー。選択肢2「おつり」→メニュー。選択肢3「メニューを持ってくる」→正解。選択肢4「閉店時間を伝える」→もう伝えた。",
+          "answer": 3,
+          "audioFile": "audio/part1_q11.mp3"
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Welcome back to Gourmet Talk. Tonight, we're talking with the famous chef Anthony Fontaine. So, Anthony, when did you learn to cook?"
+            },
+            {
+              "speaker": "male",
+              "text": "I learned when I was a junior high school student. My parents both worked, so I had to cook dinner for my brother and sister."
+            },
+            {
+              "speaker": "female",
+              "text": "I see. Do you have any cooking advice for our audience?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. Don't be afraid to make mistakes. That's how you learn!"
+            }
+          ],
+          "question": "What is one thing the famous chef says?",
+          "choices": [
+            "He learned many recipes in cooking school.",
+            "He started cooking when he was young.",
+            "His brother and sister taught him to cook.",
+            "Only professionals should try cooking."
+          ],
+          "explanation": "中学生の頃から料理を始めました。",
+          "highlights": [
+            "I learned when I was a junior high school student"
+          ],
+          "choiceAnalysis": "選択肢1「料理学校」→中学生の時。選択肢2「若い頃から料理」→正解。選択肢3「兄弟に教わった」→兄弟のために作った。選択肢4「プロだけ」→失敗を恐れるな。",
+          "answer": 2,
+          "audioFile": "audio/part1_q12.mp3"
+        },
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Here are the ticket machines, Mark. You'll find them at most train stations in Japan. They're usually near the ticket gates."
+            },
+            {
+              "speaker": "male",
+              "text": "I see. Could you show me how to use one, Hinako?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sure. First, push this button for instructions in English. Then, choose the correct fare for your destination. Finally, pay for the ticket by putting in your money here."
+            },
+            {
+              "speaker": "male",
+              "text": "I see. That doesn't look too difficult."
+            }
+          ],
+          "question": "What is the woman doing for the man?",
+          "choices": [
+            "Taking him to a train museum.",
+            "Getting change from a machine.",
+            "Explaining how to buy tickets.",
+            "Showing him a map of the train station."
+          ],
+          "explanation": "券売機での切符の買い方を説明しています。",
+          "highlights": [
+            "Could you show me how to use one"
+          ],
+          "choiceAnalysis": "選択肢1「電車博物館」→券売機の使い方。選択肢2「両替」→切符購入。選択肢3「切符の買い方を説明」→正解。選択肢4「駅の地図」→券売機。",
+          "answer": 3,
+          "audioFile": "audio/part1_q13.mp3"
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Dave, what's this on my desk?"
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, that's some candy I brought back from my business trip to Vietnam. It's made with coconut."
+            },
+            {
+              "speaker": "female",
+              "text": "It looks delicious. Did you get the chance to do any sightseeing?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, not really. But I did have time to take a tour of the factory where I bought that candy. They even let us try making some."
+            }
+          ],
+          "question": "What does the man say he did in Vietnam?",
+          "choices": [
+            "He picked some coconuts.",
+            "He ate a lot of candy.",
+            "He saw many famous sights.",
+            "He visited a factory."
+          ],
+          "explanation": "キャンディを買った工場を見学しました。",
+          "highlights": [
+            "I did have time to take a tour of the factory"
+          ],
+          "choiceAnalysis": "選択肢1「ココナッツを摘んだ」→工場見学。選択肢2「キャンディをたくさん食べた」→工場見学。選択肢3「観光名所」→観光はしていない。選択肢4「工場を訪問」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q14.mp3"
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Brenda, can you print out all of this year's sales reports for my presentation on Friday?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sure. Do you need a copy for everyone, or just one for yourself?"
+            },
+            {
+              "speaker": "male",
+              "text": "For everyone, please. There will be six people at the meeting, including me."
+            },
+            {
+              "speaker": "female",
+              "text": "No problem. I'll put them on your desk when I'm done."
+            }
+          ],
+          "question": "What does the man ask the woman to do?",
+          "choices": [
+            "Cancel the meeting on Friday.",
+            "Print out sales reports.",
+            "Attend his presentation.",
+            "Clean up his desk."
+          ],
+          "explanation": "売上レポートを印刷するよう頼んでいます。",
+          "highlights": [
+            "can you print out all of this year's sales reports"
+          ],
+          "choiceAnalysis": "選択肢1「会議をキャンセル」→レポート印刷。選択肢2「売上レポートを印刷」→正解。選択肢3「プレゼンに出席」→印刷。選択肢4「机を掃除」→レポートを机に置く。",
+          "answer": 2,
+          "audioFile": "audio/part1_q15.mp3"
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 16 〜 No. 30",
+      "questions": [
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Tina is a high school student and will go to college next year. Three months ago, she got a job at a hamburger shop to help pay for college. She likes the job and her boss is nice. However, she noticed that her test scores have been getting worse because she has less time to study. Tina has decided to quit her job and focus on school."
+            }
+          ],
+          "question": "Why has Tina decided to quit her job?",
+          "choices": [
+            "Her boss is not nice to her.",
+            "Her job does not pay well.",
+            "She needs more time for studying.",
+            "She will start studying abroad soon."
+          ],
+          "explanation": "勉強する時間が減ってテストの成績が下がったため辞めることにしました。",
+          "highlights": [
+            "her test scores have been getting worse because she has less time to study"
+          ],
+          "choiceAnalysis": "選択肢1「上司が悪い」→上司は良い。選択肢2「給料が低い」→勉強時間。選択肢3「勉強時間がもっと必要」→正解。選択肢4「留学」→学校に集中。",
+          "answer": 3,
+          "audioFile": "audio/part2_q16.mp3"
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thank you for shopping at Electronic Mart today. The new AUX notebook computer arrived last week and has already received great reviews online. Many stores are selling it, but at Electronic Mart you can get it for 20 percent off its normal price. The sale is for this weekend only, so don't miss out on this great deal!"
+            }
+          ],
+          "question": "What is one thing the speaker says about the new AUX notebook computer?",
+          "choices": [
+            "Customers wrote bad reviews about it online.",
+            "Customers can only get a discount for it online.",
+            "It can only be bought at Electronic Mart.",
+            "It is sold more cheaply at Electronic Mart."
+          ],
+          "explanation": "Electronic Martでは通常価格の20%オフで買えます。",
+          "highlights": [
+            "at Electronic Mart you can get it for 20 percent off"
+          ],
+          "choiceAnalysis": "選択肢1「悪いレビュー」→良いレビュー。選択肢2「オンラインのみ割引」→店舗で割引。選択肢3「ここだけ」→多くの店で販売。選択肢4「ここがより安い」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part2_q17.mp3"
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Last week, Nicole went for a run in a park near her house. While running, she noticed that the park was very dirty. The next day, she went back and saw that many people were eating lunch there but were not taking their garbage home. Nicole decided to write a letter to City Hall asking them to put up signs telling people to clean up after themselves."
+            }
+          ],
+          "question": "What did Nicole notice while running in the park?",
+          "choices": [
+            "Many people were leaving their garbage there.",
+            "Too many people were running there.",
+            "A new city hall was being built there.",
+            "The signs were very dirty there."
+          ],
+          "explanation": "公園がとても汚く、ゴミを持ち帰らない人が多いことに気づきました。",
+          "highlights": [
+            "the park was very dirty",
+            "many people were eating lunch there but were not taking their garbage home"
+          ],
+          "choiceAnalysis": "選択肢1「多くの人がゴミを放置」→正解。選択肢2「走る人が多い」→ゴミ問題。選択肢3「市庁舎建設」→ゴミ問題。選択肢4「看板が汚い」→看板を要求。",
+          "answer": 1,
+          "audioFile": "audio/part2_q18.mp3"
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In parts of South America, you can find an animal called the maned wolf. Its body is mostly brown, but it has black legs. It also has large ears. Despite its name, it is not a type of wolf. Wolves usually only eat meat, but maned wolves eat both meat and plants. In fact, up to 50 percent of a maned wolf's diet is fruits and vegetables."
+            }
+          ],
+          "question": "What is one thing we learn about the maned wolf?",
+          "choices": [
+            "It eats meat and plants.",
+            "It has brown legs and small ears.",
+            "It sleeps for 50 percent of the day.",
+            "It is the biggest type of wolf."
+          ],
+          "explanation": "肉と植物の両方を食べます。",
+          "highlights": [
+            "maned wolves eat both meat and plants"
+          ],
+          "choiceAnalysis": "選択肢1「肉と植物を食べる」→正解。選択肢2「茶色い脚で小さい耳」→黒い脚で大きい耳。選択肢3「50%寝る」→50%が果物と野菜。選択肢4「最大の狼」→狼ではない。",
+          "answer": 1,
+          "audioFile": "audio/part2_q19.mp3"
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Noriko is a Japanese high school student, and she will study abroad next year in the United States. She is good at speaking English, but she thinks she will have trouble with subjects such as science because she might not know some difficult words. So now, Noriko is taking science lessons from an English tutor on the weekends to help her prepare for classes at her American high school."
+            }
+          ],
+          "question": "Why is Noriko taking science lessons with a tutor?",
+          "choices": [
+            "To learn difficult English words.",
+            "To prepare for an English exam.",
+            "To understand her classes in Japan.",
+            "To help her enter a college in Japan."
+          ],
+          "explanation": "アメリカの高校での授業に備えて難しい英語の科学用語を学ぶためです。",
+          "highlights": [
+            "she might not know some difficult words",
+            "to help her prepare for classes at her American high school"
+          ],
+          "choiceAnalysis": "選択肢1「難しい英単語を学ぶ」→正解。選択肢2「英語の試験準備」→留学準備。選択肢3「日本の授業」→アメリカの授業。選択肢4「日本の大学入学」→アメリカの高校。",
+          "answer": 1,
+          "audioFile": "audio/part2_q20.mp3"
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome to California Car Rental. Please have your driver's license ready to show to our staff members. We won't be able to rent a car to you without seeing your license first. Also, please be aware of the local traffic and safety laws in California. There is a copy of the laws in each car. If you need directions to your destination, maps are available at the customer service counter."
+            }
+          ],
+          "question": "What is the first thing customers at California Car Rental must do?",
+          "choices": [
+            "Look at the car rental prices.",
+            "Ask for maps and directions.",
+            "Review the traffic and safety laws.",
+            "Show a staff member their driver's license."
+          ],
+          "explanation": "まず運転免許証をスタッフに見せなければなりません。",
+          "highlights": [
+            "Please have your driver's license ready to show to our staff members"
+          ],
+          "choiceAnalysis": "選択肢1「料金を見る」→免許証を見せる。選択肢2「地図を聞く」→免許証。選択肢3「交通法規確認」→免許証。選択肢4「免許証を見せる」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part2_q21.mp3"
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "There was a great king named Charlemagne in an area of Europe that now contains France and Germany. Although he could read, he was never able to write. However, Charlemagne cared a lot about education. During his time as king, Charlemagne won many wars and made the western part of Europe into one large kingdom. He created schools in his kingdom so that people could learn to read and write."
+            }
+          ],
+          "question": "What is one thing we learn about Charlemagne?",
+          "choices": [
+            "He did not enjoy going to school.",
+            "He did not have any books to read.",
+            "He believed education was important.",
+            "He lost a war against western Europe."
+          ],
+          "explanation": "教育を非常に重視し、王国内に学校を作りました。",
+          "highlights": [
+            "Charlemagne cared a lot about education",
+            "He created schools in his kingdom"
+          ],
+          "choiceAnalysis": "選択肢1「学校が嫌い」→教育を大切にした。選択肢2「本がない」→読むことはできた。選択肢3「教育が重要だと信じた」→正解。選択肢4「戦争に負けた」→多くの戦争に勝った。",
+          "answer": 3,
+          "audioFile": "audio/part2_q22.mp3"
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Risa has joined a charity group that helps elderly people in her local area. Many seniors have told the charity group that they feel very lonely. So, Risa's job will be to visit them at their houses to chat with them. There are other volunteers in the charity group who go to seniors' homes, too. Those volunteers fix things or teach seniors how to use computers."
+            }
+          ],
+          "question": "How will Risa help elderly people?",
+          "choices": [
+            "By cleaning up the local area.",
+            "By fixing things in their homes.",
+            "By chatting with them at their homes.",
+            "By teaching them how to use computers."
+          ],
+          "explanation": "高齢者の家を訪問しておしゃべりをします。",
+          "highlights": [
+            "Risa's job will be to visit them at their houses to chat with them"
+          ],
+          "choiceAnalysis": "選択肢1「地域清掃」→おしゃべり。選択肢2「修理」→他のボランティア。選択肢3「家でおしゃべり」→正解。選択肢4「コンピュータ指導」→他のボランティア。",
+          "answer": 3,
+          "audioFile": "audio/part2_q23.mp3"
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Last month, Wesley went snowboarding for the first time with his friends. On the first day, his friends tried to teach him how to snowboard, but Wesley kept falling down. He noticed that his friends were spending all their time teaching him and were not having fun. So, on the second day, Wesley took lessons from an instructor. That way, his friends could enjoy snowboarding while he was still learning."
+            }
+          ],
+          "question": "Why did Wesley take lessons from an instructor?",
+          "choices": [
+            "He wanted to join a snowboarding competition.",
+            "He wanted his friends to have fun snowboarding.",
+            "His friend was a snowboard instructor.",
+            "His friends were too busy to teach him."
+          ],
+          "explanation": "友達が楽しめなくなっていたので、インストラクターからレッスンを受けることにしました。",
+          "highlights": [
+            "his friends were spending all their time teaching him and were not having fun"
+          ],
+          "choiceAnalysis": "選択肢1「大会参加」→友達のため。選択肢2「友達に楽しんでほしい」→正解。選択肢3「友人がインストラクター」→プロのインストラクター。選択肢4「友達が忙しい」→楽しめない。",
+          "answer": 2,
+          "audioFile": "audio/part2_q24.mp3"
+        },
+        {
+          "number": 25,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Professor Tucker is a geography teacher at a college. He lets his students bring laptop computers to class so they can take notes and check things on the Internet. Last week, however, some students complained that the sound of typing was bothering them. Professor Tucker made a new rule that students with computers must sit on one side of the room so they do not disturb the other students."
+            }
+          ],
+          "question": "Why did Professor Tucker make a new rule about students using computers?",
+          "choices": [
+            "The noise was bothering other students.",
+            "The Internet connection was not working.",
+            "The students were playing games on them.",
+            "The students were not taking enough notes."
+          ],
+          "explanation": "タイピングの音が他の学生の迷惑になっていたからです。",
+          "highlights": [
+            "the sound of typing was bothering them"
+          ],
+          "choiceAnalysis": "選択肢1「音が迷惑」→正解。選択肢2「インターネット接続」→タイピング音。選択肢3「ゲーム」→タイピング音。選択肢4「ノートを取らない」→音の問題。",
+          "answer": 1,
+          "audioFile": "audio/part2_q25.mp3"
+        },
+        {
+          "number": 26,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Today, ice-skating is a popular activity around the world. However, thousands of years ago, people in northern Europe were using ice skates to travel. Scientists have learned that people at that time made skates out of animal bones. These skates looked very different from modern ice skates. They were also much slower, but people still found them helpful for traveling across frozen lakes."
+            }
+          ],
+          "question": "What is one thing scientists have discovered about ice skates from thousands of years ago?",
+          "choices": [
+            "They were not used in Europe.",
+            "They were not very useful for people.",
+            "They were made from animal bones.",
+            "They were similar to modern ice skates."
+          ],
+          "explanation": "動物の骨で作られていました。",
+          "highlights": [
+            "people at that time made skates out of animal bones"
+          ],
+          "choiceAnalysis": "選択肢1「ヨーロッパで使われない」→北ヨーロッパで使用。選択肢2「役に立たない」→凍った湖で役立った。選択肢3「動物の骨で作られた」→正解。選択肢4「現代と似ている」→とても違う。",
+          "answer": 3,
+          "audioFile": "audio/part2_q26.mp3"
+        },
+        {
+          "number": 27,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Let's begin the tennis club meeting. As you all know, Raymond, our club secretary, is leaving next month. He has done a great job of organizing meetings and putting information on our website. Now, we need to decide on a person to replace him. Three members have volunteered to become the new secretary, and we will vote in a moment. After that, I want to discuss next week's competition."
+            }
+          ],
+          "question": "What will the people do after this announcement?",
+          "choices": [
+            "Change the club's website.",
+            "Choose a new club secretary.",
+            "Organize a party for Raymond.",
+            "Decide the rules for a competition."
+          ],
+          "explanation": "新しい書記を投票で選びます。",
+          "highlights": [
+            "we will vote in a moment"
+          ],
+          "choiceAnalysis": "選択肢1「サイト変更」→書記選出。選択肢2「新書記を選ぶ」→正解。選択肢3「Raymondのパーティー」→書記選出。選択肢4「大会ルール」→書記選出の後に大会の話。",
+          "answer": 2,
+          "audioFile": "audio/part2_q27.mp3"
+        },
+        {
+          "number": 28,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Mariko went to dinner with her friends last night. It was getting late, and she had to go home. When she got to the train station, however, she realized she did not have her wallet. Mariko called the restaurant and a staff member told her it was still there, so she ran back to get it. Then, she hurried back to the station and was able to catch the last train home."
+            }
+          ],
+          "question": "What was Mariko's problem yesterday?",
+          "choices": [
+            "She missed the last train home.",
+            "She left her wallet at a restaurant.",
+            "She could not go out to see her friends.",
+            "She did not have money to pay for dinner."
+          ],
+          "explanation": "レストランに財布を忘れました。",
+          "highlights": [
+            "she realized she did not have her wallet"
+          ],
+          "choiceAnalysis": "選択肢1「終電に乗り遅れた」→間に合った。選択肢2「レストランに財布を忘れた」→正解。選択肢3「友達に会えない」→夕食に行った。選択肢4「支払えない」→財布を忘れた。",
+          "answer": 2,
+          "audioFile": "audio/part2_q28.mp3"
+        },
+        {
+          "number": 29,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Grits are a breakfast food in the southern part of the United States. They are made by slowly cooking pieces of dried corn in water or milk. Grits can be yellow or white, depending on the type of corn that is used to make them. They were originally made by Native Americans, but now they are a popular food with people throughout the South."
+            }
+          ],
+          "question": "What is one thing we learn about grits?",
+          "choices": [
+            "They are a drink made from milk.",
+            "They are a dish made from corn.",
+            "They are originally from Europe.",
+            "They are usually eaten in the evening."
+          ],
+          "explanation": "乾燥したトウモロコシから作られる料理です。",
+          "highlights": [
+            "They are made by slowly cooking pieces of dried corn"
+          ],
+          "choiceAnalysis": "選択肢1「ミルクの飲み物」→トウモロコシ料理。選択肢2「トウモロコシの料理」→正解。選択肢3「ヨーロッパ原産」→ネイティブアメリカン。選択肢4「夕食」→朝食。",
+          "answer": 2,
+          "audioFile": "audio/part2_q29.mp3"
+        },
+        {
+          "number": 30,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Peter went to a coffee shop yesterday. While he was there, he saw his favorite author sitting at a table. Peter wanted to talk to her, but she was busy on her laptop computer. He waited until she closed her computer and then went over to tell her that he loves her books. They talked for a while before she had to leave. Peter was happy that he had met her."
+            }
+          ],
+          "question": "What did Peter do at a coffee shop yesterday?",
+          "choices": [
+            "He chatted on the phone.",
+            "He started writing a book.",
+            "He worked on his computer.",
+            "He talked to his favorite writer."
+          ],
+          "explanation": "お気に入りの作家に声をかけて話しました。",
+          "highlights": [
+            "went over to tell her that he loves her books",
+            "They talked for a while"
+          ],
+          "choiceAnalysis": "選択肢1「電話で話した」→作家と話した。選択肢2「本を書き始めた」→作家と話した。選択肢3「PC作業」→作家がPC、Peterは話した。選択肢4「好きな作家と話した」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part2_q30.mp3"
+        }
+      ]
+    }
+  ]
+}
