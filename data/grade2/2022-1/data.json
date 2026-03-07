@@ -1,0 +1,894 @@
+{
+  "title": "2022年度 第1回検定一次試験 英検2級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 15",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Livingstone Hotel."
+            },
+            {
+              "speaker": "male",
+              "text": "This is Ben Bryson in Room 707. I'll be meeting some clients for dinner near City Station, and I'd like to take the train back here afterwards. Do you know what time the last train leaves?"
+            },
+            {
+              "speaker": "female",
+              "text": "I can check for you. Let's see. The last train from City Station is at 12:15."
+            },
+            {
+              "speaker": "male",
+              "text": "Excellent. Thanks a lot."
+            }
+          ],
+          "question": "What does the man want to know?",
+          "choices": [
+            "When the last train is.",
+            "How to get to City Station.",
+            "Whether he can change rooms.",
+            "What room his clients are in."
+          ],
+          "explanation": "最終電車の時間を知りたいと尋ねています。",
+          "highlights": [
+            "Do you know what time the last train leaves"
+          ],
+          "choiceAnalysis": "選択肢1「最終電車の時間」→正解。選択肢2「駅への行き方」→最終電車。選択肢3「部屋変更」→電車の時間。選択肢4「クライアントの部屋」→電車の時間。",
+          "answer": 1,
+          "audioFile": "audio/part1_q01.mp3"
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Bernard, how did you get that scar on your knee?"
+            },
+            {
+              "speaker": "male",
+              "text": "Haven't you noticed it before, Cathy? I've had it for most of my life. I fell off my bicycle when I was a kid."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? That must have hurt."
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah, it did. My knee was bleeding a lot, and my mother had to take me to the hospital."
+            }
+          ],
+          "question": "What was Bernard doing when he got hurt?",
+          "choices": [
+            "Playing sports with friends.",
+            "Driving with his mother.",
+            "Riding his bicycle.",
+            "Talking to Cathy."
+          ],
+          "explanation": "子供の時に自転車から落ちて怪我をしました。",
+          "highlights": [
+            "I fell off my bicycle when I was a kid"
+          ],
+          "choiceAnalysis": "選択肢1「友達とスポーツ」→自転車。選択肢2「母と運転」→自転車。選択肢3「自転車に乗っていた」→正解。選択肢4「Cathyと話していた」→子供の時。",
+          "answer": 3,
+          "audioFile": "audio/part1_q02.mp3"
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "What's the matter, Doris? You look very tired."
+            },
+            {
+              "speaker": "female",
+              "text": "My cat ran away last night, and I went looking for her. I didn't go to bed until after 3 a.m."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm sorry to hear that. Did you find her and bring her home?"
+            },
+            {
+              "speaker": "female",
+              "text": "No, but when I woke up this morning, she was waiting outside. I have no idea where she went last night."
+            }
+          ],
+          "question": "Why is the woman tired?",
+          "choices": [
+            "She took her cat to a hospital.",
+            "She ran all the way to work this morning.",
+            "She got up early to clean her kitchen.",
+            "She had to look for her cat last night."
+          ],
+          "explanation": "昨夜逃げた猫を深夜3時まで探していたからです。",
+          "highlights": [
+            "I went looking for her",
+            "I didn't go to bed until after 3 a.m."
+          ],
+          "choiceAnalysis": "選択肢1「猫を病院に」→探した。選択肢2「走って通勤」→猫探し。選択肢3「掃除」→猫探し。選択肢4「昨夜猫を探した」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q03.mp3"
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Is that a new pencil case, David? I thought you liked your old one with the shark on it."
+            },
+            {
+              "speaker": "male",
+              "text": "I still do. My dad bought that one at the aquarium, but I needed to get a bigger one because I need to take a lot of colored pencils to art class."
+            },
+            {
+              "speaker": "female",
+              "text": "Have you drawn any pictures yet?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah, lots. I'll show them to you sometime."
+            }
+          ],
+          "question": "Why did the boy get a new pencil case?",
+          "choices": [
+            "He gave his old one to a friend in class.",
+            "He lost his old one at the aquarium.",
+            "He needed a bigger one for art class.",
+            "He wanted one with a different picture on it."
+          ],
+          "explanation": "美術の授業にたくさんの色鉛筆を持って行くために大きいのが必要でした。",
+          "highlights": [
+            "I needed to get a bigger one because I need to take a lot of colored pencils to art class"
+          ],
+          "choiceAnalysis": "選択肢1「友達にあげた」→まだ持っている。選択肢2「水族館でなくした」→父が買った。選択肢3「美術の授業に大きいのが必要」→正解。選択肢4「別の絵のが欲しい」→大きさの問題。",
+          "answer": 3,
+          "audioFile": "audio/part1_q04.mp3"
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "George, could I have a tissue?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure, here you go. Do you have a cold?"
+            },
+            {
+              "speaker": "female",
+              "text": "I don't think so. The air conditioners in my apartment are very old, and I think they need to be cleaned. The air in my room makes my nose run. I'm going to call the building manager later today."
+            },
+            {
+              "speaker": "male",
+              "text": "Good idea. Air conditioners need to be cleaned often."
+            }
+          ],
+          "question": "How does the woman plan to solve her problem?",
+          "choices": [
+            "By cleaning her room.",
+            "By buying more tissues.",
+            "By talking to the building manager.",
+            "By asking her friend for help."
+          ],
+          "explanation": "ビルの管理人に電話して対処してもらう予定です。",
+          "highlights": [
+            "I'm going to call the building manager later today"
+          ],
+          "choiceAnalysis": "選択肢1「部屋掃除」→管理人に連絡。選択肢2「ティッシュを買う」→根本解決。選択肢3「管理人に話す」→正解。選択肢4「友人に頼む」→管理人。",
+          "answer": 3,
+          "audioFile": "audio/part1_q05.mp3"
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Good morning. I'm looking for a new desk for my room."
+            },
+            {
+              "speaker": "male",
+              "text": "Would you like a metal one or a wooden one?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, the rest of the furniture in my room is wooden, so I'd like to find a matching desk."
+            },
+            {
+              "speaker": "male",
+              "text": "I think we may have just the thing you're looking for. There's a sale on all of our desks, chairs, and shelves today."
+            }
+          ],
+          "question": "What is the customer looking for?",
+          "choices": [
+            "A chair that will match her desk.",
+            "A new desk for her room.",
+            "A wooden shelf for her books.",
+            "Metal furniture for her room."
+          ],
+          "explanation": "部屋に合う新しい机を探しています。",
+          "highlights": [
+            "I'm looking for a new desk for my room"
+          ],
+          "choiceAnalysis": "選択肢1「椅子」→机。選択肢2「部屋の新しい机」→正解。選択肢3「本棚」→机。選択肢4「金属の家具」→木製。",
+          "answer": 2,
+          "audioFile": "audio/part1_q06.mp3"
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Excuse me. I got this postcard in my mailbox yesterday. It says I have a package to pick up at this post office."
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, sir. May I see an ID card, please?"
+            },
+            {
+              "speaker": "male",
+              "text": "Of course. Here's my driver's license."
+            },
+            {
+              "speaker": "female",
+              "text": "Thank you. Now, just sign your name on this line."
+            }
+          ],
+          "question": "What is the man doing at the post office?",
+          "choices": [
+            "Delivering the mail.",
+            "Checking his mailbox.",
+            "Picking up his new license.",
+            "Getting a package."
+          ],
+          "explanation": "荷物を受け取りに来ています。",
+          "highlights": [
+            "I have a package to pick up"
+          ],
+          "choiceAnalysis": "選択肢1「郵便配達」→受け取り。選択肢2「郵便箱確認」→荷物受取。選択肢3「免許証取得」→身分証として提示。選択肢4「荷物を受け取る」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q07.mp3"
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "So, how are the wedding preparations going, Gordon? Have you and your fiancée finished planning everything?"
+            },
+            {
+              "speaker": "male",
+              "text": "We've done a lot, but there's still so much left to do."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, you still have six weeks left. Have you decided where to go on your honeymoon?"
+            },
+            {
+              "speaker": "male",
+              "text": "Actually, we've both been so busy that we haven't had time to think about it yet."
+            }
+          ],
+          "question": "What is one thing the man says?",
+          "choices": [
+            "The time of the wedding has been changed.",
+            "The wedding plans are not finished yet.",
+            "The honeymoon was not enjoyable.",
+            "The honeymoon plans were made six weeks ago."
+          ],
+          "explanation": "まだやることがたくさん残っていると言っています。",
+          "highlights": [
+            "there's still so much left to do"
+          ],
+          "choiceAnalysis": "選択肢1「結婚式の時間変更」→準備が終わっていない。選択肢2「結婚式の準備がまだ」→正解。選択肢3「新婚旅行が楽しくなかった」→まだ行っていない。選択肢4「6週間前に計画」→まだ考えていない。",
+          "answer": 2,
+          "audioFile": "audio/part1_q08.mp3"
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Honey, we haven't seen Gloria at our town meetings recently. I guess she must be busy."
+            },
+            {
+              "speaker": "male",
+              "text": "Actually, I forgot to tell you—I ran into her on the street last week. She said she's started going to a business class in the evening."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? I hope I can get a chance to see her again soon."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, she said she'd definitely be at the next meeting."
+            }
+          ],
+          "question": "What is one thing the man says about Gloria?",
+          "choices": [
+            "She is taking a class.",
+            "She has started her own business.",
+            "She will call the woman.",
+            "She moved to a different street."
+          ],
+          "explanation": "夜のビジネスクラスに通い始めたと言っています。",
+          "highlights": [
+            "she's started going to a business class in the evening"
+          ],
+          "choiceAnalysis": "選択肢1「クラスを受けている」→正解。選択肢2「起業した」→クラスに通っている。選択肢3「女性に電話する」→次の会議に来る。選択肢4「引っ越した」→街で会った。",
+          "answer": 1,
+          "audioFile": "audio/part1_q09.mp3"
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Working overtime again tonight, Debbie?"
+            },
+            {
+              "speaker": "female",
+              "text": "I think so, Bob. I'm still working on this presentation for Mr. Donaldson."
+            },
+            {
+              "speaker": "male",
+              "text": "You've been working on it all week. Let me know if you need help with anything."
+            },
+            {
+              "speaker": "female",
+              "text": "OK, thanks. I will be done with it soon, though. After that, my work schedule should go back to normal."
+            }
+          ],
+          "question": "What is one thing the woman says?",
+          "choices": [
+            "She will be working late until next month.",
+            "She will not speak with Mr. Donaldson.",
+            "She has never made a presentation before.",
+            "She has almost finished writing a presentation."
+          ],
+          "explanation": "プレゼンテーションがもうすぐ終わると言っています。",
+          "highlights": [
+            "I will be done with it soon"
+          ],
+          "choiceAnalysis": "選択肢1「来月まで残業」→もうすぐ終わる。選択肢2「Donaldsonと話さない」→彼のためのプレゼン。選択肢3「初めてのプレゼン」→言及なし。選択肢4「プレゼンがほぼ完成」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q10.mp3"
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello."
+            },
+            {
+              "speaker": "male",
+              "text": "Hi, this is Stefan calling. Is Lorie there?"
+            },
+            {
+              "speaker": "female",
+              "text": "She's just gone to the store to get something for dinner. She shouldn't be too long. I'll have her call you when she gets home."
+            },
+            {
+              "speaker": "male",
+              "text": "That's OK. I'm going out with my parents, so I'll call her when I get back."
+            }
+          ],
+          "question": "What will Stefan do when he gets back?",
+          "choices": [
+            "Wait for Lorie to call.",
+            "Call Lorie again.",
+            "Eat dinner at home.",
+            "Go out with his parents."
+          ],
+          "explanation": "帰ったらLorieに電話し直すと言っています。",
+          "highlights": [
+            "I'll call her when I get back"
+          ],
+          "choiceAnalysis": "選択肢1「Lorieの電話を待つ」→自分からかける。選択肢2「Lorieに電話する」→正解。選択肢3「家で夕食」→電話する。選択肢4「両親と外出」→今から行く。",
+          "answer": 2,
+          "audioFile": "audio/part1_q11.mp3"
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me. Where can I find the special exhibition of modern art?"
+            },
+            {
+              "speaker": "male",
+              "text": "It's on the third floor, next to the museum shop. But you'd better hurry. The museum is closing in half an hour."
+            },
+            {
+              "speaker": "female",
+              "text": "All right. Do I have to pay extra to go in?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. Special exhibition tickets are five dollars. It's our most popular event this year."
+            }
+          ],
+          "question": "Why does the man say the woman should hurry?",
+          "choices": [
+            "It is the last day of the exhibition.",
+            "It is nearly closing time.",
+            "Exhibition tickets will sell out soon.",
+            "The museum shop is having a special sale."
+          ],
+          "explanation": "美術館が30分後に閉まるからです。",
+          "highlights": [
+            "The museum is closing in half an hour"
+          ],
+          "choiceAnalysis": "選択肢1「最終日」→閉館時間。選択肢2「閉館時間が近い」→正解。選択肢3「チケット売り切れ」→閉館。選択肢4「ショップのセール」→閉館。",
+          "answer": 2,
+          "audioFile": "audio/part1_q12.mp3"
+        },
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hey, Anne. I've got two tickets to the Fire Queens concert in Highdale Park this Friday night. Do you want to go? It starts at 6 p.m."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I love the Fire Queens, but I promised to look after my sister's baby that night. My sister has to work late."
+            },
+            {
+              "speaker": "male",
+              "text": "I see. That's too bad."
+            },
+            {
+              "speaker": "female",
+              "text": "I wish I could go. Maybe next time, I guess."
+            }
+          ],
+          "question": "Why will the woman not go to the concert?",
+          "choices": [
+            "She must cook dinner that night.",
+            "She has to take care of a baby.",
+            "She is going out with her sister.",
+            "She will be working late."
+          ],
+          "explanation": "姉の赤ちゃんの面倒を見る約束があるからです。",
+          "highlights": [
+            "I promised to look after my sister's baby that night"
+          ],
+          "choiceAnalysis": "選択肢1「夕食を作る」→赤ちゃん。選択肢2「赤ちゃんの世話」→正解。選択肢3「姉と外出」→姉は仕事。選択肢4「残業」→姉が残業。",
+          "answer": 2,
+          "audioFile": "audio/part1_q13.mp3"
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Donnie, I'm happy you did well on your science test this time, but you failed your math test again."
+            },
+            {
+              "speaker": "male",
+              "text": "I know, Mom. I find it hard to concentrate in Ms. Wilson's class."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, if you don't get a better score next time, maybe you should start seeing a tutor after school."
+            },
+            {
+              "speaker": "male",
+              "text": "No, please don't make me do that. I'll do my best to study harder."
+            }
+          ],
+          "question": "What does the boy say he will do?",
+          "choices": [
+            "Pay more attention in science class.",
+            "See Ms. Wilson after school.",
+            "Work harder in his math class.",
+            "Try to find a new math tutor."
+          ],
+          "explanation": "もっと頑張って勉強すると言っています。",
+          "highlights": [
+            "I'll do my best to study harder"
+          ],
+          "choiceAnalysis": "選択肢1「理科に集中」→数学。選択肢2「放課後Wilson先生に会う」→もっと勉強する。選択肢3「数学をもっと頑張る」→正解。選択肢4「家庭教師を探す」→嫌だと言った。",
+          "answer": 3,
+          "audioFile": "audio/part1_q14.mp3"
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me, sir. Do you live in this neighborhood?"
+            },
+            {
+              "speaker": "male",
+              "text": "I do. Do you need some help finding something?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, if you don't mind. I'm looking for a good place for lunch. Do you have any recommendations?"
+            },
+            {
+              "speaker": "male",
+              "text": "Hmm. Well, there's a nice German restaurant up on the hill. It's called Heidi's."
+            }
+          ],
+          "question": "What does the woman want to do?",
+          "choices": [
+            "Move to Germany.",
+            "Eat lunch with the man.",
+            "Find out where the man is going.",
+            "Have lunch at a good restaurant."
+          ],
+          "explanation": "良いランチの場所を探しています。",
+          "highlights": [
+            "I'm looking for a good place for lunch"
+          ],
+          "choiceAnalysis": "選択肢1「ドイツに引っ越す」→レストラン探し。選択肢2「男性と昼食」→おすすめを聞いている。選択肢3「男性の行き先」→レストラン探し。選択肢4「良いレストランで昼食」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q15.mp3"
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 16 〜 No. 30",
+      "questions": [
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Sandra hurt her left foot playing soccer. She could not play for a long time, so she joined a fitness center to stay active. The instructor there was very friendly and showed her how to use the training machines. However, after a few months, Sandra stopped going because the fitness center became very crowded. She is looking forward to playing soccer again soon."
+            }
+          ],
+          "question": "Why did Sandra stop going to the fitness center?",
+          "choices": [
+            "She did not feel active anymore.",
+            "Her foot did not get better.",
+            "There were too many people there.",
+            "The instructor there was too strict."
+          ],
+          "explanation": "フィットネスセンターが非常に混雑するようになったからです。",
+          "highlights": [
+            "the fitness center became very crowded"
+          ],
+          "choiceAnalysis": "選択肢1「活動的でない」→混雑。選択肢2「足が治らない」→混雑。選択肢3「人が多すぎた」→正解。選択肢4「インストラクターが厳しい」→親切だった。",
+          "answer": 3,
+          "audioFile": "audio/part2_q16.mp3"
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Robert's work schedule will change at the beginning of next month. He will still work from home twice a week, but his boss said that weekly reports will be due on Fridays—not on Wednesdays as before. In addition, the staff meeting will be on Mondays instead of Tuesdays. What Robert is most happy about is that he will have more time to make and check his weekly report during the week."
+            }
+          ],
+          "question": "What is one way in which Robert's schedule will change?",
+          "choices": [
+            "He will hand in reports on Fridays.",
+            "He will stop working from home.",
+            "There will be less time to make reports.",
+            "The staff meeting will move to Wednesdays."
+          ],
+          "explanation": "週報の締め切りが水曜日から金曜日に変わります。",
+          "highlights": [
+            "weekly reports will be due on Fridays—not on Wednesdays"
+          ],
+          "choiceAnalysis": "選択肢1「金曜にレポート提出」→正解。選択肢2「在宅勤務をやめる」→続ける。選択肢3「レポート作成時間が減る」→増える。選択肢4「会議が水曜に」→月曜に。",
+          "answer": 1,
+          "audioFile": "audio/part2_q17.mp3"
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Most puddings around the world are sweet. However, in England, there is a pudding made from things that are not sweet, such as animal blood and fat. It is called black pudding, or blood pudding, and it looks like a black sausage. It was first made long ago because people did not want to waste any parts of the animals that they cooked. Today, some types of black pudding are very expensive."
+            }
+          ],
+          "question": "Why did people start making black pudding long ago?",
+          "choices": [
+            "They wanted to feed it to animals.",
+            "They needed something sweet to eat.",
+            "They could not find enough sausages.",
+            "They did not want to waste animal parts."
+          ],
+          "explanation": "調理した動物のどの部分も無駄にしたくなかったからです。",
+          "highlights": [
+            "people did not want to waste any parts of the animals"
+          ],
+          "choiceAnalysis": "選択肢1「動物のエサ」→人間の食事。選択肢2「甘いもの」→甘くない。選択肢3「ソーセージ不足」→動物の活用。選択肢4「動物を無駄にしたくない」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part2_q18.mp3"
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Trevor went camping with two friends. The campsite was very crowded, so they had to put up their tents a long way from the bathroom. During the night, Trevor had to get up to go to the bathroom. It took him a long time to find it in the dark, and then he could not find his tent again. He had to call one of his friends on his smartphone to ask for help."
+            }
+          ],
+          "question": "What happened to Trevor while he was camping?",
+          "choices": [
+            "He broke his smartphone.",
+            "He got lost at night.",
+            "He had no place to put up his tent.",
+            "He could not help his friend."
+          ],
+          "explanation": "夜にトイレに行った後、暗闘の中で自分のテントが見つけられなくなりました。",
+          "highlights": [
+            "he could not find his tent again"
+          ],
+          "choiceAnalysis": "選択肢1「スマホが壊れた」→電話した。選択肢2「夜に迷子になった」→正解。選択肢3「テントを張る場所がない」→張った。選択肢4「友人を助けられない」→友人に助けを求めた。",
+          "answer": 2,
+          "audioFile": "audio/part2_q19.mp3"
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In Panama and other warm countries, people often wear hats to keep cool. In fact, a famous light-colored hat called the Panama hat was named after this country. However, Panama hats do not originally come from Panama. They were first made in Ecuador, in the town of Montecristi. The finest hats from Montecristi cost a lot of money because it takes skilled craftspeople several months to make each one."
+            }
+          ],
+          "question": "Why are fine Panama hats from Montecristi expensive?",
+          "choices": [
+            "People from Panama named their country after them.",
+            "They can keep people's heads warm during winter.",
+            "Each one takes a long time and special skills to make.",
+            "There are many colors to choose from."
+          ],
+          "explanation": "熟練した職人が1つ作るのに数ヶ月かかるからです。",
+          "highlights": [
+            "it takes skilled craftspeople several months to make each one"
+          ],
+          "choiceAnalysis": "選択肢1「国名の由来」→エクアドル製。選択肢2「冬に暖かい」→涼しく保つため。選択肢3「時間と技術が必要」→正解。選択肢4「色の種類が多い」→時間がかかる。",
+          "answer": 3,
+          "audioFile": "audio/part2_q20.mp3"
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Natalie goes to college and works part time at a bakery. Her final exams are starting soon, so she needs more time to study. She does not want to quit her job, so she talked to her manager about it. He recommended that she continue to work on weekends but stop working during the week. Natalie thought it was a good idea and took his advice."
+            }
+          ],
+          "question": "How did Natalie solve her problem?",
+          "choices": [
+            "By looking for another job.",
+            "By working less on weekends.",
+            "By buying less bread.",
+            "By talking to her manager."
+          ],
+          "explanation": "マネージャーに相談して、平日は働かず週末だけ働くことにしました。",
+          "highlights": [
+            "she talked to her manager about it",
+            "took his advice"
+          ],
+          "choiceAnalysis": "選択肢1「別の仕事」→マネージャーに相談。選択肢2「週末の勤務減」→平日をやめる。選択肢3「パンを買わない」→勤務調整。選択肢4「マネージャーに相談」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part2_q21.mp3"
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Mr. Ogawa has a two-year-old daughter called Shiho. His wife had stayed home to take care of Shiho, but last month, she started working again. She wanted to buy a car to take Shiho to day care. However, Mr. Ogawa suggested buying an electric bicycle instead because it would be easier to take care of and would take up less space than a car."
+            }
+          ],
+          "question": "What is one reason Mr. Ogawa recommended buying an electric bicycle?",
+          "choices": [
+            "It would be easier to sell than a car.",
+            "It would need less space than a car.",
+            "His wife wanted one to keep in her car.",
+            "His daughter liked it more than a car."
+          ],
+          "explanation": "車よりスペースを取らないからです。",
+          "highlights": [
+            "would take up less space than a car"
+          ],
+          "choiceAnalysis": "選択肢1「売りやすい」→スペース。選択肢2「車より場所を取らない」→正解。選択肢3「車に入れたい」→車の代わり。選択肢4「娘が好き」→スペースと管理。",
+          "answer": 2,
+          "audioFile": "audio/part2_q22.mp3"
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome to Silverton Books. There are some new computers in our Internet café on the third floor. Please feel free to come and try them out. Remember that every Silverton member who introduces a new member gets a $5 discount ticket. Also, we would like to remind you that the store now opens early on Saturdays, at 7:30 a.m., and closes at 5 p.m."
+            }
+          ],
+          "question": "How can Silverton Books members get a discount?",
+          "choices": [
+            "By coming to the store early.",
+            "By introducing a new member.",
+            "By using the new computers.",
+            "By buying some coffee."
+          ],
+          "explanation": "新しい会員を紹介すると5ドルの割引券がもらえます。",
+          "highlights": [
+            "every Silverton member who introduces a new member gets a $5 discount ticket"
+          ],
+          "choiceAnalysis": "選択肢1「早く来店」→会員紹介。選択肢2「新会員を紹介」→正解。選択肢3「PC使用」→会員紹介。選択肢4「コーヒーを買う」→会員紹介。",
+          "answer": 2,
+          "audioFile": "audio/part2_q23.mp3"
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Patricia is a busy lawyer with little free time. She feels stressed at work, and she is looking for a way to relax. She read an article about a woman who does yoga before work. Patricia thought she would have time to exercise for about 15 minutes every morning, so she ordered a yoga mat online to get started."
+            }
+          ],
+          "question": "Why does Patricia want to do yoga?",
+          "choices": [
+            "She got advice from a lawyer.",
+            "She was given a yoga mat by a friend.",
+            "She has been suffering from stress.",
+            "She plans to write an article about it."
+          ],
+          "explanation": "仕事でストレスを感じていて、リラックスする方法を探しています。",
+          "highlights": [
+            "She feels stressed at work",
+            "she is looking for a way to relax"
+          ],
+          "choiceAnalysis": "選択肢1「弁護士の助言」→自分が弁護士。選択肢2「友人からマット」→自分で注文。選択肢3「ストレスに悩んでいる」→正解。選択肢4「記事を書く」→記事を読んだ。",
+          "answer": 3,
+          "audioFile": "audio/part2_q24.mp3"
+        },
+        {
+          "number": 25,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In 1943, after the United States entered World War II, there were fights in Los Angeles, California, between soldiers and other young men. The fights started because the young men wore zoot suits. Zoot suits were like business suits, but they were loose and were made from a lot of cloth. The military needed cloth for uniforms, so the soldiers thought that zoot suits were a waste of material."
+            }
+          ],
+          "question": "Why were there fights in Los Angeles?",
+          "choices": [
+            "The soldiers thought zoot suits used too much material.",
+            "The military used zoot suits when flying in airplanes.",
+            "The young men did not want to work in suit stores.",
+            "The businessmen could no longer wear suits."
+          ],
+          "explanation": "兵士たちはズートスーツが布の無駄遣いだと考えていました。",
+          "highlights": [
+            "the soldiers thought that zoot suits were a waste of material"
+          ],
+          "choiceAnalysis": "選択肢1「ズートスーツが素材を使いすぎ」→正解。選択肢2「軍がズートスーツ使用」→若者が着用。選択肢3「スーツ店で働きたくない」→素材の問題。選択肢4「スーツが着られない」→素材の問題。",
+          "answer": 1,
+          "audioFile": "audio/part2_q25.mp3"
+        },
+        {
+          "number": 26,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Maki is a first-year high school student from Japan and she has decided to study abroad. She saw some online videos of students having a lot of fun in high schools in the United States. Her teacher said it would be better for her to graduate before she goes abroad, but Maki wanted to have the same experience as the ones she saw on the Internet."
+            }
+          ],
+          "question": "Why did Maki decide to study abroad?",
+          "choices": [
+            "There was an advertisement at her school.",
+            "A teacher told her about a course.",
+            "She wanted to experience high school life overseas.",
+            "Her classmates said it would be fun."
+          ],
+          "explanation": "アメリカの高校で楽しそうにしている動画を見て、同じ経験がしたいと思ったからです。",
+          "highlights": [
+            "Maki wanted to have the same experience as the ones she saw on the Internet"
+          ],
+          "choiceAnalysis": "選択肢1「学校の広告」→動画を見た。選択肢2「先生が教えた」→先生は反対。選択肢3「海外の高校生活を体験したい」→正解。選択肢4「クラスメートの勧め」→動画を見た。",
+          "answer": 3,
+          "audioFile": "audio/part2_q26.mp3"
+        },
+        {
+          "number": 27,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In Guam, there is a traditional drink called tuba. To get tuba, a farmer climbs a coconut tree and then cuts open a part of the tree. After a while, tuba comes out. Tuba is sometimes called the \"water of life\" because it is an important part of the culture of Guam. It can also be used to make alcoholic drinks. In fact, tuba is a popular drink at parties and festivals in Guam."
+            }
+          ],
+          "question": "How do farmers in Guam get tuba?",
+          "choices": [
+            "They trade alcoholic drinks for it.",
+            "They cut open a part of a tree.",
+            "They buy it at stores in cities.",
+            "They mix coconut leaves with water."
+          ],
+          "explanation": "ココヤシの木に登り、木の一部を切り開いて採取します。",
+          "highlights": [
+            "climbs a coconut tree and then cuts open a part of the tree"
+          ],
+          "choiceAnalysis": "選択肢1「酒と交換」→木から採取。選択肢2「木の一部を切り開く」→正解。選択肢3「店で買う」→自分で採取。選択肢4「葉と水を混ぜる」→木を切る。",
+          "answer": 2,
+          "audioFile": "audio/part2_q27.mp3"
+        },
+        {
+          "number": 28,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome to tonight's performance of Swan Lake. The ballet will be in four parts, and the main role will be played by Wakako Takizawa. There will be a 20-minute break after the second part. Flowers can be given to the dancers in the lobby after the performance. Please do not take any food or drinks with you to your seats. We hope you enjoy the performance."
+            }
+          ],
+          "question": "What can people do after the performance?",
+          "choices": [
+            "Join a party in the lobby.",
+            "Enjoy free food and drinks.",
+            "Present flowers to dancers.",
+            "Hear a 20-minute talk about ballet."
+          ],
+          "explanation": "公演後にロビーでダンサーに花を渡すことができます。",
+          "highlights": [
+            "Flowers can be given to the dancers in the lobby after the performance"
+          ],
+          "choiceAnalysis": "選択肢1「ロビーのパーティー」→花を渡す。選択肢2「無料の飲食」→持ち込み禁止。選択肢3「ダンサーに花を贈る」→正解。選択肢4「20分のトーク」→20分休憩。",
+          "answer": 3,
+          "audioFile": "audio/part2_q28.mp3"
+        },
+        {
+          "number": 29,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Nicole wants to make it easier to cook in her small kitchen. There is a large cabinet next to the fridge. Nicole plans to take it out so that she can have more space to move around in when she cooks. She has asked her brother to help her remove it because he is big and strong enough to carry it."
+            }
+          ],
+          "question": "How does Nicole plan to change her kitchen?",
+          "choices": [
+            "She will paint the walls.",
+            "She will remove a cabinet.",
+            "She will move the fridge.",
+            "She will get a bigger oven."
+          ],
+          "explanation": "冷蔵庫の隣の大きな棚を取り除く予定です。",
+          "highlights": [
+            "Nicole plans to take it out"
+          ],
+          "choiceAnalysis": "選択肢1「壁を塗る」→棚を除去。選択肢2「棚を取り除く」→正解。選択肢3「冷蔵庫を移動」→棚を除去。選択肢4「大きなオーブン」→スペースを作る。",
+          "answer": 2,
+          "audioFile": "audio/part2_q29.mp3"
+        },
+        {
+          "number": 30,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Your attention, please. One of our staff members has found a bag near Entrance B2. It can be collected at the main office on the first floor. If you have lost a bag, please come to the main office. We would like to remind passengers to keep an eye on their baggage at all times. Please do not leave baggage behind on the platform."
+            }
+          ],
+          "question": "Why is this announcement being made?",
+          "choices": [
+            "The station opened a new platform.",
+            "Entrance B2 is closed for repairs.",
+            "A bag has been found by a staff member.",
+            "The first floor is being cleaned."
+          ],
+          "explanation": "スタッフがB2入口付近でカバンを見つけたことを伝えています。",
+          "highlights": [
+            "One of our staff members has found a bag near Entrance B2"
+          ],
+          "choiceAnalysis": "選択肢1「新しいホーム」→落し物。選択肢2「B2閉鎖」→落し物。選択肢3「スタッフがカバンを発見」→正解。選択肢4「1階清掃」→落し物。",
+          "answer": 3,
+          "audioFile": "audio/part2_q30.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "title": "2021年度 第2回検定一次試験 英検2級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 15",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello. I've just arrived on Starfish Island, and I'd like some information about your scuba-diving tours."
+            },
+            {
+              "speaker": "male",
+              "text": "Welcome to the island. We offer tours of several different diving spots. Do you have a scuba-diving license?"
+            },
+            {
+              "speaker": "female",
+              "text": "A license? I didn't know I needed one. I'm only staying on the island for one week."
+            },
+            {
+              "speaker": "male",
+              "text": "That's OK. You should take our beginners' course. You'll be able to get your license in two days."
+            }
+          ],
+          "question": "What does the man suggest the woman do?",
+          "choices": [
+            "Cancel her scuba-diving tour.",
+            "Take a scuba-diving course.",
+            "Find a new spot to go diving.",
+            "Travel to Starfish Island."
+          ],
+          "explanation": "初心者コースを受ければ2日でライセンスが取れると提案しています。",
+          "highlights": [
+            "You should take our beginners' course"
+          ],
+          "choiceAnalysis": "選択肢1「ツアーをキャンセル」→コースを受ける。選択肢2「ダイビングコースを受ける」→正解。選択肢3「新しいスポット」→コース。選択肢4「島に旅行」→もう到着。",
+          "answer": 2,
+          "audioFile": "audio/part1_q01.mp3"
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello."
+            },
+            {
+              "speaker": "male",
+              "text": "Hi, honey. I'm missing a folder that had some important documents in it. Have you seen it?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes. It's right here on the kitchen table."
+            },
+            {
+              "speaker": "male",
+              "text": "Thank goodness. I was worried I had left it on the train. Could you possibly bring it to me at my office? I need it for a meeting this afternoon."
+            },
+            {
+              "speaker": "female",
+              "text": "Sure. I'm going downtown for lunch anyway. I'll take it to you then."
+            }
+          ],
+          "question": "What do we learn about the man?",
+          "choices": [
+            "He left something at home.",
+            "He missed his train.",
+            "He was late for work.",
+            "He had to cancel a meeting."
+          ],
+          "explanation": "重要な書類の入ったフォルダを家に忘れました。",
+          "highlights": [
+            "I'm missing a folder",
+            "It's right here on the kitchen table"
+          ],
+          "choiceAnalysis": "選択肢1「家に忘れ物」→正解。選択肢2「電車を逃した」→電車に忘れたかと心配。選択肢3「遅刻」→書類を忘れた。選択肢4「会議キャンセル」→午後の会議に必要。",
+          "answer": 1,
+          "audioFile": "audio/part1_q02.mp3"
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me. I'm interested in getting some tropical fish."
+            },
+            {
+              "speaker": "male",
+              "text": "Sure, ma'am. Is there any kind that you're interested in?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, honestly, I don't know anything about fish. I'd like to get some that are easy to take care of, though."
+            },
+            {
+              "speaker": "male",
+              "text": "How about these? They're from Brazil. Not only are they pretty, but they're also quite easy to look after."
+            }
+          ],
+          "question": "What is the woman interested in doing?",
+          "choices": [
+            "Learning about Brazil.",
+            "Buying tropical fish.",
+            "Going on a fishing trip.",
+            "Working in a fish market."
+          ],
+          "explanation": "熱帯魚を飼うことに興味があります。",
+          "highlights": [
+            "I'm interested in getting some tropical fish"
+          ],
+          "choiceAnalysis": "選択肢1「ブラジルについて学ぶ」→熱帯魚。選択肢2「熱帯魚を買う」→正解。選択肢3「釣り旅行」→飼う。選択肢4「魚市場で働く」→飼う。",
+          "answer": 2,
+          "audioFile": "audio/part1_q03.mp3"
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me. What time will this plane land in Tokyo?"
+            },
+            {
+              "speaker": "male",
+              "text": "Around 3 p.m., Japan time. We're about 30 minutes ahead of schedule because of the wind."
+            },
+            {
+              "speaker": "female",
+              "text": "I see. My watch is still set to New York time. What's the time in Japan now?"
+            },
+            {
+              "speaker": "male",
+              "text": "Let me see. It's one o'clock. We should be arriving in about two hours."
+            }
+          ],
+          "question": "What is one thing we learn about the woman's flight?",
+          "choices": [
+            "It is going to New York.",
+            "It is only one hour long.",
+            "It will arrive in 30 minutes.",
+            "It will probably arrive early."
+          ],
+          "explanation": "風のおかげで予定より30分早く到着する見込みです。",
+          "highlights": [
+            "We're about 30 minutes ahead of schedule"
+          ],
+          "choiceAnalysis": "選択肢1「NY行き」→東京行き。選択肢2「1時間」→2時間後到着。選択肢3「30分で到着」→30分早い。選択肢4「早く到着しそう」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q04.mp3"
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Carrie, didn't you have a baby just three months ago? How come you're back at work so soon?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I really like my job, and I want to keep working. Besides, I'm only working part time now."
+            },
+            {
+              "speaker": "male",
+              "text": "Isn't it expensive to pay someone to watch the baby for you?"
+            },
+            {
+              "speaker": "female",
+              "text": "Actually, my parents live nearby. They're helping to look after the baby while I'm at work."
+            }
+          ],
+          "question": "What is one thing the woman says?",
+          "choices": [
+            "She brings her baby to the office.",
+            "She wants to continue working.",
+            "She wants to work full-time.",
+            "She lives with her parents."
+          ],
+          "explanation": "仕事が好きで働き続けたいと言っています。",
+          "highlights": [
+            "I really like my job, and I want to keep working"
+          ],
+          "choiceAnalysis": "選択肢1「赤ちゃんを連れてくる」→両親が世話。選択肢2「働き続けたい」→正解。選択肢3「フルタイム」→パートタイム。選択肢4「両親と同居」→近くに住んでいる。",
+          "answer": 2,
+          "audioFile": "audio/part1_q05.mp3"
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Welcome to Seaside Bank. Can I help you?"
+            },
+            {
+              "speaker": "male",
+              "text": "Hi. I'm an exchange student here for a year, and I'd like to open an account at your bank. What do I need to do?"
+            },
+            {
+              "speaker": "female",
+              "text": "You'll need to bring in your passport and some money to put into the account."
+            },
+            {
+              "speaker": "male",
+              "text": "OK, great. I'll have to go home to get my passport, but I'll come back and do it this afternoon."
+            }
+          ],
+          "question": "What is the man going to do this afternoon?",
+          "choices": [
+            "Open a bank account.",
+            "Exchange some money.",
+            "Send some money overseas.",
+            "Get a new passport."
+          ],
+          "explanation": "パスポートを取りに帰って、午後に口座を開設しに戻ってきます。",
+          "highlights": [
+            "I'd like to open an account",
+            "I'll come back and do it this afternoon"
+          ],
+          "choiceAnalysis": "選択肢1「銀行口座を開設」→正解。選択肢2「両替」→口座開設。選択肢3「海外送金」→口座開設。選択肢4「パスポート取得」→取りに帰る。",
+          "answer": 1,
+          "audioFile": "audio/part1_q06.mp3"
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Why the big smile, Jack? Most people don't look happy when they come out of the boss's office."
+            },
+            {
+              "speaker": "male",
+              "text": "I just got a promotion! The company is creating a new sales department, and I've been asked to be the manager of it."
+            },
+            {
+              "speaker": "female",
+              "text": "Wow! That's wonderful news. Congratulations. We'll have to go out to lunch to celebrate."
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks a lot, Cindy. Lunch sounds great."
+            }
+          ],
+          "question": "Why is the man happy?",
+          "choices": [
+            "His co-worker is having a birthday.",
+            "His boss will buy him lunch.",
+            "He has just been promoted.",
+            "He will be sent to a new city."
+          ],
+          "explanation": "昇進して新しい営業部のマネージャーになりました。",
+          "highlights": [
+            "I just got a promotion"
+          ],
+          "choiceAnalysis": "選択肢1「同僚の誕生日」→昇進。選択肢2「上司がランチ」→同僚と祝う。選択肢3「昇進した」→正解。選択肢4「新しい都市」→新部署のマネージャー。",
+          "answer": 3,
+          "audioFile": "audio/part1_q07.mp3"
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "What are you doing with all of these stamps, John? Are you writing letters or something?"
+            },
+            {
+              "speaker": "male",
+              "text": "No. These are actually from my grandfather's stamp collection. I'm thinking of trying stamp collecting as a hobby."
+            },
+            {
+              "speaker": "female",
+              "text": "Are any of them really old?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah. This one is over 100 years old. It's from England."
+            }
+          ],
+          "question": "What do we learn about the boy?",
+          "choices": [
+            "He has collected stamps for a long time.",
+            "He has some letters to mail.",
+            "He may start a new hobby.",
+            "He will go to England soon."
+          ],
+          "explanation": "切手収集を趣味として始めようかと考えています。",
+          "highlights": [
+            "I'm thinking of trying stamp collecting as a hobby"
+          ],
+          "choiceAnalysis": "選択肢1「長年収集」→始めようとしている。選択肢2「手紙を出す」→切手収集。選択肢3「新しい趣味を始めるかも」→正解。選択肢4「イギリスに行く」→イギリスの切手。",
+          "answer": 3,
+          "audioFile": "audio/part1_q08.mp3"
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Honey, we always eat the same things. We should start eating different foods."
+            },
+            {
+              "speaker": "male",
+              "text": "But I love your cooking, dear. And what's wrong with meat and potatoes? It's what everyone has for dinner."
+            },
+            {
+              "speaker": "female",
+              "text": "Maybe 50 years ago, Don. Come on, it'll be fun. Plus, you never know, you might like other foods."
+            },
+            {
+              "speaker": "male",
+              "text": "You're right. I guess we could try that little Thai café down the street."
+            }
+          ],
+          "question": "What does the woman say to the man?",
+          "choices": [
+            "They should try eating something new.",
+            "They should cook Thai food for dinner.",
+            "Meat and potatoes is her favorite meal.",
+            "Her husband should help out in the kitchen."
+          ],
+          "explanation": "いつも同じものを食べているから、違うものを食べるべきだと言っています。",
+          "highlights": [
+            "We should start eating different foods"
+          ],
+          "choiceAnalysis": "選択肢1「新しいものを試すべき」→正解。選択肢2「タイ料理を作る」→外食。選択肢3「肉とポテトが好き」→違うものを食べたい。選択肢4「夫が料理」→違う食べ物。",
+          "answer": 1,
+          "audioFile": "audio/part1_q09.mp3"
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Welcome to Getaway Travel. May I help you?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. I signed up for a tour to Vietnam with your travel agency last week. I was told I have to get a visa, but I forgot what I need for that."
+            },
+            {
+              "speaker": "female",
+              "text": "Take your passport, a copy of your plane ticket, and one photo to the Vietnamese embassy. There is a $30 fee."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. Thank you very much."
+            }
+          ],
+          "question": "What does the man need to do?",
+          "choices": [
+            "Pay for his tour.",
+            "Get a visa.",
+            "Go to a travel agency.",
+            "Apply for a passport."
+          ],
+          "explanation": "ベトナムのビザを取得する必要があります。",
+          "highlights": [
+            "I have to get a visa"
+          ],
+          "choiceAnalysis": "選択肢1「ツアー代支払い」→ビザ取得。選択肢2「ビザを取る」→正解。選択肢3「旅行代理店に行く」→今いる。選択肢4「パスポート申請」→すでに持っている。",
+          "answer": 2,
+          "audioFile": "audio/part1_q10.mp3"
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hello?"
+            },
+            {
+              "speaker": "female",
+              "text": "Hi, Charlie. This is Jennifer. Do you have today's Daily Post newspaper at your house?"
+            },
+            {
+              "speaker": "male",
+              "text": "No. My family doesn't have a newspaper delivered. I read the news on the Internet. Why?"
+            },
+            {
+              "speaker": "female",
+              "text": "I heard it has an article about choosing a college. I want to read it."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, you could go to the library. They have all of the local newspapers."
+            }
+          ],
+          "question": "What does the boy suggest that the girl do?",
+          "choices": [
+            "Write about choosing a college.",
+            "Start getting the newspaper.",
+            "Check the news on the Internet.",
+            "Read the article at the library."
+          ],
+          "explanation": "図書館に行けば地元の新聞が全部あると提案しています。",
+          "highlights": [
+            "you could go to the library"
+          ],
+          "choiceAnalysis": "選択肢1「記事を書く」→読みたい。選択肢2「新聞を取る」→図書館。選択肢3「ネットで確認」→図書館。選択肢4「図書館で記事を読む」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q11.mp3"
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Bill. I just got back from my trip. Did you water my plants while I was gone?"
+            },
+            {
+              "speaker": "male",
+              "text": "Welcome back, Angie. Well, actually, I've been so busy with work that I forgot to do it. Are they OK?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, one plant died. The rest are still alive."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm really sorry. Let me buy you a new plant."
+            }
+          ],
+          "question": "What did Bill forget to do?",
+          "choices": [
+            "Buy Angie a new plant.",
+            "Water Angie's plants.",
+            "Call Angie at work.",
+            "Pick Angie up at the airport."
+          ],
+          "explanation": "Angieの旅行中に植物に水をやるのを忘れました。",
+          "highlights": [
+            "I forgot to do it"
+          ],
+          "choiceAnalysis": "選択肢1「新しい植物」→お詫びに買う。選択肢2「植物に水やり」→正解。選択肢3「電話」→水やり。選択肢4「空港に迎え」→水やり。",
+          "answer": 2,
+          "audioFile": "audio/part1_q12.mp3"
+        },
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Fezzaro's Pizzeria."
+            },
+            {
+              "speaker": "male",
+              "text": "Hello, my name's Fred Dawson. I ordered a cheese pizza about 30 minutes ago. Is it too late to cancel?"
+            },
+            {
+              "speaker": "female",
+              "text": "Actually, the driver has left with your pizza already."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh no. Do you know when it will arrive? I have some unexpected business to attend to, and I have to leave in a minute."
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, sir. It should be at your home soon."
+            }
+          ],
+          "question": "What do we learn about the man?",
+          "choices": [
+            "He does not like cheese.",
+            "He is often away from home.",
+            "He needs to go somewhere.",
+            "He wants to order another pizza."
+          ],
+          "explanation": "急な用事ができてすぐに出かけないといけません。",
+          "highlights": [
+            "I have some unexpected business to attend to",
+            "I have to leave in a minute"
+          ],
+          "choiceAnalysis": "選択肢1「チーズが嫌い」→キャンセル理由は外出。選択肢2「よく外出」→急な用事。選択肢3「どこかに行く必要がある」→正解。選択肢4「もう1枚注文」→キャンセルしたい。",
+          "answer": 3,
+          "audioFile": "audio/part1_q13.mp3"
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Honey, I know you wanted to try this noodle shop, but look at all the people waiting! The line is out the door."
+            },
+            {
+              "speaker": "male",
+              "text": "That's because the food is so good here. My friend said it's the best in Tokyo."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I'm hungry. Let's go somewhere else. I don't feel like standing in line for an hour until we can eat."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, don't worry. The line will move quickly."
+            }
+          ],
+          "question": "Why does the woman suggest eating somewhere else?",
+          "choices": [
+            "She does not want to wait.",
+            "She does not like noodles.",
+            "She does not feel very hungry.",
+            "She does not have enough money."
+          ],
+          "explanation": "1時間も並びたくないので別の場所を提案しています。",
+          "highlights": [
+            "I don't feel like standing in line for an hour"
+          ],
+          "choiceAnalysis": "選択肢1「待ちたくない」→正解。選択肢2「麺が嫌い」→お腹が空いている。選択肢3「あまり空いていない」→お腹が空いている。選択肢4「お金が足りない」→行列。",
+          "answer": 1,
+          "audioFile": "audio/part1_q14.mp3"
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Oh, you didn't drive to work today, Greg?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, I didn't. I've been taking the bus lately."
+            },
+            {
+              "speaker": "female",
+              "text": "Why? What's wrong with your car?"
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, my car is fine. It's just that gas prices are so high that it's cheaper for me to take the bus."
+            }
+          ],
+          "question": "Why has the man been taking the bus?",
+          "choices": [
+            "A new bus station was built near his home.",
+            "Something is wrong with his car.",
+            "The buses are always on time.",
+            "It costs less than driving."
+          ],
+          "explanation": "ガソリン代が高いのでバスの方が安いからです。",
+          "highlights": [
+            "gas prices are so high that it's cheaper for me to take the bus"
+          ],
+          "choiceAnalysis": "選択肢1「新しいバス停」→ガソリン代。選択肢2「車の故障」→車は大丈夫。選択肢3「バスが時間通り」→安い。選択肢4「運転より安い」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part1_q15.mp3"
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 16 〜 No. 30",
+      "questions": [
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Walter hurt his left foot while he was climbing a mountain last week. He went to the doctor, and she told him that he should take it easy for two weeks. She said that running or walking a long way would not be good for his foot. He wanted to stay active, so he asked the doctor if he could swim at the gym once a week, and she said that it would be fine."
+            }
+          ],
+          "question": "What is Walter probably going to do once a week?",
+          "choices": [
+            "See a doctor.",
+            "Go for a long walk.",
+            "Use the pool at the gym.",
+            "Climb a mountain."
+          ],
+          "explanation": "週に1回ジムのプールで泳ぐ許可をもらいました。",
+          "highlights": [
+            "he asked the doctor if he could swim at the gym once a week, and she said that it would be fine"
+          ],
+          "choiceAnalysis": "選択肢1「医者に行く」→泳ぐ。選択肢2「長い散歩」→足に悪い。選択肢3「ジムのプール」→正解。選択肢4「登山」→足を怪我。",
+          "answer": 3,
+          "audioFile": "audio/part2_q16.mp3"
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In India, there is a city called Jaipur. It is famous for its many pink buildings. In 1876, an important guest, the Prince of Wales, visited Jaipur, and to welcome him, the gate of the city was painted pink. Jaipur's pink gate is one of the main attractions for tourists who travel around India. Many of them like to take pictures of it and to post them online."
+            }
+          ],
+          "question": "Why was the gate of the city of Jaipur painted pink?",
+          "choices": [
+            "To show the main color of the city's flag.",
+            "To welcome an important guest to the city.",
+            "Because the builders of the gate liked the color.",
+            "Because it matches flowers that grow around the city."
+          ],
+          "explanation": "重要なゲスト（ウェールズ公）を歓迎するためにピンクに塗られました。",
+          "highlights": [
+            "to welcome him, the gate of the city was painted pink"
+          ],
+          "choiceAnalysis": "選択肢1「市旗の色」→歓迎のため。選択肢2「重要なゲストを歓迎」→正解。選択肢3「色が好き」→歓迎のため。選択肢4「花に合わせて」→歓迎のため。",
+          "answer": 2,
+          "audioFile": "audio/part2_q17.mp3"
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Attention, passengers. The last bus to North Hope City will arrive in five minutes as scheduled. Exit No. 3 of this bus station will close soon, at 11:30 p.m., so please use one of the other two exits. Passengers with small children, please be careful of buses coming into and going out of the station."
+            }
+          ],
+          "question": "What is one reason that this announcement is being made?",
+          "choices": [
+            "A bus will arrive late.",
+            "An exit will be closed soon.",
+            "There has been an accident.",
+            "To give directions to get to a station."
+          ],
+          "explanation": "出口No.3がまもなく閉まることを知らせています。",
+          "highlights": [
+            "Exit No. 3 of this bus station will close soon"
+          ],
+          "choiceAnalysis": "選択肢1「バスが遅れる」→予定通り。選択肢2「出口が閉まる」→正解。選択肢3「事故」→言及なし。選択肢4「道案内」→出口閉鎖。",
+          "answer": 2,
+          "audioFile": "audio/part2_q18.mp3"
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Marisa lost the key to her apartment on her way home from work yesterday. Luckily, she remembered that she had given her father a spare key when she moved in. She called him and asked him if he could come and open her door for her. He was not happy because he had to drive over an hour to get to her apartment."
+            }
+          ],
+          "question": "Why did Marisa call her father?",
+          "choices": [
+            "She wanted to thank him for his help.",
+            "She lost her wallet on her way home.",
+            "She needed him to open her door.",
+            "She had to tell him about her move."
+          ],
+          "explanation": "鍵をなくしたので、スペアキーを持つ父にドアを開けてもらうためです。",
+          "highlights": [
+            "asked him if he could come and open her door for her"
+          ],
+          "choiceAnalysis": "選択肢1「お礼」→ドアを開けてもらう。選択肢2「財布をなくした」→鍵をなくした。選択肢3「ドアを開けてもらう」→正解。選択肢4「引っ越しを伝える」→ドアを開ける。",
+          "answer": 3,
+          "audioFile": "audio/part2_q19.mp3"
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In 2020, an airplane called the Super Scooper was built in Canada. Pilots could use the plane to pick up water from lakes and then drop the water on fires to put them out. The Super Scooper was considered special because although it was a big plane, it could change direction very quickly in the air. As a result, it could fight fires in dangerous places, such as mountains, where other big planes could not fly."
+            }
+          ],
+          "question": "Why was the Super Scooper considered special?",
+          "choices": [
+            "It could turn quickly in the air.",
+            "It could pull big planes in the air.",
+            "It did not need gasoline to fly.",
+            "It did not need a pilot to fly."
+          ],
+          "explanation": "大型機でありながら空中で素早く方向転換できたからです。",
+          "highlights": [
+            "it could change direction very quickly in the air"
+          ],
+          "choiceAnalysis": "選択肢1「空中で素早く方向転換」→正解。選択肢2「大型機を引く」→方向転換。選択肢3「燃料不要」→方向転換。選択肢4「パイロット不要」→方向転換。",
+          "answer": 1,
+          "audioFile": "audio/part2_q20.mp3"
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Victor is a salesperson and he often meets customers in their offices to introduce new products. Last week, on his way to a customer, he realized that his smartphone had no more battery power. He needed to call one of his co-workers to let her know about the time of their meeting, so he had to buy a battery charger at a convenience store. It was expensive, so Victor was not happy."
+            }
+          ],
+          "question": "How did Victor solve his problem?",
+          "choices": [
+            "He borrowed a smartphone.",
+            "He bought a battery charger.",
+            "He took a taxi to his office.",
+            "He called his customer."
+          ],
+          "explanation": "コンビニでバッテリー充電器を買いました。",
+          "highlights": [
+            "he had to buy a battery charger at a convenience store"
+          ],
+          "choiceAnalysis": "選択肢1「スマホを借りた」→充電器を買った。選択肢2「充電器を買った」→正解。選択肢3「タクシー」→充電器。選択肢4「客に電話」→同僚に電話。",
+          "answer": 2,
+          "audioFile": "audio/part2_q21.mp3"
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Many young children like to play with dolls and they often put their dolls in small dollhouses. Some dollhouses look very realistic. One of the most famous dollhouses in the world is called the Astolat Dollhouse Castle. It was made by a group of artists and has realistic decorations as well as a tiny grand piano. Although each room is about the size of a person's head, the furniture inside looks real."
+            }
+          ],
+          "question": "What is one thing we learn about the Astolat Dollhouse Castle?",
+          "choices": [
+            "It was made by a group of artists.",
+            "It is a model of a famous artist's home.",
+            "It has a grand piano in every room.",
+            "It can be lived in by children."
+          ],
+          "explanation": "アーティストのグループによって作られました。",
+          "highlights": [
+            "It was made by a group of artists"
+          ],
+          "choiceAnalysis": "選択肢1「アーティスト集団が作った」→正解。選択肢2「芸術家の家のモデル」→ドールハウス。選択肢3「各部屋にピアノ」→小さなピアノが1つ。選択肢4「子供が住める」→ドールハウス。",
+          "answer": 1,
+          "audioFile": "audio/part2_q22.mp3"
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Nolan has three young daughters, and he wants them to go to university someday. He went to a bank to get some information about long-term savings plans. He decided to open a special account and to save 10 percent of his salary automatically each month. He is not sure if there will be enough money when his daughters finish high school, but he thinks it is a good start."
+            }
+          ],
+          "question": "What did Nolan decide to do?",
+          "choices": [
+            "Borrow money from a bank.",
+            "Open a special savings account.",
+            "Help his daughters find a university.",
+            "Get information about starting a business."
+          ],
+          "explanation": "娘たちの大学資金のために特別な貯蓄口座を開設しました。",
+          "highlights": [
+            "He decided to open a special account"
+          ],
+          "choiceAnalysis": "選択肢1「銀行から借りる」→貯蓄。選択肢2「特別な貯蓄口座を開設」→正解。選択肢3「大学探し」→貯蓄。選択肢4「起業情報」→貯蓄。",
+          "answer": 2,
+          "audioFile": "audio/part2_q23.mp3"
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Rosanna and her friends had plans to go to a French restaurant for dinner on Friday night. However, both of her friends called on Wednesday and told her that they would not be able to join her. Rosanna canceled the reservation and now she plans to order a pizza for dinner and enjoy some online movies at home."
+            }
+          ],
+          "question": "How does Rosanna plan to spend Friday night?",
+          "choices": [
+            "She is going to make a French dish at home.",
+            "She is going to see a movie at a theater.",
+            "She is going to eat dinner at a restaurant.",
+            "She is going to order pizza and watch movies."
+          ],
+          "explanation": "ピザを注文して家でオンライン映画を楽しむ予定です。",
+          "highlights": [
+            "she plans to order a pizza for dinner and enjoy some online movies at home"
+          ],
+          "choiceAnalysis": "選択肢1「フランス料理を作る」→ピザ注文。選択肢2「映画館」→家でオンライン。選択肢3「レストラン」→キャンセルした。選択肢4「ピザと映画」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part2_q24.mp3"
+        },
+        {
+          "number": 25,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Kelly is a college student and she is looking for a part-time job. Although her professors give her a lot of homework, she has some free time on Sundays. A friend sent a message to her smartphone about a new café that is looking for someone to work on Sunday mornings. Kelly plans to talk to the manager of the café this weekend."
+            }
+          ],
+          "question": "How did Kelly find out about the part-time job?",
+          "choices": [
+            "She got a message about it from a friend.",
+            "She saw information about it at a café.",
+            "She heard about it from one of her professors.",
+            "She read about it at college."
+          ],
+          "explanation": "友人がスマホにメッセージを送ってくれました。",
+          "highlights": [
+            "A friend sent a message to her smartphone"
+          ],
+          "choiceAnalysis": "選択肢1「友人からのメッセージ」→正解。選択肢2「カフェで情報」→友人のメッセージ。選択肢3「教授から」→友人。選択肢4「大学で読んだ」→友人。",
+          "answer": 1,
+          "audioFile": "audio/part2_q25.mp3"
+        },
+        {
+          "number": 26,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Tony loves gardening, but he finds it difficult to make the grass grow under a big tree in his garden. His neighbor, Ms. Smith, gave him some advice. She said that he should cut some of the tree's branches to make it smaller. That way, more sunlight would reach the grass. Tony has decided to try it, and he will go to the gardening store this weekend to look for cutting equipment."
+            }
+          ],
+          "question": "What advice did Tony's neighbor give him?",
+          "choices": [
+            "To water his garden every weekend.",
+            "To grow some small flowers.",
+            "To remove some parts of a tree.",
+            "To plant more grass under a tree."
+          ],
+          "explanation": "木の枝を切って小さくすれば芝生に日光が当たると助言しました。",
+          "highlights": [
+            "he should cut some of the tree's branches to make it smaller"
+          ],
+          "choiceAnalysis": "選択肢1「毎週水やり」→枝を切る。選択肢2「小さな花」→枝を切る。選択肢3「木の一部を取り除く」→正解。選択肢4「芝生を植える」→枝を切る。",
+          "answer": 3,
+          "audioFile": "audio/part2_q26.mp3"
+        },
+        {
+          "number": 27,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Buttons are very useful because they keep shirts closed and keep pants from falling down. However, researchers say that the first buttons had different uses. The oldest buttons are around 5,000 years old. They were made from animal shells and were very pretty, so they were probably used as decorations on clothes. Buttonholes that were strong enough to keep buttons from slipping out were invented much later, in the 13th century."
+            }
+          ],
+          "question": "How were the first buttons probably used?",
+          "choices": [
+            "To keep shirts closed.",
+            "To keep pants from falling down.",
+            "As toys for animals.",
+            "As decorations for clothes."
+          ],
+          "explanation": "最初のボタンは服の装飾として使われていました。",
+          "highlights": [
+            "they were probably used as decorations on clothes"
+          ],
+          "choiceAnalysis": "選択肢1「シャツを閉じる」→装飾。選択肢2「ズボンを止める」→装飾。選択肢3「動物のおもちゃ」→装飾。選択肢4「服の装飾」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part2_q27.mp3"
+        },
+        {
+          "number": 28,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Here at Bundy Supermarket, we have the best prices on everyday items for your home. Apply now for a Bundy membership card and get 10 percent off the next time you shop at our store. Also, for this month only, we are giving away some free gifts. Take a ticket with a number at the exit, and if your number is chosen, you could win a set of six imported wine glasses."
+            }
+          ],
+          "question": "How can customers get a 10 percent discount?",
+          "choices": [
+            "By shopping at the supermarket every month.",
+            "By buying a set of wine glasses.",
+            "By signing up for a membership card.",
+            "By spending more than $60 at the store."
+          ],
+          "explanation": "会員カードに申し込めば10%割引が受けられます。",
+          "highlights": [
+            "Apply now for a Bundy membership card and get 10 percent off"
+          ],
+          "choiceAnalysis": "選択肢1「毎月買い物」→会員カード。選択肢2「ワイングラス」→景品。選択肢3「会員カードに申し込む」→正解。選択肢4「60ドル以上」→会員カード。",
+          "answer": 3,
+          "audioFile": "audio/part2_q28.mp3"
+        },
+        {
+          "number": 29,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Rie's grandfather lives outside the city, and she often helps him around the house. Yesterday, while she was helping him with his laundry, she noticed that he looked tired. She asked him why, and he said that he had walked for 45 minutes to a store to buy vegetables for dinner. Rie plans to show him how to use the Internet to order things and have them delivered to his home instead."
+            }
+          ],
+          "question": "How does Rie plan to help her grandfather?",
+          "choices": [
+            "By doing his laundry every week.",
+            "By showing him how to order things online.",
+            "By cleaning his house when he is tired.",
+            "By cooking for him at her home."
+          ],
+          "explanation": "インターネットで注文して配達してもらう方法を教える予定です。",
+          "highlights": [
+            "Rie plans to show him how to use the Internet to order things"
+          ],
+          "choiceAnalysis": "選択肢1「洗濯」→ネット注文。選択肢2「ネット注文の方法を教える」→正解。選択肢3「掃除」→ネット注文。選択肢4「料理」→ネット注文。",
+          "answer": 2,
+          "audioFile": "audio/part2_q29.mp3"
+        },
+        {
+          "number": 30,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "You're listening to WVXT Radio, and here is tomorrow's weather forecast. It will be cold and rainy tonight, but tomorrow morning will be much warmer. In fact, weather stations forecast that the temperature will rise more than 15 degrees. It will be much warmer than expected. There will be some clouds, but no rain. The rest of the week will also be cloudy, with skies clearing around Friday for a sunny weekend."
+            }
+          ],
+          "question": "How will the weather be tomorrow morning?",
+          "choices": [
+            "It will be more windy than usual.",
+            "It will be cold and rainy.",
+            "It will be sunny with clear skies.",
+            "It will be warmer than expected."
+          ],
+          "explanation": "予想よりもずっと暖かくなります。",
+          "highlights": [
+            "It will be much warmer than expected"
+          ],
+          "choiceAnalysis": "選択肢1「風が強い」→暖かい。選択肢2「寒くて雨」→今夜の天気。選択肢3「晴れ」→曇りだが雨なし。選択肢4「予想より暖かい」→正解。",
+          "answer": 4,
+          "audioFile": "audio/part2_q30.mp3"
+        }
+      ]
+    }
+  ]
+}
