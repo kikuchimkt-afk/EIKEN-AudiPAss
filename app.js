@@ -316,12 +316,16 @@
 
     const preview = document.createElement('div');
     preview.className = 'question-preview';
+    const currentPart = EIKEN_DATA.parts[currentPartIndex];
+    const isSpokenChoices = currentPart.partType === 'spoken-choices';
     if (isAnswered) {
       const resultIcon = answered === q.answer ? '✓' : '✗';
       const resultClass = answered === q.answer ? 'header-correct' : 'header-wrong';
-      preview.innerHTML = `<div class="question-preview-text ${resultClass}">${resultIcon} ${esc(q.question)}</div>`;
+      const previewText = q.question ? esc(q.question) : '応答を選んでください';
+      preview.innerHTML = `<div class="question-preview-text ${resultClass}">${resultIcon} ${previewText}</div>`;
     } else {
-      preview.innerHTML = `<div class="question-preview-text preview-muted">問題を聞いて選択肢を選んでください</div>`;
+      const hintText = isSpokenChoices ? '音声を聞いて応答を選んでください' : '問題を聞いて選択肢を選んでください';
+      preview.innerHTML = `<div class="question-preview-text preview-muted">${hintText}</div>`;
     }
 
     const toggle = document.createElement('div');
@@ -352,10 +356,19 @@
       inner.appendChild(sitBox);
     }
 
+    // Response label for spoken-choices (Part 1 style)
+    if (isSpokenChoices && !isAnswered) {
+      const respLabel = document.createElement('div');
+      respLabel.className = 'response-label';
+      respLabel.innerHTML = '🎧 <span>音声の最後に放送される応答（1〜3）から選んでください</span>';
+      inner.appendChild(respLabel);
+    }
+
     // Choices (always shown first, like exam paper)
     if (q.choices) {
       const choicesEl = document.createElement('div');
       choicesEl.className = 'choices-container';
+      if (isSpokenChoices) choicesEl.classList.add('three-choices');
 
       q.choices.forEach((choice, ci) => {
         const btn = document.createElement('button');
@@ -369,10 +382,16 @@
           if (choiceNum === answered) btn.classList.add('selected');
         }
 
-        btn.innerHTML = `
-          <span class="choice-number">${choiceNum}</span>
-          <span class="choice-text">${esc(choice)}</span>
-        `;
+        // For spoken-choices: hide text before answering (audio-only choices)
+        if (isSpokenChoices && !isAnswered) {
+          btn.innerHTML = `<span class="choice-number">${choiceNum}</span>`;
+          btn.classList.add('number-only');
+        } else {
+          btn.innerHTML = `
+            <span class="choice-number">${choiceNum}</span>
+            <span class="choice-text">${esc(choice)}</span>
+          `;
+        }
 
         if (!isAnswered) {
           btn.addEventListener('click', () => handleAnswer(q, choiceNum, card));
@@ -394,14 +413,16 @@
       const explSection = document.createElement('div');
       explSection.className = 'explanation-section';
 
-      // Question text
-      const qBox = document.createElement('div');
-      qBox.className = 'question-text-box';
-      qBox.innerHTML = `
-        <div class="question-label">Question</div>
-        <div class="question-text">${esc(q.question)}</div>
-      `;
-      explSection.appendChild(qBox);
+      // Question text (skip for spoken-choices with no question)
+      if (q.question) {
+        const qBox = document.createElement('div');
+        qBox.className = 'question-text-box';
+        qBox.innerHTML = `
+          <div class="question-label">Question</div>
+          <div class="question-text">${esc(q.question)}</div>
+        `;
+        explSection.appendChild(qBox);
+      }
 
       // Script with highlights
       const scriptSection = document.createElement('div');
@@ -413,16 +434,33 @@
 
       const dlg = document.createElement('div');
       dlg.className = 'dialogue-lines';
-      q.lines.forEach(line => {
+      q.lines.forEach((line, li) => {
         const cfg = SPEAKERS[line.speaker] || SPEAKERS.narrator;
         const el = document.createElement('div');
         el.className = 'dialogue-line';
+        // Highlight last line for spoken-choices (the one being responded to)
+        if (isSpokenChoices && li === q.lines.length - 1) {
+          el.classList.add('dialogue-prompt');
+        }
         el.innerHTML = `
           <div class="speaker-icon ${cfg.cls}" title="${cfg.label}">${cfg.icon}</div>
           <div class="dialogue-text">${highlightText(line.text, q.highlights)}</div>
         `;
         dlg.appendChild(el);
       });
+      // For spoken-choices: show the response options in script
+      if (isSpokenChoices && q.choices) {
+        const respDiv = document.createElement('div');
+        respDiv.className = 'spoken-responses';
+        respDiv.innerHTML = '<div class="spoken-responses-label">応答の選択肢:</div>';
+        q.choices.forEach((c, ci) => {
+          const rEl = document.createElement('div');
+          rEl.className = 'spoken-response-item' + ((ci + 1) === q.answer ? ' correct-response' : '');
+          rEl.innerHTML = `<span class="spoken-response-num">${ci + 1}</span> ${esc(c)}`;
+          respDiv.appendChild(rEl);
+        });
+        dlg.appendChild(respDiv);
+      }
       scriptSection.appendChild(dlg);
       explSection.appendChild(scriptSection);
 

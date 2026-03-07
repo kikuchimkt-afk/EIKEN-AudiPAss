@@ -1,0 +1,905 @@
+{
+  "title": "2024年度 第1回検定一次試験 英検準2級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その最後の文に対する応答として最も適切なものを、放送される1, 2, 3の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 10",
+      "partType": "spoken-choices",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Do you want to come to my house for dinner tomorrow, Laura?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'd love to. Should I bring anything?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, that's fine. Just come over around six o'clock."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "I didn't cook it.",
+            "I'll be there.",
+            "You should go, too."
+          ],
+          "explanation": "6時頃来てと言われ、行くと答えるのが適切です。",
+          "highlights": [
+            "Just come over around six o'clock"
+          ],
+          "choiceAnalysis": "選択肢1「料理してない」→関係ない。選択肢2「行きます」→正解。選択肢3「あなたも行くべき」→招待された側。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 2
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi, Carol. Where are you going?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm going to the library to finish my history project for Professor Hamilton's class."
+            },
+            {
+              "speaker": "male",
+              "text": "History project―oh no! I forgot about that!"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Well, I'm not taking history.",
+            "Well, I like Professor Hamilton, too.",
+            "Well, it needs to be finished by tomorrow."
+          ],
+          "explanation": "忘れていたと言っている相手に、明日までに終わらせる必要があると教えるのが自然です。",
+          "highlights": [
+            "I forgot about that"
+          ],
+          "choiceAnalysis": "選択肢1「歴史を取ってない」→同じクラス。選択肢2「先生が好き」→課題の話。選択肢3「明日までに終わらせる必要」→正解。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 3
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Welcome to the Arlington Hotel. Do you have a reservation?"
+            },
+            {
+              "speaker": "male",
+              "text": "I don't, but I was hoping to get a room for the night."
+            },
+            {
+              "speaker": "female",
+              "text": "I'm sorry, but all of our rooms are fully booked."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "I see. I'll drive there, then.",
+            "I see. I'll have a single room, then.",
+            "I see. I'll try somewhere else, then."
+          ],
+          "explanation": "満室と言われ、他のところを探すと答えるのが自然です。",
+          "highlights": [
+            "all of our rooms are fully booked"
+          ],
+          "choiceAnalysis": "選択肢1「車で行く」→ホテルにいる。選択肢2「シングルルーム」→満室。選択肢3「他を探す」→正解。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 3
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, Grandpa, it's been a while since I called. I've been busy with schoolwork."
+            },
+            {
+              "speaker": "male",
+              "text": "I understand, Lisa. You should focus on your studies."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks. I'll visit you after my final exams."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Your grades are good.",
+            "That would be wonderful.",
+            "You should call more often."
+          ],
+          "explanation": "期末試験の後に会いに行くと言われ、嬉しいと答えるのが自然です。",
+          "highlights": [
+            "I'll visit you after my final exams"
+          ],
+          "choiceAnalysis": "選択肢1「成績がいい」→訪問の話。選択肢2「それは素晴らしい」→正解。選択肢3「もっと電話して」→訪問の返事。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 2
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hey Coach, will we have basketball practice after school today?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, we'll be working on passing skills today."
+            },
+            {
+              "speaker": "male",
+              "text": "That's good. I'm looking forward to the practice."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Well, the game is this afternoon.",
+            "Actually, today's practice is canceled.",
+            "OK, see you in the gym later."
+          ],
+          "explanation": "練習を楽しみにしていると言われ、後で体育館でと言うのが自然です。",
+          "highlights": [
+            "I'm looking forward to the practice"
+          ],
+          "choiceAnalysis": "選択肢1「試合は午後」→練習の話。選択肢2「練習は中止」→やると言った。選択肢3「体育館で会おう」→正解。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 3
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hey, Mom, may I go to a friend's party tonight? A lot of my classmates will be there."
+            },
+            {
+              "speaker": "female",
+              "text": "Where is it being held?"
+            },
+            {
+              "speaker": "male",
+              "text": "It's at Tim's house, just a few blocks from here."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "All right, but be home by 8 p.m.",
+            "Sorry, that's too early.",
+            "Tim's parents are at home now."
+          ],
+          "explanation": "近所だと聞いて許可し、8時までに帰るよう言うのが自然です。",
+          "highlights": [
+            "just a few blocks from here"
+          ],
+          "choiceAnalysis": "選択肢1「いいけど8時までに」→正解。選択肢2「早すぎる」→場所の話。選択肢3「ティムの親は家にいる」→関係ない。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 1
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, it's Linda. How have you been?"
+            },
+            {
+              "speaker": "male",
+              "text": "Hi, Linda. I'm doing well, thanks."
+            },
+            {
+              "speaker": "female",
+              "text": "I was thinking it would be great to catch up and have coffee. What about next week?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "I had coffee this morning.",
+            "I'll have a tea instead.",
+            "Wednesday works for me."
+          ],
+          "explanation": "来週コーヒーでもと誘われ、水曜日なら大丈夫と具体的に答えるのが適切です。",
+          "highlights": [
+            "What about next week"
+          ],
+          "choiceAnalysis": "選択肢1「今朝コーヒー飲んだ」→会う約束。選択肢2「紅茶にする」→日程の話。選択肢3「水曜日なら大丈夫」→正解。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 3
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello. I hear there's a book sale at the library this week."
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, it starts tomorrow and ends Friday."
+            },
+            {
+              "speaker": "female",
+              "text": "Great. Do you think I can buy some books on local history?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Yes, we have a wide selection of those.",
+            "Sure, please bring them.",
+            "No, the books have all been sold."
+          ],
+          "explanation": "地元の歴史の本があるか聞かれ、たくさんあると答えるのが適切です。",
+          "highlights": [
+            "books on local history"
+          ],
+          "choiceAnalysis": "選択肢1「たくさんあります」→正解。選択肢2「持ってきて」→買いたい。選択肢3「全部売り切れ」→明日から。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 1
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Excuse me, is this the bus that goes to Main Street?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, it is. We're departing shortly, so get on."
+            },
+            {
+              "speaker": "male",
+              "text": "I see, thank you. How much does it cost?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Sorry, the bus is full.",
+            "The fare is $2.",
+            "This is the final stop."
+          ],
+          "explanation": "料金を聞かれ、2ドルと答えるのが適切です。",
+          "highlights": [
+            "How much does it cost"
+          ],
+          "choiceAnalysis": "選択肢1「満員」→乗れと言った。選択肢2「2ドル」→正解。選択肢3「終点」→料金を聞いている。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 2
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Did you remember to take out the trash today?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, I'm sorry. I'll do it right now."
+            },
+            {
+              "speaker": "female",
+              "text": "Actually, let's do it together. There's a lot to carry."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Never mind. I did it yesterday.",
+            "Thanks. That's a big help.",
+            "We should finish by tomorrow."
+          ],
+          "explanation": "一緒にやろうと言われ、助かると感謝するのが自然です。",
+          "highlights": [
+            "let's do it together"
+          ],
+          "choiceAnalysis": "選択肢1「昨日やった」→今日の話。選択肢2「ありがとう、助かる」→正解。選択肢3「明日までに」→今すぐの話。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 11 〜 No. 20",
+      "questions": [
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "How did your running event go yesterday, Chris?"
+            },
+            {
+              "speaker": "male",
+              "text": "Not so good, Aya. It was cold and rainy yesterday―not a very fun day for running."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, that's too bad. At least you got some exercise, though."
+            },
+            {
+              "speaker": "male",
+              "text": "That's true. Training for the race got me back into shape."
+            }
+          ],
+          "question": "Why was the man disappointed?",
+          "choices": [
+            "He did not win the race.",
+            "He did not train enough for the event.",
+            "The weather was not good at the event.",
+            "The race was not long enough for him."
+          ],
+          "explanation": "寒くて雨のランニングイベントだったので残念でした。",
+          "highlights": [
+            "It was cold and rainy yesterday"
+          ],
+          "choiceAnalysis": "選択肢1「勝てなかった」→天気の話。選択肢2「練習不足」→体形を取り戻した。選択肢3「天気が悪かった」→正解。選択肢4「距離が短い」→天気の話。",
+          "audioFile": "audio/part2_q11.mp3",
+          "answer": 3
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Did you sign up for Professor Messier's French class yet, Dawn?"
+            },
+            {
+              "speaker": "female",
+              "text": "Actually, I don't think I'm going to take French anymore."
+            },
+            {
+              "speaker": "male",
+              "text": "But you always do so well in French class. Are you too busy with other classes?"
+            },
+            {
+              "speaker": "female",
+              "text": "No, I want to do something different. I think I'd like to try learning Chinese."
+            }
+          ],
+          "question": "Why will the woman probably not take French class next year?",
+          "choices": [
+            "She does not like Professor Messier.",
+            "She does not do well in French.",
+            "She is too busy with other classes.",
+            "She wants to learn another language."
+          ],
+          "explanation": "違うことをしたい、中国語を学びたいと言っています。",
+          "highlights": [
+            "I want to do something different",
+            "I'd like to try learning Chinese"
+          ],
+          "choiceAnalysis": "選択肢1「先生が嫌い」→違うことをしたい。選択肢2「フランス語が苦手」→成績が良い。選択肢3「他の授業で忙しい」→否定した。選択肢4「別の言語を学びたい」→正解。",
+          "audioFile": "audio/part2_q12.mp3",
+          "answer": 4
+        },
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Welcome to the Donner Mountain ranger station. Can I help you?"
+            },
+            {
+              "speaker": "female",
+              "text": "Can you tell me which trail goes up Donner Mountain? I've heard the view is great."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, the Green Trail goes to the top. However, it's closed today because of repairs. It will reopen next week."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh no. Well, I guess I'll have to come back, then."
+            }
+          ],
+          "question": "Why is the woman disappointed?",
+          "choices": [
+            "She cannot find her trail map.",
+            "She cannot climb Donner Mountain today.",
+            "The weather will be poor today.",
+            "The Green Trail is too difficult for her."
+          ],
+          "explanation": "修理のためトレイルが閉鎖されていて、今日は登れません。",
+          "highlights": [
+            "it's closed today because of repairs"
+          ],
+          "choiceAnalysis": "選択肢1「地図が見つからない」→トレイル閉鎖。選択肢2「今日は登れない」→正解。選択肢3「天気が悪い」→修理のため。選択肢4「難しすぎる」→閉鎖中。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 2
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Mom, Cindy turned off the TV while I was playing my video game."
+            },
+            {
+              "speaker": "female",
+              "text": "Billy, you've been playing that thing all morning. Let your sister use the TV, too."
+            },
+            {
+              "speaker": "male",
+              "text": "But I was almost finished with the game, Mom. I was on the final level."
+            },
+            {
+              "speaker": "female",
+              "text": "That's enough video games for a while. Go outside and play with your friends."
+            }
+          ],
+          "question": "What is one thing the mother tells the son to do?",
+          "choices": [
+            "Play in his room.",
+            "Let his sister use the TV.",
+            "Tell his sister to come inside.",
+            "Go buy some new video games."
+          ],
+          "explanation": "妹にもテレビを使わせなさいと言っています。",
+          "highlights": [
+            "Let your sister use the TV, too"
+          ],
+          "choiceAnalysis": "選択肢1「部屋で遊ぶ」→外で遊ぶ。選択肢2「妹にテレビを使わせる」→正解。選択肢3「妹を中に入れる」→テレビの話。選択肢4「新しいゲームを買う」→やめなさい。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 2
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi, Angela. Where are you? You were supposed to meet us at the library to work on our history project."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh no. The group project! Sorry, I totally forgot! Can you wait for me? I'll be there in 20 minutes."
+            },
+            {
+              "speaker": "male",
+              "text": "OK, please hurry. We need your help to make the poster."
+            }
+          ],
+          "question": "What do we learn about the girl?",
+          "choices": [
+            "She lost the poster she made for school.",
+            "She forgot about an appointment.",
+            "She went to the wrong library.",
+            "She finished her history project early."
+          ],
+          "explanation": "図書館でのグループプロジェクトの約束を完全に忘れていました。",
+          "highlights": [
+            "I totally forgot"
+          ],
+          "choiceAnalysis": "選択肢1「ポスターをなくした」→忘れていた。選択肢2「約束を忘れた」→正解。選択肢3「間違った図書館」→忘れていた。選択肢4「早く終わった」→これから。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 2
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi, Beth. It's Craig. Listen, I was wondering if I could use your tent this weekend."
+            },
+            {
+              "speaker": "female",
+              "text": "Sure. You can come over and get it this afternoon. Are you going somewhere?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah. I'm going camping at Mt. Davis with some friends."
+            }
+          ],
+          "question": "What does Craig want to do?",
+          "choices": [
+            "Borrow Beth's tent.",
+            "Invite Beth camping.",
+            "Visit his friends' house.",
+            "Take pictures of Mt. Davis."
+          ],
+          "explanation": "Bethのテントを借りたいと電話しています。",
+          "highlights": [
+            "I was wondering if I could use your tent"
+          ],
+          "choiceAnalysis": "選択肢1「テントを借りる」→正解。選択肢2「キャンプに誘う」→テントを借りる。選択肢3「友達の家に行く」→キャンプ。選択肢4「写真を撮る」→キャンプ。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 1
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Mom, can I go to the park with my friends Jake and Mia tomorrow?"
+            },
+            {
+              "speaker": "female",
+              "text": "Is your homework done?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, I finished it today during lunch. We want to practice for the upcoming soccer match."
+            },
+            {
+              "speaker": "female",
+              "text": "All right, but be home before dinner. Your grandmother is visiting, and she'll want to see you."
+            }
+          ],
+          "question": "What does the boy want to do tomorrow?",
+          "choices": [
+            "Finish his homework.",
+            "Call his grandmother.",
+            "Meet with his friends.",
+            "Go to a soccer match."
+          ],
+          "explanation": "明日友達と公園に行ってサッカーの練習をしたいと言っています。",
+          "highlights": [
+            "can I go to the park with my friends"
+          ],
+          "choiceAnalysis": "選択肢1「宿題を終わらせる」→終わった。選択肢2「祖母に電話」→祖母が来る。選択肢3「友達と会う」→正解。選択肢4「サッカーの試合に行く」→練習。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 3
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, can you tell me where the library is?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure! It's very close. Just walk two blocks down Center Road, then turn right at the traffic lights. It's next to the post office."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, the big building with the blue roof?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, that's the library. You should hurry, though. I think it's closing soon."
+            }
+          ],
+          "question": "What does the man say about the library?",
+          "choices": [
+            "It is made of bricks.",
+            "It is near the post office.",
+            "It is closed today.",
+            "It is too far to walk to."
+          ],
+          "explanation": "図書館は郵便局の隣にあると言っています。",
+          "highlights": [
+            "It's next to the post office"
+          ],
+          "choiceAnalysis": "選択肢1「レンガ造り」→言及なし。選択肢2「郵便局の近く」→正解。選択肢3「今日は閉まっている」→もうすぐ閉まる。選択肢4「歩くには遠い」→とても近い。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 2
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hello?"
+            },
+            {
+              "speaker": "female",
+              "text": "Hey, Tim. It's Becky. Can you help me put away some boxes this weekend? I'm cleaning up my room."
+            },
+            {
+              "speaker": "male",
+              "text": "Sure. Saturday or Sunday?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sunday is perfect. If you're free later, we could order pizza."
+            }
+          ],
+          "question": "Why is the woman calling the man?",
+          "choices": [
+            "To discuss a school project.",
+            "To invite him to a pizza party.",
+            "To plan a weekend trip.",
+            "To ask for help moving boxes."
+          ],
+          "explanation": "箱の片付けを手伝ってほしいと電話しています。",
+          "highlights": [
+            "Can you help me put away some boxes"
+          ],
+          "choiceAnalysis": "選択肢1「学校のプロジェクト」→箱の片付け。選択肢2「ピザパーティー」→手伝いの後のおまけ。選択肢3「週末旅行」→部屋の片付け。選択肢4「箱の片付けの手伝い」→正解。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 4
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Good afternoon, Sunny Car Rentals."
+            },
+            {
+              "speaker": "male",
+              "text": "Hello! Do you have any cars available for this weekend?"
+            },
+            {
+              "speaker": "female",
+              "text": "Certainly! We have several options. Would you prefer a small car or a van for larger groups?"
+            },
+            {
+              "speaker": "male",
+              "text": "A small car, please. It's just me and my friend. We're planning a trip to the mountains."
+            }
+          ],
+          "question": "What will the man do this weekend?",
+          "choices": [
+            "Buy a smaller car.",
+            "Go on a bicycle ride.",
+            "Travel with a large group.",
+            "Drive with a friend."
+          ],
+          "explanation": "友達と車を借りて山にドライブに行く予定です。",
+          "highlights": [
+            "It's just me and my friend",
+            "We're planning a trip to the mountains"
+          ],
+          "choiceAnalysis": "選択肢1「小さい車を買う」→レンタル。選択肢2「自転車」→車で。選択肢3「大人数で旅行」→二人だけ。選択肢4「友達とドライブ」→正解。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 21 〜 No. 30",
+      "questions": [
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Hello, zoo visitors! Don't miss our special animal feeding show at 3 p.m. near the monkey area. At the end of the show, there will be a fun quiz with prizes for kids. And if you're hungry, the snack stand near the lake has delicious food. Remember, the last zoo train back to the entrance leaves at 5 p.m. Enjoy your day!"
+            }
+          ],
+          "question": "What happens at the end of the animal feeding show?",
+          "choices": [
+            "There is a quiz for children.",
+            "The zoo closes.",
+            "There are discounts at the snack stand.",
+            "The last train leaves."
+          ],
+          "explanation": "ショーの最後に子供向けの賞品付きクイズがあります。",
+          "highlights": [
+            "At the end of the show, there will be a fun quiz with prizes for kids"
+          ],
+          "choiceAnalysis": "選択肢1「子供向けクイズ」→正解。選択肢2「動物園が閉まる」→5時にトレイン。選択肢3「割引」→言及なし。選択肢4「最終トレイン」→5時。",
+          "audioFile": "audio/part3_q21.mp3",
+          "answer": 1
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Every Saturday, Anna and her little brother Sam go to the local park. Anna practices with her soccer team. Sam sits under a tree and does his homework. He likes to study outside in the sunshine. After Anna's practice, they both meet their mother at a nearby café. They enjoy eating lunch and chatting about their day."
+            }
+          ],
+          "question": "What does Sam do at the park?",
+          "choices": [
+            "He plays soccer with Anna.",
+            "He works on his homework.",
+            "He meets his school friends.",
+            "He eats lunch with his mom."
+          ],
+          "explanation": "Samは木の下に座って宿題をしています。",
+          "highlights": [
+            "Sam sits under a tree and does his homework"
+          ],
+          "choiceAnalysis": "選択肢1「サッカーをする」→Annaがする。選択肢2「宿題をする」→正解。選択肢3「友達に会う」→言及なし。選択肢4「母と昼食」→練習後にカフェで。",
+          "audioFile": "audio/part3_q22.mp3",
+          "answer": 2
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Attention, swimmers! Our diving event is this Sunday at 11 a.m. Whether you're diving or just watching, it'll be fun! Remember, kids under 12 years old need an adult with them. After the diving, we'll have live music by the pool. Also, anyone interested in signing up for our summer swimming lessons can register at the entrance. Have fun!"
+            }
+          ],
+          "question": "What can people do at the entrance?",
+          "choices": [
+            "Listen to live music.",
+            "Register for the diving event.",
+            "Sign up for swimming lessons.",
+            "Buy a diving suit."
+          ],
+          "explanation": "入り口で夏の水泳レッスンに登録できます。",
+          "highlights": [
+            "signing up for our summer swimming lessons can register at the entrance"
+          ],
+          "choiceAnalysis": "選択肢1「ライブ音楽」→プールサイド。選択肢2「ダイビングイベント登録」→水泳レッスン。選択肢3「水泳レッスンに申し込む」→正解。選択肢4「ダイビングスーツ」→言及なし。",
+          "audioFile": "audio/part3_q23.mp3",
+          "answer": 3
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Every month, Leo helps his grandkids, Emma and Ben, with their bicycles. They clean the bikes, fill the tires with air, and make sure everything works well. Leo tells stories about going on bicycle rides in the mountains when he was young. Afterward, they all take a short bike ride around their town. Sometimes, they stop for ice cream."
+            }
+          ],
+          "question": "Where did Leo ride his bicycle when he was young?",
+          "choices": [
+            "To an ice cream shop.",
+            "In the mountains.",
+            "To Emma and Ben's house.",
+            "In a different town."
+          ],
+          "explanation": "Leoは若い頃、山で自転車に乗っていたと話しています。",
+          "highlights": [
+            "bicycle rides in the mountains when he was young"
+          ],
+          "choiceAnalysis": "選択肢1「アイスクリーム屋」→今の話。選択肢2「山で」→正解。選択肢3「孫の家」→言及なし。選択肢4「別の町」→山。",
+          "audioFile": "audio/part3_q24.mp3",
+          "answer": 2
+        },
+        {
+          "number": 25,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The Faroe Islands are between Iceland and Norway. The people there have an interesting way to make maps of their land. They use sheep with cameras! These sheep walk around, and the cameras take pictures. This project was started because the islands were not very detailed on online maps. It's a fun way to learn more about the islands."
+            }
+          ],
+          "question": "Why do people in the Faroe Islands put cameras on sheep?",
+          "choices": [
+            "To help make maps.",
+            "To learn more about the sheep.",
+            "To take pictures for visitors.",
+            "To protect the sheep from danger."
+          ],
+          "explanation": "オンラインマップに詳細がなかったため、羊にカメラをつけて地図を作っています。",
+          "highlights": [
+            "an interesting way to make maps",
+            "the islands were not very detailed on online maps"
+          ],
+          "choiceAnalysis": "選択肢1「地図作りのため」→正解。選択肢2「羊について学ぶ」→地図作り。選択肢3「観光客用の写真」→地図作り。選択肢4「羊を守る」→地図作り。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 1
+        },
+        {
+          "number": 26,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Attention, shoppers! Welcome to our monthly farmers market! Fresh fruits, vegetables, and homemade jams are available at great prices. Looking for a snack? Try Ms. Miller's apple pies. If you purchase three items anywhere in the market, you get a free eco-friendly bag! We're open until 4 p.m. Thank you for supporting local farmers!"
+            }
+          ],
+          "question": "How can someone get a free eco-friendly bag?",
+          "choices": [
+            "By buying three items.",
+            "By visiting Ms. Miller's shop.",
+            "By buying homemade jam.",
+            "By staying until 4 p.m."
+          ],
+          "explanation": "マーケットで3つ買うと無料のエコバッグがもらえます。",
+          "highlights": [
+            "If you purchase three items anywhere in the market, you get a free eco-friendly bag"
+          ],
+          "choiceAnalysis": "選択肢1「3つ買う」→正解。選択肢2「ミラーさんの店に行く」→3つ買う。選択肢3「ジャムを買う」→3つ買う。選択肢4「4時まで」→3つ買う。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 1
+        },
+        {
+          "number": 27,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Every weekend, Carlos and his mother visit the library. Carlos loves to read about nature. Sometimes, he goes to kids' storytelling events while his mother joins the library book club. Each time Carlos and his mother visit, they each choose a new book. During their last visit, Carlos got one about jungle plants, and his mother found a novel by her favorite author."
+            }
+          ],
+          "question": "What did Carlos do during his last visit to the library?",
+          "choices": [
+            "He borrowed a book.",
+            "He attended a book club.",
+            "He met his favorite author.",
+            "He read about animals."
+          ],
+          "explanation": "前回の訪問でジャングルの植物についての本を借りました。",
+          "highlights": [
+            "Carlos got one about jungle plants"
+          ],
+          "choiceAnalysis": "選択肢1「本を借りた」→正解。選択肢2「ブッククラブ」→母。選択肢3「好きな作家に会った」→母の本。選択肢4「動物について読む」→植物。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 1
+        },
+        {
+          "number": 28,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Attention all passengers at Skyview Airport. Due to stormy weather conditions, some flights may experience minor delays. If you're traveling today, please check the screens for new information about your flight. The café and restaurants on the second floor are offering special discounts on meals and drinks during the wait. Thank you for your patience."
+            }
+          ],
+          "question": "Why should people check the screens?",
+          "choices": [
+            "To see the weather report.",
+            "To learn about special discounts.",
+            "To get updates on flight times.",
+            "To find a list of restaurants."
+          ],
+          "explanation": "フライトの新しい情報を確認するためにスクリーンを見てください。",
+          "highlights": [
+            "please check the screens for new information about your flight"
+          ],
+          "choiceAnalysis": "選択肢1「天気予報」→フライト情報。選択肢2「割引情報」→フライト情報。選択肢3「フライト時刻の更新」→正解。選択肢4「レストランリスト」→フライト情報。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 3
+        },
+        {
+          "number": 29,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Sophie and Alex had to take photos of trees and research them for a school project. Sophie planned to take the photos while Alex did the research. But the day they planned to start, Sophie's camera broke. Alex tried to borrow one from his sister, but she was using it. Finally, their teacher lent them his camera. Thankfully, they finished the project."
+            }
+          ],
+          "question": "How did the teacher help Sophie and Alex?",
+          "choices": [
+            "He fixed Sophie's camera.",
+            "He let them use his camera.",
+            "He gave them pictures of trees.",
+            "He helped them research the trees."
+          ],
+          "explanation": "先生が自分のカメラを貸してくれました。",
+          "highlights": [
+            "their teacher lent them his camera"
+          ],
+          "choiceAnalysis": "選択肢1「カメラを修理」→貸した。選択肢2「カメラを貸した」→正解。選択肢3「写真をくれた」→カメラを貸した。選択肢4「調査を手伝った」→カメラ。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 2
+        },
+        {
+          "number": 30,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Korfball is a team sport from the Netherlands that is now played all over the world. It is special because both men and women play together on the same team. In the game, players try to toss a ball into a basket. But the basket is so high that players can't reach it by jumping. Good teamwork is the key to getting points."
+            }
+          ],
+          "question": "What is special about this sport?",
+          "choices": [
+            "Men and women play on the same team.",
+            "Players must jump high to score.",
+            "It is played mainly in the Netherlands.",
+            "The basket is near the ground."
+          ],
+          "explanation": "男女が同じチームで一緒にプレーする特別なスポーツです。",
+          "highlights": [
+            "both men and women play together on the same team"
+          ],
+          "choiceAnalysis": "選択肢1「男女同じチーム」→正解。選択肢2「高くジャンプ」→届かない。選択肢3「オランダだけ」→世界中。選択肢4「バスケットが地面近く」→高い。",
+          "audioFile": "audio/part3_q30.mp3",
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,5 @@
 {
   "title": "2025年度 第2回検定一次試験 英検2級 リスニング",
-  "audioFile": "2Q-part1.mp3",
   "parts": [
     {
       "name": "第1部",
@@ -10,7 +9,7 @@
       "questions": [
         {
           "number": 1,
-          "audioFile": "audio/segment_06.mp3",
+          "audioFile": "audio/part1_q01.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -46,7 +45,7 @@
         },
         {
           "number": 2,
-          "audioFile": "audio/segment_07.mp3",
+          "audioFile": "audio/part1_q02.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -82,7 +81,7 @@
         },
         {
           "number": 3,
-          "audioFile": "audio/segment_08.mp3",
+          "audioFile": "audio/part1_q03.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -118,7 +117,7 @@
         },
         {
           "number": 4,
-          "audioFile": "audio/segment_09.mp3",
+          "audioFile": "audio/part1_q04.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -154,7 +153,7 @@
         },
         {
           "number": 5,
-          "audioFile": "audio/segment_10.mp3",
+          "audioFile": "audio/part1_q05.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -190,7 +189,7 @@
         },
         {
           "number": 6,
-          "audioFile": "audio/segment_11.mp3",
+          "audioFile": "audio/part1_q06.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -226,7 +225,7 @@
         },
         {
           "number": 7,
-          "audioFile": "audio/segment_12.mp3",
+          "audioFile": "audio/part1_q07.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -262,7 +261,7 @@
         },
         {
           "number": 8,
-          "audioFile": "audio/segment_13.mp3",
+          "audioFile": "audio/part1_q08.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -298,7 +297,7 @@
         },
         {
           "number": 9,
-          "audioFile": "audio/segment_14.mp3",
+          "audioFile": "audio/part1_q09.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -334,7 +333,7 @@
         },
         {
           "number": 10,
-          "audioFile": "audio/segment_15.mp3",
+          "audioFile": "audio/part1_q10.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -370,7 +369,7 @@
         },
         {
           "number": 11,
-          "audioFile": "audio/segment_16.mp3",
+          "audioFile": "audio/part1_q11.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -406,7 +405,7 @@
         },
         {
           "number": 12,
-          "audioFile": "audio/segment_17.mp3",
+          "audioFile": "audio/part1_q12.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -442,7 +441,7 @@
         },
         {
           "number": 13,
-          "audioFile": "audio/segment_18.mp3",
+          "audioFile": "audio/part1_q13.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -478,7 +477,7 @@
         },
         {
           "number": 14,
-          "audioFile": "audio/segment_19.mp3",
+          "audioFile": "audio/part1_q14.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -514,7 +513,7 @@
         },
         {
           "number": 15,
-          "audioFile": "audio/segment_20.mp3",
+          "audioFile": "audio/part1_q15.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -558,7 +557,7 @@
       "questions": [
         {
           "number": 16,
-          "audioFile": "audio/segment_23.mp3",
+          "audioFile": "audio/part2_q16.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -582,7 +581,7 @@
         },
         {
           "number": 17,
-          "audioFile": "audio/segment_24.mp3",
+          "audioFile": "audio/part2_q17.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -606,7 +605,7 @@
         },
         {
           "number": 18,
-          "audioFile": "audio/segment_25.mp3",
+          "audioFile": "audio/part2_q18.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -630,7 +629,7 @@
         },
         {
           "number": 19,
-          "audioFile": "audio/segment_26.mp3",
+          "audioFile": "audio/part2_q19.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -653,7 +652,7 @@
         },
         {
           "number": 20,
-          "audioFile": "audio/segment_28.mp3",
+          "audioFile": "audio/part2_q20.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -676,7 +675,7 @@
         },
         {
           "number": 21,
-          "audioFile": "audio/segment_29.mp3",
+          "audioFile": "audio/part2_q21.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -700,7 +699,7 @@
         },
         {
           "number": 22,
-          "audioFile": "audio/segment_30.mp3",
+          "audioFile": "audio/part2_q22.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -724,7 +723,7 @@
         },
         {
           "number": 23,
-          "audioFile": "audio/segment_31.mp3",
+          "audioFile": "audio/part2_q23.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -749,7 +748,7 @@
         },
         {
           "number": 24,
-          "audioFile": "audio/segment_33.mp3",
+          "audioFile": "audio/part2_q24.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -773,7 +772,7 @@
         },
         {
           "number": 25,
-          "audioFile": "audio/segment_34.mp3",
+          "audioFile": "audio/part2_q25.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -797,7 +796,7 @@
         },
         {
           "number": 26,
-          "audioFile": "audio/segment_35.mp3",
+          "audioFile": "audio/part2_q26.mp3",
           "lines": [
             {
               "speaker": "male",
@@ -821,7 +820,7 @@
         },
         {
           "number": 27,
-          "audioFile": "audio/segment_36.mp3",
+          "audioFile": "audio/part2_q27.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -845,7 +844,7 @@
         },
         {
           "number": 28,
-          "audioFile": "audio/segment_38.mp3",
+          "audioFile": "audio/part2_q28.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -868,7 +867,7 @@
         },
         {
           "number": 29,
-          "audioFile": "audio/segment_39.mp3",
+          "audioFile": "audio/part2_q29.mp3",
           "lines": [
             {
               "speaker": "female",
@@ -892,7 +891,7 @@
         },
         {
           "number": 30,
-          "audioFile": "audio/segment_40.mp3",
+          "audioFile": "audio/part2_q30.mp3",
           "lines": [
             {
               "speaker": "female",

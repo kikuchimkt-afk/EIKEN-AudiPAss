@@ -1,0 +1,893 @@
+{
+  "title": "2024年度 第2回検定一次試験 英検2級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 15",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Have you cleaned the fish tank recently, Heather? It looks like it hasn't been cleaned for a long time."
+            },
+            {
+              "speaker": "female",
+              "text": "Sorry, Dad. I haven't had time to do it."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, make sure you find time. Fish are living things and need to be taken care of."
+            },
+            {
+              "speaker": "female",
+              "text": "I know. They're my pets, so I'll do it tonight."
+            }
+          ],
+          "question": "What does Heather's father want Heather to do?",
+          "choices": [
+            "Get a new pet.",
+            "Tell him the time.",
+            "Clean the fish tank.",
+            "Give him some fish."
+          ],
+          "explanation": "父親はHeatherに水槽を掃除するよう求めています。",
+          "highlights": [
+            "Have you cleaned the fish tank recently"
+          ],
+          "choiceAnalysis": "選択肢1「新しいペットを飼う」→掃除の話。選択肢2「時間を教える」→時間を見つけろの意味。選択肢3「水槽を掃除する」→正解。選択肢4「魚をあげる」→言及なし。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 3
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi, Debbie. It's Dad. How's everything going in Korea?"
+            },
+            {
+              "speaker": "female",
+              "text": "Good. My job's going well, and everyone's really nice."
+            },
+            {
+              "speaker": "male",
+              "text": "Great. By the way, what are you doing about food? Are you eating out a lot?"
+            },
+            {
+              "speaker": "female",
+              "text": "I often do. But recently I've learned how to make some Korean dishes. I've been cooking my own food a couple of times a week."
+            }
+          ],
+          "question": "What is one thing the woman says about her life in Korea?",
+          "choices": [
+            "She finds her work stressful.",
+            "She has a favorite restaurant.",
+            "She enjoys studying Korean.",
+            "She sometimes cooks for herself."
+          ],
+          "explanation": "女性は最近韓国料理を作れるようになり、週に数回自炊していると言っています。",
+          "highlights": [
+            "I've been cooking my own food a couple of times a week"
+          ],
+          "choiceAnalysis": "選択肢1「仕事がストレス」→仕事はうまくいっている。選択肢2「お気に入りのレストランがある」→言及なし。選択肢3「韓国語の勉強が楽しい」→料理の話。選択肢4「時々自炊している」→正解。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 4
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello. Dolly speaking."
+            },
+            {
+              "speaker": "male",
+              "text": "Hi, Dolly. It's Bob. Thanks for inviting me to your party last night. I had a great time, but I was wondering if I left my camera at your apartment. Have you seen it?"
+            },
+            {
+              "speaker": "female",
+              "text": "I don't think so, Bob. I've found a jacket, but nothing else."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, I guess I'll keep looking for it. I've already checked my house and car. Thanks, anyway."
+            }
+          ],
+          "question": "What does the man ask the woman?",
+          "choices": [
+            "Whether she knows the way to his house.",
+            "Whether she can lend him a jacket.",
+            "Whether she has found his camera.",
+            "Whether she will come to his party."
+          ],
+          "explanation": "男性はパーティーでカメラを忘れたかもしれないと女性に聞いています。",
+          "highlights": [
+            "I was wondering if I left my camera at your apartment"
+          ],
+          "choiceAnalysis": "選択肢1「家への道を知っているか」→言及なし。選択肢2「ジャケットを貸してくれるか」→見つかったのはジャケット。選択肢3「カメラを見つけたか」→正解。選択肢4「パーティーに来るか」→昨夜の話。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 3
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hello. Henry Allen speaking."
+            },
+            {
+              "speaker": "female",
+              "text": "Hello, Mr. Allen. This is Computer Plaza. We've checked your computer. It'll cost about three hundred dollars to repair it and replace the hard drive."
+            },
+            {
+              "speaker": "male",
+              "text": "Three hundred dollars! That's a lot for an old computer. I think I'll just buy a new one instead."
+            },
+            {
+              "speaker": "female",
+              "text": "OK. We can recycle your old computer for free if you buy a new one here."
+            }
+          ],
+          "question": "What will Henry Allen probably do?",
+          "choices": [
+            "Sell his hard drive to the woman.",
+            "Have his computer repaired.",
+            "Work at Computer Plaza.",
+            "Get a new computer."
+          ],
+          "explanation": "修理代が高いので、新しいコンピュータを買うことにしました。",
+          "highlights": [
+            "I think I'll just buy a new one instead"
+          ],
+          "choiceAnalysis": "選択肢1「ハードドライブを売る」→言及なし。選択肢2「修理する」→高すぎるので新しく買う。選択肢3「Computer Plazaで働く」→言及なし。選択肢4「新しいコンピュータを買う」→正解。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 4
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Uncle Ed, thanks a lot for letting me stay at your house tonight."
+            },
+            {
+              "speaker": "male",
+              "text": "No problem. I know how much more convenient it is to get to the airport from here."
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah. I love living in the countryside, but it's just so far to the airport. I'd have to get up really early in the morning."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, you're always welcome to stay here before trips."
+            }
+          ],
+          "question": "Why is the woman staying at her uncle's house tonight?",
+          "choices": [
+            "She wants to see some friends living nearby.",
+            "She wants to relax in the countryside.",
+            "She has to look after the house.",
+            "She has to catch an airplane tomorrow."
+          ],
+          "explanation": "女性は明日空港に行くのに叔父の家の方が便利なので泊まっています。",
+          "highlights": [
+            "how much more convenient it is to get to the airport from here"
+          ],
+          "choiceAnalysis": "選択肢1「近くの友人に会いたい」→空港に近い。選択肢2「田舎でリラックス」→田舎に住んでいる。選択肢3「家の留守番」→言及なし。選択肢4「明日飛行機に乗る」→正解。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 4
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Honey, the dishes on this menu look delicious. What are you going to order?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm not sure. The steak with mushrooms looks good, but so does the vegetarian platter."
+            },
+            {
+              "speaker": "male",
+              "text": "I've been thinking about getting both of those dishes, too. Why don't we get one of each and split them with each other?"
+            },
+            {
+              "speaker": "female",
+              "text": "Great idea!"
+            }
+          ],
+          "question": "What do the man and woman decide to do?",
+          "choices": [
+            "Order only vegetarian food.",
+            "Share what they order.",
+            "Ask the waiter for a recommendation.",
+            "Go to another restaurant."
+          ],
+          "explanation": "２人は1つずつ注文してシェアすることにしました。",
+          "highlights": [
+            "get one of each and split them with each other"
+          ],
+          "choiceAnalysis": "選択肢1「ベジタリアンだけ注文」→両方頼む。選択肢2「注文をシェアする」→正解。選択肢3「ウェイターにおすすめを聞く」→言及なし。選択肢4「別のレストランに行く」→言及なし。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 2
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "How was your trip to Rome, Grant?"
+            },
+            {
+              "speaker": "male",
+              "text": "It was fun. Oh, guess what? I'm going to be on TV there, in a commercial for a restaurant."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? How did that happen?"
+            },
+            {
+              "speaker": "male",
+              "text": "I was having lunch at the restaurant when they were making the commercial, so they filmed me, too. I also got lunch for free."
+            }
+          ],
+          "question": "What happened to Grant in Rome?",
+          "choices": [
+            "He met a famous actor.",
+            "He was filmed at a restaurant.",
+            "He was given a tour of a TV station.",
+            "He won a free plane ticket."
+          ],
+          "explanation": "Grantはレストランでコマーシャルの撮影中に撮影されました。",
+          "highlights": [
+            "they filmed me, too"
+          ],
+          "choiceAnalysis": "選択肢1「有名な俳優に会った」→言及なし。選択肢2「レストランで撮影された」→正解。選択肢3「TV局を見学」→言及なし。選択肢4「無料航空券を当てた」→無料のランチ。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 2
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Have you studied for today's test, Dave?"
+            },
+            {
+              "speaker": "male",
+              "text": "I have done everything I could. I hope I can do better than yesterday."
+            },
+            {
+              "speaker": "female",
+              "text": "Yeah, the math test was too difficult for me. Whatever happens, today is the last day of the exam week."
+            },
+            {
+              "speaker": "male",
+              "text": "That's true. Let's go get some ice cream to celebrate after the test this afternoon."
+            }
+          ],
+          "question": "What did the boy and girl do yesterday?",
+          "choices": [
+            "They studied math together all day.",
+            "They took a test for another subject.",
+            "They went to eat dessert after the test.",
+            "They celebrated the boy's birthday."
+          ],
+          "explanation": "昨日は数学のテストを受けました。今日は別の科目のテスト最終日です。",
+          "highlights": [
+            "the math test was too difficult for me"
+          ],
+          "choiceAnalysis": "選択肢1「一日中数学を勉強」→数学のテストを受けた。選択肢2「別の科目のテストを受けた」→正解（数学のテスト）。選択肢3「テスト後にデザートを食べた」→今日の予定。選択肢4「誕生日を祝った」→言及なし。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 2
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi, Suzuno. I heard you were looking for an apartment. Have you found anything nice?"
+            },
+            {
+              "speaker": "female",
+              "text": "Hi, Ken. I'm having a hard time finding one that I like."
+            },
+            {
+              "speaker": "male",
+              "text": "What are some conditions that you don't want to give up?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I want it to be within walking distance of work, but I can't find one that's within my budget."
+            }
+          ],
+          "question": "What is the woman's problem?",
+          "choices": [
+            "There are too many apartments to choose from.",
+            "She needs to find an apartment quickly.",
+            "Her apartment does not have a parking lot.",
+            "Apartments near her office are too expensive."
+          ],
+          "explanation": "職場の徒歩圏内のアパートが予算内で見つからないのが問題です。",
+          "highlights": [
+            "I want it to be within walking distance of work",
+            "I can't find one that's within my budget"
+          ],
+          "choiceAnalysis": "選択肢1「選択肢が多すぎる」→見つからない。選択肢2「早く見つける必要がある」→言及なし。選択肢3「駐車場がない」→言及なし。選択肢4「職場近くのアパートが高い」→正解。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 4
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "John, can you take a look at my computer? It won't connect to the Internet."
+            },
+            {
+              "speaker": "male",
+              "text": "Sure. Have you used the computer on another floor recently?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, I had a meeting on the third floor, and it hasn't been working since I got back."
+            },
+            {
+              "speaker": "male",
+              "text": "It looks like your computer is still trying to connect to another Wi-Fi access point. You should select the access point by hand."
+            }
+          ],
+          "question": "What does the man suggest the woman do?",
+          "choices": [
+            "Pick the Wi-Fi access point by hand.",
+            "Bring her computer to the third floor.",
+            "Use a different computer from now on.",
+            "Try to restart her computer."
+          ],
+          "explanation": "男性はWi-Fiのアクセスポイントを手動で選択するようアドバイスしています。",
+          "highlights": [
+            "You should select the access point by hand"
+          ],
+          "choiceAnalysis": "選択肢1「Wi-Fiを手動で選択」→正解。選択肢2「3階に持っていく」→3階から戻った。選択肢3「別のPCを使う」→言及なし。選択肢4「再起動する」→言及なし。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 1
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I don't think I will ever go back to Pretty Curls hair salon again. I am so disappointed."
+            },
+            {
+              "speaker": "male",
+              "text": "What's wrong? Your new hair looks great."
+            },
+            {
+              "speaker": "female",
+              "text": "I asked them to color my hair. It turned out to be much brighter than I expected."
+            },
+            {
+              "speaker": "male",
+              "text": "Don't worry too much. I think the color suits you well."
+            }
+          ],
+          "question": "Why is the woman disappointed?",
+          "choices": [
+            "She missed an important appointment.",
+            "She does not like her new hair color.",
+            "The man forgot to call her.",
+            "The hair salon she always goes to is closed."
+          ],
+          "explanation": "髪の色が期待よりもずっと明るくなってしまったのでがっかりしています。",
+          "highlights": [
+            "It turned out to be much brighter than I expected"
+          ],
+          "choiceAnalysis": "選択肢1「予約を忘れた」→言及なし。選択肢2「新しい髪の色が嫌い」→正解。選択肢3「男性が電話を忘れた」→言及なし。選択肢4「美容院が閉まっている」→もう行かない。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 2
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Do you think we can arrive on time for the speech contest?"
+            },
+            {
+              "speaker": "female",
+              "text": "We might miss the first two people. We should arrive by Keita's turn."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm a bit worried that we might interrupt the speaker when we enter the room."
+            },
+            {
+              "speaker": "female",
+              "text": "That's true. There should be someone outside the door to let us in at the right moment."
+            }
+          ],
+          "question": "What is the man worried about?",
+          "choices": [
+            "He thought he had missed Keita's speech.",
+            "Disturbing others during the speech contest.",
+            "He thought he had lost his room key.",
+            "Forgetting his speech during the contest."
+          ],
+          "explanation": "男性は入室時にスピーカーの邪魔をしてしまうことを心配しています。",
+          "highlights": [
+            "we might interrupt the speaker when we enter the room"
+          ],
+          "choiceAnalysis": "選択肢1「Keitaのスピーチを逃した」→間に合う予定。選択肢2「スピーチコンテスト中に邪魔する」→正解。選択肢3「鍵をなくした」→言及なし。選択肢4「スピーチを忘れる」→言及なし。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 2
+        },
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "That was an interesting movie."
+            },
+            {
+              "speaker": "female",
+              "text": "I thought the ending was surprising. I was so shocked at how it turned out."
+            },
+            {
+              "speaker": "male",
+              "text": "Out of the five movies that I have watched this year, this one comes close to the top. What about you?"
+            },
+            {
+              "speaker": "female",
+              "text": "I haven't seen any other movies this year yet, so this one would be my number one for now!"
+            }
+          ],
+          "question": "What does the woman think about the movie?",
+          "choices": [
+            "It is not as good as the man suggested.",
+            "Other movies she watched this year are more interesting.",
+            "She likes the main characters in it.",
+            "It has a surprising ending."
+          ],
+          "explanation": "女性は映画のエンディングが驚きだったと言っています。",
+          "highlights": [
+            "I thought the ending was surprising"
+          ],
+          "choiceAnalysis": "選択肢1「男性が言うほど良くない」→ショックを受けた。選択肢2「他の映画の方が面白い」→今年初めての映画。選択肢3「主人公が好き」→言及なし。選択肢4「驚きのエンディング」→正解。",
+          "audioFile": "audio/part1_q13.mp3",
+          "answer": 4
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Mr. Ito. Can I ask you about the final class presentation?"
+            },
+            {
+              "speaker": "male",
+              "text": "Sure, Catherine. What about it?"
+            },
+            {
+              "speaker": "female",
+              "text": "You said that it would be a group project. So, if one of the members is absent on the day of the presentation, can the rest of the group receive a grade?"
+            },
+            {
+              "speaker": "male",
+              "text": "You will receive a grade, but the other members of the group must cover that person's part."
+            }
+          ],
+          "question": "What is one thing we learn about the final class presentation?",
+          "choices": [
+            "Groups with absent members will not receive a grade.",
+            "It has been canceled.",
+            "Students are expected to do it as a group.",
+            "The deadline has been changed."
+          ],
+          "explanation": "最終プレゼンはグループプロジェクトとして行われます。",
+          "highlights": [
+            "it would be a group project"
+          ],
+          "choiceAnalysis": "選択肢1「欠席者がいると成績がつかない」→つく。選択肢2「キャンセルされた」→言及なし。選択肢3「グループで行う」→正解。選択肢4「締切が変わった」→言及なし。",
+          "audioFile": "audio/part1_q14.mp3",
+          "answer": 3
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Don, I'd like you to translate this Chinese document today. It's from our Beijing office."
+            },
+            {
+              "speaker": "male",
+              "text": "OK, Ms. Kent. Wow, this is long! I may have to work overtime to finish it. I still have to do the meeting preparation you asked me to do."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I really need you to finish the translation by this evening, so I'll get someone else to help with the meeting preparation."
+            },
+            {
+              "speaker": "male",
+              "text": "All right. Thanks."
+            }
+          ],
+          "question": "What does Ms. Kent decide Don should do?",
+          "choices": [
+            "Finish the translation today.",
+            "Prepare for a business trip.",
+            "Work overtime every day this week.",
+            "Ask someone else to send the document."
+          ],
+          "explanation": "Kent氏は翻訳を今日中に終わらせるようDonに指示し、会議の準備は別の人に任せます。",
+          "highlights": [
+            "I really need you to finish the translation by this evening"
+          ],
+          "choiceAnalysis": "選択肢1「今日中に翻訳を終える」→正解。選択肢2「出張の準備」→翻訳の話。選択肢3「毎日残業」→今日だけ。選択肢4「他の人に送らせる」→会議の準備を他の人に。",
+          "audioFile": "audio/part1_q15.mp3",
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 16 〜 No. 30",
+      "questions": [
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "The Great Bubble Barrier is a unique system for removing plastic waste from rivers that is currently under development. Tubes with holes are put at the river bottom, and air is sent through them, creating bubbles. These bubbles help plastic waste go up to the surface. The plastic trash on the water's surface moves with the river's flow and gets caught by devices that are placed there."
+            }
+          ],
+          "question": "How does the Great Bubble Barrier remove plastic waste?",
+          "choices": [
+            "It stops the river's flow.",
+            "It melts the waste using heat.",
+            "It lifts the waste to the surface.",
+            "It catches fish that eat the waste."
+          ],
+          "explanation": "泡がプラスチックゴミを水面に押し上げます。",
+          "highlights": [
+            "These bubbles help plastic waste go up to the surface"
+          ],
+          "choiceAnalysis": "選択肢1「川の流れを止める」→泡で浮かせる。選択肢2「熱で溶かす」→言及なし。選択肢3「ゴミを水面に上げる」→正解。選択肢4「魚に食べさせる」→言及なし。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 3
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Kate works at a college library. She likes her job very much. Her favorite part is helping students write research papers. She likes to help them find information, and she feels that she is making a meaningful difference. She also likes reading lots of books and working with new students every year."
+            }
+          ],
+          "question": "What does Kate like most about her job?",
+          "choices": [
+            "Meeting many international students.",
+            "Assisting students with research.",
+            "Reading many books for free.",
+            "Working with a lot of different people."
+          ],
+          "explanation": "Kateの一番好きな部分は学生の研究論文を手伝うことです。",
+          "highlights": [
+            "Her favorite part is helping students write research papers"
+          ],
+          "choiceAnalysis": "選択肢1「留学生に会う」→言及なし。選択肢2「学生の研究を助ける」→正解。選択肢3「たくさん本を読む」→好きだが一番ではない。選択肢4「色々な人と働く」→言及なし。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 2
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "When many pieces of wood come together in a river, they block the flow of water. This is called a logjam. If not removed, logjams can cause problems such as flooding and damage to nearby buildings. However, logjams can also provide living spaces for various animal species. In fact, some places create logjams to increase the number of animals in a river."
+            }
+          ],
+          "question": "What is true about logjams?",
+          "choices": [
+            "They help prevent floods.",
+            "They give animals places to live.",
+            "They are usually made by people.",
+            "They make water flow faster."
+          ],
+          "explanation": "ログジャムは様々な動物種に生活空間を提供することもできます。",
+          "highlights": [
+            "logjams can also provide living spaces for various animal species"
+          ],
+          "choiceAnalysis": "選択肢1「洪水を防ぐ」→洪水を起こす。選択肢2「動物に住む場所を与える」→正解。選択肢3「人が作る」→自然にでき、一部人工的に作る。選択肢4「水の流れを速くする」→塞き止める。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 2
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "A sonic boom is a loud sound produced when an airplane goes faster than the speed of sound. This sound can surprise people living nearby, so planes are not allowed to fly at this speed over land. However, several companies are trying to create quieter airplanes that do not make a loud sonic boom. If they succeed, the time needed to travel long distances could be reduced."
+            }
+          ],
+          "question": "Why are companies trying to create airplanes that do not make a loud sonic boom?",
+          "choices": [
+            "To avoid surprising people on airplanes.",
+            "To reduce the cost of traveling on airplanes.",
+            "To allow airplanes to fly faster.",
+            "To help people fly airplanes more easily."
+          ],
+          "explanation": "静かな超音速機を作れば陸上で超音速飛行が許可され、長距離の移動時間を短縮できます。",
+          "highlights": [
+            "the time needed to travel long distances could be reduced"
+          ],
+          "choiceAnalysis": "選択肢1「乗客を驚かせない」→近隣住民の話。選択肢2「コスト削減」→言及なし。選択肢3「より速く飛ぶ」→正解（超音速飛行が可能に）。選択肢4「操縦を簡単に」→言及なし。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 3
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thank you for choosing Meadowbridge International Airport, Terminal 2. We are currently building a restaurant area in this terminal. If you're looking for dining options, please go to Terminal 1, where you can choose from twenty different restaurants. You can use the free buses to travel between Terminal 2 and Terminal 1. While the Terminal 2 dining area is being constructed, the buses will run every ten minutes, instead of every fifteen minutes."
+            }
+          ],
+          "question": "What is one thing we learn from the announcement?",
+          "choices": [
+            "Terminal 1 is now under construction.",
+            "Free buses run between the two terminals.",
+            "Terminal 2 has more than twenty restaurants.",
+            "Food is served on buses for free."
+          ],
+          "explanation": "ターミナル間を無料バスが運行しています。",
+          "highlights": [
+            "You can use the free buses to travel between Terminal 2 and Terminal 1"
+          ],
+          "choiceAnalysis": "選択肢1「ターミナル1が工事中」→ターミナル2が工事中。選択肢2「無料バスがターミナル間を運行」→正解。選択肢3「ターミナル2に20以上のレストラン」→ターミナル1に20。選択肢4「バスで無料の食事」→言及なし。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 2
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Attention, all students. Some students' cars are parked in the visitor spaces. However, these spaces are for people visiting our campus for business and other purposes. Students are not allowed to park in those spaces. To avoid getting a parking ticket, please move your car by the end of the day. Thank you."
+            }
+          ],
+          "question": "What is one thing we learn from the announcement?",
+          "choices": [
+            "Guests are not allowed to use the parking lot.",
+            "Some students are using the wrong parking spaces.",
+            "Students cannot drive cars to school.",
+            "The student parking lot is currently closed."
+          ],
+          "explanation": "一部の学生が来客用の駐車スペースに車を停めています。",
+          "highlights": [
+            "Some students' cars are parked in the visitor spaces"
+          ],
+          "choiceAnalysis": "選択肢1「来客は駐車場使用不可」→来客用スペースがある。選択肢2「学生が間違った場所に駐車」→正解。選択肢3「学生は車通学不可」→駐車場はある。選択肢4「学生駐車場が閉鎖」→言及なし。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 2
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome to the theater! Today's performance requires a special ticket. During the show, the artists will perform new songs on stage. After the show, all of the performers will come to the lobby to meet the guests. You can give them flowers and take photographs. Now, please enjoy the show!"
+            }
+          ],
+          "question": "What will happen after the show?",
+          "choices": [
+            "The guests can meet the singers.",
+            "The guests can buy flowers and gifts.",
+            "The guests can listen to new songs.",
+            "The guests can buy a special ticket."
+          ],
+          "explanation": "ショーの後、出演者全員がロビーに来てゲストと会います。",
+          "highlights": [
+            "all of the performers will come to the lobby to meet the guests"
+          ],
+          "choiceAnalysis": "選択肢1「歌手に会える」→正解。選択肢2「花やギフトを買える」→花を渡す。選択肢3「新曲を聴ける」→ショー中。選択肢4「特別チケットを買える」→言及なし。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 1
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Julian works as a police officer in his town. He is busy in the summer because many visitors come to the town for festivals and summer events. People ask for his help when they are lost. During less busy seasons, Julian visits local elementary schools to talk with students about safety."
+            }
+          ],
+          "question": "Why does Julian go to elementary schools?",
+          "choices": [
+            "To look for lost items.",
+            "To talk about local festivals.",
+            "To help students become police officers.",
+            "To teach children about safety."
+          ],
+          "explanation": "Julianは閑散期に小学校を訪問して安全について話します。",
+          "highlights": [
+            "Julian visits local elementary schools to talk with students about safety"
+          ],
+          "choiceAnalysis": "選択肢1「落とし物を探す」→言及なし。選択肢2「地元のお祭りについて話す」→安全について。選択肢3「警察官になる手助け」→言及なし。選択肢4「子供に安全を教える」→正解。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 4
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Sally is a designer. Recently, Sally created a poster for a restaurant. She used pictures and information provided by the restaurant owner. The poster brought many new customers to the restaurant. The restaurant owner paid Sally some money, which Sally spent on new software. The software will help Sally create even better posters in the future."
+            }
+          ],
+          "question": "What did Sally do with the money?",
+          "choices": [
+            "She went to a restaurant.",
+            "She bought new software.",
+            "She got pictures for a poster.",
+            "She studied to be a designer."
+          ],
+          "explanation": "Sallyはもらったお金で新しいソフトウェアを購入しました。",
+          "highlights": [
+            "Sally spent on new software"
+          ],
+          "choiceAnalysis": "選択肢1「レストランに行った」→ポスターを作った。選択肢2「新しいソフトを買った」→正解。選択肢3「ポスター用の写真を入手」→レストランオーナーが提供。選択肢4「デザイナーになる勉強」→既にデザイナー。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 2
+        },
+        {
+          "number": 25,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Lisa's school held a contest to ask students to help improve the school. One student planted roses near the entrance. Another student painted a picture for the hall. Lisa repaired some broken bookcases in the library. The judges looked at all of the entries and decided which one was the most useful. Lisa won the contest and received a prize."
+            }
+          ],
+          "question": "What did Lisa do for the school contest?",
+          "choices": [
+            "She created a garden.",
+            "She painted a beautiful picture.",
+            "She repaired the lights in the hall.",
+            "She fixed things in the library."
+          ],
+          "explanation": "Lisaは図書館の壊れた本棚を修理しました。",
+          "highlights": [
+            "Lisa repaired some broken bookcases in the library"
+          ],
+          "choiceAnalysis": "選択肢1「庭を作った」→バラを植えたのは別の生徒。選択肢2「絵を描いた」→別の生徒。選択肢3「ホールの照明を修理」→本棚を修理。選択肢4「図書館のものを直した」→正解。",
+          "audioFile": "audio/part2_q25.mp3",
+          "answer": 4
+        },
+        {
+          "number": 26,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Emma wanted to learn to draw. There were two art classes near her house, one at a local college and the other at the local community center. Although the college class seemed more interesting, the community center class was cheaper and met more often. Emma wanted to take more classes, so she decided to take the class at the community center."
+            }
+          ],
+          "question": "Why did Emma decide to take art classes at the community center?",
+          "choices": [
+            "The local college has too many students.",
+            "She wanted to take more classes.",
+            "It is closer to her home.",
+            "The classes are more interesting."
+          ],
+          "explanation": "Emmaはより多くのクラスを受けたかったので、頻度が多いコミュニティセンターを選びました。",
+          "highlights": [
+            "Emma wanted to take more classes"
+          ],
+          "choiceAnalysis": "選択肢1「大学は学生が多い」→言及なし。選択肢2「もっと多くのクラスを受けたかった」→正解。選択肢3「家に近い」→両方近い。選択肢4「授業が面白い」→大学の方が面白い。",
+          "audioFile": "audio/part2_q26.mp3",
+          "answer": 2
+        },
+        {
+          "number": 27,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Mr. Cooper is a science teacher. He likes to plan creative projects for his students. Recently, he wanted his students to learn how plants grow. The students chose different seeds and planted them in colorful pots. The students who took good care of their seeds grew very beautiful plants."
+            }
+          ],
+          "question": "What did Mr. Cooper's students learn?",
+          "choices": [
+            "How to do well on science tests.",
+            "How to choose seeds.",
+            "How to grow plants from seeds.",
+            "How to make colorful pots."
+          ],
+          "explanation": "生徒たちは種から植物を育てる方法を学びました。",
+          "highlights": [
+            "he wanted his students to learn how plants grow"
+          ],
+          "choiceAnalysis": "選択肢1「テストで良い点を取る」→言及なし。選択肢2「種の選び方」→植物の育て方。選択肢3「種から植物を育てる方法」→正解。選択肢4「カラフルな鉢の作り方」→言及なし。",
+          "audioFile": "audio/part2_q27.mp3",
+          "answer": 3
+        },
+        {
+          "number": 28,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Hiromi visited a village in Spain. During her trip, she went to a local cafe that served many kinds of bread. When Hiromi arrived, she saw a display of handmade plates on a table next to the bread. She bought some plates as a birthday gift for her brother."
+            }
+          ],
+          "question": "What will Hiromi do with the handmade plates?",
+          "choices": [
+            "Give them to her brother as a gift.",
+            "Bring them to a village in Spain.",
+            "Use them at the cafe.",
+            "Take them with her to Spain."
+          ],
+          "explanation": "Hiromiは皿を弟の誕生日プレゼントとして買いました。",
+          "highlights": [
+            "She bought some plates as a birthday gift for her brother"
+          ],
+          "choiceAnalysis": "選択肢1「弟にプレゼントする」→正解。選択肢2「スペインの村に持っていく」→スペインで買った。選択肢3「カフェで使う」→言及なし。選択肢4「スペインに持っていく」→スペインにいる。",
+          "audioFile": "audio/part2_q28.mp3",
+          "answer": 1
+        },
+        {
+          "number": 29,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Oliver works at a school library. One of his main tasks is to help students with their research. He helps them use the Internet and the library computers. Usually, Oliver is very busy on the weekends, when students have more time to study. However, the library will be closed this weekend due to a national holiday. Oliver plans to use the holiday to visit his father."
+            }
+          ],
+          "question": "What will Oliver do this weekend?",
+          "choices": [
+            "Work extra hours.",
+            "Help students do research.",
+            "Visit one of his family members.",
+            "Clean the library while it is closed."
+          ],
+          "explanation": "Oliverは祝日の休みを利用して父親を訪ねる予定です。",
+          "highlights": [
+            "Oliver plans to use the holiday to visit his father"
+          ],
+          "choiceAnalysis": "選択肢1「残業する」→休み。選択肢2「学生の研究を手伝う」→図書館は閉館。選択肢3「家族を訪ねる」→正解。選択肢4「図書館を掃除」→言及なし。",
+          "audioFile": "audio/part2_q29.mp3",
+          "answer": 3
+        },
+        {
+          "number": 30,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "As soon as Erica came home today, she had to bring clothes in from the balcony because it was starting to rain. While she was putting the clothes away, she realized that she had forgotten to take out the garbage in the morning. She was angry with herself because the whole house smelled like garbage."
+            }
+          ],
+          "question": "Why was Erica angry with herself?",
+          "choices": [
+            "Her clothes got wet because of the rain.",
+            "Her house had a bad smell.",
+            "She came home too late to do the chores.",
+            "She was upset about the weather."
+          ],
+          "explanation": "朝ゴミを出し忘れたため、家中がゴミの臭いがしていたからです。",
+          "highlights": [
+            "she had forgotten to take out the garbage",
+            "the whole house smelled like garbage"
+          ],
+          "choiceAnalysis": "選択肢1「雨で服が濡れた」→洗濯物は取り込めた。選択肢2「家が臭かった」→正解。選択肢3「帰宅が遅すぎた」→言及なし。選択肢4「天気に怒っていた」→自分に怒っている。",
+          "audioFile": "audio/part2_q30.mp3",
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

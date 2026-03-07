@@ -1,0 +1,899 @@
+{
+  "title": "2023年度 第3回検定一次試験 英検2級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 15",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Where should we go for dinner tonight? I don't really feel like French or Italian."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, we could try the Global Café. It has different dishes from countries around the world."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, that's a good idea. I've read that the food is quite good, too."
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah, it's getting very popular. There's an interesting variety of choices that you can't find anywhere else."
+            }
+          ],
+          "question": "Why do the man and woman decide to go to the café?",
+          "choices": [
+            "Their favorite French café has closed.",
+            "They enjoyed the food last time.",
+            "They can try new dishes.",
+            "They want to eat Italian food."
+          ],
+          "explanation": "カフェには世界各国の珍しい料理があり、新しい料理を試せるからです。",
+          "highlights": [
+            "different dishes from countries around the world",
+            "variety of choices that you can't find anywhere else"
+          ],
+          "choiceAnalysis": "選択肢1「フレンチカフェが閉店」→言及なし。選択肢2「前回の食事がよかった」→初めて。選択肢3「新しい料理を試せる」→正解。選択肢4「イタリアン希望」→気分じゃない。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 3
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "I think I want to get my hair cut, Beverly."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? What style will you choose? Will you cut it shorter? I think you look good with long hair."
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks, but I'm not sure. I just think I need a new hairstyle."
+            },
+            {
+              "speaker": "female",
+              "text": "We can look at some magazines for ideas."
+            }
+          ],
+          "question": "What does the woman suggest to help the man choose a hairstyle?",
+          "choices": [
+            "Standing in front of a mirror.",
+            "Writing to a magazine for style advice.",
+            "Looking at magazines.",
+            "Talking to a salon owner."
+          ],
+          "explanation": "女性は雑誌を見てアイデアを探すことを提案しています。",
+          "highlights": [
+            "We can look at some magazines for ideas"
+          ],
+          "choiceAnalysis": "選択肢1「鏡の前に立つ」→言及なし。選択肢2「雑誌に手紙を書く」→見るだけ。選択肢3「雑誌を見る」→正解。選択肢4「美容院のオーナーに相談」→言及なし。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 3
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Good morning. I saw an advertisement for an apartment for rent on the fourth floor."
+            },
+            {
+              "speaker": "female",
+              "text": "The apartment is still available, sir. It has one bedroom and a large bathroom with a bathtub."
+            },
+            {
+              "speaker": "male",
+              "text": "Does it have air-conditioning?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes. There is also a balcony."
+            }
+          ],
+          "question": "Why is the man calling the woman?",
+          "choices": [
+            "To learn about an apartment.",
+            "To buy an air conditioner.",
+            "To make an advertisement.",
+            "To rent a bed for his home."
+          ],
+          "explanation": "男性は賃貸アパートの広告を見て、詳細を問い合わせています。",
+          "highlights": [
+            "I saw an advertisement for an apartment for rent"
+          ],
+          "choiceAnalysis": "選択肢1「アパートについて知るため」→正解。選択肢2「エアコンを買う」→設備の確認。選択肢3「広告を作る」→広告を見た。選択肢4「ベッドを借りる」→アパート。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 1
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Pam, we are going to visit your grandparents this summer."
+            },
+            {
+              "speaker": "female",
+              "text": "Will my cousins be visiting, too? I haven't seen them in a while."
+            },
+            {
+              "speaker": "male",
+              "text": "I don't know. I'll call them and ask if they can visit at the same time we do."
+            },
+            {
+              "speaker": "female",
+              "text": "That would be great, Dad. I hope I get to see them."
+            }
+          ],
+          "question": "What does the man tell his daughter he will do?",
+          "choices": [
+            "Ask her grandparents to go on a trip.",
+            "Take her grandparents to her cousins' house.",
+            "Ask her cousins to come to her grandparents' house.",
+            "Take her cousins to their house this summer."
+          ],
+          "explanation": "父親はいとこたちに電話して、同じ時期に祖父母の家に来れるか聞くと言っています。",
+          "highlights": [
+            "I'll call them and ask if they can visit at the same time"
+          ],
+          "choiceAnalysis": "選択肢1「祖父母に旅行を頼む」→いとこに電話。選択肢2「祖父母をいとこの家に」→逆。選択肢3「いとこに祖父母の家に来るよう頼む」→正解。選択肢4「いとこを自分の家に」→祖父母の家。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 3
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me, I have been backpacking all day and I am looking for a place to camp. Could I set up my tent here?"
+            },
+            {
+              "speaker": "male",
+              "text": "Unfortunately, there is nowhere for you to put up your tent, but we do have a cabin available. There are shared bathrooms."
+            },
+            {
+              "speaker": "female",
+              "text": "Alright, it sounds comfortable enough. Is the cabin shared?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, you can get your own cabin with a single or double bed."
+            }
+          ],
+          "question": "What does the woman ask the man?",
+          "choices": [
+            "If she can stay in her tent.",
+            "If the cabins have a sound system.",
+            "If the cabins have a large bed.",
+            "If she can use the bathroom."
+          ],
+          "explanation": "女性はテントを張れるか尋ねています。",
+          "highlights": [
+            "Could I set up my tent here?"
+          ],
+          "choiceAnalysis": "選択肢1「テントで泊まれるか」→正解。選択肢2「サウンドシステムがあるか」→言及なし。選択肢3「大きなベッドがあるか」→言及なし。選択肢4「トイレを使えるか」→共用トイレがある。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 1
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Ms. Harper, I have a question about our photography assignment. Should we take color photos or black-and-white ones?"
+            },
+            {
+              "speaker": "female",
+              "text": "Well, that's up to you to decide, Donald. You're free to choose whatever style you want."
+            },
+            {
+              "speaker": "male",
+              "text": "Hmm. But which do you think is better?"
+            },
+            {
+              "speaker": "female",
+              "text": "One is not better than the other. It just depends on what you want the viewer of your photograph to feel."
+            }
+          ],
+          "question": "What is one thing that Ms. Harper tells the student about the photography assignment?",
+          "choices": [
+            "He is free to take photographs in any style.",
+            "He has to use black-and-white photos.",
+            "He should be careful taking color photos.",
+            "He should finish his assignment quickly."
+          ],
+          "explanation": "Harper先生はどのスタイルでも自由に選んでいいと言っています。",
+          "highlights": [
+            "You're free to choose whatever style you want"
+          ],
+          "choiceAnalysis": "選択肢1「どのスタイルでも自由」→正解。選択肢2「白黒を使う必要がある」→自由。選択肢3「カラー撮影に注意」→言及なし。選択肢4「早く終わらせるべき」→言及なし。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 1
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello."
+            },
+            {
+              "speaker": "male",
+              "text": "Mom, it's Jake. I'm at the store, and I found the cheese you want, but I'm not sure about the vegetables. You said you wanted a bag of frozen vegetables, right?"
+            },
+            {
+              "speaker": "female",
+              "text": "That's right. Please get one that has carrots and broccoli in it."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. There's a sale today on large bags that have both carrots and broccoli. I'll get one of those."
+            }
+          ],
+          "question": "What is one thing Jake says about the bag of vegetables?",
+          "choices": [
+            "It costs more than the cheese.",
+            "It is on sale today.",
+            "It does not come with broccoli.",
+            "It does not look very fresh."
+          ],
+          "explanation": "Jakeは今日大きな袋がセール中だと言っています。",
+          "highlights": [
+            "There's a sale today on large bags"
+          ],
+          "choiceAnalysis": "選択肢1「チーズより高い」→言及なし。選択肢2「今日セール中」→正解。選択肢3「ブロッコリーが入っていない」→入っている。選択肢4「新鮮そうでない」→言及なし。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 2
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Jeff. Try a fresh tomato. I grew it myself."
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, thanks, Barbara. Mmm... delicious! But I thought you lived in an apartment downtown. Did you move?"
+            },
+            {
+              "speaker": "female",
+              "text": "No. I started a garden on my balcony. I grow tomatoes, carrots, and even some lettuce."
+            },
+            {
+              "speaker": "male",
+              "text": "Well, bring some of those to work, too, because I'd like to try them. You could sell these tomatoes in stores!"
+            }
+          ],
+          "question": "What is one thing we learn about the woman?",
+          "choices": [
+            "She lives in an apartment.",
+            "She wants a bigger balcony.",
+            "She bought the tomato at the store.",
+            "She moved to a house with a garden."
+          ],
+          "explanation": "女性はダウンタウンのアパートに住んでおり、バルコニーで野菜を育てています。",
+          "highlights": [
+            "you lived in an apartment downtown",
+            "I started a garden on my balcony"
+          ],
+          "choiceAnalysis": "選択肢1「アパートに住んでいる」→正解。選択肢2「大きなバルコニーが欲しい」→言及なし。選択肢3「店でトマトを買った」→自分で育てた。選択肢4「庭のある家に引っ越した」→引っ越していない。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 1
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Why is this street blocked, officer?"
+            },
+            {
+              "speaker": "male",
+              "text": "There's a parade today and cars aren't allowed on Main Street."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, I had no idea. How can I get to City Hall? I'm in a hurry."
+            },
+            {
+              "speaker": "male",
+              "text": "I suggest you take Smith Road instead."
+            }
+          ],
+          "question": "What will the woman probably do now?",
+          "choices": [
+            "Drive down Main Street.",
+            "Stop to see the parade.",
+            "Use Smith Road instead.",
+            "Wait until the parade ends."
+          ],
+          "explanation": "警察官にSmith Roadを使うよう提案されました。",
+          "highlights": [
+            "I suggest you take Smith Road instead"
+          ],
+          "choiceAnalysis": "選択肢1「メインストリートを走る」→通行止め。選択肢2「パレードを見る」→急いでいる。選択肢3「Smith Roadを使う」→正解。選択肢4「パレードが終わるまで待つ」→急いでいる。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 3
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello, Dr. James. Since I moved, I have scheduled an appointment with a doctor in my new neighborhood. Can you forward the details of my operation to her?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, we can e-mail a report immediately. Do you need any other information?"
+            },
+            {
+              "speaker": "female",
+              "text": "I need to share the medicines I take to stay healthy. Could you include a list?"
+            },
+            {
+              "speaker": "male",
+              "text": "Absolutely. I'll make sure it is included in your file."
+            }
+          ],
+          "question": "What does the woman need?",
+          "choices": [
+            "A list of new medicines from Dr. James.",
+            "A copy of her health files from Dr. James.",
+            "To let Dr. James know her new address.",
+            "To ask Dr. James about a new doctor."
+          ],
+          "explanation": "女性は手術の詳細と薬のリストを含む健康ファイルのコピーを新しい医師に送ってもらう必要があります。",
+          "highlights": [
+            "Can you forward the details of my operation"
+          ],
+          "choiceAnalysis": "選択肢1「新しい薬のリスト」→今の薬のリスト。選択肢2「健康ファイルのコピー」→正解。選択肢3「新住所を知らせる」→言及なし。選択肢4「新しい医師について聞く」→既に予約済み。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 2
+        },
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Good morning, class. We're playing a game today. Please divide into two groups and create two lines. Each group will take turns throwing a paper ball into the garbage can."
+            },
+            {
+              "speaker": "male",
+              "text": "Ms. Barnes, are there prizes if we get the paper ball into the garbage can?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes! Each team will win a piece of candy each time the ball goes into the basket."
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks, Ms. Barnes! The game really looks like fun."
+            }
+          ],
+          "question": "What does the teacher want the students to do first?",
+          "choices": [
+            "Put garbage in the garbage can.",
+            "Divide into two groups to play a game.",
+            "Throw paper balls at each other.",
+            "Hand candy to the other students."
+          ],
+          "explanation": "先生はまず2つのグループに分かれるよう指示しています。",
+          "highlights": [
+            "Please divide into two groups"
+          ],
+          "choiceAnalysis": "選択肢1「ゴミ箱にゴミを入れる」→ゲーム。選択肢2「2グループに分かれる」→正解。選択肢3「紙のボールを投げ合う」→ゴミ箱に投げる。選択肢4「キャンディーを配る」→賞品。",
+          "audioFile": "audio/part1_q11.mp3",
+          "answer": 2
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "How was work today, honey?"
+            },
+            {
+              "speaker": "female",
+              "text": "Not so good. I didn't get the promotion I was hoping for. The boss promoted a bunch of people who have only been at the company for a short time, though."
+            },
+            {
+              "speaker": "male",
+              "text": "After all the work you've done? That's not fair. You deserve a promotion."
+            },
+            {
+              "speaker": "female",
+              "text": "I thought so, too. I think it's time for me to start looking for a new job."
+            }
+          ],
+          "question": "Why does the woman say she will leave her job?",
+          "choices": [
+            "Her husband got work in a new city.",
+            "Her husband found a better job.",
+            "She is tired of working every day.",
+            "She did not get a promotion."
+          ],
+          "explanation": "女性は昇進できなかったので転職を考えています。",
+          "highlights": [
+            "I didn't get the promotion I was hoping for"
+          ],
+          "choiceAnalysis": "選択肢1「夫が新しい都市で仕事」→言及なし。選択肢2「夫がより良い仕事」→言及なし。選択肢3「毎日の仕事に疲れた」→昇進の問題。選択肢4「昇進できなかった」→正解。",
+          "audioFile": "audio/part1_q12.mp3",
+          "answer": 4
+        },
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me, which main courses don't contain pork or beef?"
+            },
+            {
+              "speaker": "male",
+              "text": "We have grilled tuna with vegetables or barbecued chicken with salad. We also have other vegetarian options."
+            },
+            {
+              "speaker": "female",
+              "text": "The tuna sounds good. It's not fried, right? I don't like things that are cooked in a lot of oil."
+            },
+            {
+              "speaker": "male",
+              "text": "No, ma'am, it's grilled. It's a very popular choice. I suggest you order soon in case we run out of it."
+            }
+          ],
+          "question": "What will the woman probably order?",
+          "choices": [
+            "Grilled tuna with vegetables.",
+            "Something that has pork in it.",
+            "Barbecued chicken fried in oil.",
+            "One of the vegetarian options."
+          ],
+          "explanation": "女性はグリルツナに興味を示し、揚げ物でないことを確認しています。",
+          "highlights": [
+            "The tuna sounds good"
+          ],
+          "choiceAnalysis": "選択肢1「グリルツナと野菜」→正解。選択肢2「豚肉料理」→避けている。選択肢3「油で揚げたチキン」→油が嫌い。選択肢4「ベジタリアン」→ツナを選んだ。",
+          "audioFile": "audio/part1_q13.mp3",
+          "answer": 1
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "That book is huge! What are you reading? Is it for this class?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, I'm reading this book for another class. It describes the history, language, and culture of more than 20 countries."
+            },
+            {
+              "speaker": "female",
+              "text": "I enjoy reading about other countries, too. Have you learned anything new that we could talk about?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, I've only finished the first part. It just tells how the book is organized."
+            }
+          ],
+          "question": "What are the students talking about?",
+          "choices": [
+            "The way a book is organized.",
+            "What their class will be like.",
+            "Their favorite foreign language.",
+            "A book the boy is reading."
+          ],
+          "explanation": "学生たちは男の子が読んでいる本について話しています。",
+          "highlights": [
+            "What are you reading?"
+          ],
+          "choiceAnalysis": "選択肢1「本の構成」→最初の部分の内容。選択肢2「授業の内容」→言及なし。選択肢3「好きな外国語」→言及なし。選択肢4「男の子が読んでいる本」→正解。",
+          "audioFile": "audio/part1_q14.mp3",
+          "answer": 4
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Bill. Can I have my economics textbook back, please? I need it for Professor Massa's class."
+            },
+            {
+              "speaker": "male",
+              "text": "Um, I wanted to talk to you about that. I can't find it."
+            },
+            {
+              "speaker": "female",
+              "text": "You can't find it? You've only had it for two days."
+            },
+            {
+              "speaker": "male",
+              "text": "I'm sorry. It wasn't in my bag when I got home. I think I left it on the bus. I'll buy you a new one today after class."
+            }
+          ],
+          "question": "Why is the woman upset with the man?",
+          "choices": [
+            "He did not go to Professor Massa's class.",
+            "He would not help her with homework.",
+            "He made her late for the bus.",
+            "He lost her economics book."
+          ],
+          "explanation": "男性が借りた経済学の教科書をなくしてしまったからです。",
+          "highlights": [
+            "I can't find it"
+          ],
+          "choiceAnalysis": "選択肢1「授業に出なかった」→言及なし。選択肢2「宿題を手伝わない」→言及なし。選択肢3「バスに遅刻させた」→バスに忘れた。選択肢4「経済学の本をなくした」→正解。",
+          "audioFile": "audio/part1_q15.mp3",
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 16 〜 No. 30",
+      "questions": [
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Last month, Sally went on a three-day hiking trip with her friend. She often goes hiking, but she had never done it for more than one day. Sally packed many things into her backpack, such as a video camera, extra shoes, and lots of food. Her backpack was very heavy, and it made her tired. Her friend said that, next time, Sally should only bring what she really needs."
+            }
+          ],
+          "question": "Why did Sally get tired?",
+          "choices": [
+            "She had never been hiking before.",
+            "She wore the wrong kind of shoes.",
+            "She did not eat enough.",
+            "She packed too many things."
+          ],
+          "explanation": "Sallyはバックパックに多くの物を詰めすぎて重くなり、疲れました。",
+          "highlights": [
+            "Her backpack was very heavy, and it made her tired"
+          ],
+          "choiceAnalysis": "選択肢1「ハイキング未経験」→よく行く。選択肢2「間違った靴」→予備の靴を持参。選択肢3「食べ足りない」→たくさん持参。選択肢4「荷物が多すぎた」→正解。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 4
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Larry works in an antique store. He manages the money, including cash, credit cards, and checks. He also keeps track of the stock or items for sale in the store. Larry does have one favorite part of his work. He enjoys looking for new items to feature at the store. He looks for furniture and dishes at yard sales and other smaller antique shops."
+            }
+          ],
+          "question": "What is Larry's favorite part of his job?",
+          "choices": [
+            "Managing the money.",
+            "Finding new items for the store.",
+            "Tracking the inventory.",
+            "Selling items to other stores."
+          ],
+          "explanation": "Larryの一番好きな仕事は店用の新しい商品を探すことです。",
+          "highlights": [
+            "He enjoys looking for new items to feature at the store"
+          ],
+          "choiceAnalysis": "選択肢1「お金の管理」→仕事の一つ。選択肢2「新しい商品を見つける」→正解。選択肢3「在庫管理」→仕事の一つ。選択肢4「他の店に売る」→買う方。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 2
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "One unusual race in Britain uses cheese. A large wheel of cheese rolls down a hill while people run after it. Whoever catches the cheese or reaches the bottom first is the winner. This person gets to eat cheese. When people reach the end of the hill, they cannot stop because they are running too fast. So local sports players catch the runners to slow them down."
+            }
+          ],
+          "question": "Why is it difficult for the runners to stop?",
+          "choices": [
+            "Sports players are chasing them.",
+            "The race hill is too long.",
+            "They want to make some cheese.",
+            "They are running too quickly."
+          ],
+          "explanation": "走者は速すぎて止まれません。",
+          "highlights": [
+            "they cannot stop because they are running too fast"
+          ],
+          "choiceAnalysis": "選択肢1「選手に追われている」→選手が止めてくれる。選択肢2「丘が長すぎる」→速すぎる。選択肢3「チーズを作りたい」→食べる。選択肢4「速く走りすぎている」→正解。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 4
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Megan is a performer with the Smallville City Ballet. She has loved to dance ever since she was three years old. One of her favorite performances is the annual Winter Celebration. Each December, the Winter Celebration puts on a spectacular display. She enjoys dancing in the performance, listening to the orchestra music, and putting on beautiful costumes. The sets are colorful and take the audience on a magical adventure."
+            }
+          ],
+          "question": "What role does Megan have at the Winter Celebration?",
+          "choices": [
+            "She performs in a dance.",
+            "She builds the sets.",
+            "She plays in the orchestra.",
+            "She attends the Christmas party."
+          ],
+          "explanation": "Meganはバレエ団のパフォーマーとしてダンスを踊ります。",
+          "highlights": [
+            "Megan is a performer",
+            "She enjoys dancing in the performance"
+          ],
+          "choiceAnalysis": "選択肢1「ダンスを踊る」→正解。選択肢2「セットを作る」→言及なし。選択肢3「オーケストラで演奏」→聴いて楽しむ。選択肢4「クリスマスパーティーに参加」→パフォーマー。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 1
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Hello, passengers! Your crew would like to welcome you to Scott's Whale Watching Adventures! Please be seated. We will depart in five minutes. We will leave the harbor and go right out into the open ocean. Make sure you have your cameras ready. We will see a lot of sea life today. Today, we hope to see sharks, dolphins, and of course, whales!"
+            }
+          ],
+          "question": "What does the announcement tell the passengers to do?",
+          "choices": [
+            "Put away their cameras.",
+            "Sit down in their seats for departure.",
+            "Look to their right to see whales.",
+            "Welcome the crew to the boat."
+          ],
+          "explanation": "乗客は席に着くよう案内されています。",
+          "highlights": [
+            "Please be seated"
+          ],
+          "choiceAnalysis": "選択肢1「カメラをしまう」→準備しておく。選択肢2「席に着く」→正解。選択肢3「右を見る」→外洋に出る。選択肢4「クルーを歓迎」→クルーが歓迎している。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 2
+        },
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thomas is a gymnastics champion. He has many medals that he won at competitions. His team has traveled all over the country for competitions. His coach thinks he could compete in the national championships someday. He competes in the floor exercise contest, which is a performance to show strength and balance. Another event he does well is the bars. He jumps up to high bars and moves his body in circles."
+            }
+          ],
+          "question": "What is true about Thomas?",
+          "choices": [
+            "He thinks floor exercise is boring.",
+            "He traveled abroad to compete.",
+            "His coach was in the national championships.",
+            "He has won many awards."
+          ],
+          "explanation": "Thomasは多くのメダルを獲得しています。",
+          "highlights": [
+            "He has many medals that he won at competitions"
+          ],
+          "choiceAnalysis": "選択肢1「床運動が退屈」→得意種目。選択肢2「海外遠征」→国内。選択肢3「コーチが全国大会に出た」→言及なし。選択肢4「多くの賞を獲得」→正解。",
+          "audioFile": "audio/part2_q21.mp3",
+          "answer": 4
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "A cloud forest is a type of rainforest. As the name suggests, the tops of the trees are covered with clouds. These forests are very humid and support a wide range of life that is not found anywhere else on the planet. Cloud forests have unique trees, flowers, and animal species, such as frogs and birds. Waterfalls are also common in cloud forests because they are found below mountain peaks."
+            }
+          ],
+          "question": "What makes cloud forests unique?",
+          "choices": [
+            "They are rainforests that do not have waterfalls.",
+            "They are located on the tops of mountains.",
+            "Certain plants and animals can only be found there.",
+            "The climate is quite cold and rainy."
+          ],
+          "explanation": "雲霧林には地球上の他のどこにもない独自の動植物がいます。",
+          "highlights": [
+            "a wide range of life that is not found anywhere else on the planet"
+          ],
+          "choiceAnalysis": "選択肢1「滝がない」→滝がある。選択肢2「山頂にある」→山頂の下。選択肢3「特有の動植物がいる」→正解。選択肢4「寒くて雨が多い」→湿度が高い。",
+          "audioFile": "audio/part2_q22.mp3",
+          "answer": 3
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Quinn spent her summer vacation at the coast. She enjoyed the seaside attractions, including fishing, surfing, and windsurfing. Although she had plans to go whale watching, the cruise was canceled due to the weather. Instead, she attended a painting class, where she created a landscape of beautiful scenery. When she got home, she hung the painting in her room to remind her of her relaxing vacation."
+            }
+          ],
+          "question": "Why did Quinn change her plans?",
+          "choices": [
+            "The painting class was canceled.",
+            "She wanted to paint her room.",
+            "She decided to relax.",
+            "The weather was bad."
+          ],
+          "explanation": "天候のせいでホエールウォッチングクルーズが中止になりました。",
+          "highlights": [
+            "the cruise was canceled due to the weather"
+          ],
+          "choiceAnalysis": "選択肢1「絵画教室が中止」→代わりに参加。選択肢2「部屋を塗りたかった」→絵を描いた。選択肢3「リラックスしたかった」→天候のせい。選択肢4「天気が悪かった」→正解。",
+          "audioFile": "audio/part2_q23.mp3",
+          "answer": 4
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Sea turtles live most of their lives in oceans, but they go to beaches to lay their eggs. The best beaches are the ones that have no people around. First, they dig holes in the sand. Then, they lay their eggs in the hole and cover the eggs with sand. If the sand is hot, then the babies will be girls. Not many animals' eggs are affected by heat like the sea turtle's."
+            }
+          ],
+          "question": "Where are the eggs laid?",
+          "choices": [
+            "Close to beach visitors.",
+            "Near eggs of other animals.",
+            "In the sand in the cool ocean.",
+            "In holes on beaches."
+          ],
+          "explanation": "ウミガメは砂浜に穴を掘って卵を産みます。",
+          "highlights": [
+            "they dig holes in the sand",
+            "they lay their eggs in the hole"
+          ],
+          "choiceAnalysis": "選択肢1「ビーチの来場者の近く」→人がいないビーチ。選択肢2「他の動物の卵の近く」→言及なし。選択肢3「冷たい海の砂の中」→ビーチの砂。選択肢4「ビーチの穴の中」→正解。",
+          "audioFile": "audio/part2_q24.mp3",
+          "answer": 4
+        },
+        {
+          "number": 25,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Attention Natural History Museum visitors. Please remain calm and find the nearest exit. The fire department is checking the alarm system. The test should only last about 20 minutes. You can wait in the sculpture garden. We apologize for the trouble. We will stay open 30 minutes later today so that you may complete your visit. Thank you!"
+            }
+          ],
+          "question": "What should the museum visitors do?",
+          "choices": [
+            "Wait outside for 20 minutes.",
+            "Leave the museum in 30 minutes.",
+            "Find the exit and go home.",
+            "Remain inside during the test."
+          ],
+          "explanation": "来場者は約20分間彫刻ガーデンで待つよう案内されています。",
+          "highlights": [
+            "find the nearest exit",
+            "You can wait in the sculpture garden",
+            "The test should only last about 20 minutes"
+          ],
+          "choiceAnalysis": "選択肢1「外で20分待つ」→正解。選択肢2「30分以内に出る」→30分延長。選択肢3「出口を見つけて帰宅」→待つだけ。選択肢4「中にいる」→外に出る。",
+          "audioFile": "audio/part2_q25.mp3",
+          "answer": 1
+        },
+        {
+          "number": 26,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Many people have a special destination where they go to feel peaceful. Laura's favorite place is the beach. She walks her dog Rex along the sandy shore. They run into the waves, finding the gentle breezes and sunshine enjoyable. Sometimes Laura and Rex play fetch. That is when Laura throws a stick, and Rex catches and returns it. They usually stay at the beach until sunset to watch the sun go down."
+            }
+          ],
+          "question": "Why does Laura visit the shore?",
+          "choices": [
+            "She likes to play with her dog on the beach.",
+            "She needs to practice throwing a stick.",
+            "She enjoys watching the sun come up at sunrise.",
+            "She wants to enjoy swimming with her dog."
+          ],
+          "explanation": "Lauraはビーチで犬と遊ぶのが好きです。",
+          "highlights": [
+            "She walks her dog Rex along the sandy shore",
+            "Laura and Rex play fetch"
+          ],
+          "choiceAnalysis": "選択肢1「ビーチで犬と遊ぶのが好き」→正解。選択肢2「棒投げの練習」→遊び。選択肢3「日の出を見る」→日没を見る。選択肢4「犬と泳ぐ」→遊ぶ。",
+          "audioFile": "audio/part2_q26.mp3",
+          "answer": 1
+        },
+        {
+          "number": 27,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "After she graduates from college, Sarah plans to set off on a backpacking trip. She wants to hike around the Niagara Falls waterfalls. She also plans to eat a variety of seafood in Maine, including tuna, shrimp, and lobster. After seeing a documentary about Cape Cod, Sarah has decided she will stop there to spend some time along the seashore."
+            }
+          ],
+          "question": "What does Sarah plan to do on her trip?",
+          "choices": [
+            "Catch lobsters at Cape Cod.",
+            "Stay in fancy hotels.",
+            "Eat seafood at college.",
+            "Hike around Niagara Falls."
+          ],
+          "explanation": "Sarahはナイアガラの滝周辺をハイキングする予定です。",
+          "highlights": [
+            "She wants to hike around the Niagara Falls waterfalls"
+          ],
+          "choiceAnalysis": "選択肢1「ケープコッドでロブスターを獲る」→メインでシーフード。選択肢2「高級ホテルに泊まる」→バックパッキング。選択肢3「大学でシーフード」→メインで。選択肢4「ナイアガラの滝をハイキング」→正解。",
+          "audioFile": "audio/part2_q27.mp3",
+          "answer": 4
+        },
+        {
+          "number": 28,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Alfred Hitchcock was a filmmaker. He is considered a cultural icon for his drama films about crime and suspense. Hitchcock is known as the Master of Suspense because his thrillers keep the audience anxiously waiting to see what will happen in the next scene. Although he is not known for it, Hitchcock also made comedy films. He often appeared in his own films in a small role known as a cameo appearance."
+            }
+          ],
+          "question": "What is Alfred Hitchcock most famous for?",
+          "choices": [
+            "Acting in starring roles.",
+            "Making thriller films.",
+            "Writing funny movie scripts.",
+            "Filming cultural documentaries."
+          ],
+          "explanation": "ヒッチコックは「サスペンスの巨匠」として知られています。",
+          "highlights": [
+            "the Master of Suspense",
+            "his thrillers keep the audience anxiously waiting"
+          ],
+          "choiceAnalysis": "選択肢1「主演を務める」→カメオ出演。選択肢2「スリラー映画を作る」→正解。選択肢3「コメディの脚本を書く」→有名ではない。選択肢4「ドキュメンタリーを撮影」→言及なし。",
+          "audioFile": "audio/part2_q28.mp3",
+          "answer": 2
+        },
+        {
+          "number": 29,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Nathan loves his job. His favorite task is to bake wedding cakes. He decorates them with beautiful flowers and designs. After he finishes them, he takes photos for his album. He loves being part of the marriage celebration of his customers. Although he does not attend the wedding ceremonies, he enjoys helping people celebrate their marriages and the beginning of a lifetime of happiness."
+            }
+          ],
+          "question": "What is Nathan's favorite part of his job?",
+          "choices": [
+            "To take his customers' photographs.",
+            "To hold marriage ceremonies.",
+            "To bake wedding cakes.",
+            "To arrange beautiful flowers."
+          ],
+          "explanation": "Nathanの一番好きな仕事はウエディングケーキを焼くことです。",
+          "highlights": [
+            "His favorite task is to bake wedding cakes"
+          ],
+          "choiceAnalysis": "選択肢1「客の写真を撮る」→ケーキの写真。選択肢2「結婚式を開催」→参加しない。選択肢3「ウエディングケーキを焼く」→正解。選択肢4「花を飾る」→装飾の一つ。",
+          "audioFile": "audio/part2_q29.mp3",
+          "answer": 3
+        },
+        {
+          "number": 30,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Welcome to the Starlight Circus! The performance begins in 15 minutes. If you would like a snack, it is a great opportunity to visit the snack stand. Please turn off your cell phones now for the entire show. Taking video clips of the arena and performance is not allowed. After the lights go down, we ask that you please remain seated for your safety and the safety of the performers."
+            }
+          ],
+          "question": "What should the audience do when the lights go down?",
+          "choices": [
+            "Remain in their seats.",
+            "Put away their cell phones.",
+            "Take part in the performance.",
+            "Visit the snack stand."
+          ],
+          "explanation": "照明が暗くなったら安全のため席に座っているよう求められています。",
+          "highlights": [
+            "please remain seated for your safety"
+          ],
+          "choiceAnalysis": "選択肢1「席にいる」→正解。選択肢2「携帯をしまう」→今すぐオフに。選択肢3「パフォーマンスに参加」→言及なし。選択肢4「スナックスタンドを訪れる」→開始前に。",
+          "audioFile": "audio/part2_q30.mp3",
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
