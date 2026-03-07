@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AudiPass — 宿題プリント作成</title>
+  <meta name="description" content="AudiPass - 英語資格試験リスニング宿題プリント生成ツール。QRコード付きのA4プリントを作成">
+  <link rel="stylesheet" href="print.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</head>
+
+<body>
+  <!-- ===== Settings Panel (hidden on print) ===== -->
+  <div class="settings-panel" id="settingsPanel">
+    <header class="settings-header">
+      <a href="index.html" class="back-link">← AudiPass トップへ</a>
+      <h1 class="settings-title">🖨️ 宿題プリント作成</h1>
+      <p class="settings-subtitle">級・試験・パートを選んで生徒用プリントを生成</p>
+    </header>
+
+    <div class="settings-body">
+      <!-- Grade Selection -->
+      <div class="setting-group">
+        <label class="setting-label">級を選択</label>
+        <div class="grade-chips" id="gradeChips"></div>
+      </div>
+
+      <!-- Exam Selection -->
+      <div class="setting-group">
+        <label class="setting-label">試験を選択 <span class="hint">（複数選択で「まとめプリント」）</span></label>
+        <div class="exam-checkboxes" id="examCheckboxes">
+          <p class="placeholder-text">先に級を選択してください</p>
+        </div>
+      </div>
+
+      <!-- Part Selection -->
+      <div class="setting-group">
+        <label class="setting-label">パートを選択</label>
+        <div class="part-checkboxes" id="partCheckboxes">
+          <label class="checkbox-label"><input type="checkbox" value="0" checked> 第1部（Part 1）</label>
+          <label class="checkbox-label"><input type="checkbox" value="1" checked> 第2部（Part 2）</label>
+          <label class="checkbox-label"><input type="checkbox" value="2" checked> 第3部（Part 3）</label>
+        </div>
+      </div>
+
+      <!-- Options -->
+      <div class="setting-group">
+        <label class="setting-label">オプション</label>
+        <div class="option-toggles">
+          <label class="toggle-label">
+            <input type="checkbox" id="optChoices" checked>
+            <span class="toggle-text">選択肢を印刷する</span>
+          </label>
+          <label class="toggle-label">
+            <input type="checkbox" id="optQR" checked>
+            <span class="toggle-text">QRコード付き（アプリへの直リンク）</span>
+          </label>
+
+        </div>
+      </div>
+
+      <!-- Buttons -->
+      <div class="action-buttons">
+        <button class="btn btn-primary" id="generateBtn" disabled>プリントを生成</button>
+        <button class="btn btn-accent" id="printBtn" style="display:none">🖨️ 印刷する</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Print Preview ===== -->
+  <div id="printPreview" class="print-preview" style="display:none">
+    <div class="preview-label" id="previewLabel">プレビュー</div>
+    <div id="printContent"></div>
+  </div>
+
+  <script src="print.js"></script>
+</body>
+
+</html>

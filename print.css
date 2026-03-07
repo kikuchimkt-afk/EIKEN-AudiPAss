@@ -1,0 +1,681 @@
+/* ============================================
+   AudiPass — 宿題プリント CSS
+   Settings UI (Dark Theme) + A4 Print Layout
+   ============================================ */
+
+/* ===== Reset & Base ===== */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', sans-serif;
+    background: #0a0e1a;
+    color: #e2e8f0;
+    min-height: 100vh;
+}
+
+/* ===== Settings Panel ===== */
+.settings-panel {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 24px 20px 40px;
+}
+
+.settings-header {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.back-link {
+    display: inline-block;
+    color: #64748b;
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 12px;
+    transition: color 0.2s;
+}
+
+.back-link:hover {
+    color: #93c5fd;
+}
+
+.settings-title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    background: linear-gradient(135deg, #60a5fa, #a78bfa);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.settings-subtitle {
+    color: #94a3b8;
+    font-size: 14px;
+}
+
+/* ===== Setting Groups ===== */
+.settings-body {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.setting-group {
+    background: rgba(30, 41, 59, 0.6);
+    border: 1px solid rgba(100, 116, 139, 0.2);
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.setting-label {
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+    color: #cbd5e1;
+    margin-bottom: 12px;
+}
+
+.setting-label .hint {
+    font-weight: 400;
+    font-size: 12px;
+    color: #64748b;
+}
+
+/* ===== Grade Chips ===== */
+.grade-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.grade-chip {
+    padding: 8px 16px;
+    border-radius: 20px;
+    border: 1px solid rgba(100, 116, 139, 0.3);
+    background: rgba(15, 23, 42, 0.6);
+    color: #94a3b8;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.grade-chip:hover {
+    border-color: rgba(100, 116, 139, 0.6);
+    color: #e2e8f0;
+}
+
+.grade-chip.active {
+    background: var(--chip-color, #3b82f6);
+    color: #fff;
+    border-color: transparent;
+    box-shadow: 0 2px 8px rgba(59, 130, 246, 0.3);
+}
+
+/* ===== Exam Checkboxes ===== */
+.exam-checkboxes {
+    max-height: 200px;
+    overflow-y: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.exam-checkboxes::-webkit-scrollbar {
+    width: 6px;
+}
+
+.exam-checkboxes::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.exam-checkboxes::-webkit-scrollbar-thumb {
+    background: #334155;
+    border-radius: 3px;
+}
+
+.placeholder-text {
+    color: #4b5563;
+    font-size: 13px;
+    font-style: italic;
+}
+
+.exam-checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    border-radius: 8px;
+    border: 1px solid rgba(100, 116, 139, 0.2);
+    background: rgba(15, 23, 42, 0.4);
+    cursor: pointer;
+    font-size: 13px;
+    color: #94a3b8;
+    transition: all 0.2s;
+    min-width: 140px;
+}
+
+.exam-checkbox-label:hover {
+    border-color: rgba(100, 116, 139, 0.5);
+    color: #e2e8f0;
+}
+
+.exam-checkbox-label input:checked+span {
+    color: #60a5fa;
+    font-weight: 600;
+}
+
+.select-all-btn {
+    background: none;
+    border: 1px dashed rgba(100, 116, 139, 0.4);
+    color: #60a5fa;
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+    min-width: 80px;
+}
+
+.select-all-btn:hover {
+    border-color: #60a5fa;
+    background: rgba(96, 165, 250, 0.1);
+}
+
+/* ===== Part Checkboxes ===== */
+.part-checkboxes {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    color: #94a3b8;
+    cursor: pointer;
+}
+
+.checkbox-label input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    accent-color: #3b82f6;
+}
+
+/* ===== Option Toggles ===== */
+.option-toggles {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.toggle-label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+    color: #94a3b8;
+    cursor: pointer;
+}
+
+.toggle-label input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    accent-color: #3b82f6;
+}
+
+.toggle-text {
+    line-height: 1.4;
+}
+
+/* ===== Buttons ===== */
+.action-buttons {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    padding-top: 8px;
+}
+
+.btn {
+    padding: 12px 32px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #3b82f6, #6366f1);
+    color: #fff;
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+.btn-primary:hover:not(:disabled) {
+    box-shadow: 0 6px 20px rgba(59, 130, 246, 0.5);
+    transform: translateY(-1px);
+}
+
+.btn-accent {
+    background: linear-gradient(135deg, #10b981, #059669);
+    color: #fff;
+    box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+}
+
+.btn-accent:hover {
+    transform: translateY(-1px);
+}
+
+/* ===== Print Preview ===== */
+.print-preview {
+    max-width: 780px;
+    margin: 20px auto 60px;
+    padding: 0 20px;
+}
+
+.preview-label {
+    text-align: center;
+    font-size: 13px;
+    color: #64748b;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* ===== Print Sheet (A4 style) ===== */
+.print-sheet {
+    background: #fff;
+    color: #1a1a1a;
+    padding: 36px 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+    font-family: 'Segoe UI', 'Hiragino Kaku Gothic ProN', sans-serif;
+    font-size: 12px;
+    line-height: 1.6;
+    margin-bottom: 24px;
+    page-break-after: always;
+}
+
+.sheet-header {
+    text-align: center;
+    border-bottom: 2px solid #1a1a1a;
+    padding-bottom: 12px;
+    margin-bottom: 16px;
+}
+
+.sheet-title {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.sheet-subtitle {
+    font-size: 12px;
+    color: #666;
+}
+
+.sheet-info-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+    font-size: 13px;
+}
+
+.name-field {
+    border-bottom: 1px solid #333;
+    min-width: 200px;
+    padding-bottom: 2px;
+}
+
+.date-field {
+    border-bottom: 1px solid #333;
+    min-width: 120px;
+    padding-bottom: 2px;
+}
+
+/* QR area */
+.qr-section {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background: #f9f9f9;
+}
+
+.qr-section canvas {
+    flex-shrink: 0;
+}
+
+.qr-text {
+    font-size: 11px;
+    color: #555;
+    line-height: 1.5;
+}
+
+/* Part section */
+.part-section {
+    margin-bottom: 16px;
+}
+
+.part-title {
+    font-size: 14px;
+    font-weight: 700;
+    padding: 4px 0;
+    border-bottom: 1px solid #999;
+    margin-bottom: 10px;
+    color: #1a1a1a;
+}
+
+.part-title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.part-title-row .part-title {
+    flex: 1;
+}
+
+.part-play-btn {
+    padding: 6px 14px;
+    border: none;
+    border-radius: 6px;
+    background: linear-gradient(135deg, #10b981, #059669);
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.2s;
+    flex-shrink: 0;
+}
+
+.part-play-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(16, 185, 129, 0.3);
+}
+
+.part-play-btn.playing {
+    background: linear-gradient(135deg, #ef4444, #dc2626);
+    animation: pulse-glow 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse-glow {
+
+    0%,
+    100% {
+        box-shadow: 0 0 4px rgba(239, 68, 68, 0.3);
+    }
+
+    50% {
+        box-shadow: 0 0 12px rgba(239, 68, 68, 0.6);
+    }
+}
+
+.part-instruction {
+    font-size: 11px;
+    color: #666;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+/* Question block */
+.q-passage-label {
+    font-size: 14px;
+    font-weight: 700;
+    font-style: italic;
+    color: #1a1a1a;
+    margin-top: 14px;
+    margin-bottom: 4px;
+}
+
+.q-block:first-child .q-passage-label {
+    margin-top: 0;
+}
+
+.q-block {
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    border-bottom: 1px dotted #ccc;
+}
+
+.q-number {
+    font-weight: 700;
+    font-size: 13px;
+    margin-bottom: 2px;
+}
+
+.q-question {
+    font-size: 12px;
+    margin-bottom: 4px;
+    font-weight: 500;
+}
+
+.q-situation {
+    font-size: 11.5px;
+    margin-bottom: 4px;
+    padding: 4px 8px;
+    background: #f3f4f6;
+    border-radius: 4px;
+    line-height: 1.5;
+}
+
+.situation-label {
+    font-weight: 700;
+}
+
+.q-choices {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2px 16px;
+    font-size: 11.5px;
+    padding-left: 8px;
+}
+
+.q-choice {
+    padding: 1px 0;
+}
+
+/* Answer Grid */
+.answer-grid-section {
+    margin-top: 20px;
+    border-top: 2px solid #1a1a1a;
+    padding-top: 12px;
+}
+
+.answer-grid-title {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.answer-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 6px 12px;
+    max-width: 520px;
+    margin: 0 auto;
+}
+
+.answer-cell {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+}
+
+.answer-num {
+    font-weight: 700;
+    min-width: 32px;
+}
+
+.answer-bubbles {
+    display: flex;
+    gap: 4px;
+}
+
+.bubble {
+    width: 20px;
+    height: 20px;
+    border: 1.5px solid #333;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+/* Sheet footer */
+.sheet-footer {
+    margin-top: 16px;
+    padding-top: 8px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+    font-size: 10px;
+    color: #999;
+}
+
+/* ===== PRINT MEDIA ===== */
+@media print {
+    body {
+        background: #fff;
+        margin: 0;
+        padding: 0;
+    }
+
+    .settings-panel,
+    .preview-label,
+    .no-print {
+        display: none !important;
+    }
+
+    .print-preview {
+        max-width: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .print-sheet {
+        box-shadow: none;
+        border-radius: 0;
+        padding: 20mm 15mm;
+        margin: 0;
+        page-break-after: always;
+    }
+
+    .print-sheet:last-child {
+        page-break-after: avoid;
+    }
+
+    /* Prevent questions from being split across pages */
+    .q-block {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    /* Keep part title with its first content */
+    .part-title {
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    .part-instruction {
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    /* Keep passage label with its question */
+    .q-passage-label {
+        break-after: avoid;
+        page-break-after: avoid;
+    }
+
+    /* Keep part section together if small enough, otherwise allow break */
+    .part-section {
+        break-before: auto;
+        page-break-before: auto;
+    }
+
+    /* Keep QR and header together */
+    .sheet-qr {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    /* Keep answer grid together */
+    .answer-grid-section {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    @page {
+        size: A4 portrait;
+        margin: 0;
+    }
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 600px) {
+    .settings-panel {
+        padding: 16px 12px 32px;
+    }
+
+    .settings-title {
+        font-size: 22px;
+    }
+
+    .setting-group {
+        padding: 14px;
+    }
+
+    .grade-chips {
+        gap: 6px;
+    }
+
+    .grade-chip {
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+
+    .part-checkboxes {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .action-buttons {
+        flex-direction: column;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    .print-sheet {
+        padding: 20px 16px;
+        font-size: 11px;
+    }
+
+    .answer-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

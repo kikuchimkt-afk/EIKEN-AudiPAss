@@ -4,8 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AudiPass — 英検リスニング</title>
-  <meta name="description" content="AudiPass - 英検リスニング問題の音声再生・解答・解説">
+  <title>AudiPass — リスニング</title>
+  <meta name="description" content="AudiPass - 英語資格試験リスニング問題の音声再生・解答・解説">
   <link rel="stylesheet" href="quiz.css">
 </head>
 
@@ -28,6 +28,18 @@
   <!-- Part Description -->
   <div class="part-info">
     <div class="part-description" id="partDescription"></div>
+    <div class="full-audio-bar" id="fullAudioBar">
+      <button class="full-audio-btn" id="fullAudioBtn">
+        <span class="full-audio-icon">▶</span>
+        <span class="full-audio-label">通し再生（本番形式）</span>
+      </button>
+      <div class="full-audio-progress" id="fullAudioProgress">
+        <div class="full-audio-track">
+          <div class="full-audio-fill" id="fullAudioFill"></div>
+        </div>
+        <span class="full-audio-time" id="fullAudioTime">0:00 / 0:00</span>
+      </div>
+    </div>
   </div>
 
   <!-- Controls -->

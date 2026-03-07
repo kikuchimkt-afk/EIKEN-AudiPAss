@@ -1,6 +1,6 @@
 /**
- * 英検リスニング練習 — トップページ
- * 級の選択 → 試験の選択 → quiz.html に遷移
+ * リスニング練習 — トップページ
+ * レベルの選択 → 試験の選択 → quiz.html に遷移
  */
 (function () {
     'use strict';
@@ -9,9 +9,9 @@
     const EXAM_CATALOG = [
         {
             id: 'grade-pre1',
-            name: '準1級',
-            nameEn: 'Pre-1',
-            icon: '準1',
+            name: 'CEFR B2（準1級相当）',
+            nameEn: 'CSE 2304',
+            icon: 'B2',
             color: '#f59e0b',
             colorRgb: '245, 158, 11',
             exams: [
@@ -40,9 +40,9 @@
         },
         {
             id: 'grade2',
-            name: '2級',
-            nameEn: 'Grade 2',
-            icon: '2',
+            name: 'CEFR B1（２級相当）',
+            nameEn: 'CSE 1980',
+            icon: 'B1',
             color: '#4f8cff',
             colorRgb: '79, 140, 255',
             exams: [
@@ -74,9 +74,9 @@
         },
         {
             id: 'grade-pre2plus',
-            name: '準2級プラス',
-            nameEn: 'Pre-2 Plus',
-            icon: '準2+',
+            name: 'CEFR A2-B1（準2級プラス相当）',
+            nameEn: 'CSE 1878',
+            icon: 'A2+',
             color: '#8b5cf6',
             colorRgb: '139, 92, 246',
             exams: [
@@ -87,9 +87,9 @@
         },
         {
             id: 'grade-pre2',
-            name: '準2級',
-            nameEn: 'Pre-2',
-            icon: '準2',
+            name: 'CEFR A2（準2級相当）',
+            nameEn: 'CSE 1728',
+            icon: 'A2',
             color: '#10b981',
             colorRgb: '16, 185, 129',
             exams: [
@@ -121,9 +121,9 @@
         },
         {
             id: 'grade3',
-            name: '3級',
-            nameEn: 'Grade 3',
-            icon: '3',
+            name: 'CEFR A1（３級相当）',
+            nameEn: 'CSE 1456',
+            icon: 'A1',
             color: '#f472b6',
             colorRgb: '244, 114, 182',
             exams: []
