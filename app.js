@@ -225,6 +225,9 @@
   }
 
   async function playAudio(audioFile, btn, seekBar) {
+    // Stop full part audio if playing
+    stopFullAudio();
+
     // Stop previous
     if (currentAudio) {
       currentAudio.pause();
