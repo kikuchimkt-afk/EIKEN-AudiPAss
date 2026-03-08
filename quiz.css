@@ -1114,3 +1114,19 @@ mark.highlight-key {
   background: var(--accent-green);
   color: white;
 }
+
+/* ===== ILLUSTRATION (Grade 3 Part 1) ===== */
+.illustration-box {
+  margin-bottom: 14px;
+  text-align: center;
+}
+
+.illustration-img {
+  height: 160px;
+  max-width: 60%;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-color);
+  background: #fff;
+  object-fit: contain;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}

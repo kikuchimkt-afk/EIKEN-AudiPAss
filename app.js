@@ -472,6 +472,18 @@
     const inner = document.createElement('div');
     inner.className = 'question-body-inner';
 
+    // Illustration (Grade 3 Part 1 style)
+    if (q.illustrationFile) {
+      const illBox = document.createElement('div');
+      illBox.className = 'illustration-box';
+      const img = document.createElement('img');
+      img.src = `${dataBase}${q.illustrationFile}`;
+      img.alt = `No. ${q.number} イラスト`;
+      img.className = 'illustration-img';
+      illBox.appendChild(img);
+      inner.appendChild(illBox);
+    }
+
     // Situation + Question (for Part 3 style questions)
     if (q.situation) {
       const sitBox = document.createElement('div');

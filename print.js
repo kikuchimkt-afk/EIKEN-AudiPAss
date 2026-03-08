@@ -106,7 +106,32 @@
         {
             id: 'grade3', name: 'CEFR A1（３級相当）', nameEn: 'CSE 1456', icon: 'A1',
             color: '#f472b6', colorRgb: '244, 114, 182',
-            exams: []
+            exams: [
+                { id: '2023-1', label: '2023年度 第1回' },
+                { id: '2023-2', label: '2023年度 第2回' },
+                { id: '2023-3', label: '2023年度 第3回' },
+                { id: '2024-1', label: '2024年度 第1回' },
+                { id: '2024-2', label: '2024年度 第2回' },
+                { id: '2024-3', label: '2024年度 第3回' },
+                { id: '2025-1', label: '2025年度 第1回' },
+                { id: '2025-2', label: '2025年度 第2回' },
+                { id: '2025-3', label: '2025年度 第3回' }
+            ]
+        },
+        {
+            id: 'grade4', name: 'CEFR A1（４級相当）', nameEn: 'CSE 1180', icon: 'A1',
+            color: '#a78bfa', colorRgb: '167, 139, 250',
+            exams: [
+                { id: '2023-1', label: '2023年度 第1回' },
+                { id: '2023-2', label: '2023年度 第2回' },
+                { id: '2023-3', label: '2023年度 第3回' },
+                { id: '2024-1', label: '2024年度 第1回' },
+                { id: '2024-2', label: '2024年度 第2回' },
+                { id: '2024-3', label: '2024年度 第3回' },
+                { id: '2025-1', label: '2025年度 第1回' },
+                { id: '2025-2', label: '2025年度 第2回' },
+                { id: '2025-3', label: '2025年度 第3回' }
+            ]
         }
     ];
 
@@ -344,6 +369,11 @@
 
                 // Question number
                 html += `<div class="q-number">No. ${q.number}</div>`;
+
+                // Illustration (Grade 3 Part 1)
+                if (q.illustrationFile) {
+                    html += `<div class="q-illustration"><img src="data/${selectedGrade.id}/${examId}/${q.illustrationFile}" alt="No. ${q.number}"></div>`;
+                }
 
                 // Situation + Question: Pre-1 Part 3 only
                 if (isGradePre1 && partNum === 3 && q.situation) {
