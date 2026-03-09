@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AudiPass — 使い方ガイド</title>
+    <meta name="description" content="AudiPass の使い方ガイド。英検リスニング過去問を音声付きで練習できるWebアプリです。">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <style>
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0
+        }
+
+        :root {
+            --bg: #0a0e1a;
+            --surface: #111827;
+            --card: #1e293b;
+            --border: #334155;
+            --text: #e2e8f0;
+            --text-dim: #94a3b8;
+            --accent: #6366f1;
+            --accent2: #818cf8;
+            --green: #10b981;
+            --amber: #f59e0b;
+            --pink: #f472b6;
+            --blue: #4f8cff;
+            --radius: 16px;
+        }
+
+        body {
+            font-family: 'Noto Sans JP', 'Inter', system-ui, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.8;
+            overflow-x: hidden
+        }
+
+        a {
+            color: var(--accent2);
+            text-decoration: none
+        }
+
+        a:hover {
+            text-decoration: underline
+        }
+
+        .hero {
+            text-align: center;
+            padding: 80px 24px 48px;
+            position: relative;
+            overflow: hidden
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(ellipse at 50% 0%, rgba(99, 102, 241, .15), transparent 70%);
+            pointer-events: none
+        }
+
+        .hero-badge {
+            display: inline-block;
+            padding: 6px 20px;
+            border-radius: 24px;
+            border: 1px solid rgba(99, 102, 241, .3);
+            background: rgba(99, 102, 241, .08);
+            color: var(--accent2);
+            font-size: 13px;
+            letter-spacing: 2px;
+            margin-bottom: 16px
+        }
+
+        .hero h1 {
+            font-size: clamp(28px, 5vw, 48px);
+            font-weight: 800;
+            margin-bottom: 12px;
+            background: linear-gradient(135deg, #fff, #c7d2fe);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent
+        }
+
+        .hero p {
+            font-size: 16px;
+            color: var(--text-dim);
+            max-width: 600px;
+            margin: 0 auto
+        }
+
+        .back-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-top: 24px;
+            padding: 10px 24px;
+            border-radius: 12px;
+            background: var(--accent);
+            color: #fff;
+            font-weight: 600;
+            font-size: 14px;
+            transition: transform .2s, box-shadow .2s
+        }
+
+        .back-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(99, 102, 241, .3);
+            text-decoration: none
+        }
+
+        .container {
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 0 24px 80px
+        }
+
+        .section {
+            margin-bottom: 56px
+        }
+
+        .section-number {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background: var(--accent);
+            color: #fff;
+            font-weight: 700;
+            font-size: 16px;
+            margin-right: 12px;
+            flex-shrink: 0
+        }
+
+        .section h2 {
+            display: flex;
+            align-items: center;
+            font-size: 22px;
+            font-weight: 700;
+            margin-bottom: 16px
+        }
+
+        .section h3 {
+            font-size: 17px;
+            font-weight: 600;
+            margin: 20px 0 8px;
+            color: var(--accent2)
+        }
+
+        .section p,
+        .section li {
+            font-size: 15px;
+            color: var(--text-dim);
+            line-height: 1.9
+        }
+
+        .section ul {
+            padding-left: 20px
+        }
+
+        .section li {
+            margin-bottom: 6px
+        }
+
+        .screenshot {
+            margin: 24px 0;
+            border-radius: var(--radius);
+            overflow: hidden;
+            border: 1px solid var(--border);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, .3)
+        }
+
+        .screenshot img {
+            width: 100%;
+            display: block
+        }
+
+        .screenshot-caption {
+            padding: 12px 16px;
+            background: var(--card);
+            font-size: 13px;
+            color: var(--text-dim);
+            text-align: center
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 16px;
+            margin: 24px 0
+        }
+
+        .feature-card {
+            padding: 20px;
+            border-radius: var(--radius);
+            background: var(--card);
+            border: 1px solid var(--border)
+        }
+
+        .feature-icon {
+            font-size: 28px;
+            margin-bottom: 8px
+        }
+
+        .feature-card h4 {
+            font-size: 15px;
+            font-weight: 600;
+            margin-bottom: 6px
+        }
+
+        .feature-card p {
+            font-size: 13px;
+            color: var(--text-dim);
+            line-height: 1.6
+        }
+
+        .merit-box {
+            padding: 24px;
+            border-radius: var(--radius);
+            background: linear-gradient(135deg, rgba(99, 102, 241, .1), rgba(16, 185, 129, .1));
+            border: 1px solid rgba(99, 102, 241, .2);
+            margin: 24px 0
+        }
+
+        .merit-box h3 {
+            color: #e2e8f0;
+            margin-top: 0
+        }
+
+        .merit-box li {
+            color: var(--text);
+            font-weight: 500
+        }
+
+        .tip {
+            padding: 16px 20px;
+            border-radius: 12px;
+            background: rgba(245, 158, 11, .08);
+            border-left: 4px solid var(--amber);
+            margin: 16px 0;
+            font-size: 14px;
+            color: var(--text-dim)
+        }
+
+        .tip strong {
+            color: var(--amber)
+        }
+
+        .level-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 16px 0;
+            font-size: 14px
+        }
+
+        .level-table th,
+        .level-table td {
+            padding: 10px 14px;
+            text-align: left;
+            border-bottom: 1px solid var(--border)
+        }
+
+        .level-table th {
+            background: var(--card);
+            color: var(--text);
+            font-weight: 600
+        }
+
+        .level-table td {
+            color: var(--text-dim)
+        }
+
+        .level-badge {
+            display: inline-block;
+            padding: 2px 10px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 12px;
+            color: #fff
+        }
+
+        .manual-footer {
+            text-align: center;
+            padding: 32px;
+            color: var(--text-dim);
+            font-size: 13px;
+            border-top: 1px solid var(--border)
+        }
+
+        @media(max-width:640px) {
+            .hero {
+                padding: 48px 16px 32px
+            }
+
+            .container {
+                padding: 0 16px 48px
+            }
+
+            .features {
+                grid-template-columns: 1fr
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Hero -->
+    <header class="hero">
+        <div class="hero-badge">USER GUIDE</div>
+        <h1>AudiPass 使い方ガイド</h1>
+        <p>英検リスニング過去問を音声付きで効率的に練習するためのWebアプリです</p>
+        <a href="index.html" class="back-btn">← トップページに戻る</a>
+    </header>
+
+    <div class="container">
+
+        <!-- ===== はじめに ===== -->
+        <section class="section">
+            <h2><span class="section-number">✦</span>AudiPass とは</h2>
+            <p>
+                <strong>AudiPass</strong> は、英検リスニング過去問を<strong>音声付き</strong>で繰り返し練習できるWebアプリです。
+                本番と同じ音声を使い、<strong>問題ごとの個別再生</strong>や<strong>通し再生（本番形式）</strong>を切り替えて、
+                効率的にリスニング力を強化できます。
+            </p>
+
+            <h3>🎯 このアプリの趣旨</h3>
+            <p>
+                リスニング力の向上には、繰り返しの練習が不可欠です。AudiPass は以下の課題を解決します：
+            </p>
+            <ul>
+                <li>CDやテープの<strong>巻き戻し・早送りが面倒</strong>で、苦手な問題だけ繰り返せない</li>
+                <li>本番のように<strong>通しで聞く練習</strong>ができる環境がない</li>
+                <li>答え合わせの後、<strong>正解の根拠</strong>が分からない</li>
+                <li>リスニング問題の<strong>スクリプト（英文）</strong>を確認したい</li>
+                <li>PC・タブレット・スマホで<strong>いつでもどこでも</strong>練習したい</li>
+            </ul>
+
+            <div class="merit-box">
+                <h3>📈 使うメリット</h3>
+                <ul>
+                    <li>✅ <strong>問題ごとの個別再生</strong> — 苦手な問題だけ何度でも繰り返し聞ける</li>
+                    <li>✅ <strong>本番形式の通し再生</strong> — 試験本番と同じペースで練習</li>
+                    <li>✅ <strong>即座に正誤判定</strong> — 選択肢をクリックするだけで正解チェック</li>
+                    <li>✅ <strong>スクリプト・解説付き</strong> — 聞き取れなかった部分を英文で確認</li>
+                    <li>✅ <strong>状況・場面の説明付き</strong> — 会話がどんな場面で行われているか理解</li>
+                    <li>✅ <strong>シークバー付き</strong> — 聞き逃した部分にピンポイントで戻れる</li>
+                    <li>✅ 準1級から4級まで<strong>6つの級</strong>に対応、合計<strong>90回以上</strong>の試験データ</li>
+                    <li>✅ <strong>宿題プリント作成機能</strong>（先生用）— 問題を印刷して配布可能</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- ===== 対応級 ===== -->
+        <section class="section">
+            <h2><span class="section-number">1</span>対応する級と試験</h2>
+            <p>AudiPass は以下の級に対応しています。トップページから級を選択してください。</p>
+
+            <table class="level-table">
+                <thead>
+                    <tr>
+                        <th>級</th>
+                        <th>CEFR</th>
+                        <th>試験データ数</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><span class="level-badge" style="background:#f59e0b">B2</span> 準1級</td>
+                        <td>B2</td>
+                        <td>21回分</td>
+                    </tr>
+                    <tr>
+                        <td><span class="level-badge" style="background:#4f8cff">B1</span> 2級</td>
+                        <td>B1</td>
+                        <td>24回分</td>
+                    </tr>
+                    <tr>
+                        <td><span class="level-badge" style="background:#8b5cf6">A2+</span> 準2級プラス</td>
+                        <td>A2-B1</td>
+                        <td>3回分</td>
+                    </tr>
+                    <tr>
+                        <td><span class="level-badge" style="background:#10b981">A2</span> 準2級</td>
+                        <td>A2</td>
+                        <td>24回分</td>
+                    </tr>
+                    <tr>
+                        <td><span class="level-badge" style="background:#f472b6">A1</span> 3級</td>
+                        <td>A1</td>
+                        <td>9回分</td>
+                    </tr>
+                    <tr>
+                        <td><span class="level-badge" style="background:#a78bfa">A1</span> 4級</td>
+                        <td>A1</td>
+                        <td>9回分</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="screenshot">
+                <img src="manual/top.png" alt="トップページ">
+                <div class="screenshot-caption">トップページ — 級を選んで試験を選びます</div>
+            </div>
+
+            <div class="screenshot">
+                <img src="manual/exams.png" alt="試験一覧">
+                <div class="screenshot-caption">試験一覧 — 年度・回ごとに過去問を選択できます</div>
+            </div>
+        </section>
+
+        <!-- ===== クイズ画面 ===== -->
+        <section class="section">
+            <h2><span class="section-number">2</span>クイズ画面の使い方</h2>
+            <p>
+                試験を選ぶと、リスニング問題のクイズ画面が表示されます。
+                画面上部に<strong>パート切り替えタブ</strong>があり、各パートの問題を切り替えられます。
+            </p>
+
+            <div class="screenshot">
+                <img src="manual/quiz.png" alt="クイズ画面">
+                <div class="screenshot-caption">クイズ画面 — パートタブ・通し再生ボタン・問題一覧が表示されます</div>
+            </div>
+
+            <h3>🔊 通し再生（本番形式）</h3>
+            <p>
+                画面上部の<strong>「▶ 本番形式で通し再生」</strong>ボタンを押すと、
+                試験本番と同じ順番・同じペースで音声が再生されます。
+                時間配分に慣れるために、まずは通しで練習しましょう。
+            </p>
+
+            <h3>🎧 問題ごとの個別再生</h3>
+            <p>
+                各問題カードには<strong>個別の再生ボタン</strong>があります。
+                苦手な問題だけを何度でも繰り返し聞くことができます。
+                <strong>シークバー</strong>をドラッグして、聞きたい部分にジャンプすることも可能です。
+            </p>
+
+            <div class="screenshot">
+                <img src="manual/quiz2.png" alt="問題カード展開">
+                <div class="screenshot-caption">問題カード — 再生ボタン・シークバー・選択肢が表示されます</div>
+            </div>
+        </section>
+
+        <!-- ===== 解答と解説 ===== -->
+        <section class="section">
+            <h2><span class="section-number">3</span>解答と解説</h2>
+            <p>
+                選択肢をクリックすると、すぐに<strong>正誤が判定</strong>されます。
+                正解の場合は緑色、不正解の場合は赤色で表示され、正解番号が明示されます。
+            </p>
+            <ul>
+                <li><strong>スクリプト（英文）</strong>— 音声の書き起こしテキストが表示されます</li>
+                <li><strong>日本語訳</strong> — スクリプトの日本語訳で内容を確認</li>
+                <li><strong>場面・状況</strong> — どんな場面の会話かを説明</li>
+                <li><strong>解説</strong> — なぜその選択肢が正解かを詳しく説明</li>
+                <li><strong>キーフレーズ</strong> — 聞き取りのポイントとなるフレーズをハイライト</li>
+            </ul>
+
+            <div class="tip">
+                <strong>💡 ヒント：</strong>最初は音声だけで解答してから、スクリプトで確認しましょう。聞き取れなかった箇所を把握し、その部分だけ繰り返し聞くのが効果的です。
+            </div>
+        </section>
+
+        <!-- ===== おすすめの学習フロー ===== -->
+        <section class="section">
+            <h2><span class="section-number">4</span>おすすめの学習フロー</h2>
+            <div class="features">
+                <div class="feature-card">
+                    <div class="feature-icon">1️⃣</div>
+                    <h4>Step 1：通しで聞く</h4>
+                    <p>まず「本番形式で通し再生」で全問を通して聞き、時間配分に慣れる</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">2️⃣</div>
+                    <h4>Step 2：解答する</h4>
+                    <p>各問題の選択肢をクリックして解答。すぐに正誤がフィードバックされる</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">3️⃣</div>
+                    <h4>Step 3：苦手を克服</h4>
+                    <p>間違えた問題の個別再生ボタンで繰り返し聞き、スクリプトで英文を確認</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">4️⃣</div>
+                    <h4>Step 4：もう一度通しで</h4>
+                    <p>弱点を克服したら、再度通しで聞いて全問正解を目指す</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== 操作ボタン ===== -->
+        <section class="section">
+            <h2><span class="section-number">5</span>操作ボタン一覧</h2>
+            <table class="level-table">
+                <thead>
+                    <tr>
+                        <th>ボタン</th>
+                        <th>機能</th>
+                        <th>説明</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>▶ 本番形式で通し再生</td>
+                        <td>通し再生</td>
+                        <td>試験本番と同じ順番で全問の音声を連続再生します</td>
+                    </tr>
+                    <tr>
+                        <td>▶（問題ごと）</td>
+                        <td>個別再生</td>
+                        <td>各問題の音声だけを再生・一時停止します</td>
+                    </tr>
+                    <tr>
+                        <td>すべて開く</td>
+                        <td>全展開</td>
+                        <td>全ての問題カードを展開して選択肢を表示します</td>
+                    </tr>
+                    <tr>
+                        <td>すべて閉じる</td>
+                        <td>全閉じ</td>
+                        <td>全ての問題カードを閉じてコンパクトにします</td>
+                    </tr>
+                    <tr>
+                        <td>リセット</td>
+                        <td>解答リセット</td>
+                        <td>全ての解答をクリアして最初からやり直します</td>
+                    </tr>
+                    <tr>
+                        <td>🖨️ 宿題プリント作成</td>
+                        <td>印刷（先生用）</td>
+                        <td>問題を印刷用に整形して出力します（トップから）</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- ===== 先生向け ===== -->
+        <section class="section">
+            <h2><span class="section-number">6</span>先生向け：宿題プリント機能</h2>
+            <p>
+                トップページ下部の<strong>「🖨️ 宿題プリント作成（先生用）」</strong>リンクから、
+                問題をプリントアウトして生徒に配布できます。
+                級・年度・パートを選んで、必要な範囲だけを印刷できるため、
+                授業や宿題の教材作成に最適です。
+            </p>
+        </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer class="manual-footer">
+        <p>AudiPass — Listening Practice</p>
+    </footer>
+</body>
+
+</html>
