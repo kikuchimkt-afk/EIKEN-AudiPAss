@@ -1,5 +1,5 @@
 /**
- * 英検リスニング問題ビューア v3
+ * リスニング問題ビューア v3
  * URLパラメータからデータをfetchでロード
  * 問題ごとの再生ボタン + 選択肢 + 正誤チェック + 解説
  */
@@ -22,6 +22,13 @@
   const scoreDisplay = document.getElementById('scoreDisplay');
   const headerTitle = document.getElementById('headerTitle');
   const headerSubtitle = document.getElementById('headerSubtitle');
+  const fullAudioBar = document.getElementById('fullAudioBar');
+  const fullAudioBtn = document.getElementById('fullAudioBtn');
+  const fullAudioIcon = fullAudioBtn.querySelector('.full-audio-icon');
+  const fullAudioLabel = fullAudioBtn.querySelector('.full-audio-label');
+  const fullAudioProgress = document.getElementById('fullAudioProgress');
+  const fullAudioFill = document.getElementById('fullAudioFill');
+  const fullAudioTime = document.getElementById('fullAudioTime');
 
   // State
   let EIKEN_DATA = null;
@@ -31,6 +38,122 @@
   let currentSeekBar = null;
   let seekAnimFrame = null;
   let userAnswers = {}; // { questionNumber: chosenAnswer }
+
+  // Full part audio state
+  let fullPartAudio = null;
+  let fullAudioAnimFrame = null;
+
+  function fmtTime(s) {
+    const m = Math.floor(s / 60);
+    return m + ':' + String(Math.floor(s % 60)).padStart(2, '0');
+  }
+
+  function stopFullAudio() {
+    if (fullPartAudio) {
+      fullPartAudio.pause();
+      if (fullPartAudio._blobUrl) URL.revokeObjectURL(fullPartAudio._blobUrl);
+      fullPartAudio = null;
+    }
+    if (fullAudioAnimFrame) { cancelAnimationFrame(fullAudioAnimFrame); fullAudioAnimFrame = null; }
+    fullAudioIcon.textContent = '▶';
+    fullAudioLabel.textContent = '通し再生（本番形式）';
+    fullAudioBtn.classList.remove('playing');
+    fullAudioProgress.classList.remove('visible');
+    fullAudioFill.style.width = '0%';
+    fullAudioTime.textContent = '0:00 / 0:00';
+  }
+
+  function updateFullAudioProgress() {
+    if (!fullPartAudio) { fullAudioAnimFrame = null; return; }
+    const dur = fullPartAudio.duration || 0;
+    const cur = fullPartAudio.currentTime || 0;
+    const pct = dur > 0 ? (cur / dur) * 100 : 0;
+    fullAudioFill.style.width = pct + '%';
+    fullAudioTime.textContent = fmtTime(cur) + ' / ' + fmtTime(dur);
+    fullAudioAnimFrame = requestAnimationFrame(updateFullAudioProgress);
+  }
+
+  async function toggleFullAudio() {
+    // If playing, stop
+    if (fullPartAudio && !fullPartAudio.paused) {
+      // Pause (don't reset position)
+      fullPartAudio.pause();
+      fullAudioIcon.textContent = '▶';
+      fullAudioLabel.textContent = '再開';
+      fullAudioBtn.classList.remove('playing');
+      if (fullAudioAnimFrame) { cancelAnimationFrame(fullAudioAnimFrame); fullAudioAnimFrame = null; }
+      return;
+    }
+
+    // Resume if paused
+    if (fullPartAudio && fullPartAudio.paused && fullPartAudio.currentTime > 0) {
+      fullAudioIcon.textContent = '⏸';
+      fullAudioLabel.textContent = '一時停止';
+      fullAudioBtn.classList.add('playing');
+      fullPartAudio.play();
+      fullAudioAnimFrame = requestAnimationFrame(updateFullAudioProgress);
+      return;
+    }
+
+    // Stop any individual question audio
+    if (currentAudio) {
+      currentAudio.pause();
+      currentAudio.currentTime = 0;
+      if (currentPlayBtn) { currentPlayBtn.classList.remove('playing'); currentPlayBtn.innerHTML = PLAY_SVG; }
+      if (currentAudio._blobUrl) URL.revokeObjectURL(currentAudio._blobUrl);
+      hideSeekBar();
+      currentAudio = null;
+      currentPlayBtn = null;
+    }
+
+    const partNum = currentPartIndex + 1;
+    const src = `${dataBase}audio/full_part${partNum}.mp3`;
+
+    fullAudioIcon.textContent = '⏳';
+    fullAudioLabel.textContent = '読み込み中...';
+
+    try {
+      const resp = await fetch(src);
+      if (!resp.ok) throw new Error('not found');
+      const blob = await resp.blob();
+      const blobUrl = URL.createObjectURL(blob);
+
+      fullPartAudio = new Audio();
+      fullPartAudio._blobUrl = blobUrl;
+      fullPartAudio.src = blobUrl;
+
+      await new Promise((resolve) => {
+        fullPartAudio.addEventListener('loadedmetadata', resolve, { once: true });
+        setTimeout(resolve, 500);
+      });
+
+      fullAudioIcon.textContent = '⏸';
+      fullAudioLabel.textContent = '一時停止';
+      fullAudioBtn.classList.add('playing');
+      fullAudioProgress.classList.add('visible');
+
+      fullPartAudio.addEventListener('ended', stopFullAudio);
+      fullPartAudio.addEventListener('error', stopFullAudio);
+
+      await fullPartAudio.play();
+      fullAudioAnimFrame = requestAnimationFrame(updateFullAudioProgress);
+    } catch (e) {
+      console.error('Full audio error:', e);
+      stopFullAudio();
+      fullAudioLabel.textContent = '音声なし';
+      setTimeout(() => { fullAudioLabel.textContent = '通し再生（本番形式）'; }, 2000);
+    }
+  }
+
+  fullAudioBtn.addEventListener('click', toggleFullAudio);
+
+  // Seek on full audio progress bar click
+  document.querySelector('.full-audio-track')?.addEventListener('click', (e) => {
+    if (!fullPartAudio) return;
+    const rect = e.currentTarget.getBoundingClientRect();
+    const pct = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
+    fullPartAudio.currentTime = pct * (fullPartAudio.duration || 0);
+  });
 
   // Speaker config
   const SPEAKERS = {
@@ -50,11 +173,12 @@
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       EIKEN_DATA = await resp.json();
 
-      // Update header
-      headerTitle.textContent = EIKEN_DATA.title || '英検 リスニング';
-      // Extract grade name from title
-      const gradeMatch = EIKEN_DATA.title.match(/英検(\S+)/);
-      headerSubtitle.textContent = `英検${gradeMatch ? gradeMatch[1] : ''} リスニング`;
+      // Update header — sanitize title to remove specific exam brand names
+      const rawTitle = EIKEN_DATA.title || 'リスニング';
+      const sanitizedTitle = rawTitle.replace(/英検/g, '').replace(/\s+/g, ' ').trim();
+      headerTitle.textContent = sanitizedTitle;
+      // Extract subtitle from title
+      headerSubtitle.textContent = 'リスニング練習';
 
       // Fix audio paths — prefix with dataBase
       EIKEN_DATA.parts.forEach(part => {
@@ -101,6 +225,9 @@
   }
 
   async function playAudio(audioFile, btn, seekBar) {
+    // Stop full part audio if playing
+    stopFullAudio();
+
     // Stop previous
     if (currentAudio) {
       currentAudio.pause();
@@ -184,6 +311,7 @@
 
   function switchPart(i) {
     if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+    stopFullAudio();
     currentPartIndex = i;
     renderTabs();
     renderPartInfo();
@@ -344,6 +472,18 @@
     const inner = document.createElement('div');
     inner.className = 'question-body-inner';
 
+    // Illustration (Grade 3 Part 1 style)
+    if (q.illustrationFile) {
+      const illBox = document.createElement('div');
+      illBox.className = 'illustration-box';
+      const img = document.createElement('img');
+      img.src = `${dataBase}${q.illustrationFile}`;
+      img.alt = `No. ${q.number} イラスト`;
+      img.className = 'illustration-img';
+      illBox.appendChild(img);
+      inner.appendChild(illBox);
+    }
+
     // Situation + Question (for Part 3 style questions)
     if (q.situation) {
       const sitBox = document.createElement('div');
@@ -387,9 +527,11 @@
           btn.innerHTML = `<span class="choice-number">${choiceNum}</span>`;
           btn.classList.add('number-only');
         } else {
+          const transHtml = isAnswered && q.choiceTranslations && q.choiceTranslations[ci]
+            ? `<span class="choice-translation">${esc(q.choiceTranslations[ci])}</span>` : '';
           btn.innerHTML = `
             <span class="choice-number">${choiceNum}</span>
-            <span class="choice-text">${esc(choice)}</span>
+            <span class="choice-text">${esc(choice)}${transHtml}</span>
           `;
         }
 
@@ -442,9 +584,10 @@
         if (isSpokenChoices && li === q.lines.length - 1) {
           el.classList.add('dialogue-prompt');
         }
+        const transLine = line.translation ? `<div class="dialogue-translation">${esc(line.translation)}</div>` : '';
         el.innerHTML = `
           <div class="speaker-icon ${cfg.cls}" title="${cfg.label}">${cfg.icon}</div>
-          <div class="dialogue-text">${highlightText(line.text, q.highlights)}</div>
+          <div class="dialogue-text">${highlightText(line.text, q.highlights)}${transLine}</div>
         `;
         dlg.appendChild(el);
       });

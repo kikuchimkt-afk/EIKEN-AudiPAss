@@ -4,8 +4,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AudiPass — 英検リスニング練習</title>
-  <meta name="description" content="AudiPass - 英検リスニング練習アプリ。各級の過去問題を音声再生・解答・解説付きで学習">
+  <title>AudiPass — リスニング練習</title>
+  <meta name="description" content="AudiPass - 英語資格試験リスニング練習アプリ。各級の過去問題を音声再生・解答・解説付きで学習">
   <link rel="stylesheet" href="top.css">
 </head>
 
@@ -16,9 +16,9 @@
     <header class="hero">
       <div class="hero-bg"></div>
       <div class="hero-content">
-        <div class="hero-badge">EIKEN LISTENING PRACTICE</div>
+        <div class="hero-badge">LISTENING PRACTICE</div>
         <h1 class="hero-title">AudiPass</h1>
-        <p class="hero-description">英検リスニング過去問題を音声付きで練習</p>
+        <p class="hero-description">英語資格試験リスニング問題を音声付きで練習</p>
       </div>
     </header>
 
@@ -26,8 +26,8 @@
     <main class="main-content">
       <section class="section" id="gradeSection">
         <div class="section-header">
-          <h2 class="section-title">級を選択</h2>
-          <p class="section-subtitle">学習したい級を選んでください</p>
+          <h2 class="section-title">レベルを選択</h2>
+          <p class="section-subtitle">学習したいレベルを選んでください</p>
         </div>
         <div class="grade-grid" id="gradeGrid"></div>
       </section>
@@ -53,9 +53,26 @@
       </section>
     </main>
 
+    <!-- Print Link -->
+    <div
+      style="text-align:center; padding: 24px 0 8px; display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+      <a href="print.html"
+        style="display:inline-flex; align-items:center; gap:8px; padding:12px 28px; background:rgba(30,41,59,0.7); border:1px solid rgba(100,116,139,0.3); border-radius:12px; color:#94a3b8; text-decoration:none; font-size:14px; transition:all 0.2s;"
+        onmouseover="this.style.borderColor='#60a5fa'; this.style.color='#e2e8f0';"
+        onmouseout="this.style.borderColor='rgba(100,116,139,0.3)'; this.style.color='#94a3b8';">
+        🖨️ 宿題プリント作成（先生用）
+      </a>
+      <a href="guide.html"
+        style="display:inline-flex; align-items:center; gap:8px; padding:12px 28px; background:rgba(99,102,241,.12); border:1px solid rgba(99,102,241,.25); border-radius:12px; color:#818cf8; text-decoration:none; font-size:14px; font-weight:600; transition:all 0.2s;"
+        onmouseover="this.style.background='rgba(99,102,241,.2)'; this.style.transform='translateY(-2px)';"
+        onmouseout="this.style.background='rgba(99,102,241,.12)'; this.style.transform='none';">
+        📖 使い方ガイド
+      </a>
+    </div>
+
     <!-- Footer -->
     <footer class="footer">
-      <p>AudiPass — Eiken Listening Practice</p>
+      <p>AudiPass — Listening Practice</p>
     </footer>
   </div>
 
