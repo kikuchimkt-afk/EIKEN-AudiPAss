@@ -1,944 +1,1206 @@
 {
-  "title": "2018年度 第3回検定一次試験 英検準1級 リスニング",
-  "parts": [
-    {
-      "name": "第1部",
-      "nameEn": "Part 1",
-      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-      "questionRange": "No. 1 〜 No. 12",
-      "questions": [
+    "title": "2018年度 第3回検定一次試験 英検準1級 リスニング",
+    "parts": [
         {
-          "number": 1,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Hi, Joe. I heard you bought a new apartment."
-            },
-            {
-              "speaker": "male",
-              "text": "Not quite. I moved into a new place, though."
-            },
-            {
-              "speaker": "female",
-              "text": "Oh, so you're just renting?"
-            },
-            {
-              "speaker": "male",
-              "text": "Yes. I don't think I'll be able to buy a place anytime soon."
-            },
-            {
-              "speaker": "female",
-              "text": "I know what you mean. I couldn't buy my condo until I'd paid off my college loans."
-            },
-            {
-              "speaker": "male",
-              "text": "That's my plan, too. I aim to pay off my current loans before even considering taking out any more."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, that shouldn't take too long now that you're a doctor."
-            }
-          ],
-          "question": "What do we learn about the man?",
-          "choices": [
-            "He is looking for a new apartment.",
-            "He is saving money for medical school.",
-            "He does not want to get further into debt.",
-            "He cannot afford to pay his rent."
-          ],
-          "explanation": "男性は現在のローンを完済してから新たなローンを組むつもりだと言っています。",
-          "highlights": [
-            "pay off my current loans before even considering taking out any more"
-          ],
-          "choiceAnalysis": "選択肢1「新しいアパートを探している」→既に引っ越した。選択肢2「医学部のために貯金」→既に医者。選択肢3「これ以上借金を増やしたくない」→正解。選択肢4「家賃を払えない」→言及なし。",
-          "audioFile": "audio/part1_q01.mp3",
-          "answer": 3
+            "name": "第1部",
+            "nameEn": "Part 1",
+            "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 1 〜 No. 12",
+            "questions": [
+                {
+                    "number": 1,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Hi, Joe. I heard you bought a new apartment.",
+                            "translation": "やあ、ジョー。新しいアパートを買ったって聞いたよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Not quite. I moved into a new place, though.",
+                            "translation": "そうでもないんだ。でも、新しい場所に引っ越したよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Oh, so you're just renting?",
+                            "translation": "ああ、じゃあ賃貸なんだ？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes. I don't think I'll be able to buy a place anytime soon.",
+                            "translation": "うん。しばらくは家を買う余裕はないと思うな。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I know what you mean. I couldn't buy my condo until I'd paid off my college loans.",
+                            "translation": "言いたいことはわかるよ。私も大学のローンを完済するまではマンションを買えなかったもの。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That's my plan, too. I aim to pay off my current loans before even considering taking out any more.",
+                            "translation": "僕もそれが計画なんだ。これ以上ローンを組むことを考える前に、今のローンを完済することを目指しているんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, that shouldn't take too long now that you're a doctor.",
+                            "translation": "まあ、医者になった今なら、それほど時間はかからないだろうね。"
+                        }
+                    ],
+                    "question": "What do we learn about the man?",
+                    "choices": [
+                        "He is looking for a new apartment.",
+                        "He is saving money for medical school.",
+                        "He does not want to get further into debt.",
+                        "He cannot afford to pay his rent."
+                    ],
+                    "explanation": "男性は現在のローンを完済してから新たなローンを組むつもりだと言っています。",
+                    "highlights": [
+                        "pay off my current loans before even considering taking out any more"
+                    ],
+                    "choiceAnalysis": "選択肢1「新しいアパートを探している」→既に引っ越した。選択肢2「医学部のために貯金」→既に医者。選択肢3「これ以上借金を増やしたくない」→正解。選択肢4「家賃を払えない」→言及なし。",
+                    "audioFile": "audio/part1_q01.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "彼は新しいアパートを探している。",
+                        "彼は医科大学のために貯金している。",
+                        "彼はこれ以上借金を増やしたくない。",
+                        "彼は家賃を払う余裕がない。"
+                    ]
+                },
+                {
+                    "number": 2,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Hi, Bill. I saw in the paper that your house is on the market.",
+                            "translation": "やあ、ビル。新聞で君の家が売りに出されているのを見たよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That's right. Our youngest son just graduated from college and moved out, so my wife and I are downsizing.",
+                            "translation": "そうなんだ。末の息子が大学を卒業して家を出たばかりだから、妻と私は家を縮小しているんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Wow, time really flies! Are you staying in the area?",
+                            "translation": "わあ、本当に時が経つのは早いね！この地域に住み続けるの？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Actually, we've bought a small condo in a retirement community just south of town, although we'll still be working for several more years.",
+                            "translation": "実は、町のすぐ南にあるリタイアメントコミュニティに小さなマンションを買ったんだ。まだ数年間は働くつもりだけどね。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "At least you're over the hump of getting your children through college. You really must be looking forward to the change.",
+                            "translation": "少なくとも、子供たちを大学に通わせるという大変な時期は乗り越えたんだね。本当に変化を楽しみにしていることだろう。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, we have mixed feelings. Our lives are much less hectic these days, but we miss having the kids at home.",
+                            "translation": "うーん、複雑な気持ちだよ。最近は生活がずっと落ち着いたけど、子供たちが家にいないのは寂しいね。"
+                        }
+                    ],
+                    "question": "Why are Bill and his wife selling their house?",
+                    "choices": [
+                        "Their children have grown up and moved out.",
+                        "Their home is too far from their workplaces.",
+                        "They need money for their children's education.",
+                        "They can make a profit due to the booming market."
+                    ],
+                    "explanation": "末の息子が大学を卒業して家を出たので、ダウンサイジングしています。",
+                    "highlights": [
+                        "youngest son just graduated from college and moved out",
+                        "my wife and I are downsizing"
+                    ],
+                    "choiceAnalysis": "選択肢1「子供たちが成長して家を出た」→正解。選択肢2「職場から遠い」→言及なし。選択肢3「教育費が必要」→卒業済み。選択肢4「市場好調で利益」→言及なし。",
+                    "audioFile": "audio/part1_q02.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "彼らの子供たちは成長して家を出た。",
+                        "彼らの家は職場から遠すぎる。",
+                        "彼らは子供たちの教育のためにお金が必要だ。",
+                        "彼らは好景気の市場のおかげで利益を出せる。"
+                    ]
+                },
+                {
+                    "number": 3,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Hi, Jun. How's Sora doing? Is she walking yet?",
+                            "translation": "やあ、ジュン。ソラちゃんはどう？もう歩いてる？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "No, but she's crawling all over the place. We have to watch her constantly.",
+                            "translation": "いや、でもあちこちハイハイしてるよ。ずっと見てなきゃいけないんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Do you have any more pictures of her?",
+                            "translation": "彼女の写真、もっとある？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Oh, just a few hundred! I'm still putting them up on my website.",
+                            "translation": "ああ、数百枚くらいかな！まだウェブサイトにアップロードしているところだよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "That's right, I forgot about your website. I'll have a look at it this evening.",
+                            "translation": "そうだ、ウェブサイトのこと忘れてた！今晩見てみるよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "She does something new almost every day. It's truly amazing.",
+                            "translation": "彼女は毎日新しいことをするんだ。本当に驚くべきことだよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "It is, isn't it? I remember that from when my two boys were babies.",
+                            "translation": "そうだよね？私の2人の息子たちが赤ちゃんの頃を思い出すよ。"
+                        }
+                    ],
+                    "question": "What will the woman probably do tonight?",
+                    "choices": [
+                        "Visit Jun's house to see his daughter.",
+                        "Look at pictures of Jun's daughter.",
+                        "Take some pictures of her children.",
+                        "Work on her own website."
+                    ],
+                    "explanation": "女性は今晩Junのウェブサイトを見ると言っています（娘の写真がアップされている）。",
+                    "highlights": [
+                        "I'll have a look at it this evening"
+                    ],
+                    "choiceAnalysis": "選択肢1「Junの家を訪問」→ウェブサイトを見る。選択肢2「Junの娘の写真を見る」→正解。選択肢3「自分の子供の写真を撮る」→言及なし。選択肢4「自分のウェブサイト」→Junのサイト。",
+                    "audioFile": "audio/part1_q03.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "ジュンの家を訪れて娘に会う。",
+                        "ジュンの娘の写真を見る。",
+                        "彼女の子供たちの写真を撮る。",
+                        "彼女自身のウェブサイトで作業する。"
+                    ]
+                },
+                {
+                    "number": 4,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "I can't believe you're so relaxed about Jennifer going on a date. I thought we agreed that she should wait until her 16th birthday.",
+                            "translation": "ジェニファーがデートに行くことについて、あなたがそんなに落ち着いているなんて信じられないわ。16歳の誕生日まで待つべきだと私たちは同意したはずよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I know, but you know how different kids are these days. Most of her friends already have boyfriends.",
+                            "translation": "わかってるよ、でも最近の子供たちがどれだけ違うか知ってるだろう。彼女の友達のほとんどはもうボーイフレンドがいるんだ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "So what's this guy like? And don't tell me he's an older guy with earrings and tattoos!",
+                            "translation": "で、その男の子はどんな感じなの？まさかピアスやタトゥーをした年上の男の子じゃないでしょうね！"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No, no. He's clean-cut, and he's quite responsible and considerate. In fact, I'm hoping his maturity will be a positive influence on her.",
+                            "translation": "いやいや。彼はきちんとした身なりで、とても責任感があって思いやりがあるんだ。実際、彼の成熟が彼女に良い影響を与えてくれることを期待しているんだ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I just hope she's ready for a relationship, and doesn't get hurt.",
+                            "translation": "彼女が関係を持つ準備ができていることを願うわ。そして傷つかないでほしい。"
+                        }
+                    ],
+                    "question": "What is the man's opinion?",
+                    "choices": [
+                        "Jennifer is too young to date.",
+                        "Jennifer's boyfriend is too old.",
+                        "Jennifer is irresponsible.",
+                        "Jennifer needs more friends."
+                    ],
+                    "explanation": "男性は16歳の誕生日まで待つべきだと同意していたと言い、まだ準備ができていないか心配しています。",
+                    "highlights": [
+                        "she should wait until her 16th birthday"
+                    ],
+                    "choiceAnalysis": "選択肢1「Jenniferはまだデートするには若すぎる」→正解。選択肢2「彼氏が年上すぎる」→言及なし。選択肢3「無責任」→言及なし。選択肢4「もっと友達が必要」→言及なし。",
+                    "audioFile": "audio/part1_q04.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "ジェニファーはデートするには若すぎる。",
+                        "ジェニファーのボーイフレンドは年上すぎる。",
+                        "ジェニファーは無責任だ。",
+                        "ジェニファーにはもっと友達が必要だ。"
+                    ]
+                },
+                {
+                    "number": 5,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Hello. I'm here to see Armand White.",
+                            "translation": "こんにちは。アーマンド・ホワイトさんにお目にかかりに来ました。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I'm afraid Mr. White's in meetings all day today. Did you make an appointment with him?",
+                            "translation": "申し訳ありませんが、ホワイト氏は本日一日中会議です。彼とのご予約はされていますか？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Actually, no. I heard there was an opening in sales here, so I decided to stop by.",
+                            "translation": "いえ、実は。こちらの営業職に空きがあると聞いて、立ち寄ってみました。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I see. Well, if you'd like to leave a résumé, I'll pass it on to Human Resources.",
+                            "translation": "なるほど。もし履歴書をお預けになりたいようでしたら、人事部にお渡しします。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "If I came back later, could I give it to Mr. White in person?",
+                            "translation": "後でまた来たら、ホワイト氏に直接お渡しできますか？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Sorry, that's out of the question.",
+                            "translation": "申し訳ありませんが、それは無理です。"
+                        }
+                    ],
+                    "question": "What does the man tell the woman?",
+                    "choices": [
+                        "Her appointment has been canceled.",
+                        "Armand White is out of the office today.",
+                        "There are no positions available.",
+                        "She can leave her résumé with him."
+                    ],
+                    "explanation": "男性は履歴書を預かって人事部に渡すと提案しています。",
+                    "highlights": [
+                        "if you'd like to leave a résumé, I'll pass it on to Human Resources"
+                    ],
+                    "choiceAnalysis": "選択肢1「予約がキャンセルされた」→予約していない。選択肢2「不在」→会議中。選択肢3「空きポストなし」→言及なし。選択肢4「履歴書を預かれる」→正解。",
+                    "audioFile": "audio/part1_q05.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "彼女の予約はキャンセルされた。",
+                        "アーマンド・ホワイトは今日、オフィスにいない。",
+                        "利用可能な職はない。",
+                        "彼女は彼に履歴書を預けることができる。"
+                    ]
+                },
+                {
+                    "number": 6,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hey, Karen. Did you hear the city's finally going to fix Elm Street Bridge?",
+                            "translation": "ねえ、カレン。市がついにエルムストリート橋を修理するって聞いた？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah. It's great they're doing the work, but my commute will be terrible.",
+                            "translation": "ええ。工事してくれるのは嬉しいけど、私の通勤はひどいことになるわ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "At least they aren't closing the bridge completely during construction.",
+                            "translation": "少なくとも、工事中に橋を完全に閉鎖するわけじゃないんだろ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Still, it's going to cause delays. I'll have to leave much earlier to get to work on time.",
+                            "translation": "それでも、遅延は避けられないわね。時間通りに仕事に着くには、もっと早く家を出なきゃ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "If you don't mind driving a bit further, you could save time by taking the scenic route along the river. It'd be less stressful.",
+                            "translation": "もう少し遠回りしてもよければ、川沿いの景色の良いルートを通れば時間を節約できるよ。ストレスも少ないだろうし。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Good idea.",
+                            "translation": "いい考えね。"
+                        }
+                    ],
+                    "question": "What is the woman's concern?",
+                    "choices": [
+                        "The construction will finish later than expected.",
+                        "The scenic route will also become busy.",
+                        "Her journey to work will take longer.",
+                        "Her commuting costs will increase."
+                    ],
+                    "explanation": "女性は工事による遅延で通勤に時間がかかることを心配しています。",
+                    "highlights": [
+                        "it's going to cause delays",
+                        "I'll have to leave much earlier to get to work on time"
+                    ],
+                    "choiceAnalysis": "選択肢1「工事が遅れる」→言及なし。選択肢2「景色のいいルートも混む」→言及なし。選択肢3「通勤時間が長くなる」→正解。選択肢4「通勤費が増える」→言及なし。",
+                    "audioFile": "audio/part1_q06.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "工事は予定より遅れて終わるだろう。",
+                        "景色の良いルートも混雑するだろう。",
+                        "彼女の通勤時間が長くなるだろう。",
+                        "彼女の通勤費用が増えるだろう。"
+                    ]
+                },
+                {
+                    "number": 7,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hello, Sharon? Stan Warner. I'm calling about our appointment next Tuesday.",
+                            "translation": "もしもし、シャロンさん？スタン・ワーナーです。来週火曜日の私たちの約束の件で電話しました。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Hi, Stan. Is there a problem?",
+                            "translation": "こんにちは、スタン。何か問題でも？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "An important sales presentation has come up, so I can't make it.",
+                            "translation": "重要な営業プレゼンテーションが入ってしまって、行けなくなりました。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I understand. We still need to discuss the contract, though.",
+                            "translation": "わかりました。でも、まだ契約について話し合う必要がありますよね。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I know. How about next Wednesday instead?",
+                            "translation": "ええ、わかっています。代わりに次の水曜日はどうですか？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Actually, I'm going to a conference that day, but I do have an opening on Thursday at 3 p.m.",
+                            "translation": "実は、その日は会議に行くのですが、木曜日の午後3時なら空いています。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That suits me fine.",
+                            "translation": "それで結構です。"
+                        }
+                    ],
+                    "question": "Why did the man call the woman?",
+                    "choices": [
+                        "To discuss a sales presentation.",
+                        "To change the contract details.",
+                        "To reschedule an appointment.",
+                        "To invite her to a conference."
+                    ],
+                    "explanation": "男性は火曜日の予約に出られないので電話しています。",
+                    "highlights": [
+                        "I'm calling about our appointment next Tuesday",
+                        "I can't make it"
+                    ],
+                    "choiceAnalysis": "選択肢1「プレゼンの相談」→プレゼンが入った。選択肢2「契約変更」→まだ話していない。選択肢3「予約の変更」→正解。選択肢4「カンファレンスに招待」→言及なし。",
+                    "audioFile": "audio/part1_q07.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "営業プレゼンテーションについて話し合うため。",
+                        "契約の詳細を変更するため。",
+                        "予約を再調整するため。",
+                        "彼女を会議に招待するため。"
+                    ]
+                },
+                {
+                    "number": 8,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Excuse me, I've been in this line for 20 minutes now, and it has barely moved.",
+                            "translation": "すみません、この列に20分も並んでいるのに、ほとんど進んでいません。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I apologize, ma'am. The flu has left us understaffed this morning. Half of our clerks are off sick. Perhaps I can direct you to an ATM.",
+                            "translation": "申し訳ございません、お客様。今朝はインフルエンザで人手不足となっておりまして。係員の半分が病欠です。ATMにご案内しましょうか？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Actually, I want to transfer some money, not make a deposit or withdrawal.",
+                            "translation": "実は、預金や引き出しではなく、送金したいんです。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "You can do that at an ATM. I'd be happy to help.",
+                            "translation": "ATMでそれができますよ。喜んでお手伝いさせていただきます。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Oh, thanks. I've never used one for that kind of transaction before.",
+                            "translation": "ああ、ありがとうございます。その種の取引でATMを使ったことがないんです。"
+                        }
+                    ],
+                    "question": "What does the man offer to do?",
+                    "choices": [
+                        "Show the woman how to make a transfer.",
+                        "Direct the woman to another branch.",
+                        "Take the woman to an available clerk.",
+                        "Keep the woman's place in the line."
+                    ],
+                    "explanation": "男性はATMで送金できると教え、手伝うと申し出ています。",
+                    "highlights": [
+                        "You can do that at an ATM. I'd be happy to help"
+                    ],
+                    "choiceAnalysis": "選択肢1「送金のやり方を教える」→正解。選択肢2「別の支店を案内」→ATMを案内。選択肢3「空いている窓口に連れていく」→人手不足。選択肢4「列の場所を確保」→言及なし。",
+                    "audioFile": "audio/part1_q08.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "女性に送金方法を教える。",
+                        "女性を別の支店に案内する。",
+                        "女性を空いている係員のもとに連れて行く。",
+                        "女性の列での場所を確保する。"
+                    ]
+                },
+                {
+                    "number": 9,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hi, Nadine. How's your job hunting going?",
+                            "translation": "やあ、ナディーン。就職活動はどう？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Hi, Andre. I've got some good connections, but I'm still not completely sure I want to start working again.",
+                            "translation": "やあ、アンドレ。いくつか良いコネはあるんだけど、また働き始めたいと完全に確信しているわけじゃないの。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Why's that? Are you worried about not being at home enough for your kids?",
+                            "translation": "どうして？子供たちのために家にいる時間が十分にないことを心配しているの？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "A little. But the real issue is I'm not sure I'm ready for the pressure.",
+                            "translation": "少しはね。でも本当の問題は、プレッシャーに耐えられるかどうかわからないってことなの。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "But you used to have such an important job, and you managed just fine. I bet you'd really enjoy working again.",
+                            "translation": "でも君は以前、そんなに重要な仕事をしていたし、うまくこなしていたじゃないか。きっとまた働くのは楽しいと思うよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I hope you're right.",
+                            "translation": "そうだといいんだけど。"
+                        }
+                    ],
+                    "question": "Why is the woman worried about working again?",
+                    "choices": [
+                        "She does not have much experience.",
+                        "She may find it too stressful.",
+                        "It will be difficult to find childcare.",
+                        "There are not many suitable jobs available."
+                    ],
+                    "explanation": "女性はプレッシャーに対する準備ができているか分からないと言っています。",
+                    "highlights": [
+                        "the real issue is I'm not sure I'm ready for the pressure"
+                    ],
+                    "choiceAnalysis": "選択肢1「経験不足」→重要な仕事をしていた。選択肢2「ストレスが大きすぎる」→正解。選択肢3「保育が難しい」→少し心配だが本題ではない。選択肢4「求人が少ない」→コネがある。",
+                    "audioFile": "audio/part1_q09.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "彼女はあまり経験がない。",
+                        "彼女はそれがストレスになりすぎると感じるかもしれない。",
+                        "育児を見つけるのが難しいだろう。",
+                        "適切な仕事があまりない。"
+                    ]
+                },
+                {
+                    "number": 10,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Did you see that newspaper article about vitamin D? It said a lack of it can cause serious health problems.",
+                            "translation": "ビタミンDに関する新聞記事見た？不足すると深刻な健康問題を引き起こす可能性があるって書いてあったわ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yeah, but it was only based on one study.",
+                            "translation": "うん、でもあれは一つの研究に基づいているだけだったよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "But it still worried me. Maybe I should consider taking vitamin D supplements.",
+                            "translation": "でもやっぱり心配になったわ。ビタミンDのサプリメントを摂ることを考えるべきかしら。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I wouldn't worry too much if I were you. The body produces vitamin D when it's exposed to the sun. You get plenty of exercise outside and eat healthily.",
+                            "translation": "僕だったらそんなに心配しないよ。体は太陽に当たるとビタミンDを生成するんだ。君は外でたくさん運動しているし、健康的な食事をしているじゃないか。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Hmm. Well, I want to look into it a bit more.",
+                            "translation": "うーん。まあ、もう少し調べてみるわ。"
+                        }
+                    ],
+                    "question": "What does the man think?",
+                    "choices": [
+                        "The woman should not be too concerned.",
+                        "The woman should try to get more vitamin D.",
+                        "The woman should do more exercise.",
+                        "The woman should consult a doctor."
+                    ],
+                    "explanation": "男性は1つの研究だけだし、外で運動しているから心配しすぎなくていいと言っています。",
+                    "highlights": [
+                        "I wouldn't worry too much if I were you"
+                    ],
+                    "choiceAnalysis": "選択肢1「心配しすぎなくていい」→正解。選択肢2「ビタミンDを摂る」→必要ないと思っている。選択肢3「もっと運動」→十分運動している。選択肢4「医者に相談」→言及なし。",
+                    "audioFile": "audio/part1_q10.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "女性はあまり心配すべきではない。",
+                        "女性はもっとビタミンDを摂取するようにすべきだ。",
+                        "女性はもっと運動すべきだ。",
+                        "女性は医者に相談すべきだ。"
+                    ]
+                },
+                {
+                    "number": 11,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Olivia, what do you think about the internship I'm applying for?",
+                            "translation": "オリビア、僕が応募しているインターンシップについてどう思う？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "To be honest, I'm not sure it's a good idea.",
+                            "translation": "正直に言うと、あまり良い考えだとは思わないわ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "It's only one day a week, so it wouldn't interfere with my research.",
+                            "translation": "週に1日だけだから、研究の邪魔にはならないよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "But the company's very similar to the one where you did your last internship.",
+                            "translation": "でも、その会社は君が前回のインターンシップをした会社ととても似ているわ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "True, but it's a better company.",
+                            "translation": "確かに、でももっと良い会社だよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, I think you should do one in another business field to learn something new.",
+                            "translation": "うーん、私は新しいことを学ぶために、別のビジネス分野でインターンシップをするべきだと思うわ。"
+                        }
+                    ],
+                    "question": "What does Olivia think the man should do?",
+                    "choices": [
+                        "Get a job instead of an internship.",
+                        "Look for an internship with a flexible schedule.",
+                        "Postpone the internship until his research is finished.",
+                        "Find an internship that will broaden his knowledge."
+                    ],
+                    "explanation": "Oliviaは別の業界でインターンをして新しいことを学ぶべきだと提案しています。",
+                    "highlights": [
+                        "you should do one in another business field to learn something new"
+                    ],
+                    "choiceAnalysis": "選択肢1「就職する」→言及なし。選択肢2「柔軟なスケジュール」→言及なし。選択肢3「研究が終わるまで延期」→言及なし。選択肢4「知識を広げるインターン」→正解。",
+                    "audioFile": "audio/part1_q11.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "インターンシップの代わりに仕事を見つける。",
+                        "柔軟なスケジュールのインターンシップを探す。",
+                        "研究が終わるまでインターンシップを延期する。",
+                        "知識を広げるインターンシップを見つける。"
+                    ]
+                },
+                {
+                    "number": 12,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Hey, Raheem. Some of us are going bowling tonight, then heading to a club. Do you want to come?",
+                            "translation": "ヘイ、ラヒーム。今夜、何人かでボウリングに行って、それからクラブに行くんだ。君も来る？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I'd love to, but I don't think I can afford it. I had to lend Alex some money to keep him going until payday.",
+                            "translation": "行きたいんだけど、余裕がないと思う。アレックスに給料日までしのぐためのお金を貸さなきゃならなかったんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Really? I'd never do that. Lending money to friends is just a recipe for disaster.",
+                            "translation": "本当？私なら絶対しないわ。友達にお金を貸すなんて、災難の元よ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Maybe, but it was difficult to say no. Anyway, I'm sure he'll give it back as soon as he can.",
+                            "translation": "そうかもしれないけど、断りづらかったんだ。とにかく、彼もできるだけ早く返してくれると信じているよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I hope he does.",
+                            "translation": "そうだといいけどね。"
+                        }
+                    ],
+                    "question": "What does the woman imply?",
+                    "choices": [
+                        "Raheem spends too much money on bowling.",
+                        "Raheem should not have lent Alex money.",
+                        "Alex should borrow from a friend with more money.",
+                        "Alex should not go to the club tonight."
+                    ],
+                    "explanation": "女性は友達にお金を貸すのは災いの元だと言い、Alexがちゃんと返してくれればいいけどと案じています。",
+                    "highlights": [
+                        "Lending money to friends is just a recipe for disaster"
+                    ],
+                    "choiceAnalysis": "選択肢1「ボウリングに使いすぎ」→言及なし。選択肢2「Alexに貸すべきでなかった」→正解。選択肢3「もっと裕福な友達に借りるべき」→言及なし。選択肢4「クラブに行くべきでない」→言及なし。",
+                    "audioFile": "audio/part1_q12.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "ラヒームはボウリングにお金を使いすぎている。",
+                        "ラヒームはアレックスにお金を貸すべきではなかった。",
+                        "アレックスはもっとお金を持っている友達から借りるべきだ。",
+                        "アレックスは今夜クラブに行くべきではない。"
+                    ]
+                }
+            ]
         },
         {
-          "number": 2,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Hi, Bill. I saw in the paper that your house is on the market."
-            },
-            {
-              "speaker": "male",
-              "text": "That's right. Our youngest son just graduated from college and moved out, so my wife and I are downsizing."
-            },
-            {
-              "speaker": "female",
-              "text": "Wow, time really flies! Are you staying in the area?"
-            },
-            {
-              "speaker": "male",
-              "text": "Actually, we've bought a small condo in a retirement community just south of town, although we'll still be working for several more years."
-            },
-            {
-              "speaker": "female",
-              "text": "At least you're over the hump of getting your children through college. You really must be looking forward to the change."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, we have mixed feelings. Our lives are much less hectic these days, but we miss having the kids at home."
-            }
-          ],
-          "question": "Why are Bill and his wife selling their house?",
-          "choices": [
-            "Their children have grown up and moved out.",
-            "Their home is too far from their workplaces.",
-            "They need money for their children's education.",
-            "They can make a profit due to the booming market."
-          ],
-          "explanation": "末の息子が大学を卒業して家を出たので、ダウンサイジングしています。",
-          "highlights": [
-            "youngest son just graduated from college and moved out",
-            "my wife and I are downsizing"
-          ],
-          "choiceAnalysis": "選択肢1「子供たちが成長して家を出た」→正解。選択肢2「職場から遠い」→言及なし。選択肢3「教育費が必要」→卒業済み。選択肢4「市場好調で利益」→言及なし。",
-          "audioFile": "audio/part1_q02.mp3",
-          "answer": 1
+            "name": "第2部",
+            "nameEn": "Part 2",
+            "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 13 〜 No. 24",
+            "questions": [
+                {
+                    "number": 13,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Secretariat has been called the greatest racehorse of all time. He set numerous records, and in 1973 he won the Triple Crown, a prize for horses that come first in three of the most competitive races in the US. Surprisingly, however, Secretariat was also famous for often being the slowest when races began. It took him time to build up speed, but by the end of the race he was nearly always far ahead of the competition.",
+                            "translation": "セクレタリアトは史上最高の競走馬と呼ばれてきました。"
+                        }
+                    ],
+                    "question": "What is one thing that Secretariat was known for?",
+                    "choices": [
+                        "He often began his races slowly.",
+                        "He was a difficult horse to control.",
+                        "He usually finished in either first or last place.",
+                        "He was the first Triple Crown winner."
+                    ],
+                    "explanation": "Secretariatはレース開始時に最も遅いことで有名でした。",
+                    "highlights": [
+                        "famous for often being the slowest when races began"
+                    ],
+                    "choiceAnalysis": "選択肢1「レースの出だしが遅い」→正解。選択肢2「制御が難しい」→言及なし。選択肢3「1位か最下位」→ほぼ常に前方。選択肢4「最初のTC勝者」→言及なし。",
+                    "audioFile": "audio/part2_q13.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "彼はよくレースをゆっくりと始めた。",
+                        "彼は制御が難しい馬だった。",
+                        "彼はたいてい1位か最下位のどちらかで終わった。",
+                        "彼は最初の三冠馬だった。"
+                    ]
+                },
+                {
+                    "number": 14,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Sadly, Secretariat developed a foot disease, and his owner had to have him put to sleep to end his suffering. After Secretariat's death, doctors examined him and discovered the reason for his amazing speed and stamina: his heart was over twice the size of an ordinary racehorse's. Some of Secretariat's descendants have been successful as well because they share the same genetic characteristic.",
+                            "translation": "悲しいことに、セクレタリアトは蹄の病気を発症し、その苦しみを終わらせるために彼のオーナーは彼を安楽死させなければなりませんでした。"
+                        }
+                    ],
+                    "question": "What was discovered after Secretariat died?",
+                    "choices": [
+                        "He had been injured in his final race.",
+                        "He had died from a rare heart disease.",
+                        "His death could have been prevented.",
+                        "His heart was much larger than normal."
+                    ],
+                    "explanation": "Secretariatの心臓は通常の競走馬の2倍以上の大きさでした。",
+                    "highlights": [
+                        "his heart was over twice the size of an ordinary racehorse's"
+                    ],
+                    "choiceAnalysis": "選択肢1「最後のレースで負傷」→足の病気。選択肢2「心臓病で死亡」→足の病気。選択肢3「死は防げた」→言及なし。選択肢4「心臓が通常より大きい」→正解。",
+                    "audioFile": "audio/part2_q14.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "彼は最後のレースで怪我をしていた。",
+                        "彼は珍しい心臓病で亡くなった。",
+                        "彼の死は防ぐことができたはずだ。",
+                        "彼の心臓は通常よりもはるかに大きかった。"
+                    ]
+                },
+                {
+                    "number": 15,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Today, it is not unusual for billionaires to make enormous donations to colleges and universities, especially world-class institutions like Harvard or Yale. The first contribution of over $100 million, however, was made by billionaire engineer Henry Rowan in 1992. It went to Glassboro State College in New Jersey. Rowan's gift was unusual because Glassboro was a small, public college whose academic reputation was adequate but not exceptional. At the time, the college was in serious financial difficulties. Rowan's gift not only saved it, but also allowed it to expand its engineering school.",
+                            "translation": "今日、億万長者が大学に巨額の寄付をすることは珍しくありません。特にハーバードやイェールのような世界的な名門校ではそうです。"
+                        }
+                    ],
+                    "question": "What is one thing we learn about Glassboro State College in 1992?",
+                    "choices": [
+                        "It had many wealthy engineering students.",
+                        "It became the largest college in New Jersey.",
+                        "It was struggling financially.",
+                        "It closed down temporarily."
+                    ],
+                    "explanation": "Glassboro州立大学は当時深刻な財政難に陥っていました。",
+                    "highlights": [
+                        "the college was in serious financial difficulties"
+                    ],
+                    "choiceAnalysis": "選択肢1「裕福な工学生が多い」→低所得の学生が多い。選択肢2「NJ最大」→小さな大学。選択肢3「財政難」→正解。選択肢4「一時閉鎖」→言及なし。",
+                    "audioFile": "audio/part2_q15.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "そこには裕福な工学部の学生がたくさんいた。",
+                        "それはニュージャージー州で最大の大学になった。",
+                        "それは財政的に苦境にあった。",
+                        "それは一時的に閉鎖された。"
+                    ]
+                },
+                {
+                    "number": 16,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Rowan felt that his money would be best spent improving engineering facilities at a college that had a large number of students from low-income backgrounds—people who otherwise may not have become successful. Many observers agree with Rowan, arguing that donations like his create greater benefits than giving to universities that are already well financed.",
+                            "translation": "ローワンは、低所得層出身の学生が多く通う大学、つまりそうでなければ成功できなかったかもしれない人々が通う大学で、工学施設を改善するために自分のお金を使うのが最も良いと感じました。"
+                        }
+                    ],
+                    "question": "Why did Henry Rowan donate to Glassboro?",
+                    "choices": [
+                        "He thought his money would have more impact there.",
+                        "He studied there before he became rich.",
+                        "He believed Harvard and Yale were overrated.",
+                        "He had been unable to attend college himself."
+                    ],
+                    "explanation": "Rowanは低所得家庭の学生が多い大学で工学施設を改善するのが最も効果的だと考えました。",
+                    "highlights": [
+                        "his money would be best spent improving engineering facilities at a college that had a large number of students from low-income backgrounds"
+                    ],
+                    "choiceAnalysis": "選択肢1「そこでの方がインパクトが大きい」→正解。選択肢2「そこで学んだ」→言及なし。選択肢3「HarvardとYaleは過大評価」→言及なし。選択肢4「大学に行けなかった」→言及なし。",
+                    "audioFile": "audio/part2_q16.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "彼はそこでお金がより大きな影響を与えると考えた。",
+                        "彼は金持ちになる前にそこで学んだ。",
+                        "彼はハーバードとイェールは過大評価されていると信じていた。",
+                        "彼は自分自身が大学に通うことができなかった。"
+                    ]
+                },
+                {
+                    "number": 17,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The first space travelers, in the 1950s, were animals. Back then, space travel involved a greater likelihood of accidents, such as explosions, so it was considered too risky for humans. Researchers were also interested in studying the effect of long periods of weightlessness on living creatures' internal organs. The animals that returned from successful missions in space were therefore closely examined for ill effects.",
+                            "translation": "1950年代の最初の宇宙旅行者は動物たちでした。"
+                        }
+                    ],
+                    "question": "What did researchers do after the animals returned from space?",
+                    "choices": [
+                        "They treated them for injuries.",
+                        "They helped them regain weight.",
+                        "They looked for physical changes.",
+                        "They trained them for further missions."
+                    ],
+                    "explanation": "研究者たちは帰還した動物を悪影響がないか綿密に調べました。",
+                    "highlights": [
+                        "closely examined for ill effects"
+                    ],
+                    "choiceAnalysis": "選択肢1「怪我の治療」→調査が目的。選択肢2「体重回復を助けた」→言及なし。選択肢3「身体的変化を調べた」→正解。選択肢4「次のミッションの訓練」→言及なし。",
+                    "audioFile": "audio/part2_q17.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "彼らは動物たちの怪我を治療した。",
+                        "彼らは動物たちが体重を回復するのを助けた。",
+                        "彼らは動物たちの身体的な変化を探した。",
+                        "彼らは動物たちを次のミッションのために訓練した。"
+                    ]
+                },
+                {
+                    "number": 18,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The US often sent chimpanzees into space. They are biologically similar to humans and could be trained to perform simple in-flight tasks. Russian scientists, however, found apes and monkeys too excitable and unpredictable, and sent dogs instead. Dogs could be trained to sit quietly for long periods of time, and it was thought this would help them remain calm in flight. The canine astronauts were also female because the scientists thought they had a more mild-mannered nature than male dogs.",
+                            "translation": "アメリカはしばしばチンパンジーを宇宙に送りました。"
+                        }
+                    ],
+                    "question": "Why did Russian scientists choose to send dogs into space?",
+                    "choices": [
+                        "Their organs could cope well with weightlessness.",
+                        "Their behavior was suited to space travel.",
+                        "They could fit easily in a space capsule.",
+                        "They were capable of learning tasks quickly."
+                    ],
+                    "explanation": "ロシアの科学者は猿が興奮しやすく予測不可能だと考え、犬は長時間静かに座っていられるので宇宙旅行に適していると判断しました。",
+                    "highlights": [
+                        "Dogs could be trained to sit quietly for long periods of time"
+                    ],
+                    "choiceAnalysis": "選択肢1「無重力に対応」→言及なし。選択肢2「行動が宇宙旅行に適している」→正解。選択肢3「カプセルに収まる」→言及なし。選択肢4「タスクを素早く学べる」→チンパンジーの特性。",
+                    "audioFile": "audio/part2_q18.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "彼らの臓器は無重力によく耐えられた。",
+                        "彼らの行動は宇宙旅行に適していた。",
+                        "彼らは宇宙カプセルに簡単に収まった。",
+                        "彼らは素早くタスクを学ぶことができた。"
+                    ]
+                },
+                {
+                    "number": 19,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "\"Selfies\" are pictures taken of oneself, often using a smartphone. The number of people posting them online has risen dramatically, and experts say selfies can positively affect people's feelings about their appearance. This is because they allow people to present themselves in a way they are proud of. In the past, most photographs on the Internet were of models, actors, or celebrities, but now selfies of ordinary people are more common. Some experts believe this has helped change the standards of beauty in popular culture.",
+                            "translation": "「セルフィー」とは、多くの場合スマートフォンを使って自分自身を撮影した写真のことです。"
+                        }
+                    ],
+                    "question": "According to the speaker, what is one effect of \"selfies\"?",
+                    "choices": [
+                        "They are motivating people to stay fit.",
+                        "They have helped young actors gain popularity.",
+                        "They can make people feel better about themselves.",
+                        "They have led to increased sales of smartphones."
+                    ],
+                    "explanation": "専門家はセルフィーが人々の外見に対する感情にプラスの影響を与えると言っています。",
+                    "highlights": [
+                        "positively affect people's feelings about their appearance"
+                    ],
+                    "choiceAnalysis": "選択肢1「健康維持の動機」→言及なし。選択肢2「若い俳優の人気」→言及なし。選択肢3「自分について良い気分になれる」→正解。選択肢4「スマホの売上増」→言及なし。",
+                    "audioFile": "audio/part2_q19.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "それらは人々が健康を維持するよう動機づけている。",
+                        "それらは若い俳優が人気を得るのを助けてきた。",
+                        "それらは人々が自分自身についてより良く感じるようにできる。",
+                        "それらはスマートフォンの売上増加につながった。"
+                    ]
+                },
+                {
+                    "number": 20,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "On the downside, people feel pressure to post selfies that will be popular and widely shared. This can be stressful, especially for teenagers. Also, critics point out that people have had fatal accidents while taking selfies in risky situations, such as at the edge of a cliff or too close to wildlife. The desire to take a memorable selfie can lead to a lack of regard for nearby hazards.",
+                            "translation": "欠点としては、人々は人気があり広く共有されるセルフィーを投稿しなければならないというプレッシャーを感じます。"
+                        }
+                    ],
+                    "question": "What is one concern critics have regarding selfies?",
+                    "choices": [
+                        "People sometimes put themselves in danger to take selfies.",
+                        "People often harm wild animals while taking selfies.",
+                        "Selfies encourage people to spend too much time online.",
+                        "Selfies can lead to online bullying."
+                    ],
+                    "explanation": "批評家は危険な状況でセルフィーを撮って致命的な事故が起きていると指摘しています。",
+                    "highlights": [
+                        "fatal accidents while taking selfies in risky situations"
+                    ],
+                    "choiceAnalysis": "選択肢1「危険な状況に身を置く」→正解。選択肢2「野生動物を傷つける」→近づきすぎる。選択肢3「ネットに時間を費やしすぎる」→言及なし。選択肢4「いじめ」→言及なし。",
+                    "audioFile": "audio/part2_q20.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "人々はセルフィーを撮るために危険な状況に身を置くことがある。",
+                        "人々はセルフィーを撮る際に野生動物を傷つけることが多い。",
+                        "セルフィーは人々がオンラインで時間を使いすぎることを促す。",
+                        "セルフィーはオンラインいじめにつながる可能性がある。"
+                    ]
+                },
+                {
+                    "number": 21,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "In 2016, the number of cyclist commuters in the city center of Copenhagen, Denmark, surpassed the number of cars. Surprisingly, however, a survey revealed that only about 1 percent of cyclists said protecting the natural environment was their main reason for cycling rather than driving. About 19 percent said improving their health was their main motivation. The most common reason given was rather unexpected: 54 percent said cycling was usually the quickest way to get from one place to another.",
+                            "translation": "2016年、デンマークのコペンハーゲン市中心部における自転車通勤者の数は、車の数を上回りました。"
+                        }
+                    ],
+                    "question": "What was the main reason given by people for cycling to work?",
+                    "choices": [
+                        "It is better for the natural environment.",
+                        "It is usually faster than driving.",
+                        "They wanted to change to a healthier lifestyle.",
+                        "They receive financial support from the city."
+                    ],
+                    "explanation": "54%が自転車が最も速い移動手段だからと回答しています。",
+                    "highlights": [
+                        "54 percent said cycling was usually the quickest way to get from one place to another"
+                    ],
+                    "choiceAnalysis": "選択肢1「環境に良い」→1%のみ。選択肢2「車より速い」→正解。選択肢3「健康的な生活」→19%。選択肢4「市の補助金」→言及なし。",
+                    "audioFile": "audio/part2_q21.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "自然環境にとってより良い。",
+                        "通常、車を運転するよりも速い。",
+                        "彼らはより健康的なライフスタイルに変えたかった。",
+                        "彼らは市から財政的支援を受けている。"
+                    ]
+                },
+                {
+                    "number": 22,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Cyclists in Copenhagen enjoy wide cycle lanes, and the city has designed special systems to speed up their commutes. For example, traffic signals in the city were originally designed with cars in mind and were timed to reduce the number of stops cars had to make at them. Recently, however, many traffic signals have been reprogrammed to do the same thing for cyclists.",
+                            "translation": "コペンハーゲンの自転車利用者は広い自転車レーンを利用しており、市は通勤を加速させるための特別なシステムを設計してきました。"
+                        }
+                    ],
+                    "question": "What is one thing Copenhagen has done to help cyclists?",
+                    "choices": [
+                        "It has repaired old cycle lanes.",
+                        "It has created cycle lanes with no traffic signals.",
+                        "It has removed the speed limit for bicycles.",
+                        "It has adjusted the timing of its traffic signals."
+                    ],
+                    "explanation": "多くの信号が自転車の停車回数を減らすように再プログラムされました。",
+                    "highlights": [
+                        "traffic signals have been reprogrammed to do the same thing for cyclists"
+                    ],
+                    "choiceAnalysis": "選択肢1「古い自転車レーンを修理」→言及なし。選択肢2「信号のないレーン」→言及なし。選択肢3「速度制限撤廃」→言及なし。選択肢4「信号のタイミングを調整」→正解。",
+                    "audioFile": "audio/part2_q22.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "古い自転車レーンを修理した。",
+                        "信号のない自転車レーンを整備した。",
+                        "自転車の速度制限を撤廃した。",
+                        "交通信号のタイミングを調整した。"
+                    ]
+                },
+                {
+                    "number": 23,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Many people believe the best way to work is to stay focused and keep working on a task until it is done. However, evidence suggests that employees might be more productive if they took frequent breaks. For instance, one social media company created a computer program that calculates employees' productivity by keeping track of what they do on their computers. The company discovered that the most productive employees took about 17 minutes of break time for every 52 minutes spent working.",
+                            "translation": "多くの人は、仕事の最善の方法は集中し続け、タスクが終わるまで作業を続けることだと信じています。"
+                        }
+                    ],
+                    "question": "What was the computer program designed to do?",
+                    "choices": [
+                        "Help employees stay awake while working.",
+                        "Prevent employees from visiting social media sites.",
+                        "Tell employees when to take breaks.",
+                        "Track employees' computer activity."
+                    ],
+                    "explanation": "プログラムは従業員がコンピューターで何をしているかを追跡して生産性を計算するものです。",
+                    "highlights": [
+                        "keeping track of what they do on their computers"
+                    ],
+                    "choiceAnalysis": "選択肢1「起きているのを助ける」→言及なし。選択肢2「SNSを防ぐ」→言及なし。選択肢3「休憩時間を通知」→言及なし。選択肢4「コンピューター活動を追跡」→正解。",
+                    "audioFile": "audio/part2_q23.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "従業員が仕事中に目を覚ましているのを助ける。",
+                        "従業員がソーシャルメディアサイトを閲覧するのを防ぐ。",
+                        "従業員に休憩を取るべき時を伝える。",
+                        "従業員のコンピューター活動を追跡する。"
+                    ]
+                },
+                {
+                    "number": 24,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Some researchers suggest that, like muscles, the brain gets tired and can benefit from brief rests. However, the type of break we take might also matter. Recent studies have shown that taking a break to do something unrelated to work can actually make employees feel more tired. However, setting a difficult task aside to do something work related but easy—such as writing a to-do list—seems to boost productivity.",
+                            "translation": "一部の研究者は、筋肉と同様に脳も疲労し、短い休息から恩恵を受けることができると示唆しています。"
+                        }
+                    ],
+                    "question": "What is one thing recent studies have shown?",
+                    "choices": [
+                        "Doing easy work during a break can be beneficial.",
+                        "It is good to chat with coworkers during a break.",
+                        "Taking breaks too often can make people tired.",
+                        "It is better to finish a difficult task before resting."
+                    ],
+                    "explanation": "仕事に関連した簡単なこと（to-doリストの作成など）をすると生産性が向上するようです。",
+                    "highlights": [
+                        "setting a difficult task aside to do something work related but easy",
+                        "seems to boost productivity"
+                    ],
+                    "choiceAnalysis": "選択肢1「休憩中の簡単な仕事が有益」→正解。選択肢2「同僚との雑談」→言及なし。選択肢3「頻繁な休憩で疲れる」→仕事と無関係なことで疲れる。選択肢4「難しいタスクを終えてから休む」→逆。",
+                    "audioFile": "audio/part2_q24.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "休憩中に簡単な仕事をすることは有益である。",
+                        "休憩中に同僚と話すのは良いことである。",
+                        "休憩を取りすぎると人は疲れることがある。",
+                        "休憩する前に難しいタスクを終える方が良い。"
+                    ]
+                }
+            ]
         },
         {
-          "number": 3,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Hi, Jun. How's Sora doing? Is she walking yet?"
-            },
-            {
-              "speaker": "male",
-              "text": "No, but she's crawling all over the place. We have to watch her constantly."
-            },
-            {
-              "speaker": "female",
-              "text": "Do you have any more pictures of her?"
-            },
-            {
-              "speaker": "male",
-              "text": "Oh, just a few hundred! I'm still putting them up on my website."
-            },
-            {
-              "speaker": "female",
-              "text": "That's right, I forgot about your website. I'll have a look at it this evening."
-            },
-            {
-              "speaker": "male",
-              "text": "She does something new almost every day. It's truly amazing."
-            },
-            {
-              "speaker": "female",
-              "text": "It is, isn't it? I remember that from when my two boys were babies."
-            }
-          ],
-          "question": "What will the woman probably do tonight?",
-          "choices": [
-            "Visit Jun's house to see his daughter.",
-            "Look at pictures of Jun's daughter.",
-            "Take some pictures of her children.",
-            "Work on her own website."
-          ],
-          "explanation": "女性は今晩Junのウェブサイトを見ると言っています（娘の写真がアップされている）。",
-          "highlights": [
-            "I'll have a look at it this evening"
-          ],
-          "choiceAnalysis": "選択肢1「Junの家を訪問」→ウェブサイトを見る。選択肢2「Junの娘の写真を見る」→正解。選択肢3「自分の子供の写真を撮る」→言及なし。選択肢4「自分のウェブサイト」→Junのサイト。",
-          "audioFile": "audio/part1_q03.mp3",
-          "answer": 2
-        },
-        {
-          "number": 4,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "I can't believe you're so relaxed about Jennifer going on a date. I thought we agreed that she should wait until her 16th birthday."
-            },
-            {
-              "speaker": "female",
-              "text": "I know, but you know how different kids are these days. Most of her friends already have boyfriends."
-            },
-            {
-              "speaker": "male",
-              "text": "So what's this guy like? And don't tell me he's an older guy with earrings and tattoos!"
-            },
-            {
-              "speaker": "female",
-              "text": "No, no. He's clean-cut, and he's quite responsible and considerate. In fact, I'm hoping his maturity will be a positive influence on her."
-            },
-            {
-              "speaker": "male",
-              "text": "I just hope she's ready for a relationship, and doesn't get hurt."
-            }
-          ],
-          "question": "What is the man's opinion?",
-          "choices": [
-            "Jennifer is too young to date.",
-            "Jennifer's boyfriend is too old.",
-            "Jennifer is irresponsible.",
-            "Jennifer needs more friends."
-          ],
-          "explanation": "男性は16歳の誕生日まで待つべきだと同意していたと言い、まだ準備ができていないか心配しています。",
-          "highlights": [
-            "she should wait until her 16th birthday"
-          ],
-          "choiceAnalysis": "選択肢1「Jenniferはまだデートするには若すぎる」→正解。選択肢2「彼氏が年上すぎる」→言及なし。選択肢3「無責任」→言及なし。選択肢4「もっと友達が必要」→言及なし。",
-          "audioFile": "audio/part1_q04.mp3",
-          "answer": 1
-        },
-        {
-          "number": 5,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Hello. I'm here to see Armand White."
-            },
-            {
-              "speaker": "male",
-              "text": "I'm afraid Mr. White's in meetings all day today. Did you make an appointment with him?"
-            },
-            {
-              "speaker": "female",
-              "text": "Actually, no. I heard there was an opening in sales here, so I decided to stop by."
-            },
-            {
-              "speaker": "male",
-              "text": "I see. Well, if you'd like to leave a résumé, I'll pass it on to Human Resources."
-            },
-            {
-              "speaker": "female",
-              "text": "If I came back later, could I give it to Mr. White in person?"
-            },
-            {
-              "speaker": "male",
-              "text": "Sorry, that's out of the question."
-            }
-          ],
-          "question": "What does the man tell the woman?",
-          "choices": [
-            "Her appointment has been canceled.",
-            "Armand White is out of the office today.",
-            "There are no positions available.",
-            "She can leave her résumé with him."
-          ],
-          "explanation": "男性は履歴書を預かって人事部に渡すと提案しています。",
-          "highlights": [
-            "if you'd like to leave a résumé, I'll pass it on to Human Resources"
-          ],
-          "choiceAnalysis": "選択肢1「予約がキャンセルされた」→予約していない。選択肢2「不在」→会議中。選択肢3「空きポストなし」→言及なし。選択肢4「履歴書を預かれる」→正解。",
-          "audioFile": "audio/part1_q05.mp3",
-          "answer": 4
-        },
-        {
-          "number": 6,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hey, Karen. Did you hear the city's finally going to fix Elm Street Bridge?"
-            },
-            {
-              "speaker": "female",
-              "text": "Yeah. It's great they're doing the work, but my commute will be terrible."
-            },
-            {
-              "speaker": "male",
-              "text": "At least they aren't closing the bridge completely during construction."
-            },
-            {
-              "speaker": "female",
-              "text": "Still, it's going to cause delays. I'll have to leave much earlier to get to work on time."
-            },
-            {
-              "speaker": "male",
-              "text": "If you don't mind driving a bit further, you could save time by taking the scenic route along the river. It'd be less stressful."
-            },
-            {
-              "speaker": "female",
-              "text": "Good idea."
-            }
-          ],
-          "question": "What is the woman's concern?",
-          "choices": [
-            "The construction will finish later than expected.",
-            "The scenic route will also become busy.",
-            "Her journey to work will take longer.",
-            "Her commuting costs will increase."
-          ],
-          "explanation": "女性は工事による遅延で通勤に時間がかかることを心配しています。",
-          "highlights": [
-            "it's going to cause delays",
-            "I'll have to leave much earlier to get to work on time"
-          ],
-          "choiceAnalysis": "選択肢1「工事が遅れる」→言及なし。選択肢2「景色のいいルートも混む」→言及なし。選択肢3「通勤時間が長くなる」→正解。選択肢4「通勤費が増える」→言及なし。",
-          "audioFile": "audio/part1_q06.mp3",
-          "answer": 3
-        },
-        {
-          "number": 7,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hello, Sharon? Stan Warner. I'm calling about our appointment next Tuesday."
-            },
-            {
-              "speaker": "female",
-              "text": "Hi, Stan. Is there a problem?"
-            },
-            {
-              "speaker": "male",
-              "text": "An important sales presentation has come up, so I can't make it."
-            },
-            {
-              "speaker": "female",
-              "text": "I understand. We still need to discuss the contract, though."
-            },
-            {
-              "speaker": "male",
-              "text": "I know. How about next Wednesday instead?"
-            },
-            {
-              "speaker": "female",
-              "text": "Actually, I'm going to a conference that day, but I do have an opening on Thursday at 3 p.m."
-            },
-            {
-              "speaker": "male",
-              "text": "That suits me fine."
-            }
-          ],
-          "question": "Why did the man call the woman?",
-          "choices": [
-            "To discuss a sales presentation.",
-            "To change the contract details.",
-            "To reschedule an appointment.",
-            "To invite her to a conference."
-          ],
-          "explanation": "男性は火曜日の予約に出られないので電話しています。",
-          "highlights": [
-            "I'm calling about our appointment next Tuesday",
-            "I can't make it"
-          ],
-          "choiceAnalysis": "選択肢1「プレゼンの相談」→プレゼンが入った。選択肢2「契約変更」→まだ話していない。選択肢3「予約の変更」→正解。選択肢4「カンファレンスに招待」→言及なし。",
-          "audioFile": "audio/part1_q07.mp3",
-          "answer": 3
-        },
-        {
-          "number": 8,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Excuse me, I've been in this line for 20 minutes now, and it has barely moved."
-            },
-            {
-              "speaker": "male",
-              "text": "I apologize, ma'am. The flu has left us understaffed this morning. Half of our clerks are off sick. Perhaps I can direct you to an ATM."
-            },
-            {
-              "speaker": "female",
-              "text": "Actually, I want to transfer some money, not make a deposit or withdrawal."
-            },
-            {
-              "speaker": "male",
-              "text": "You can do that at an ATM. I'd be happy to help."
-            },
-            {
-              "speaker": "female",
-              "text": "Oh, thanks. I've never used one for that kind of transaction before."
-            }
-          ],
-          "question": "What does the man offer to do?",
-          "choices": [
-            "Show the woman how to make a transfer.",
-            "Direct the woman to another branch.",
-            "Take the woman to an available clerk.",
-            "Keep the woman's place in the line."
-          ],
-          "explanation": "男性はATMで送金できると教え、手伝うと申し出ています。",
-          "highlights": [
-            "You can do that at an ATM. I'd be happy to help"
-          ],
-          "choiceAnalysis": "選択肢1「送金のやり方を教える」→正解。選択肢2「別の支店を案内」→ATMを案内。選択肢3「空いている窓口に連れていく」→人手不足。選択肢4「列の場所を確保」→言及なし。",
-          "audioFile": "audio/part1_q08.mp3",
-          "answer": 1
-        },
-        {
-          "number": 9,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hi, Nadine. How's your job hunting going?"
-            },
-            {
-              "speaker": "female",
-              "text": "Hi, Andre. I've got some good connections, but I'm still not completely sure I want to start working again."
-            },
-            {
-              "speaker": "male",
-              "text": "Why's that? Are you worried about not being at home enough for your kids?"
-            },
-            {
-              "speaker": "female",
-              "text": "A little. But the real issue is I'm not sure I'm ready for the pressure."
-            },
-            {
-              "speaker": "male",
-              "text": "But you used to have such an important job, and you managed just fine. I bet you'd really enjoy working again."
-            },
-            {
-              "speaker": "female",
-              "text": "I hope you're right."
-            }
-          ],
-          "question": "Why is the woman worried about working again?",
-          "choices": [
-            "She does not have much experience.",
-            "She may find it too stressful.",
-            "It will be difficult to find childcare.",
-            "There are not many suitable jobs available."
-          ],
-          "explanation": "女性はプレッシャーに対する準備ができているか分からないと言っています。",
-          "highlights": [
-            "the real issue is I'm not sure I'm ready for the pressure"
-          ],
-          "choiceAnalysis": "選択肢1「経験不足」→重要な仕事をしていた。選択肢2「ストレスが大きすぎる」→正解。選択肢3「保育が難しい」→少し心配だが本題ではない。選択肢4「求人が少ない」→コネがある。",
-          "audioFile": "audio/part1_q09.mp3",
-          "answer": 1
-        },
-        {
-          "number": 10,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Did you see that newspaper article about vitamin D? It said a lack of it can cause serious health problems."
-            },
-            {
-              "speaker": "male",
-              "text": "Yeah, but it was only based on one study."
-            },
-            {
-              "speaker": "female",
-              "text": "But it still worried me. Maybe I should consider taking vitamin D supplements."
-            },
-            {
-              "speaker": "male",
-              "text": "I wouldn't worry too much if I were you. The body produces vitamin D when it's exposed to the sun. You get plenty of exercise outside and eat healthily."
-            },
-            {
-              "speaker": "female",
-              "text": "Hmm. Well, I want to look into it a bit more."
-            }
-          ],
-          "question": "What does the man think?",
-          "choices": [
-            "The woman should not be too concerned.",
-            "The woman should try to get more vitamin D.",
-            "The woman should do more exercise.",
-            "The woman should consult a doctor."
-          ],
-          "explanation": "男性は1つの研究だけだし、外で運動しているから心配しすぎなくていいと言っています。",
-          "highlights": [
-            "I wouldn't worry too much if I were you"
-          ],
-          "choiceAnalysis": "選択肢1「心配しすぎなくていい」→正解。選択肢2「ビタミンDを摂る」→必要ないと思っている。選択肢3「もっと運動」→十分運動している。選択肢4「医者に相談」→言及なし。",
-          "audioFile": "audio/part1_q10.mp3",
-          "answer": 3
-        },
-        {
-          "number": 11,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Olivia, what do you think about the internship I'm applying for?"
-            },
-            {
-              "speaker": "female",
-              "text": "To be honest, I'm not sure it's a good idea."
-            },
-            {
-              "speaker": "male",
-              "text": "It's only one day a week, so it wouldn't interfere with my research."
-            },
-            {
-              "speaker": "female",
-              "text": "But the company's very similar to the one where you did your last internship."
-            },
-            {
-              "speaker": "male",
-              "text": "True, but it's a better company."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, I think you should do one in another business field to learn something new."
-            }
-          ],
-          "question": "What does Olivia think the man should do?",
-          "choices": [
-            "Get a job instead of an internship.",
-            "Look for an internship with a flexible schedule.",
-            "Postpone the internship until his research is finished.",
-            "Find an internship that will broaden his knowledge."
-          ],
-          "explanation": "Oliviaは別の業界でインターンをして新しいことを学ぶべきだと提案しています。",
-          "highlights": [
-            "you should do one in another business field to learn something new"
-          ],
-          "choiceAnalysis": "選択肢1「就職する」→言及なし。選択肢2「柔軟なスケジュール」→言及なし。選択肢3「研究が終わるまで延期」→言及なし。選択肢4「知識を広げるインターン」→正解。",
-          "audioFile": "audio/part1_q11.mp3",
-          "answer": 1
-        },
-        {
-          "number": 12,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Hey, Raheem. Some of us are going bowling tonight, then heading to a club. Do you want to come?"
-            },
-            {
-              "speaker": "male",
-              "text": "I'd love to, but I don't think I can afford it. I had to lend Alex some money to keep him going until payday."
-            },
-            {
-              "speaker": "female",
-              "text": "Really? I'd never do that. Lending money to friends is just a recipe for disaster."
-            },
-            {
-              "speaker": "male",
-              "text": "Maybe, but it was difficult to say no. Anyway, I'm sure he'll give it back as soon as he can."
-            },
-            {
-              "speaker": "female",
-              "text": "I hope he does."
-            }
-          ],
-          "question": "What does the woman imply?",
-          "choices": [
-            "Raheem spends too much money on bowling.",
-            "Raheem should not have lent Alex money.",
-            "Alex should borrow from a friend with more money.",
-            "Alex should not go to the club tonight."
-          ],
-          "explanation": "女性は友達にお金を貸すのは災いの元だと言い、Alexがちゃんと返してくれればいいけどと案じています。",
-          "highlights": [
-            "Lending money to friends is just a recipe for disaster"
-          ],
-          "choiceAnalysis": "選択肢1「ボウリングに使いすぎ」→言及なし。選択肢2「Alexに貸すべきでなかった」→正解。選択肢3「もっと裕福な友達に借りるべき」→言及なし。選択肢4「クラブに行くべきでない」→言及なし。",
-          "audioFile": "audio/part1_q12.mp3",
-          "answer": 2
+            "name": "第3部",
+            "nameEn": "Part 3",
+            "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+            "questionRange": "No. 25 〜 No. 29",
+            "questions": [
+                {
+                    "number": 25,
+                    "situation": "You are a professor who will take a group of students on a one-month study trip to the UK. An administrator at your university tells you the following.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "One of the students, Michael Chan, is Chinese, so he'll need a study visa. That's no problem, but he'll have to apply in person—we can't do it for him. Make sure he takes care of it this week. The British embassy will need an official letter from us outlining the dates and purpose of the trip. I'll e-mail you a template today. Michael must submit this along with his visa application form. As soon as he gets the visa, he should let me know so I can purchase his flight ticket.",
+                            "translation": "学生の一人、マイケル・チャンは中国人なので、留学ビザが必要です。それは問題ありませんが、彼自身が申請しなければなりません。私たちが彼の代わりに申請することはできません。今週中に彼が手続きを済ませるようにしてください。"
+                        }
+                    ],
+                    "question": "What should you do for the Chinese student in your group?",
+                    "choices": [
+                        "Apply for the visa on his behalf.",
+                        "E-mail his flight details to the embassy.",
+                        "Give him an official letter for the embassy.",
+                        "Help him make his flight arrangements."
+                    ],
+                    "explanation": "大使館にはプログラムの日程と目的を記載した公式書類が必要です。テンプレートがメールで送られるので、それを学生に渡す必要があります。",
+                    "highlights": [
+                        "The British embassy will need an official letter from us",
+                        "Michael must submit this along with his visa application form"
+                    ],
+                    "choiceAnalysis": "選択肢1「代わりにビザ申請」→本人が申請必要。選択肢2「フライト詳細をメール」→言及なし。選択肢3「公式書類を渡す」→正解。選択肢4「フライト手配を手伝う」→ビザ取得後に管理者が手配。",
+                    "audioFile": "audio/part3_q25.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "彼の代わりにビザを申請する。",
+                        "彼のフライト詳細を大使館にメールする。",
+                        "大使館向けに公式の手紙を彼に渡す。",
+                        "彼のフライト手配を手伝う。"
+                    ]
+                },
+                {
+                    "number": 26,
+                    "situation": "A do-it-yourself bookshelf kit you bought recently is missing some screw holes. You want to keep the bookshelf and do not want to pay more money. You call the store.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "I'm sorry that your bookshelf is missing screw holes. Unfortunately, that was the last unit of that model, so we won't be getting more in. You could exchange it for a different model, but what we have would cost you more. If you'd like, we can drill the holes for you. Just bring the pieces that need drilling to the store. Or, if you want a refund, put everything back in the box and bring it in with the receipt. You could also send the item back to us, but you'd have to pay the shipping charge yourself.",
+                            "translation": "本棚にネジ穴がないとのこと、申し訳ございません。残念ながら、それがそのモデルの最後のユニットでしたので、これ以上入荷することはありません。"
+                        }
+                    ],
+                    "question": "What should you do?",
+                    "choices": [
+                        "Wait for a new unit to be available.",
+                        "Get holes put in at the store.",
+                        "Make sure you have the receipt.",
+                        "Send the whole bookshelf back to the store."
+                    ],
+                    "explanation": "本棚を保持し追加費用なし→店で穴を開けてもらうのが条件に合います。",
+                    "highlights": [
+                        "we can drill the holes for you",
+                        "Just bring the pieces that need drilling to the store"
+                    ],
+                    "choiceAnalysis": "選択肢1「新しいユニットを待つ」→同じモデルなし。選択肢2「店で穴を開けてもらう」→正解。選択肢3「レシートを確認」→返金の場合。選択肢4「送り返す」→送料自己負担。",
+                    "audioFile": "audio/part3_q26.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "新しいユニットが利用可能になるのを待つ。",
+                        "店で穴を開けてもらう。",
+                        "レシートを持っていることを確認する。",
+                        "本棚全体を店に送り返す。"
+                    ]
+                },
+                {
+                    "number": 27,
+                    "situation": "You are at a comic-book convention. You want to attend the panel discussion. You are a vegetarian. You hear the following announcement.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Thank you everyone. We'll break for lunch now. The next event, the panel discussion with Brian Reynolds, creator of Space Dynasty, will begin in one hour. For lunch options, if you like hamburgers, Mary Jane's restaurant is just across the street. For vegetarians, there's a Mediterranean restaurant two blocks east of here. It's popular, though, so there'll be at least an hour wait for tables. There's also an outdoor Indian food stand nearby, which has a variety of meat and nonmeat options, so you could get something there and eat in the lobby of this building, where there's plenty of seating. Unfortunately, the café on the first floor is closed for remodeling.",
+                            "translation": "皆さん、ありがとうございます。これで昼食休憩に入ります。次のイベント、スペース・ダイナスティのクリエイターであるブライアン・レイノルズとのパネルディスカッションは1時間後に始まります。"
+                        }
+                    ],
+                    "question": "Where should you get your lunch?",
+                    "choices": [
+                        "Mary Jane's.",
+                        "The Mediterranean restaurant.",
+                        "The Indian food stand.",
+                        "The first-floor café."
+                    ],
+                    "explanation": "ベジタリアン+パネルディスカッションに間に合う必要→地中海レストランは1時間待ち。インドのフードスタンドはベジタリアンメニューがありすぐに食べられます。",
+                    "highlights": [
+                        "outdoor Indian food stand",
+                        "variety of meat and nonmeat options"
+                    ],
+                    "choiceAnalysis": "選択肢1「Mary Jane's」→ハンバーガー。選択肢2「地中海レストラン」→1時間待ち。選択肢3「インドのフードスタンド」→正解。選択肢4「1階カフェ」→改装中。",
+                    "audioFile": "audio/part3_q27.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "メアリー・ジェーンズ。",
+                        "地中海料理レストラン。",
+                        "インド料理の屋台。",
+                        "1階のカフェ。"
+                    ]
+                },
+                {
+                    "number": 28,
+                    "situation": "Your car is leaking oil. The problem began after you had your oil changed. When you call ATC Auto Repairs, the shop manager tells you the following.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Bob, who changed your oil, is a great mechanic, so it's unlikely he's at fault. Sometimes parts fail, however. It could be a filter problem or the oil-tank plug may have come loose. Check the oil level right away and see if you're still above the \"low\" mark. If so, you're probably OK for now, but you should get the car checked by a professional as soon as possible. I can set you up with a free inspection here at ATC. If the oil is below the low mark, call me back right away, and I'll send a mechanic to your house. Don't drive the car as it may damage the engine.",
+                            "translation": "オイル交換をしたボブは素晴らしい整備士なので、彼に過失がある可能性は低いでしょう。しかし、部品が故障することもあります。フィルターの問題か、オイルタンクのプラグが緩んでいるのかもしれません。"
+                        }
+                    ],
+                    "question": "What should you do first?",
+                    "choices": [
+                        "Drive back to the shop.",
+                        "Check your oil level.",
+                        "Tighten the oil-tank plug.",
+                        "Ask a mechanic to come to your house."
+                    ],
+                    "explanation": "マネージャーはまずオイルレベルをすぐに確認するよう言っています。",
+                    "highlights": [
+                        "Check the oil level right away"
+                    ],
+                    "choiceAnalysis": "選択肢1「店に戻る」→運転しないで。選択肢2「オイルレベルを確認」→正解。選択肢3「プラグを締める」→原因かも。選択肢4「メカニックを呼ぶ」→低い場合のみ。",
+                    "audioFile": "audio/part3_q28.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "店まで車で戻る。",
+                        "オイルレベルを確認する。",
+                        "オイルタンクのプラグを締める。",
+                        "修理工に家に来てもらうように頼む。"
+                    ]
+                },
+                {
+                    "number": 29,
+                    "situation": "You are a foreigner living in the United States. You hire a tax expert to help file your taxes, and he gives you the following advice.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Before last year, you were considered a nonresident alien for tax purposes because you were a graduate student. You had to pay federal and state income tax but not social security or Medicare tax. Your new H-1B work visa makes you a resident, so you'll need to pay those this time. To fill out your tax forms, I need a statement from your bank here in California showing the interest on your savings. The rental income you've received from your home in Japan is considered foreign-earned income, and since the amount is less than $90,000, you're not required to pay taxes on it.",
+                            "translation": "昨年までは、あなたは大学院生だったので、税法上は非居住外国人として扱われていました。"
+                        }
+                    ],
+                    "question": "What should you do to complete your taxes?",
+                    "choices": [
+                        "Provide a copy of your new visa.",
+                        "Complete an application for Medicare.",
+                        "Report your rental income from Japan.",
+                        "Obtain the required bank document."
+                    ],
+                    "explanation": "税務専門家はカリフォルニアの銀行の利息明細が必要だと言っています。",
+                    "highlights": [
+                        "I need a statement from your bank here in California showing the interest on your savings"
+                    ],
+                    "choiceAnalysis": "選択肢1「ビザのコピー」→言及なし。選択肢2「Medicareの申請」→支払う必要があるだけ。選択肢3「賃貸収入を報告」→課税対象外。選択肢4「銀行の書類を取得」→正解。",
+                    "audioFile": "audio/part3_q29.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "新しいビザのコピーを提出する。",
+                        "メディケアの申請書を記入する。",
+                        "日本からの賃貸収入を申告する。",
+                        "必要な銀行書類を入手する。"
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "第2部",
-      "nameEn": "Part 2",
-      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-      "questionRange": "No. 13 〜 No. 24",
-      "questions": [
-        {
-          "number": 13,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Secretariat has been called the greatest racehorse of all time. He set numerous records, and in 1973 he won the Triple Crown, a prize for horses that come first in three of the most competitive races in the US. Surprisingly, however, Secretariat was also famous for often being the slowest when races began. It took him time to build up speed, but by the end of the race he was nearly always far ahead of the competition."
-            }
-          ],
-          "question": "What is one thing that Secretariat was known for?",
-          "choices": [
-            "He often began his races slowly.",
-            "He was a difficult horse to control.",
-            "He usually finished in either first or last place.",
-            "He was the first Triple Crown winner."
-          ],
-          "explanation": "Secretariatはレース開始時に最も遅いことで有名でした。",
-          "highlights": [
-            "famous for often being the slowest when races began"
-          ],
-          "choiceAnalysis": "選択肢1「レースの出だしが遅い」→正解。選択肢2「制御が難しい」→言及なし。選択肢3「1位か最下位」→ほぼ常に前方。選択肢4「最初のTC勝者」→言及なし。",
-          "audioFile": "audio/part2_q13.mp3",
-          "answer": 1
-        },
-        {
-          "number": 14,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Sadly, Secretariat developed a foot disease, and his owner had to have him put to sleep to end his suffering. After Secretariat's death, doctors examined him and discovered the reason for his amazing speed and stamina: his heart was over twice the size of an ordinary racehorse's. Some of Secretariat's descendants have been successful as well because they share the same genetic characteristic."
-            }
-          ],
-          "question": "What was discovered after Secretariat died?",
-          "choices": [
-            "He had been injured in his final race.",
-            "He had died from a rare heart disease.",
-            "His death could have been prevented.",
-            "His heart was much larger than normal."
-          ],
-          "explanation": "Secretariatの心臓は通常の競走馬の2倍以上の大きさでした。",
-          "highlights": [
-            "his heart was over twice the size of an ordinary racehorse's"
-          ],
-          "choiceAnalysis": "選択肢1「最後のレースで負傷」→足の病気。選択肢2「心臓病で死亡」→足の病気。選択肢3「死は防げた」→言及なし。選択肢4「心臓が通常より大きい」→正解。",
-          "audioFile": "audio/part2_q14.mp3",
-          "answer": 4
-        },
-        {
-          "number": 15,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Today, it is not unusual for billionaires to make enormous donations to colleges and universities, especially world-class institutions like Harvard or Yale. The first contribution of over $100 million, however, was made by billionaire engineer Henry Rowan in 1992. It went to Glassboro State College in New Jersey. Rowan's gift was unusual because Glassboro was a small, public college whose academic reputation was adequate but not exceptional. At the time, the college was in serious financial difficulties. Rowan's gift not only saved it, but also allowed it to expand its engineering school."
-            }
-          ],
-          "question": "What is one thing we learn about Glassboro State College in 1992?",
-          "choices": [
-            "It had many wealthy engineering students.",
-            "It became the largest college in New Jersey.",
-            "It was struggling financially.",
-            "It closed down temporarily."
-          ],
-          "explanation": "Glassboro州立大学は当時深刻な財政難に陥っていました。",
-          "highlights": [
-            "the college was in serious financial difficulties"
-          ],
-          "choiceAnalysis": "選択肢1「裕福な工学生が多い」→低所得の学生が多い。選択肢2「NJ最大」→小さな大学。選択肢3「財政難」→正解。選択肢4「一時閉鎖」→言及なし。",
-          "audioFile": "audio/part2_q15.mp3",
-          "answer": 3
-        },
-        {
-          "number": 16,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Rowan felt that his money would be best spent improving engineering facilities at a college that had a large number of students from low-income backgrounds—people who otherwise may not have become successful. Many observers agree with Rowan, arguing that donations like his create greater benefits than giving to universities that are already well financed."
-            }
-          ],
-          "question": "Why did Henry Rowan donate to Glassboro?",
-          "choices": [
-            "He thought his money would have more impact there.",
-            "He studied there before he became rich.",
-            "He believed Harvard and Yale were overrated.",
-            "He had been unable to attend college himself."
-          ],
-          "explanation": "Rowanは低所得家庭の学生が多い大学で工学施設を改善するのが最も効果的だと考えました。",
-          "highlights": [
-            "his money would be best spent improving engineering facilities at a college that had a large number of students from low-income backgrounds"
-          ],
-          "choiceAnalysis": "選択肢1「そこでの方がインパクトが大きい」→正解。選択肢2「そこで学んだ」→言及なし。選択肢3「HarvardとYaleは過大評価」→言及なし。選択肢4「大学に行けなかった」→言及なし。",
-          "audioFile": "audio/part2_q16.mp3",
-          "answer": 1
-        },
-        {
-          "number": 17,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The first space travelers, in the 1950s, were animals. Back then, space travel involved a greater likelihood of accidents, such as explosions, so it was considered too risky for humans. Researchers were also interested in studying the effect of long periods of weightlessness on living creatures' internal organs. The animals that returned from successful missions in space were therefore closely examined for ill effects."
-            }
-          ],
-          "question": "What did researchers do after the animals returned from space?",
-          "choices": [
-            "They treated them for injuries.",
-            "They helped them regain weight.",
-            "They looked for physical changes.",
-            "They trained them for further missions."
-          ],
-          "explanation": "研究者たちは帰還した動物を悪影響がないか綿密に調べました。",
-          "highlights": [
-            "closely examined for ill effects"
-          ],
-          "choiceAnalysis": "選択肢1「怪我の治療」→調査が目的。選択肢2「体重回復を助けた」→言及なし。選択肢3「身体的変化を調べた」→正解。選択肢4「次のミッションの訓練」→言及なし。",
-          "audioFile": "audio/part2_q17.mp3",
-          "answer": 3
-        },
-        {
-          "number": 18,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The US often sent chimpanzees into space. They are biologically similar to humans and could be trained to perform simple in-flight tasks. Russian scientists, however, found apes and monkeys too excitable and unpredictable, and sent dogs instead. Dogs could be trained to sit quietly for long periods of time, and it was thought this would help them remain calm in flight. The canine astronauts were also female because the scientists thought they had a more mild-mannered nature than male dogs."
-            }
-          ],
-          "question": "Why did Russian scientists choose to send dogs into space?",
-          "choices": [
-            "Their organs could cope well with weightlessness.",
-            "Their behavior was suited to space travel.",
-            "They could fit easily in a space capsule.",
-            "They were capable of learning tasks quickly."
-          ],
-          "explanation": "ロシアの科学者は猿が興奮しやすく予測不可能だと考え、犬は長時間静かに座っていられるので宇宙旅行に適していると判断しました。",
-          "highlights": [
-            "Dogs could be trained to sit quietly for long periods of time"
-          ],
-          "choiceAnalysis": "選択肢1「無重力に対応」→言及なし。選択肢2「行動が宇宙旅行に適している」→正解。選択肢3「カプセルに収まる」→言及なし。選択肢4「タスクを素早く学べる」→チンパンジーの特性。",
-          "audioFile": "audio/part2_q18.mp3",
-          "answer": 2
-        },
-        {
-          "number": 19,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "\"Selfies\" are pictures taken of oneself, often using a smartphone. The number of people posting them online has risen dramatically, and experts say selfies can positively affect people's feelings about their appearance. This is because they allow people to present themselves in a way they are proud of. In the past, most photographs on the Internet were of models, actors, or celebrities, but now selfies of ordinary people are more common. Some experts believe this has helped change the standards of beauty in popular culture."
-            }
-          ],
-          "question": "According to the speaker, what is one effect of \"selfies\"?",
-          "choices": [
-            "They are motivating people to stay fit.",
-            "They have helped young actors gain popularity.",
-            "They can make people feel better about themselves.",
-            "They have led to increased sales of smartphones."
-          ],
-          "explanation": "専門家はセルフィーが人々の外見に対する感情にプラスの影響を与えると言っています。",
-          "highlights": [
-            "positively affect people's feelings about their appearance"
-          ],
-          "choiceAnalysis": "選択肢1「健康維持の動機」→言及なし。選択肢2「若い俳優の人気」→言及なし。選択肢3「自分について良い気分になれる」→正解。選択肢4「スマホの売上増」→言及なし。",
-          "audioFile": "audio/part2_q19.mp3",
-          "answer": 3
-        },
-        {
-          "number": 20,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "On the downside, people feel pressure to post selfies that will be popular and widely shared. This can be stressful, especially for teenagers. Also, critics point out that people have had fatal accidents while taking selfies in risky situations, such as at the edge of a cliff or too close to wildlife. The desire to take a memorable selfie can lead to a lack of regard for nearby hazards."
-            }
-          ],
-          "question": "What is one concern critics have regarding selfies?",
-          "choices": [
-            "People sometimes put themselves in danger to take selfies.",
-            "People often harm wild animals while taking selfies.",
-            "Selfies encourage people to spend too much time online.",
-            "Selfies can lead to online bullying."
-          ],
-          "explanation": "批評家は危険な状況でセルフィーを撮って致命的な事故が起きていると指摘しています。",
-          "highlights": [
-            "fatal accidents while taking selfies in risky situations"
-          ],
-          "choiceAnalysis": "選択肢1「危険な状況に身を置く」→正解。選択肢2「野生動物を傷つける」→近づきすぎる。選択肢3「ネットに時間を費やしすぎる」→言及なし。選択肢4「いじめ」→言及なし。",
-          "audioFile": "audio/part2_q20.mp3",
-          "answer": 1
-        },
-        {
-          "number": 21,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "In 2016, the number of cyclist commuters in the city center of Copenhagen, Denmark, surpassed the number of cars. Surprisingly, however, a survey revealed that only about 1 percent of cyclists said protecting the natural environment was their main reason for cycling rather than driving. About 19 percent said improving their health was their main motivation. The most common reason given was rather unexpected: 54 percent said cycling was usually the quickest way to get from one place to another."
-            }
-          ],
-          "question": "What was the main reason given by people for cycling to work?",
-          "choices": [
-            "It is better for the natural environment.",
-            "It is usually faster than driving.",
-            "They wanted to change to a healthier lifestyle.",
-            "They receive financial support from the city."
-          ],
-          "explanation": "54%が自転車が最も速い移動手段だからと回答しています。",
-          "highlights": [
-            "54 percent said cycling was usually the quickest way to get from one place to another"
-          ],
-          "choiceAnalysis": "選択肢1「環境に良い」→1%のみ。選択肢2「車より速い」→正解。選択肢3「健康的な生活」→19%。選択肢4「市の補助金」→言及なし。",
-          "audioFile": "audio/part2_q21.mp3",
-          "answer": 2
-        },
-        {
-          "number": 22,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Cyclists in Copenhagen enjoy wide cycle lanes, and the city has designed special systems to speed up their commutes. For example, traffic signals in the city were originally designed with cars in mind and were timed to reduce the number of stops cars had to make at them. Recently, however, many traffic signals have been reprogrammed to do the same thing for cyclists."
-            }
-          ],
-          "question": "What is one thing Copenhagen has done to help cyclists?",
-          "choices": [
-            "It has repaired old cycle lanes.",
-            "It has created cycle lanes with no traffic signals.",
-            "It has removed the speed limit for bicycles.",
-            "It has adjusted the timing of its traffic signals."
-          ],
-          "explanation": "多くの信号が自転車の停車回数を減らすように再プログラムされました。",
-          "highlights": [
-            "traffic signals have been reprogrammed to do the same thing for cyclists"
-          ],
-          "choiceAnalysis": "選択肢1「古い自転車レーンを修理」→言及なし。選択肢2「信号のないレーン」→言及なし。選択肢3「速度制限撤廃」→言及なし。選択肢4「信号のタイミングを調整」→正解。",
-          "audioFile": "audio/part2_q22.mp3",
-          "answer": 4
-        },
-        {
-          "number": 23,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Many people believe the best way to work is to stay focused and keep working on a task until it is done. However, evidence suggests that employees might be more productive if they took frequent breaks. For instance, one social media company created a computer program that calculates employees' productivity by keeping track of what they do on their computers. The company discovered that the most productive employees took about 17 minutes of break time for every 52 minutes spent working."
-            }
-          ],
-          "question": "What was the computer program designed to do?",
-          "choices": [
-            "Help employees stay awake while working.",
-            "Prevent employees from visiting social media sites.",
-            "Tell employees when to take breaks.",
-            "Track employees' computer activity."
-          ],
-          "explanation": "プログラムは従業員がコンピューターで何をしているかを追跡して生産性を計算するものです。",
-          "highlights": [
-            "keeping track of what they do on their computers"
-          ],
-          "choiceAnalysis": "選択肢1「起きているのを助ける」→言及なし。選択肢2「SNSを防ぐ」→言及なし。選択肢3「休憩時間を通知」→言及なし。選択肢4「コンピューター活動を追跡」→正解。",
-          "audioFile": "audio/part2_q23.mp3",
-          "answer": 4
-        },
-        {
-          "number": 24,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Some researchers suggest that, like muscles, the brain gets tired and can benefit from brief rests. However, the type of break we take might also matter. Recent studies have shown that taking a break to do something unrelated to work can actually make employees feel more tired. However, setting a difficult task aside to do something work related but easy—such as writing a to-do list—seems to boost productivity."
-            }
-          ],
-          "question": "What is one thing recent studies have shown?",
-          "choices": [
-            "Doing easy work during a break can be beneficial.",
-            "It is good to chat with coworkers during a break.",
-            "Taking breaks too often can make people tired.",
-            "It is better to finish a difficult task before resting."
-          ],
-          "explanation": "仕事に関連した簡単なこと（to-doリストの作成など）をすると生産性が向上するようです。",
-          "highlights": [
-            "setting a difficult task aside to do something work related but easy",
-            "seems to boost productivity"
-          ],
-          "choiceAnalysis": "選択肢1「休憩中の簡単な仕事が有益」→正解。選択肢2「同僚との雑談」→言及なし。選択肢3「頻繁な休憩で疲れる」→仕事と無関係なことで疲れる。選択肢4「難しいタスクを終えてから休む」→逆。",
-          "audioFile": "audio/part2_q24.mp3",
-          "answer": 1
-        }
-      ]
-    },
-    {
-      "name": "第3部",
-      "nameEn": "Part 3",
-      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
-      "questionRange": "No. 25 〜 No. 29",
-      "questions": [
-        {
-          "number": 25,
-          "situation": "You are a professor who will take a group of students on a one-month study trip to the UK. An administrator at your university tells you the following.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "One of the students, Michael Chan, is Chinese, so he'll need a study visa. That's no problem, but he'll have to apply in person—we can't do it for him. Make sure he takes care of it this week. The British embassy will need an official letter from us outlining the dates and purpose of the trip. I'll e-mail you a template today. Michael must submit this along with his visa application form. As soon as he gets the visa, he should let me know so I can purchase his flight ticket."
-            }
-          ],
-          "question": "What should you do for the Chinese student in your group?",
-          "choices": [
-            "Apply for the visa on his behalf.",
-            "E-mail his flight details to the embassy.",
-            "Give him an official letter for the embassy.",
-            "Help him make his flight arrangements."
-          ],
-          "explanation": "大使館にはプログラムの日程と目的を記載した公式書類が必要です。テンプレートがメールで送られるので、それを学生に渡す必要があります。",
-          "highlights": [
-            "The British embassy will need an official letter from us",
-            "Michael must submit this along with his visa application form"
-          ],
-          "choiceAnalysis": "選択肢1「代わりにビザ申請」→本人が申請必要。選択肢2「フライト詳細をメール」→言及なし。選択肢3「公式書類を渡す」→正解。選択肢4「フライト手配を手伝う」→ビザ取得後に管理者が手配。",
-          "audioFile": "audio/part3_q25.mp3",
-          "answer": 3
-        },
-        {
-          "number": 26,
-          "situation": "A do-it-yourself bookshelf kit you bought recently is missing some screw holes. You want to keep the bookshelf and do not want to pay more money. You call the store.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "I'm sorry that your bookshelf is missing screw holes. Unfortunately, that was the last unit of that model, so we won't be getting more in. You could exchange it for a different model, but what we have would cost you more. If you'd like, we can drill the holes for you. Just bring the pieces that need drilling to the store. Or, if you want a refund, put everything back in the box and bring it in with the receipt. You could also send the item back to us, but you'd have to pay the shipping charge yourself."
-            }
-          ],
-          "question": "What should you do?",
-          "choices": [
-            "Wait for a new unit to be available.",
-            "Get holes put in at the store.",
-            "Make sure you have the receipt.",
-            "Send the whole bookshelf back to the store."
-          ],
-          "explanation": "本棚を保持し追加費用なし→店で穴を開けてもらうのが条件に合います。",
-          "highlights": [
-            "we can drill the holes for you",
-            "Just bring the pieces that need drilling to the store"
-          ],
-          "choiceAnalysis": "選択肢1「新しいユニットを待つ」→同じモデルなし。選択肢2「店で穴を開けてもらう」→正解。選択肢3「レシートを確認」→返金の場合。選択肢4「送り返す」→送料自己負担。",
-          "audioFile": "audio/part3_q26.mp3",
-          "answer": 2
-        },
-        {
-          "number": 27,
-          "situation": "You are at a comic-book convention. You want to attend the panel discussion. You are a vegetarian. You hear the following announcement.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Thank you everyone. We'll break for lunch now. The next event, the panel discussion with Brian Reynolds, creator of Space Dynasty, will begin in one hour. For lunch options, if you like hamburgers, Mary Jane's restaurant is just across the street. For vegetarians, there's a Mediterranean restaurant two blocks east of here. It's popular, though, so there'll be at least an hour wait for tables. There's also an outdoor Indian food stand nearby, which has a variety of meat and nonmeat options, so you could get something there and eat in the lobby of this building, where there's plenty of seating. Unfortunately, the café on the first floor is closed for remodeling."
-            }
-          ],
-          "question": "Where should you get your lunch?",
-          "choices": [
-            "Mary Jane's.",
-            "The Mediterranean restaurant.",
-            "The Indian food stand.",
-            "The first-floor café."
-          ],
-          "explanation": "ベジタリアン+パネルディスカッションに間に合う必要→地中海レストランは1時間待ち。インドのフードスタンドはベジタリアンメニューがありすぐに食べられます。",
-          "highlights": [
-            "outdoor Indian food stand",
-            "variety of meat and nonmeat options"
-          ],
-          "choiceAnalysis": "選択肢1「Mary Jane's」→ハンバーガー。選択肢2「地中海レストラン」→1時間待ち。選択肢3「インドのフードスタンド」→正解。選択肢4「1階カフェ」→改装中。",
-          "audioFile": "audio/part3_q27.mp3",
-          "answer": 3
-        },
-        {
-          "number": 28,
-          "situation": "Your car is leaking oil. The problem began after you had your oil changed. When you call ATC Auto Repairs, the shop manager tells you the following.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Bob, who changed your oil, is a great mechanic, so it's unlikely he's at fault. Sometimes parts fail, however. It could be a filter problem or the oil-tank plug may have come loose. Check the oil level right away and see if you're still above the \"low\" mark. If so, you're probably OK for now, but you should get the car checked by a professional as soon as possible. I can set you up with a free inspection here at ATC. If the oil is below the low mark, call me back right away, and I'll send a mechanic to your house. Don't drive the car as it may damage the engine."
-            }
-          ],
-          "question": "What should you do first?",
-          "choices": [
-            "Drive back to the shop.",
-            "Check your oil level.",
-            "Tighten the oil-tank plug.",
-            "Ask a mechanic to come to your house."
-          ],
-          "explanation": "マネージャーはまずオイルレベルをすぐに確認するよう言っています。",
-          "highlights": [
-            "Check the oil level right away"
-          ],
-          "choiceAnalysis": "選択肢1「店に戻る」→運転しないで。選択肢2「オイルレベルを確認」→正解。選択肢3「プラグを締める」→原因かも。選択肢4「メカニックを呼ぶ」→低い場合のみ。",
-          "audioFile": "audio/part3_q28.mp3",
-          "answer": 2
-        },
-        {
-          "number": 29,
-          "situation": "You are a foreigner living in the United States. You hire a tax expert to help file your taxes, and he gives you the following advice.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Before last year, you were considered a nonresident alien for tax purposes because you were a graduate student. You had to pay federal and state income tax but not social security or Medicare tax. Your new H-1B work visa makes you a resident, so you'll need to pay those this time. To fill out your tax forms, I need a statement from your bank here in California showing the interest on your savings. The rental income you've received from your home in Japan is considered foreign-earned income, and since the amount is less than $90,000, you're not required to pay taxes on it."
-            }
-          ],
-          "question": "What should you do to complete your taxes?",
-          "choices": [
-            "Provide a copy of your new visa.",
-            "Complete an application for Medicare.",
-            "Report your rental income from Japan.",
-            "Obtain the required bank document."
-          ],
-          "explanation": "税務専門家はカリフォルニアの銀行の利息明細が必要だと言っています。",
-          "highlights": [
-            "I need a statement from your bank here in California showing the interest on your savings"
-          ],
-          "choiceAnalysis": "選択肢1「ビザのコピー」→言及なし。選択肢2「Medicareの申請」→支払う必要があるだけ。選択肢3「賃貸収入を報告」→課税対象外。選択肢4「銀行の書類を取得」→正解。",
-          "audioFile": "audio/part3_q29.mp3",
-          "answer": 4
-        }
-      ]
-    }
-  ]
+    ]
 }

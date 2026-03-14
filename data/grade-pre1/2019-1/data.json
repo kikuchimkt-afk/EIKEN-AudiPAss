@@ -1,974 +1,1244 @@
 {
-  "title": "2019年度 第1回検定一次試験 英検準1級 リスニング",
-  "parts": [
-    {
-      "name": "第1部",
-      "nameEn": "Part 1",
-      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-      "questionRange": "No. 1 〜 No. 12",
-      "questions": [
+    "title": "2019年度 第1回検定一次試験 英検準1級 リスニング",
+    "parts": [
         {
-          "number": 1,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Calston residence."
-            },
-            {
-              "speaker": "male",
-              "text": "Hi, this is Josh. Is Tina there?"
-            },
-            {
-              "speaker": "female",
-              "text": "Sorry, Josh, she's out running."
-            },
-            {
-              "speaker": "male",
-              "text": "Could you pass on a message? The university rowing team party this evening has been called off."
-            },
-            {
-              "speaker": "female",
-              "text": "That's a shame. She was looking forward to that."
-            },
-            {
-              "speaker": "male",
-              "text": "We all were. But half the team is in bed with flu."
-            },
-            {
-              "speaker": "female",
-              "text": "Oh, dear. Well, I'll pass on the bad news. I hope you and Tina don't come down with something, as well."
-            },
-            {
-              "speaker": "male",
-              "text": "Thanks, Mrs. Calston."
-            },
-            {
-              "speaker": "female",
-              "text": "Take care."
-            }
-          ],
-          "question": "Why did Josh want to speak to Tina?",
-          "choices": [
-            "To invite her to go running.",
-            "To tell her the party is canceled.",
-            "Because she quit the rowing team.",
-            "Because he heard she had the flu."
-          ],
-          "explanation": "Joshはボート部のパーティーが中止になったことをTinaに伝えたかったのです。",
-          "highlights": [
-            "The university rowing team party this evening has been called off"
-          ],
-          "choiceAnalysis": "選択肢1「ランニングに誘う」→言及なし。選択肢2「パーティー中止を伝える」→正解。選択肢3「ボート部を辞めた」→言及なし。選択肢4「インフルエンザ」→チームの半分が病気。",
-          "audioFile": "audio/part1_q01.mp3",
-          "answer": 2
+            "name": "第1部",
+            "nameEn": "Part 1",
+            "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 1 〜 No. 12",
+            "questions": [
+                {
+                    "number": 1,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Calston residence.",
+                            "translation": "キャルストン邸です。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Hi, this is Josh. Is Tina there?",
+                            "translation": "こんにちは、ジョシュです。ティナはいますか？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Sorry, Josh, she's out running.",
+                            "translation": "ごめんなさい、ジョシュ。彼女はランニングに出かけています。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Could you pass on a message? The university rowing team party this evening has been called off.",
+                            "translation": "伝言をお願いできますか？今晩の大学ボート部のパーティーは中止になりました。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "That's a shame. She was looking forward to that.",
+                            "translation": "それは残念ですね。彼女はそれを楽しみにしていました。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "We all were. But half the team is in bed with flu.",
+                            "translation": "みんなそうでした。でも、チームの半分がインフルエンザで寝込んでいるんです。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Oh, dear. Well, I'll pass on the bad news. I hope you and Tina don't come down with something, as well.",
+                            "translation": "ああ、大変ですね。では、その悪い知らせを伝えておきます。あなたとティナも何か病気にかからないといいのですが。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Thanks, Mrs. Calston.",
+                            "translation": "ありがとうございます、キャルストンさん。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Take care.",
+                            "translation": "お大事に。"
+                        }
+                    ],
+                    "question": "Why did Josh want to speak to Tina?",
+                    "choices": [
+                        "To invite her to go running.",
+                        "To tell her the party is canceled.",
+                        "Because she quit the rowing team.",
+                        "Because he heard she had the flu."
+                    ],
+                    "explanation": "Joshはボート部のパーティーが中止になったことをTinaに伝えたかったのです。",
+                    "highlights": [
+                        "The university rowing team party this evening has been called off"
+                    ],
+                    "choiceAnalysis": "選択肢1「ランニングに誘う」→言及なし。選択肢2「パーティー中止を伝える」→正解。選択肢3「ボート部を辞めた」→言及なし。選択肢4「インフルエンザ」→チームの半分が病気。",
+                    "audioFile": "audio/part1_q01.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "彼女をランニングに誘うため。",
+                        "パーティーが中止になったことを彼女に伝えるため。",
+                        "彼女がボート部を辞めたから。",
+                        "彼が彼女がインフルエンザにかかったと聞いたから。"
+                    ]
+                },
+                {
+                    "number": 2,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "My back is aching, and my hands are sore. This digging is hard work!",
+                            "translation": "腰が痛いし、手がひりひりする。この穴掘りは大変な作業だ！"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes, but if we want to have a nice yard, we need to put in the effort.",
+                            "translation": "ええ、でも素敵な庭が欲しいなら、努力しないとね。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I just didn't think we'd have to dig out two truckloads of dirt.",
+                            "translation": "まさかトラック2台分の土を掘り出すことになるとは思わなかったわ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "The worst is over. Now we get to plan the flower garden.",
+                            "translation": "最悪の事態は終わったよ。これからは花壇の計画を立てられる。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Still, I wish we'd hired someone to do the labor.",
+                            "translation": "それでも、誰かにこの作業を頼めばよかったのにと思うわ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "You know we can't afford that. Besides, we'll get more satisfaction out of doing it ourselves.",
+                            "translation": "そんな余裕がないのは知ってるだろ。それに、自分たちでやる方がもっと満足感が得られるよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah, you're probably right.",
+                            "translation": "ええ、多分あなたの言う通りね。"
+                        }
+                    ],
+                    "question": "What is the man's opinion?",
+                    "choices": [
+                        "The garden will be worth the effort.",
+                        "They should have hired someone.",
+                        "The flower garden will be hard to design.",
+                        "They still have a lot more digging to do."
+                    ],
+                    "explanation": "男性は自分でやればもっと満足感が得られると考えており、努力の価値があると思っています。",
+                    "highlights": [
+                        "we'll get more satisfaction out of doing it ourselves"
+                    ],
+                    "choiceAnalysis": "選択肢1「努力の価値がある」→正解。選択肢2「誰かに頼むべき」→女性の意見。選択肢3「設計が難しい」→言及なし。選択肢4「まだ掘る必要がある」→最悪は終わった。",
+                    "audioFile": "audio/part1_q02.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "庭は努力に見合うものになるだろう。",
+                        "誰かを雇うべきだった。",
+                        "花壇のデザインは難しいだろう。",
+                        "まだまだ掘る作業がたくさん残っている。"
+                    ]
+                },
+                {
+                    "number": 3,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Have you heard from Janet and David Haydon lately?",
+                            "translation": "最近、ジャネットとデビッド・ヘイドンから連絡あった？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "No, why?",
+                            "translation": "いいえ、どうして？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I sent them a Christmas card, but they didn't send us one. Usually they do, you know.",
+                            "translation": "クリスマスカードを送ったんだけど、彼らからは来なかったの。いつもは送ってくるのに。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Is there any special reason to worry?",
+                            "translation": "何か心配な特別な理由でもあるの？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, wasn't David having a hip operation in November? And Janet has had a heart problem for years.",
+                            "translation": "ええと、デビッドは11月に股関節の手術を受けるんじゃなかったかしら？それにジャネットは何年も心臓の病気を抱えているし。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Hmm. I think Mike Hill would have contacted me if something serious had happened. He stays in touch with David.",
+                            "translation": "うーん。もし何か深刻なことがあったら、マイク・ヒルが私に連絡してくると思うよ。彼はデビッドと連絡を取り合っているから。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah, maybe they just forgot, but I think I'll call them later anyway.",
+                            "translation": "ええ、多分忘れただけかもしれないけど、とにかく後で電話してみるわ。"
+                        }
+                    ],
+                    "question": "Why is the woman worried about Janet and David?",
+                    "choices": [
+                        "They moved without telling her.",
+                        "Mike told her that they are both sick.",
+                        "They did not go to Mike's Christmas party.",
+                        "They have not been in touch recently."
+                    ],
+                    "explanation": "クリスマスカードの返事がなく、最近連絡がないことを心配しています。",
+                    "highlights": [
+                        "I sent them a Christmas card, but they didn't send us one"
+                    ],
+                    "choiceAnalysis": "選択肢1「引っ越した」→言及なし。選択肢2「Mikeが病気と言った」→Mikeには連絡していない。選択肢3「パーティーに来なかった」→言及なし。選択肢4「最近連絡がない」→正解。",
+                    "audioFile": "audio/part1_q03.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "彼らは彼女に知らせずに引っ越した。",
+                        "マイクが彼女に、彼ら二人とも病気だと伝えた。",
+                        "彼らはマイクのクリスマスパーティーに行かなかった。",
+                        "彼らは最近連絡を取っていない。"
+                    ]
+                },
+                {
+                    "number": 4,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I heard you got into UCLA law school. Congratulations!",
+                            "translation": "UCLAのロースクールに合格したって聞いたわ。おめでとう！"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Thanks, Mary. I'm thrilled. But now the hard work begins.",
+                            "translation": "ありがとう、メアリー。すごく嬉しいよ。でも、これからが大変なんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Don't worry. You'll do fine. So when are you moving to LA?",
+                            "translation": "心配しないで。きっとうまくいくわ。それで、いつロサンゼルスに引っ越すの？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "In two months. I've been searching online for an apartment.",
+                            "translation": "2ヶ月後だよ。オンラインでアパートを探しているんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "You know, my cousin lives in Hollywood, and I think he's looking for a roommate.",
+                            "translation": "ねぇ、私のいとこがハリウッドに住んでいて、ルームメイトを探していると思うわ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Thanks, but I want to live close to campus.",
+                            "translation": "ありがとう、でもキャンパスの近くに住みたいんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Because you'll be in the library day and night, right?",
+                            "translation": "だって、昼も夜も図書館にいるんでしょ？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Actually, that's what I'm expecting.",
+                            "translation": "実際、そのつもりなんだ。"
+                        }
+                    ],
+                    "question": "What does the man imply?",
+                    "choices": [
+                        "He will have little free time.",
+                        "He will have to find a roommate.",
+                        "He will need a part-time job.",
+                        "He will live with Mary's cousin."
+                    ],
+                    "explanation": "図書館に昼夜いることになると予想しており、自由な時間がほとんどないことを暗示しています。",
+                    "highlights": [
+                        "you'll be in the library day and night",
+                        "that's what I'm expecting"
+                    ],
+                    "choiceAnalysis": "選択肢1「自由な時間が少ない」→正解。選択肢2「ルームメイトを探す」→断った。選択肢3「バイトが必要」→言及なし。選択肢4「Maryのいとこと住む」→断った。",
+                    "audioFile": "audio/part1_q04.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "彼は自由な時間がほとんどないだろう。",
+                        "彼はルームメイトを見つけなければならないだろう。",
+                        "彼はアルバイトが必要になるだろう。",
+                        "彼はメアリーのいとこと一緒に住むだろう。"
+                    ]
+                },
+                {
+                    "number": 5,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "This is the room we'd like remodeled.",
+                            "translation": "こちらがリフォームをお願いしたい部屋です。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "OK, ma'am. And this is the door you'd like to make bigger?",
+                            "translation": "かしこまりました、奥様。こちらのドアを大きくしたいとお考えですか？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes. I want double doors put in.",
+                            "translation": "はい。両開きのドアを取り付けてほしいんです。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Right. I can have it done by the end of the month.",
+                            "translation": "承知いたしました。月末までには完了できます。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "We're having my daughter's wedding reception here on the 25th. Can you complete everything by then?",
+                            "translation": "25日にここで娘の結婚披露宴を開くんです。それまでに全てを完了できますか？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I can probably do it if I come on Saturdays as well, but I'll have to charge you extra for weekend work.",
+                            "translation": "土曜日も来ればおそらくできますが、週末の作業には追加料金をいただくことになります。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "That's no problem.",
+                            "translation": "それは問題ありません。"
+                        }
+                    ],
+                    "question": "What does the woman decide to do?",
+                    "choices": [
+                        "Simplify the remodeling plans.",
+                        "Pay extra for the work.",
+                        "Hold the reception elsewhere.",
+                        "Postpone the wedding party."
+                    ],
+                    "explanation": "25日の結婚式に間に合わせるため、週末作業の追加料金を払うことにしました。",
+                    "highlights": [
+                        "I'll have to charge you extra for weekend work",
+                        "That's no problem"
+                    ],
+                    "choiceAnalysis": "選択肢1「計画を簡素化」→言及なし。選択肢2「追加料金を払う」→正解。選択肢3「別の場所で」→言及なし。選択肢4「延期する」→言及なし。",
+                    "audioFile": "audio/part1_q05.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "リフォーム計画を簡素化する。",
+                        "その作業に追加料金を支払う。",
+                        "披露宴を別の場所で行う。",
+                        "結婚披露宴を延期する。"
+                    ]
+                },
+                {
+                    "number": 6,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I can't stand the way Lisa steals all the customers. She doesn't give anyone else a chance.",
+                            "translation": "リサが客を全部かっさらっていくやり方が我慢できないよ。他の誰にもチャンスをくれないんだから。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I know. But I guess that's why she's \"Sales Clerk of the Year.\"",
+                            "translation": "そうだね。でも、だからこそ彼女が「年間最優秀販売員」なんだろうね。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I need to increase my commissions, so I guess I'm going to have to be more aggressive myself.",
+                            "translation": "自分の歩合を増やさないといけないから、私ももっと積極的にならないといけないな。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, just don't become another Lisa. That won't endear you to the rest of the staff.",
+                            "translation": "まあ、ただ、もう一人のリサにはならないでね。それでは他のスタッフに好かれないよ。"
+                        }
+                    ],
+                    "question": "What do the speakers say about Lisa?",
+                    "choices": [
+                        "She is a difficult customer.",
+                        "She is too aggressive.",
+                        "She is popular with the staff.",
+                        "She is not polite to the customers."
+                    ],
+                    "explanation": "Lisaは全ての顧客を独占し、他の人にチャンスを与えないほど積極的すぎると言っています。",
+                    "highlights": [
+                        "steals all the customers",
+                        "She doesn't give anyone else a chance"
+                    ],
+                    "choiceAnalysis": "選択肢1「難しい顧客」→販売員。選択肢2「積極的すぎる」→正解。選択肢3「スタッフに人気」→好かれていない。選択肢4「礼儀がない」→言及なし。",
+                    "audioFile": "audio/part1_q06.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "彼女は扱いにくい顧客だ。",
+                        "彼女は攻撃的すぎる。",
+                        "彼女はスタッフに人気がある。",
+                        "彼女は顧客に丁寧ではない。"
+                    ]
+                },
+                {
+                    "number": 7,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Jeremy, have you finished preparing the slides for our presentation tomorrow?",
+                            "translation": "ジェレミー、明日のプレゼンテーションのスライドは準備し終わった？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Not yet, Ms. Itoh. I got sidetracked working on the budget proposal.",
+                            "translation": "まだです、伊藤さん。予算案の作業に気を取られてしまって。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, could you put that aside and finish off the slides and charts, please? Remember, we're rehearsing our presentation from four.",
+                            "translation": "そう。じゃあ、それは一旦置いておいて、スライドと図表を仕上げてくれる？4時からプレゼンのリハーサルがあるのを忘れないでね。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Sure thing. I'll have them ready by three, at the latest.",
+                            "translation": "もちろんです。遅くとも3時までには準備しておきます。"
+                        }
+                    ],
+                    "question": "What does the woman tell the man to do?",
+                    "choices": [
+                        "Start practicing for his speech.",
+                        "Calculate how long the presentation will take.",
+                        "Finish preparing the materials for their talk.",
+                        "Present the budget proposal."
+                    ],
+                    "explanation": "女性はスライドとチャートの準備を終えるよう指示しています。",
+                    "highlights": [
+                        "could you put that aside and finish off the slides and charts"
+                    ],
+                    "choiceAnalysis": "選択肢1「スピーチの練習」→リハーサルは4時から。選択肢2「時間の計算」→言及なし。選択肢3「資料の準備を終える」→正解。選択肢4「予算案の発表」→それを中断して。",
+                    "audioFile": "audio/part1_q07.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "スピーチの練習を始める。",
+                        "プレゼンテーションにかかる時間を計算する。",
+                        "彼らの発表資料の準備を終える。",
+                        "予算案を発表する。"
+                    ]
+                },
+                {
+                    "number": 8,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Honey, how long do you think we've been waiting for our table?",
+                            "translation": "ハニー、テーブルに案内されるまでどれくらい待ってると思う？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Probably about 15 minutes. Are you getting hungry?",
+                            "translation": "たぶん15分くらいかな。お腹空いてきた？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes. They said it'd only take five minutes! I wonder if they forgot about us.",
+                            "translation": "うん。5分しかかからないって言ったのに！私たちを忘れたんじゃないかしら。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I doubt it. They're just busy.",
+                            "translation": "それはないと思うよ。ただ忙しいだけだよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Maybe I should offer the headwaiter $20. He'll probably get us in quicker then.",
+                            "translation": "支配人に20ドル渡してみようかしら。そうすればもっと早く案内してくれるかも。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I wouldn't feel comfortable with that. Other people made reservations, too.",
+                            "translation": "それは気が進まないな。他の人たちも予約してるんだし。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, if he doesn't seat us soon, I'm going to try it anyway.",
+                            "translation": "まあ、もし彼がすぐに案内してくれないなら、とにかくやってみるわ。"
+                        }
+                    ],
+                    "question": "What does the man say he might do?",
+                    "choices": [
+                        "Confirm the couple's reservation.",
+                        "Cancel the couple's reservation.",
+                        "Ask the headwaiter for a better table.",
+                        "Offer money to the headwaiter."
+                    ],
+                    "explanation": "男性はヘッドウェイターに$20を渡して早く席に案内してもらおうとしています。",
+                    "highlights": [
+                        "Maybe I should offer the headwaiter $20"
+                    ],
+                    "choiceAnalysis": "選択肢1「予約確認」→言及なし。選択肢2「予約キャンセル」→言及なし。選択肢3「良い席を頼む」→早く案内してもらうため。選択肢4「お金を渡す」→正解。",
+                    "audioFile": "audio/part1_q08.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "そのカップルの予約を確認する。",
+                        "そのカップルの予約をキャンセルする。",
+                        "支配人に良い席を頼む。",
+                        "支配人にお金を渡す。"
+                    ]
+                },
+                {
+                    "number": 9,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "How's that new camera you bought, Rasheed?",
+                            "translation": "ラシード、新しく買ったカメラはどう？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Not so good, Sara. The autofocus stopped working three days after I got it. It's under warranty, though.",
+                            "translation": "あまり良くないんだ、サラ。買ってから3日後にオートフォーカスが動かなくなっちゃって。でも保証期間内なんだけどね。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Did the store give you another camera?",
+                            "translation": "店は別のカメラをくれたの？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Actually, they sent it to the manufacturer for repair.",
+                            "translation": "実は、修理のためにメーカーに送ったんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Really? Stores normally replace brand-new items that don't work properly.",
+                            "translation": "本当？普通、新品でちゃんと動かないものは店が交換してくれるものじゃない？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I know. I complained about that, but they said it was store policy.",
+                            "translation": "そうなんだよ。そのことについて文句を言ったんだけど、店のポリシーだって言われたんだ。"
+                        }
+                    ],
+                    "question": "Why did Rasheed complain?",
+                    "choices": [
+                        "The store would not give him a replacement camera.",
+                        "The manufacturer did not repair his camera properly.",
+                        "The store did not have the same camera in stock.",
+                        "The warranty on his camera did not cover the repairs."
+                    ],
+                    "explanation": "新品なのに交換ではなく修理に出されたことに不満を持っています。",
+                    "highlights": [
+                        "I complained about that, but they said it was store policy"
+                    ],
+                    "choiceAnalysis": "選択肢1「交換してもらえなかった」→正解。選択肢2「修理が不適切」→まだ修理中。選択肢3「在庫がない」→言及なし。選択肢4「保証対象外」→保証は有効。",
+                    "audioFile": "audio/part1_q09.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "店は彼に交換用のカメラをくれなかった。",
+                        "メーカーは彼のカメラをきちんと修理しなかった。",
+                        "店は同じカメラの在庫がなかった。",
+                        "彼のカメラの保証は修理をカバーしていなかった。"
+                    ]
+                },
+                {
+                    "number": 10,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hi, I'd like to renew my health insurance policy.",
+                            "translation": "こんにちは、健康保険の契約を更新したいのですが。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "OK. How long have you had it?",
+                            "translation": "かしこまりました。どのくらい加入されていますか？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Two years. My company currently pays, but I'm quitting my job next month.",
+                            "translation": "2年です。今は会社が払ってくれていますが、来月仕事を辞めるんです。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "In that case, the monthly rate will go up significantly when you start paying it yourself.",
+                            "translation": "その場合、ご自身で支払い始めると月額料金がかなり上がりますよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Is there a similar plan that's less expensive?",
+                            "translation": "もっと安い似たようなプランはありますか？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Unfortunately not. Company rates are always cheaper.",
+                            "translation": "申し訳ありませんが、ございません。会社の団体割引は常に安いですから。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I guess you'd better show me some other plans that are more reasonable, then.",
+                            "translation": "では、もっと手頃な他のプランを見せていただけますか。"
+                        }
+                    ],
+                    "question": "What does the woman tell the man?",
+                    "choices": [
+                        "His policy has already expired.",
+                        "He will have to pay more to keep the same policy.",
+                        "His policy has been renewed by his company.",
+                        "He should ask his company for a cheaper option."
+                    ],
+                    "explanation": "会社を辞めると自分で払うことになり、月額が大幅に上がると伝えています。",
+                    "highlights": [
+                        "the monthly rate will go up significantly when you start paying it yourself"
+                    ],
+                    "choiceAnalysis": "選択肢1「期限切れ」→更新しようとしている。選択肢2「同じ保険なら高くなる」→正解。選択肢3「会社が更新」→辞める。選択肢4「会社に聞く」→言及なし。",
+                    "audioFile": "audio/part1_q10.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "彼の保険はすでに期限切れになっている。",
+                        "彼は同じ保険を維持するためにもっと支払わなければならないだろう。",
+                        "彼の保険は会社によって更新された。",
+                        "彼は会社にもっと安い選択肢を尋ねるべきだ。"
+                    ]
+                },
+                {
+                    "number": 11,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Excuse me, I need to send this letter to Beijing for delivery by Monday.",
+                            "translation": "すみません、この手紙を北京に月曜日までに届けたいのですが。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "The soonest we can guarantee delivery is Tuesday.",
+                            "translation": "最短で配達を保証できるのは火曜日です。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "But your website said Monday was possible if I mailed it today.",
+                            "translation": "でも、ウェブサイトには今日出せば月曜日が可能だと書いてありましたよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "That would be true if you'd mailed it by noon, sir.",
+                            "translation": "それは正午までに出していただければ、の話です、お客様。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Oh, I see. Well, cost isn't a concern, so is there a way to get it there by Monday?",
+                            "translation": "ああ、なるほど。ええと、費用は気にしないので、月曜日までに届ける方法はありますか？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I'm afraid it's too late. Today's mail is already on its way.",
+                            "translation": "申し訳ありませんが、もう手遅れです。今日の郵便物はすでに出発しています。"
+                        }
+                    ],
+                    "question": "What is the man's problem?",
+                    "choices": [
+                        "The Beijing post office will be closed on Monday.",
+                        "The delivery fee is too high.",
+                        "The letter will not arrive on time.",
+                        "The website's information is incorrect."
+                    ],
+                    "explanation": "月曜日までに届けたかったが、正午を過ぎているため最速でも火曜日になってしまいます。",
+                    "highlights": [
+                        "The soonest we can guarantee delivery is Tuesday"
+                    ],
+                    "choiceAnalysis": "選択肢1「郵便局が閉まる」→言及なし。選択肢2「料金が高い」→費用は問題ない。選択肢3「時間通りに届かない」→正解。選択肢4「ウェブサイトが不正確」→正午までなら正しい。",
+                    "audioFile": "audio/part1_q11.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "北京の郵便局は月曜日に閉まっている。",
+                        "配送料が高すぎる。",
+                        "手紙は時間通りに届かないだろう。",
+                        "ウェブサイトの情報が間違っている。"
+                    ]
+                },
+                {
+                    "number": 12,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Honey, what do you think of changing all the light bulbs in the house to energy-efficient LED bulbs?",
+                            "translation": "ねえ、家中の電球を省エネのLED電球に変えるのはどうかな？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "But they're so expensive. Would it really save us money?",
+                            "translation": "でも、すごく高いじゃない。本当に節約になるの？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, prices for LEDs are dropping, and they use much less electricity.",
+                            "translation": "うーん、LEDの値段は下がってきているし、電気代もずっと安くなるよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "OK, but are they bright enough?",
+                            "translation": "分かったけど、十分明るいの？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I read online that a 7-watt LED is as bright as a 60-watt traditional bulb.",
+                            "translation": "オンラインで読んだんだけど、7ワットのLEDは60ワットの普通の電球と同じくらい明るいんだって。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, all right, but rather than changing them all now, how about we change each one as it burns out?",
+                            "translation": "まあ、いいけど、今全部変えるよりも、一つずつ切れた時に交換していくのはどう？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "OK.",
+                            "translation": "分かった。"
+                        }
+                    ],
+                    "question": "What does the man suggest they do?",
+                    "choices": [
+                        "Gradually replace their light bulbs.",
+                        "Wait for further price reductions.",
+                        "Cut electricity costs another way.",
+                        "Shop online for LED bulbs."
+                    ],
+                    "explanation": "男性は一度に全部替えるのではなく、切れたものから順にLEDに替えることを提案しています。",
+                    "highlights": [
+                        "how about we change each one as it burns out"
+                    ],
+                    "choiceAnalysis": "選択肢1「徐々に交換する」→正解。選択肢2「値下がりを待つ」→言及なし。選択肢3「別の方法で節電」→言及なし。選択肢4「オンラインで購入」→言及なし。",
+                    "audioFile": "audio/part1_q12.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "徐々に電球を交換する。",
+                        "さらなる値下げを待つ。",
+                        "別の方法で電気代を削減する。",
+                        "オンラインでLED電球を探す。"
+                    ]
+                }
+            ]
         },
         {
-          "number": 2,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "My back is aching, and my hands are sore. This digging is hard work!"
-            },
-            {
-              "speaker": "male",
-              "text": "Yes, but if we want to have a nice yard, we need to put in the effort."
-            },
-            {
-              "speaker": "female",
-              "text": "I just didn't think we'd have to dig out two truckloads of dirt."
-            },
-            {
-              "speaker": "male",
-              "text": "The worst is over. Now we get to plan the flower garden."
-            },
-            {
-              "speaker": "female",
-              "text": "Still, I wish we'd hired someone to do the labor."
-            },
-            {
-              "speaker": "male",
-              "text": "You know we can't afford that. Besides, we'll get more satisfaction out of doing it ourselves."
-            },
-            {
-              "speaker": "female",
-              "text": "Yeah, you're probably right."
-            }
-          ],
-          "question": "What is the man's opinion?",
-          "choices": [
-            "The garden will be worth the effort.",
-            "They should have hired someone.",
-            "The flower garden will be hard to design.",
-            "They still have a lot more digging to do."
-          ],
-          "explanation": "男性は自分でやればもっと満足感が得られると考えており、努力の価値があると思っています。",
-          "highlights": [
-            "we'll get more satisfaction out of doing it ourselves"
-          ],
-          "choiceAnalysis": "選択肢1「努力の価値がある」→正解。選択肢2「誰かに頼むべき」→女性の意見。選択肢3「設計が難しい」→言及なし。選択肢4「まだ掘る必要がある」→最悪は終わった。",
-          "audioFile": "audio/part1_q02.mp3",
-          "answer": 1
+            "name": "第2部",
+            "nameEn": "Part 2",
+            "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 13 〜 No. 24",
+            "questions": [
+                {
+                    "number": 13,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Some studies show that students of the most effective teachers make three times as much progress as students of the least effective teachers. However, there is little agreement about why some teachers are more effective. Intelligence and charisma have been suggested as key factors that may affect teaching ability. Others argue that simply raising salaries may lead to better results.",
+                            "translation": "いくつかの研究によると、最も効果的な教師の生徒は、最も効果の低い教師の生徒の3倍もの進歩を遂げます。"
+                        }
+                    ],
+                    "question": "What do some studies show?",
+                    "choices": [
+                        "Students can actually teach each other well.",
+                        "Teaching ability affects student performance.",
+                        "Charisma is more important than teaching experience.",
+                        "Teachers are satisfied with their salaries."
+                    ],
+                    "explanation": "効果的な教師の生徒は、そうでない教師の生徒の3倍の進歩をします。",
+                    "highlights": [
+                        "students of the most effective teachers make three times as much progress"
+                    ],
+                    "choiceAnalysis": "選択肢1「生徒同士が教え合える」→言及なし。選択肢2「教師の能力が成績に影響」→正解。選択肢3「カリスマ性が重要」→要因の一つとして挙げられているだけ。選択肢4「給料に満足」→言及なし。",
+                    "audioFile": "audio/part2_q13.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "生徒は実際にお互いをうまく教え合うことができる。",
+                        "教える能力は生徒の成績に影響する。",
+                        "カリスマ性は指導経験よりも重要である。",
+                        "教師は給与に満足している。"
+                    ]
+                },
+                {
+                    "number": 14,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "According to education expert Doug Lemov, there is a better explanation. He says many teacher-training programs do not adequately prepare people for the actual classroom. Teaching is complex, and Lemov believes it is increasingly clear that theory is less important than intense guided practice and on-the-job training. Lemov says this explains why students in such places as Finland and Singapore do so well. Teachers there have frequent class observations and receive large amounts of on-the-job training, which makes them more effective.",
+                            "translation": "教育専門家のダグ・レモフによると、より良い説明があります。"
+                        }
+                    ],
+                    "question": "What does Doug Lemov believe can improve teachers' effectiveness?",
+                    "choices": [
+                        "Sending them on overseas training programs.",
+                        "Giving them plenty of in-class practice.",
+                        "Having them study in graduate programs.",
+                        "Getting them evaluated by their students."
+                    ],
+                    "explanation": "Lemovは理論よりも集中的な実践指導と現場での研修が重要だと考えています。",
+                    "highlights": [
+                        "theory is less important than intense guided practice and on-the-job training"
+                    ],
+                    "choiceAnalysis": "選択肢1「海外研修」→言及なし。選択肢2「十分な実践を与える」→正解。選択肢3「大学院で学ぶ」→理論より実践。選択肢4「生徒に評価させる」→言及なし。",
+                    "audioFile": "audio/part2_q14.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "彼らを海外研修プログラムに送ること。",
+                        "彼らに十分な授業内での実践を与えること。",
+                        "彼らに大学院で学ばせること。",
+                        "彼らを生徒に評価させること。"
+                    ]
+                },
+                {
+                    "number": 15,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The Barkley Marathons, a race held in the US state of Tennessee, was inspired by a well-known prison escape. The prisoner spent over 50 hours on the run, traveling through mountainous, heavily forested land. In the race, runners attempt to complete a 160-kilometer course within 60 hours, with little or no sleep. Only a small number of them cross the finish line, while many others get lost or quit.",
+                            "translation": "アメリカのテネシー州で開催されるレース、バークレーマラソンは、有名な脱獄事件に触発されて生まれました。"
+                        }
+                    ],
+                    "question": "What is true about the Barkley Marathons?",
+                    "choices": [
+                        "Few runners complete the race.",
+                        "It now takes place in many states.",
+                        "Runners must compete in teams.",
+                        "It was designed to keep prisoners fit."
+                    ],
+                    "explanation": "完走できるのはごく少数で、多くは迷子になるか棄権します。",
+                    "highlights": [
+                        "Only a small number of them cross the finish line"
+                    ],
+                    "choiceAnalysis": "選択肢1「完走者が少ない」→正解。選択肢2「多くの州で開催」→テネシー州のみ。選択肢3「チーム競技」→個人。選択肢4「囚人向け」→脱獄に触発された。",
+                    "audioFile": "audio/part2_q15.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "完走するランナーは少ない。",
+                        "それは現在、多くの州で開催されている。",
+                        "ランナーはチームで競わなければならない。",
+                        "それは囚人の健康維持のために設計された。"
+                    ]
+                },
+                {
+                    "number": 16,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The Barkley Marathons is organized by just one man, Gary Cantrell. Unlike most races, there are no people monitoring to prevent cheating, and there are no volunteers to guide runners. To keep competitors honest, Cantrell leaves books at various locations along the route. Runners each have a race number, and they must take the pages that match their number. By doing this, they can show that they have completed the race.",
+                            "translation": "バークレーマラソンは、ゲイリー・カントレルという一人の男性によって運営されています。"
+                        }
+                    ],
+                    "question": "How does Gary Cantrell prevent cheating?",
+                    "choices": [
+                        "By making runners collect pages from books.",
+                        "By asking volunteers to monitor runners.",
+                        "By having runners report on each other.",
+                        "By changing the route regularly."
+                    ],
+                    "explanation": "コース上の様々な場所に本を置き、ランナーは自分の番号のページを取ることで完走を証明します。",
+                    "highlights": [
+                        "Cantrell leaves books at various locations",
+                        "they must take the pages that match their number"
+                    ],
+                    "choiceAnalysis": "選択肢1「本のページを集めさせる」→正解。選択肢2「ボランティアに監視」→ボランティアなし。選択肢3「互いに報告」→言及なし。選択肢4「コース変更」→言及なし。",
+                    "audioFile": "audio/part2_q16.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "ランナーに本からページを集めさせることによって。",
+                        "ボランティアにランナーを監視するよう依頼することによって。",
+                        "ランナーにお互いを報告させることによって。",
+                        "定期的にルートを変更することによって。"
+                    ]
+                },
+                {
+                    "number": 17,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "It can often be difficult for entertainment companies to decide which ideas for shows will appeal to the public. Recently, researchers conducted a study that asked the question: Who is better at deciding what an audience will enjoy, the creators who think of the ideas or the executives who evaluate them? To find the answer, the researchers invited 300 entertainment executives and creators to decide which ideas for shows they thought would get the best response from audiences.",
+                            "translation": "エンターテインメント企業にとって、どの番組のアイデアが一般の人々にアピールするかを決定するのは、しばしば難しいことがあります。"
+                        }
+                    ],
+                    "question": "What were executives and creators asked to do in the study?",
+                    "choices": [
+                        "Find ways to get feedback from the public.",
+                        "Modify the content of existing shows.",
+                        "Predict which shows audiences would like.",
+                        "Hire people to perform in new shows."
+                    ],
+                    "explanation": "幹部とクリエイターは、どの番組のアイデアが観客に最も良い反応を得られるかを予測するよう求められました。",
+                    "highlights": [
+                        "decide which ideas for shows they thought would get the best response from audiences"
+                    ],
+                    "choiceAnalysis": "選択肢1「フィードバックを得る」→言及なし。選択肢2「既存の番組を修正」→言及なし。選択肢3「観客が好む番組を予測」→正解。選択肢4「出演者を雇う」→言及なし。",
+                    "audioFile": "audio/part2_q17.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "一般からのフィードバックを得る方法を見つける。",
+                        "既存の番組の内容を変更する。",
+                        "視聴者が好きそうな番組を予測する。",
+                        "新しい番組に出演する人を雇う。"
+                    ]
+                },
+                {
+                    "number": 18,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The researchers concluded that creators usually overestimated the appeal of their own ideas. However, they were better than the executives at predicting whether other people's original ideas would become successful. In particular, creators were much better at identifying unusual concepts that would be a hit. The researchers believe that executives were more conservative, and so were less likely to choose original or unusual ideas.",
+                            "translation": "研究者たちは、クリエイターは通常、自分自身のアイデアの魅力を過大評価していると結論付けました。"
+                        }
+                    ],
+                    "question": "What is one thing the researchers concluded?",
+                    "choices": [
+                        "Executives listen carefully to audiences' opinions.",
+                        "Executives are strongly influenced by creators' opinions.",
+                        "Audiences' tastes change regularly.",
+                        "Creators are better at judging the ideas of others."
+                    ],
+                    "explanation": "クリエイターは他の人のアイデアの成功を予測する点で幹部より優れていました。",
+                    "highlights": [
+                        "they were better than the executives at predicting whether other people's original ideas would become successful"
+                    ],
+                    "choiceAnalysis": "選択肢1「幹部が観客の意見を聞く」→言及なし。選択肢2「幹部がクリエイターに影響される」→言及なし。選択肢3「観客の趣味が変わる」→言及なし。選択肢4「クリエイターは他者のアイデアを判断する能力が高い」→正解。",
+                    "audioFile": "audio/part2_q18.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "幹部は視聴者の意見を注意深く聞く。",
+                        "幹部はクリエイターの意見に強く影響される。",
+                        "視聴者の好みは定期的に変わる。",
+                        "クリエイターは他人のアイデアを判断するのに優れている。"
+                    ]
+                },
+                {
+                    "number": 19,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Coffee rust is a disease that has been damaging coffee crops in many countries for over a century. Historians say it was one of the reasons Sri Lanka switched from growing coffee to growing tea. Since the 1960s, coffee crops in Colombia have also been threatened, and coffee rust has gradually spread from region to region. In particular, it attacks the expensive and difficult-to-grow arabica coffee that Colombia is famous for. Less profitable varieties are not as badly affected.",
+                            "translation": "コーヒーさび病は、1世紀以上にわたり多くの国でコーヒー作物を損害を与えてきた病気です。"
+                        }
+                    ],
+                    "question": "What is one thing we learn about coffee rust?",
+                    "choices": [
+                        "It had little impact on Sri Lanka.",
+                        "It badly affects arabica coffee.",
+                        "It has recently begun to affect other plants.",
+                        "It was first discovered in Colombia."
+                    ],
+                    "explanation": "コーヒーさび病はコロンビアで有名な高価で栽培が難しいアラビカコーヒーを特に攻撃します。",
+                    "highlights": [
+                        "it attacks the expensive and difficult-to-grow arabica coffee"
+                    ],
+                    "choiceAnalysis": "選択肢1「スリランカに影響少ない」→茶への転換理由の一つ。選択肢2「アラビカコーヒーに深刻な影響」→正解。選択肢3「他の植物に影響」→言及なし。選択肢4「コロンビアで発見」→言及なし。",
+                    "audioFile": "audio/part2_q19.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "スリランカへの影響はほとんどなかった。",
+                        "アラビカコーヒーに深刻な影響を与える。",
+                        "最近、他の植物にも影響を与え始めた。",
+                        "コロンビアで初めて発見された。"
+                    ]
+                },
+                {
+                    "number": 20,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "To combat coffee rust, scientists have been researching disease-resistant coffee plants. While resistant varieties of coffee beans were not difficult to find, experts considered the flavor and aroma of the coffee they produced to be less appealing than those of the arabica bean. However, the good news for Colombian coffee growers is that a new hybrid variety called Castillo is not only disease-resistant, but it is also gaining approval with coffee lovers.",
+                            "translation": "コーヒーさび病と戦うため、科学者たちは病気に強いコーヒー植物を研究してきました。"
+                        }
+                    ],
+                    "question": "What was one problem with disease-resistant coffee varieties?",
+                    "choices": [
+                        "They were difficult to grow.",
+                        "They were expensive to produce.",
+                        "Their taste and smell were not good enough.",
+                        "Their resistance did not last."
+                    ],
+                    "explanation": "耐病性品種の味と香りはアラビカ豆ほど魅力的ではないと考えられていました。",
+                    "highlights": [
+                        "the flavor and aroma of the coffee they produced to be less appealing"
+                    ],
+                    "choiceAnalysis": "選択肢1「栽培が難しい」→難しくなかった。選択肢2「生産コストが高い」→言及なし。選択肢3「味と香りが不十分」→正解。選択肢4「耐性が持続しない」→言及なし。",
+                    "audioFile": "audio/part2_q20.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "それらは栽培が困難だった。",
+                        "それらは生産が高価だった。",
+                        "それらの味と香りは十分ではなかった。",
+                        "それらの耐性は持続しなかった。"
+                    ]
+                },
+                {
+                    "number": 21,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Companies often look for ways to expand the market for their products. For example, they may take toys that are traditionally given to boys, such as water pistols, and alter them to attract girls. This is often done using a technique called \"pink it and shrink it.\" With this technique, companies create a girls' version of a product by making simple changes such as using a feminine color and reducing the size.",
+                            "translation": "企業はしばしば、自社製品の市場を拡大する方法を探しています。"
+                        }
+                    ],
+                    "question": "What is one way companies try to sell more products?",
+                    "choices": [
+                        "By changing the appearance of their products.",
+                        "By selling the same products to adults and children.",
+                        "By frequently changing their products' names.",
+                        "By reducing the price of their products."
+                    ],
+                    "explanation": "会社は製品の色やサイズなどの見た目を変えて新しい市場を開拓します。",
+                    "highlights": [
+                        "making simple changes such as using a feminine color and reducing the size"
+                    ],
+                    "choiceAnalysis": "選択肢1「製品の外見を変える」→正解。選択肢2「大人と子供に同じ製品」→言及なし。選択肢3「名前を変える」→言及なし。選択肢4「値下げする」→言及なし。",
+                    "audioFile": "audio/part2_q21.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "製品の外観を変えることによって。",
+                        "同じ製品を大人と子供に売ることによって。",
+                        "製品の名前を頻繁に変えることによって。",
+                        "製品の価格を下げることによって。"
+                    ]
+                },
+                {
+                    "number": 22,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The pink-it-and-shrink-it strategy does not always work, however. For one thing, many people are offended by such stereotyping. And in some cases, such as with sports equipment, reducing the product's size simply makes it less effective. For example, advanced female skiers generally purchase men's skis since they find the performance of shorter models designed for women to be inferior. With such products, companies may find that the pink-it-and-shrink-it approach does not have the intended effect.",
+                            "translation": "しかし、「ピンクにして小さくする」戦略が常にうまくいくとは限りません。"
+                        }
+                    ],
+                    "question": "What do we learn about skis designed for women?",
+                    "choices": [
+                        "They come in more color choices.",
+                        "They are made with lower-quality materials.",
+                        "They help female skiers compete with men.",
+                        "They are not popular among high-level female skiers."
+                    ],
+                    "explanation": "上級の女性スキーヤーは女性用の短いモデルの性能が劣ると感じ、男性用を購入します。",
+                    "highlights": [
+                        "advanced female skiers generally purchase men's skis"
+                    ],
+                    "choiceAnalysis": "選択肢1「色の選択肢が多い」→言及なし。選択肢2「低品質素材」→言及なし。選択肢3「男性と競争」→言及なし。選択肢4「上級女性スキーヤーに人気がない」→正解。",
+                    "audioFile": "audio/part2_q22.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "より多くの色の選択肢がある。",
+                        "より質の低い素材で作られている。",
+                        "女性スキーヤーが男性と競争するのに役立つ。",
+                        "高レベルの女性スキーヤーの間では人気がない。"
+                    ]
+                },
+                {
+                    "number": 23,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Penicillin is an antibiotic drug produced from a type of mold called penicillium, which grows on fruit. Ancient peoples knew that such molds had disease-fighting powers, but the chemical in penicillium that kills bacteria was not identified until 1928. When Alexander Fleming identified it and named it penicillin, he suggested using it to kill bacteria when cleaning equipment in laboratories and hospitals.",
+                            "translation": "ペニシリンは、果物に生えるペニシリウムというカビの一種から作られる抗生物質です。"
+                        }
+                    ],
+                    "question": "What did Alexander Fleming do in 1928?",
+                    "choices": [
+                        "He found a way to grow penicillin on fruit.",
+                        "He tested penicillin on human patients.",
+                        "He recommended using penicillin for cleaning.",
+                        "He sold equipment for producing penicillin."
+                    ],
+                    "explanation": "フレミングはペニシリンを発見し、研究室や病院の器具の殺菌に使うことを提案しました。",
+                    "highlights": [
+                        "he suggested using it to kill bacteria when cleaning equipment"
+                    ],
+                    "choiceAnalysis": "選択肢1「果物で培養」→果物に生えるカビ。選択肢2「患者に試した」→言及なし。選択肢3「清掃に使用を推奨」→正解。選択肢4「機器を販売」→言及なし。",
+                    "audioFile": "audio/part2_q23.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "彼は果物の上にペニシリンを育てる方法を見つけた。",
+                        "彼は人間の患者にペニシリンをテストした。",
+                        "彼はペニシリンを清掃に使うことを推奨した。",
+                        "彼はペニシリンを生産するための機器を販売した。"
+                    ]
+                },
+                {
+                    "number": 24,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Fleming's work was continued in the 1930s by scientists in the UK, who succeeded in finding a way to use penicillin to treat infectious diseases. And thanks to work in the US in the early 1940s, scientists' efforts to produce the drug in large quantities also progressed. By 1944, the US had managed to produce millions of doses, and the new drug prevented many soldiers with infected wounds from dying in the last months of World War II.",
+                            "translation": "フレミングの研究は1930年代に英国の科学者たちによって引き継がれ、彼らはペニシリンを感染症の治療に使う方法を見つけることに成功しました。"
+                        }
+                    ],
+                    "question": "What was one result of scientists' efforts in the 1940s?",
+                    "choices": [
+                        "Penicillin was produced in large amounts.",
+                        "People understood the dangers of bacteria.",
+                        "A new kind of disease was cured.",
+                        "Other antibiotic drugs were developed."
+                    ],
+                    "explanation": "1944年までに米国は数百万回分のペニシリンを生産することに成功しました。",
+                    "highlights": [
+                        "the US had managed to produce millions of doses"
+                    ],
+                    "choiceAnalysis": "選択肢1「大量生産された」→正解。選択肢2「細菌の危険性を理解」→言及なし。選択肢3「新しい病気が治った」→言及なし。選択肢4「他の抗生物質」→言及なし。",
+                    "audioFile": "audio/part2_q24.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "ペニシリンが大量に生産された。",
+                        "人々が細菌の危険性を理解した。",
+                        "新しい種類の病気が治癒された。",
+                        "他の抗生物質が開発された。"
+                    ]
+                }
+            ]
         },
         {
-          "number": 3,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Have you heard from Janet and David Haydon lately?"
-            },
-            {
-              "speaker": "male",
-              "text": "No, why?"
-            },
-            {
-              "speaker": "female",
-              "text": "I sent them a Christmas card, but they didn't send us one. Usually they do, you know."
-            },
-            {
-              "speaker": "male",
-              "text": "Is there any special reason to worry?"
-            },
-            {
-              "speaker": "female",
-              "text": "Well, wasn't David having a hip operation in November? And Janet has had a heart problem for years."
-            },
-            {
-              "speaker": "male",
-              "text": "Hmm. I think Mike Hill would have contacted me if something serious had happened. He stays in touch with David."
-            },
-            {
-              "speaker": "female",
-              "text": "Yeah, maybe they just forgot, but I think I'll call them later anyway."
-            }
-          ],
-          "question": "Why is the woman worried about Janet and David?",
-          "choices": [
-            "They moved without telling her.",
-            "Mike told her that they are both sick.",
-            "They did not go to Mike's Christmas party.",
-            "They have not been in touch recently."
-          ],
-          "explanation": "クリスマスカードの返事がなく、最近連絡がないことを心配しています。",
-          "highlights": [
-            "I sent them a Christmas card, but they didn't send us one"
-          ],
-          "choiceAnalysis": "選択肢1「引っ越した」→言及なし。選択肢2「Mikeが病気と言った」→Mikeには連絡していない。選択肢3「パーティーに来なかった」→言及なし。選択肢4「最近連絡がない」→正解。",
-          "audioFile": "audio/part1_q03.mp3",
-          "answer": 4
-        },
-        {
-          "number": 4,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "I heard you got into UCLA law school. Congratulations!"
-            },
-            {
-              "speaker": "male",
-              "text": "Thanks, Mary. I'm thrilled. But now the hard work begins."
-            },
-            {
-              "speaker": "female",
-              "text": "Don't worry. You'll do fine. So when are you moving to LA?"
-            },
-            {
-              "speaker": "male",
-              "text": "In two months. I've been searching online for an apartment."
-            },
-            {
-              "speaker": "female",
-              "text": "You know, my cousin lives in Hollywood, and I think he's looking for a roommate."
-            },
-            {
-              "speaker": "male",
-              "text": "Thanks, but I want to live close to campus."
-            },
-            {
-              "speaker": "female",
-              "text": "Because you'll be in the library day and night, right?"
-            },
-            {
-              "speaker": "male",
-              "text": "Actually, that's what I'm expecting."
-            }
-          ],
-          "question": "What does the man imply?",
-          "choices": [
-            "He will have little free time.",
-            "He will have to find a roommate.",
-            "He will need a part-time job.",
-            "He will live with Mary's cousin."
-          ],
-          "explanation": "図書館に昼夜いることになると予想しており、自由な時間がほとんどないことを暗示しています。",
-          "highlights": [
-            "you'll be in the library day and night",
-            "that's what I'm expecting"
-          ],
-          "choiceAnalysis": "選択肢1「自由な時間が少ない」→正解。選択肢2「ルームメイトを探す」→断った。選択肢3「バイトが必要」→言及なし。選択肢4「Maryのいとこと住む」→断った。",
-          "audioFile": "audio/part1_q04.mp3",
-          "answer": 1
-        },
-        {
-          "number": 5,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "This is the room we'd like remodeled."
-            },
-            {
-              "speaker": "male",
-              "text": "OK, ma'am. And this is the door you'd like to make bigger?"
-            },
-            {
-              "speaker": "female",
-              "text": "Yes. I want double doors put in."
-            },
-            {
-              "speaker": "male",
-              "text": "Right. I can have it done by the end of the month."
-            },
-            {
-              "speaker": "female",
-              "text": "We're having my daughter's wedding reception here on the 25th. Can you complete everything by then?"
-            },
-            {
-              "speaker": "male",
-              "text": "I can probably do it if I come on Saturdays as well, but I'll have to charge you extra for weekend work."
-            },
-            {
-              "speaker": "female",
-              "text": "That's no problem."
-            }
-          ],
-          "question": "What does the woman decide to do?",
-          "choices": [
-            "Simplify the remodeling plans.",
-            "Pay extra for the work.",
-            "Hold the reception elsewhere.",
-            "Postpone the wedding party."
-          ],
-          "explanation": "25日の結婚式に間に合わせるため、週末作業の追加料金を払うことにしました。",
-          "highlights": [
-            "I'll have to charge you extra for weekend work",
-            "That's no problem"
-          ],
-          "choiceAnalysis": "選択肢1「計画を簡素化」→言及なし。選択肢2「追加料金を払う」→正解。選択肢3「別の場所で」→言及なし。選択肢4「延期する」→言及なし。",
-          "audioFile": "audio/part1_q05.mp3",
-          "answer": 2
-        },
-        {
-          "number": 6,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "I can't stand the way Lisa steals all the customers. She doesn't give anyone else a chance."
-            },
-            {
-              "speaker": "male",
-              "text": "I know. But I guess that's why she's \"Sales Clerk of the Year.\""
-            },
-            {
-              "speaker": "female",
-              "text": "I need to increase my commissions, so I guess I'm going to have to be more aggressive myself."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, just don't become another Lisa. That won't endear you to the rest of the staff."
-            }
-          ],
-          "question": "What do the speakers say about Lisa?",
-          "choices": [
-            "She is a difficult customer.",
-            "She is too aggressive.",
-            "She is popular with the staff.",
-            "She is not polite to the customers."
-          ],
-          "explanation": "Lisaは全ての顧客を独占し、他の人にチャンスを与えないほど積極的すぎると言っています。",
-          "highlights": [
-            "steals all the customers",
-            "She doesn't give anyone else a chance"
-          ],
-          "choiceAnalysis": "選択肢1「難しい顧客」→販売員。選択肢2「積極的すぎる」→正解。選択肢3「スタッフに人気」→好かれていない。選択肢4「礼儀がない」→言及なし。",
-          "audioFile": "audio/part1_q06.mp3",
-          "answer": 2
-        },
-        {
-          "number": 7,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Jeremy, have you finished preparing the slides for our presentation tomorrow?"
-            },
-            {
-              "speaker": "male",
-              "text": "Not yet, Ms. Itoh. I got sidetracked working on the budget proposal."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, could you put that aside and finish off the slides and charts, please? Remember, we're rehearsing our presentation from four."
-            },
-            {
-              "speaker": "male",
-              "text": "Sure thing. I'll have them ready by three, at the latest."
-            }
-          ],
-          "question": "What does the woman tell the man to do?",
-          "choices": [
-            "Start practicing for his speech.",
-            "Calculate how long the presentation will take.",
-            "Finish preparing the materials for their talk.",
-            "Present the budget proposal."
-          ],
-          "explanation": "女性はスライドとチャートの準備を終えるよう指示しています。",
-          "highlights": [
-            "could you put that aside and finish off the slides and charts"
-          ],
-          "choiceAnalysis": "選択肢1「スピーチの練習」→リハーサルは4時から。選択肢2「時間の計算」→言及なし。選択肢3「資料の準備を終える」→正解。選択肢4「予算案の発表」→それを中断して。",
-          "audioFile": "audio/part1_q07.mp3",
-          "answer": 3
-        },
-        {
-          "number": 8,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Honey, how long do you think we've been waiting for our table?"
-            },
-            {
-              "speaker": "female",
-              "text": "Probably about 15 minutes. Are you getting hungry?"
-            },
-            {
-              "speaker": "male",
-              "text": "Yes. They said it'd only take five minutes! I wonder if they forgot about us."
-            },
-            {
-              "speaker": "female",
-              "text": "I doubt it. They're just busy."
-            },
-            {
-              "speaker": "male",
-              "text": "Maybe I should offer the headwaiter $20. He'll probably get us in quicker then."
-            },
-            {
-              "speaker": "female",
-              "text": "I wouldn't feel comfortable with that. Other people made reservations, too."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, if he doesn't seat us soon, I'm going to try it anyway."
-            }
-          ],
-          "question": "What does the man say he might do?",
-          "choices": [
-            "Confirm the couple's reservation.",
-            "Cancel the couple's reservation.",
-            "Ask the headwaiter for a better table.",
-            "Offer money to the headwaiter."
-          ],
-          "explanation": "男性はヘッドウェイターに$20を渡して早く席に案内してもらおうとしています。",
-          "highlights": [
-            "Maybe I should offer the headwaiter $20"
-          ],
-          "choiceAnalysis": "選択肢1「予約確認」→言及なし。選択肢2「予約キャンセル」→言及なし。選択肢3「良い席を頼む」→早く案内してもらうため。選択肢4「お金を渡す」→正解。",
-          "audioFile": "audio/part1_q08.mp3",
-          "answer": 4
-        },
-        {
-          "number": 9,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "How's that new camera you bought, Rasheed?"
-            },
-            {
-              "speaker": "male",
-              "text": "Not so good, Sara. The autofocus stopped working three days after I got it. It's under warranty, though."
-            },
-            {
-              "speaker": "female",
-              "text": "Did the store give you another camera?"
-            },
-            {
-              "speaker": "male",
-              "text": "Actually, they sent it to the manufacturer for repair."
-            },
-            {
-              "speaker": "female",
-              "text": "Really? Stores normally replace brand-new items that don't work properly."
-            },
-            {
-              "speaker": "male",
-              "text": "I know. I complained about that, but they said it was store policy."
-            }
-          ],
-          "question": "Why did Rasheed complain?",
-          "choices": [
-            "The store would not give him a replacement camera.",
-            "The manufacturer did not repair his camera properly.",
-            "The store did not have the same camera in stock.",
-            "The warranty on his camera did not cover the repairs."
-          ],
-          "explanation": "新品なのに交換ではなく修理に出されたことに不満を持っています。",
-          "highlights": [
-            "I complained about that, but they said it was store policy"
-          ],
-          "choiceAnalysis": "選択肢1「交換してもらえなかった」→正解。選択肢2「修理が不適切」→まだ修理中。選択肢3「在庫がない」→言及なし。選択肢4「保証対象外」→保証は有効。",
-          "audioFile": "audio/part1_q09.mp3",
-          "answer": 1
-        },
-        {
-          "number": 10,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hi, I'd like to renew my health insurance policy."
-            },
-            {
-              "speaker": "female",
-              "text": "OK. How long have you had it?"
-            },
-            {
-              "speaker": "male",
-              "text": "Two years. My company currently pays, but I'm quitting my job next month."
-            },
-            {
-              "speaker": "female",
-              "text": "In that case, the monthly rate will go up significantly when you start paying it yourself."
-            },
-            {
-              "speaker": "male",
-              "text": "Is there a similar plan that's less expensive?"
-            },
-            {
-              "speaker": "female",
-              "text": "Unfortunately not. Company rates are always cheaper."
-            },
-            {
-              "speaker": "male",
-              "text": "I guess you'd better show me some other plans that are more reasonable, then."
-            }
-          ],
-          "question": "What does the woman tell the man?",
-          "choices": [
-            "His policy has already expired.",
-            "He will have to pay more to keep the same policy.",
-            "His policy has been renewed by his company.",
-            "He should ask his company for a cheaper option."
-          ],
-          "explanation": "会社を辞めると自分で払うことになり、月額が大幅に上がると伝えています。",
-          "highlights": [
-            "the monthly rate will go up significantly when you start paying it yourself"
-          ],
-          "choiceAnalysis": "選択肢1「期限切れ」→更新しようとしている。選択肢2「同じ保険なら高くなる」→正解。選択肢3「会社が更新」→辞める。選択肢4「会社に聞く」→言及なし。",
-          "audioFile": "audio/part1_q10.mp3",
-          "answer": 2
-        },
-        {
-          "number": 11,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Excuse me, I need to send this letter to Beijing for delivery by Monday."
-            },
-            {
-              "speaker": "female",
-              "text": "The soonest we can guarantee delivery is Tuesday."
-            },
-            {
-              "speaker": "male",
-              "text": "But your website said Monday was possible if I mailed it today."
-            },
-            {
-              "speaker": "female",
-              "text": "That would be true if you'd mailed it by noon, sir."
-            },
-            {
-              "speaker": "male",
-              "text": "Oh, I see. Well, cost isn't a concern, so is there a way to get it there by Monday?"
-            },
-            {
-              "speaker": "female",
-              "text": "I'm afraid it's too late. Today's mail is already on its way."
-            }
-          ],
-          "question": "What is the man's problem?",
-          "choices": [
-            "The Beijing post office will be closed on Monday.",
-            "The delivery fee is too high.",
-            "The letter will not arrive on time.",
-            "The website's information is incorrect."
-          ],
-          "explanation": "月曜日までに届けたかったが、正午を過ぎているため最速でも火曜日になってしまいます。",
-          "highlights": [
-            "The soonest we can guarantee delivery is Tuesday"
-          ],
-          "choiceAnalysis": "選択肢1「郵便局が閉まる」→言及なし。選択肢2「料金が高い」→費用は問題ない。選択肢3「時間通りに届かない」→正解。選択肢4「ウェブサイトが不正確」→正午までなら正しい。",
-          "audioFile": "audio/part1_q11.mp3",
-          "answer": 3
-        },
-        {
-          "number": 12,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Honey, what do you think of changing all the light bulbs in the house to energy-efficient LED bulbs?"
-            },
-            {
-              "speaker": "male",
-              "text": "But they're so expensive. Would it really save us money?"
-            },
-            {
-              "speaker": "female",
-              "text": "Well, prices for LEDs are dropping, and they use much less electricity."
-            },
-            {
-              "speaker": "male",
-              "text": "OK, but are they bright enough?"
-            },
-            {
-              "speaker": "female",
-              "text": "I read online that a 7-watt LED is as bright as a 60-watt traditional bulb."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, all right, but rather than changing them all now, how about we change each one as it burns out?"
-            },
-            {
-              "speaker": "female",
-              "text": "OK."
-            }
-          ],
-          "question": "What does the man suggest they do?",
-          "choices": [
-            "Gradually replace their light bulbs.",
-            "Wait for further price reductions.",
-            "Cut electricity costs another way.",
-            "Shop online for LED bulbs."
-          ],
-          "explanation": "男性は一度に全部替えるのではなく、切れたものから順にLEDに替えることを提案しています。",
-          "highlights": [
-            "how about we change each one as it burns out"
-          ],
-          "choiceAnalysis": "選択肢1「徐々に交換する」→正解。選択肢2「値下がりを待つ」→言及なし。選択肢3「別の方法で節電」→言及なし。選択肢4「オンラインで購入」→言及なし。",
-          "audioFile": "audio/part1_q12.mp3",
-          "answer": 1
+            "name": "第3部",
+            "nameEn": "Part 3",
+            "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+            "questionRange": "No. 25 〜 No. 29",
+            "questions": [
+                {
+                    "number": 25,
+                    "situation": "You are applying for a university teaching position. You have only published one article. The interviewer gives you the following advice.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Normally, we require applicants to have published at least two academic journal articles. You mentioned that you should have another journal article ready within a year, which is great, but we obviously can't count it now. However, I also noticed you have a textbook which is about to be published. I've spoken with the head of the department about this, and we can count your textbook in place of one article. Because it hasn't been released yet, though, we'll need a letter from the publisher confirming you've finished the textbook. Please have them also include the expected publication date.",
+                            "translation": "通常、応募者には学術雑誌の論文を少なくとも2本発表していることを求めています。1年以内に別の学術論文が完成する予定だとおっしゃっていましたが、それは素晴らしいことですが、現時点では当然ながら考慮できません。"
+                        }
+                    ],
+                    "question": "What should you do first?",
+                    "choices": [
+                        "Make a small change to your résumé.",
+                        "Request to meet with the head of the department.",
+                        "Provide a copy of your unfinished article.",
+                        "Contact the textbook publisher."
+                    ],
+                    "explanation": "教科書を論文の代わりにカウントするため、出版社から完成確認と出版予定日を記載した手紙が必要です。まず出版社に連絡すべきです。",
+                    "highlights": [
+                        "we'll need a letter from the publisher confirming you've finished the textbook"
+                    ],
+                    "choiceAnalysis": "選択肢1「履歴書を変更」→言及なし。選択肢2「学部長に会う」→面接官が既に話している。選択肢3「論文のコピー」→まだ完成していない。選択肢4「出版社に連絡」→正解。",
+                    "audioFile": "audio/part3_q25.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "履歴書に少し変更を加える。",
+                        "学部長との面会を依頼する。",
+                        "未完成の論文のコピーを提供する。",
+                        "教科書の出版社に連絡する。"
+                    ]
+                },
+                {
+                    "number": 26,
+                    "situation": "You must fly to Dublin, Ireland, urgently and return to Los Angeles by July 22. You can only spend $2,000. A travel agent tells you the following.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Tomorrow's direct flight to Dublin on Cloverleaf Airways would get you there in the shortest time. Returning on July 20th would cost $2,500. EuroAm has a flight that costs $1,900. It has a quick stopover in London but gets you back on the 21st. A direct flight with AirDream would get you back one day earlier but it's $2,900. Another option is to buy two one-way tickets. There's a flight tomorrow with Blue Stream. You could then return on July 23rd with Sungate. Those flights would cost $1,700 altogether.",
+                            "translation": "明日のクローバーリーフ航空のダブリン直行便が、最短時間で到着できます。7月20日に帰国すると2,500ドルかかります。"
+                        }
+                    ],
+                    "question": "Which option should you choose?",
+                    "choices": [
+                        "The direct flight with Cloverleaf Airways.",
+                        "The EuroAm flight with a connection in London.",
+                        "The direct flight with AirDream.",
+                        "The Blue Stream and Sungate flights."
+                    ],
+                    "explanation": "予算$2,000以内で7月22日までに戻る必要あり。Cloverleaf→$2,500で予算オーバー。AirDream→$2,900で予算オーバー。Blue Stream+Sungate→帰り7/23で間に合わない。EuroAm→$1,900で7/21帰着→条件を満たす。",
+                    "highlights": [
+                        "EuroAm has a flight that costs $1,900",
+                        "gets you back on the 21st"
+                    ],
+                    "choiceAnalysis": "選択肢1「Cloverleaf」→$2,500で予算超過。選択肢2「EuroAm」→正解。$1,900で7/21帰着。選択肢3「AirDream」→$2,900で予算超過。選択肢4「Blue Stream+Sungate」→7/23帰着で遅い。",
+                    "audioFile": "audio/part3_q26.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "クローバーリーフ航空の直行便。",
+                        "ロンドンで乗り継ぎのあるユーロアム航空便。",
+                        "エアードリーム航空の直行便。",
+                        "ブルーストリーム航空とサンゲート航空のフライト。"
+                    ]
+                },
+                {
+                    "number": 27,
+                    "situation": "You bought a coat eight days ago. Today, the same store is advertising it for a lower price online. You call the store to ask about a refund of the difference.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "For future reference, a refund of the price difference is available for purchases made within one week of an item going on sale. Refunds on purchases outside of that period can sometimes be given but require the manager's approval. He's away for lunch now, so I'll confirm with him, then call you back later today. By the way, assuming the refund is approved, you can choose to have it credited to your current store loyalty card. Do that and you will also receive a coupon for 10% off your next purchase.",
+                            "translation": "今後の参考までに、商品がセールになってから1週間以内に購入されたものについては、差額の返金が可能です。その期間外の購入に対する返金は、場合によっては可能ですが、店長の承認が必要です。"
+                        }
+                    ],
+                    "question": "What should you do next?",
+                    "choices": [
+                        "Wait to be called back.",
+                        "Go to the store this afternoon.",
+                        "Speak directly to the manager.",
+                        "Apply for a credit card."
+                    ],
+                    "explanation": "8日前の購入で1週間を超えているためマネージャーの承認が必要。マネージャーは昼食中なので、店員が確認後折り返し電話してくれます。",
+                    "highlights": [
+                        "I'll confirm with him, then call you back later today"
+                    ],
+                    "choiceAnalysis": "選択肢1「折り返し電話を待つ」→正解。選択肢2「店に行く」→電話で対応。選択肢3「マネージャーと直接話す」→不在。選択肢4「クレジットカード申請」→ロイヤリティカード。",
+                    "audioFile": "audio/part3_q27.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "折り返しの電話を待つ。",
+                        "今日の午後、店に行く。",
+                        "店長と直接話す。",
+                        "クレジットカードを申し込む。"
+                    ]
+                },
+                {
+                    "number": 28,
+                    "situation": "You are talking to a salesperson about trading in your car for another one. You can afford $300 in monthly payments but do not want to make a down payment.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Well, our hybrid sedan gets top marks for safety and fuel economy. If you trade in your current car, it's $350 a month with a $2,000 down payment. Our SUV has longer repayment options, bringing the monthly down to $280 with the same down payment. You might consider a preowned minivan—the ultimate family vehicle. I can do it for $275 a month and no down payment if you trade in your current car. Finally, there's a nice station wagon. It has lots of room and gets decent gas mileage. It's $225 a month if you make a $1,000 down payment and do a trade-in.",
+                            "translation": "さて、当社のハイブリッドセダンは、安全性と燃費で最高の評価を得ています。現在お乗りの車を下取りに出す場合、頭金2,000ドルで月々350ドルです。"
+                        }
+                    ],
+                    "question": "Which vehicle should you choose?",
+                    "choices": [
+                        "The hybrid sedan.",
+                        "The SUV.",
+                        "The minivan.",
+                        "The station wagon."
+                    ],
+                    "explanation": "月々$300以内＆頭金なし。Sedan→$350+頭金$2,000。SUV→$280+頭金$2,000。Minivan→$275で頭金なし→条件を満たす。Station wagon→$225だが頭金$1,000必要。",
+                    "highlights": [
+                        "I can do it for $275 a month and no down payment"
+                    ],
+                    "choiceAnalysis": "選択肢1「セダン」→$350+頭金。選択肢2「SUV」→頭金必要。選択肢3「ミニバン」→正解。頭金なしで$275/月。選択肢4「ステーションワゴン」→頭金$1,000必要。",
+                    "audioFile": "audio/part3_q28.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "ハイブリッドセダン。",
+                        "SUV。",
+                        "ミニバン。",
+                        "ステーションワゴン。"
+                    ]
+                },
+                {
+                    "number": 29,
+                    "situation": "You are an international student in your first semester of college. A curriculum coordinator is explaining the English requirements. Your placement-test score was 74.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "OK, everyone, I'll go over the English requirements. You must take the courses in order, but high scorers on the placement test can get advanced placement. If you scored below 60, you'll need to start with the basics in English I. A score of 79 or above allows students to skip English I and II. Instead, you can register for an advanced course, English Plus. Everyone else should start with English II. In the second year, all students must complete English Academic, which focuses on academic writing.",
+                            "translation": "皆さん、英語の履修要件について説明します。"
+                        }
+                    ],
+                    "question": "Which English class should you register for now?",
+                    "choices": [
+                        "English I.",
+                        "English II.",
+                        "English Plus.",
+                        "English Academic."
+                    ],
+                    "explanation": "スコア74→60以上だがmore79未満→English IIから始める。",
+                    "highlights": [
+                        "Everyone else should start with English II"
+                    ],
+                    "choiceAnalysis": "選択肢1「English I」→60点未満向け。選択肢2「English II」→正解。60-78点はここから。選択肢3「English Plus」→79点以上。選択肢4「English Academic」→2年次。",
+                    "audioFile": "audio/part3_q29.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "英語I",
+                        "英語II",
+                        "英語プラス",
+                        "英語アカデミック"
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "第2部",
-      "nameEn": "Part 2",
-      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-      "questionRange": "No. 13 〜 No. 24",
-      "questions": [
-        {
-          "number": 13,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Some studies show that students of the most effective teachers make three times as much progress as students of the least effective teachers. However, there is little agreement about why some teachers are more effective. Intelligence and charisma have been suggested as key factors that may affect teaching ability. Others argue that simply raising salaries may lead to better results."
-            }
-          ],
-          "question": "What do some studies show?",
-          "choices": [
-            "Students can actually teach each other well.",
-            "Teaching ability affects student performance.",
-            "Charisma is more important than teaching experience.",
-            "Teachers are satisfied with their salaries."
-          ],
-          "explanation": "効果的な教師の生徒は、そうでない教師の生徒の3倍の進歩をします。",
-          "highlights": [
-            "students of the most effective teachers make three times as much progress"
-          ],
-          "choiceAnalysis": "選択肢1「生徒同士が教え合える」→言及なし。選択肢2「教師の能力が成績に影響」→正解。選択肢3「カリスマ性が重要」→要因の一つとして挙げられているだけ。選択肢4「給料に満足」→言及なし。",
-          "audioFile": "audio/part2_q13.mp3",
-          "answer": 2
-        },
-        {
-          "number": 14,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "According to education expert Doug Lemov, there is a better explanation. He says many teacher-training programs do not adequately prepare people for the actual classroom. Teaching is complex, and Lemov believes it is increasingly clear that theory is less important than intense guided practice and on-the-job training. Lemov says this explains why students in such places as Finland and Singapore do so well. Teachers there have frequent class observations and receive large amounts of on-the-job training, which makes them more effective."
-            }
-          ],
-          "question": "What does Doug Lemov believe can improve teachers' effectiveness?",
-          "choices": [
-            "Sending them on overseas training programs.",
-            "Giving them plenty of in-class practice.",
-            "Having them study in graduate programs.",
-            "Getting them evaluated by their students."
-          ],
-          "explanation": "Lemovは理論よりも集中的な実践指導と現場での研修が重要だと考えています。",
-          "highlights": [
-            "theory is less important than intense guided practice and on-the-job training"
-          ],
-          "choiceAnalysis": "選択肢1「海外研修」→言及なし。選択肢2「十分な実践を与える」→正解。選択肢3「大学院で学ぶ」→理論より実践。選択肢4「生徒に評価させる」→言及なし。",
-          "audioFile": "audio/part2_q14.mp3",
-          "answer": 2
-        },
-        {
-          "number": 15,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The Barkley Marathons, a race held in the US state of Tennessee, was inspired by a well-known prison escape. The prisoner spent over 50 hours on the run, traveling through mountainous, heavily forested land. In the race, runners attempt to complete a 160-kilometer course within 60 hours, with little or no sleep. Only a small number of them cross the finish line, while many others get lost or quit."
-            }
-          ],
-          "question": "What is true about the Barkley Marathons?",
-          "choices": [
-            "Few runners complete the race.",
-            "It now takes place in many states.",
-            "Runners must compete in teams.",
-            "It was designed to keep prisoners fit."
-          ],
-          "explanation": "完走できるのはごく少数で、多くは迷子になるか棄権します。",
-          "highlights": [
-            "Only a small number of them cross the finish line"
-          ],
-          "choiceAnalysis": "選択肢1「完走者が少ない」→正解。選択肢2「多くの州で開催」→テネシー州のみ。選択肢3「チーム競技」→個人。選択肢4「囚人向け」→脱獄に触発された。",
-          "audioFile": "audio/part2_q15.mp3",
-          "answer": 1
-        },
-        {
-          "number": 16,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The Barkley Marathons is organized by just one man, Gary Cantrell. Unlike most races, there are no people monitoring to prevent cheating, and there are no volunteers to guide runners. To keep competitors honest, Cantrell leaves books at various locations along the route. Runners each have a race number, and they must take the pages that match their number. By doing this, they can show that they have completed the race."
-            }
-          ],
-          "question": "How does Gary Cantrell prevent cheating?",
-          "choices": [
-            "By making runners collect pages from books.",
-            "By asking volunteers to monitor runners.",
-            "By having runners report on each other.",
-            "By changing the route regularly."
-          ],
-          "explanation": "コース上の様々な場所に本を置き、ランナーは自分の番号のページを取ることで完走を証明します。",
-          "highlights": [
-            "Cantrell leaves books at various locations",
-            "they must take the pages that match their number"
-          ],
-          "choiceAnalysis": "選択肢1「本のページを集めさせる」→正解。選択肢2「ボランティアに監視」→ボランティアなし。選択肢3「互いに報告」→言及なし。選択肢4「コース変更」→言及なし。",
-          "audioFile": "audio/part2_q16.mp3",
-          "answer": 1
-        },
-        {
-          "number": 17,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "It can often be difficult for entertainment companies to decide which ideas for shows will appeal to the public. Recently, researchers conducted a study that asked the question: Who is better at deciding what an audience will enjoy, the creators who think of the ideas or the executives who evaluate them? To find the answer, the researchers invited 300 entertainment executives and creators to decide which ideas for shows they thought would get the best response from audiences."
-            }
-          ],
-          "question": "What were executives and creators asked to do in the study?",
-          "choices": [
-            "Find ways to get feedback from the public.",
-            "Modify the content of existing shows.",
-            "Predict which shows audiences would like.",
-            "Hire people to perform in new shows."
-          ],
-          "explanation": "幹部とクリエイターは、どの番組のアイデアが観客に最も良い反応を得られるかを予測するよう求められました。",
-          "highlights": [
-            "decide which ideas for shows they thought would get the best response from audiences"
-          ],
-          "choiceAnalysis": "選択肢1「フィードバックを得る」→言及なし。選択肢2「既存の番組を修正」→言及なし。選択肢3「観客が好む番組を予測」→正解。選択肢4「出演者を雇う」→言及なし。",
-          "audioFile": "audio/part2_q17.mp3",
-          "answer": 3
-        },
-        {
-          "number": 18,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The researchers concluded that creators usually overestimated the appeal of their own ideas. However, they were better than the executives at predicting whether other people's original ideas would become successful. In particular, creators were much better at identifying unusual concepts that would be a hit. The researchers believe that executives were more conservative, and so were less likely to choose original or unusual ideas."
-            }
-          ],
-          "question": "What is one thing the researchers concluded?",
-          "choices": [
-            "Executives listen carefully to audiences' opinions.",
-            "Executives are strongly influenced by creators' opinions.",
-            "Audiences' tastes change regularly.",
-            "Creators are better at judging the ideas of others."
-          ],
-          "explanation": "クリエイターは他の人のアイデアの成功を予測する点で幹部より優れていました。",
-          "highlights": [
-            "they were better than the executives at predicting whether other people's original ideas would become successful"
-          ],
-          "choiceAnalysis": "選択肢1「幹部が観客の意見を聞く」→言及なし。選択肢2「幹部がクリエイターに影響される」→言及なし。選択肢3「観客の趣味が変わる」→言及なし。選択肢4「クリエイターは他者のアイデアを判断する能力が高い」→正解。",
-          "audioFile": "audio/part2_q18.mp3",
-          "answer": 4
-        },
-        {
-          "number": 19,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Coffee rust is a disease that has been damaging coffee crops in many countries for over a century. Historians say it was one of the reasons Sri Lanka switched from growing coffee to growing tea. Since the 1960s, coffee crops in Colombia have also been threatened, and coffee rust has gradually spread from region to region. In particular, it attacks the expensive and difficult-to-grow arabica coffee that Colombia is famous for. Less profitable varieties are not as badly affected."
-            }
-          ],
-          "question": "What is one thing we learn about coffee rust?",
-          "choices": [
-            "It had little impact on Sri Lanka.",
-            "It badly affects arabica coffee.",
-            "It has recently begun to affect other plants.",
-            "It was first discovered in Colombia."
-          ],
-          "explanation": "コーヒーさび病はコロンビアで有名な高価で栽培が難しいアラビカコーヒーを特に攻撃します。",
-          "highlights": [
-            "it attacks the expensive and difficult-to-grow arabica coffee"
-          ],
-          "choiceAnalysis": "選択肢1「スリランカに影響少ない」→茶への転換理由の一つ。選択肢2「アラビカコーヒーに深刻な影響」→正解。選択肢3「他の植物に影響」→言及なし。選択肢4「コロンビアで発見」→言及なし。",
-          "audioFile": "audio/part2_q19.mp3",
-          "answer": 2
-        },
-        {
-          "number": 20,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "To combat coffee rust, scientists have been researching disease-resistant coffee plants. While resistant varieties of coffee beans were not difficult to find, experts considered the flavor and aroma of the coffee they produced to be less appealing than those of the arabica bean. However, the good news for Colombian coffee growers is that a new hybrid variety called Castillo is not only disease-resistant, but it is also gaining approval with coffee lovers."
-            }
-          ],
-          "question": "What was one problem with disease-resistant coffee varieties?",
-          "choices": [
-            "They were difficult to grow.",
-            "They were expensive to produce.",
-            "Their taste and smell were not good enough.",
-            "Their resistance did not last."
-          ],
-          "explanation": "耐病性品種の味と香りはアラビカ豆ほど魅力的ではないと考えられていました。",
-          "highlights": [
-            "the flavor and aroma of the coffee they produced to be less appealing"
-          ],
-          "choiceAnalysis": "選択肢1「栽培が難しい」→難しくなかった。選択肢2「生産コストが高い」→言及なし。選択肢3「味と香りが不十分」→正解。選択肢4「耐性が持続しない」→言及なし。",
-          "audioFile": "audio/part2_q20.mp3",
-          "answer": 3
-        },
-        {
-          "number": 21,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Companies often look for ways to expand the market for their products. For example, they may take toys that are traditionally given to boys, such as water pistols, and alter them to attract girls. This is often done using a technique called \"pink it and shrink it.\" With this technique, companies create a girls' version of a product by making simple changes such as using a feminine color and reducing the size."
-            }
-          ],
-          "question": "What is one way companies try to sell more products?",
-          "choices": [
-            "By changing the appearance of their products.",
-            "By selling the same products to adults and children.",
-            "By frequently changing their products' names.",
-            "By reducing the price of their products."
-          ],
-          "explanation": "会社は製品の色やサイズなどの見た目を変えて新しい市場を開拓します。",
-          "highlights": [
-            "making simple changes such as using a feminine color and reducing the size"
-          ],
-          "choiceAnalysis": "選択肢1「製品の外見を変える」→正解。選択肢2「大人と子供に同じ製品」→言及なし。選択肢3「名前を変える」→言及なし。選択肢4「値下げする」→言及なし。",
-          "audioFile": "audio/part2_q21.mp3",
-          "answer": 1
-        },
-        {
-          "number": 22,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The pink-it-and-shrink-it strategy does not always work, however. For one thing, many people are offended by such stereotyping. And in some cases, such as with sports equipment, reducing the product's size simply makes it less effective. For example, advanced female skiers generally purchase men's skis since they find the performance of shorter models designed for women to be inferior. With such products, companies may find that the pink-it-and-shrink-it approach does not have the intended effect."
-            }
-          ],
-          "question": "What do we learn about skis designed for women?",
-          "choices": [
-            "They come in more color choices.",
-            "They are made with lower-quality materials.",
-            "They help female skiers compete with men.",
-            "They are not popular among high-level female skiers."
-          ],
-          "explanation": "上級の女性スキーヤーは女性用の短いモデルの性能が劣ると感じ、男性用を購入します。",
-          "highlights": [
-            "advanced female skiers generally purchase men's skis"
-          ],
-          "choiceAnalysis": "選択肢1「色の選択肢が多い」→言及なし。選択肢2「低品質素材」→言及なし。選択肢3「男性と競争」→言及なし。選択肢4「上級女性スキーヤーに人気がない」→正解。",
-          "audioFile": "audio/part2_q22.mp3",
-          "answer": 4
-        },
-        {
-          "number": 23,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Penicillin is an antibiotic drug produced from a type of mold called penicillium, which grows on fruit. Ancient peoples knew that such molds had disease-fighting powers, but the chemical in penicillium that kills bacteria was not identified until 1928. When Alexander Fleming identified it and named it penicillin, he suggested using it to kill bacteria when cleaning equipment in laboratories and hospitals."
-            }
-          ],
-          "question": "What did Alexander Fleming do in 1928?",
-          "choices": [
-            "He found a way to grow penicillin on fruit.",
-            "He tested penicillin on human patients.",
-            "He recommended using penicillin for cleaning.",
-            "He sold equipment for producing penicillin."
-          ],
-          "explanation": "フレミングはペニシリンを発見し、研究室や病院の器具の殺菌に使うことを提案しました。",
-          "highlights": [
-            "he suggested using it to kill bacteria when cleaning equipment"
-          ],
-          "choiceAnalysis": "選択肢1「果物で培養」→果物に生えるカビ。選択肢2「患者に試した」→言及なし。選択肢3「清掃に使用を推奨」→正解。選択肢4「機器を販売」→言及なし。",
-          "audioFile": "audio/part2_q23.mp3",
-          "answer": 3
-        },
-        {
-          "number": 24,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Fleming's work was continued in the 1930s by scientists in the UK, who succeeded in finding a way to use penicillin to treat infectious diseases. And thanks to work in the US in the early 1940s, scientists' efforts to produce the drug in large quantities also progressed. By 1944, the US had managed to produce millions of doses, and the new drug prevented many soldiers with infected wounds from dying in the last months of World War II."
-            }
-          ],
-          "question": "What was one result of scientists' efforts in the 1940s?",
-          "choices": [
-            "Penicillin was produced in large amounts.",
-            "People understood the dangers of bacteria.",
-            "A new kind of disease was cured.",
-            "Other antibiotic drugs were developed."
-          ],
-          "explanation": "1944年までに米国は数百万回分のペニシリンを生産することに成功しました。",
-          "highlights": [
-            "the US had managed to produce millions of doses"
-          ],
-          "choiceAnalysis": "選択肢1「大量生産された」→正解。選択肢2「細菌の危険性を理解」→言及なし。選択肢3「新しい病気が治った」→言及なし。選択肢4「他の抗生物質」→言及なし。",
-          "audioFile": "audio/part2_q24.mp3",
-          "answer": 1
-        }
-      ]
-    },
-    {
-      "name": "第3部",
-      "nameEn": "Part 3",
-      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
-      "questionRange": "No. 25 〜 No. 29",
-      "questions": [
-        {
-          "number": 25,
-          "situation": "You are applying for a university teaching position. You have only published one article. The interviewer gives you the following advice.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Normally, we require applicants to have published at least two academic journal articles. You mentioned that you should have another journal article ready within a year, which is great, but we obviously can't count it now. However, I also noticed you have a textbook which is about to be published. I've spoken with the head of the department about this, and we can count your textbook in place of one article. Because it hasn't been released yet, though, we'll need a letter from the publisher confirming you've finished the textbook. Please have them also include the expected publication date."
-            }
-          ],
-          "question": "What should you do first?",
-          "choices": [
-            "Make a small change to your résumé.",
-            "Request to meet with the head of the department.",
-            "Provide a copy of your unfinished article.",
-            "Contact the textbook publisher."
-          ],
-          "explanation": "教科書を論文の代わりにカウントするため、出版社から完成確認と出版予定日を記載した手紙が必要です。まず出版社に連絡すべきです。",
-          "highlights": [
-            "we'll need a letter from the publisher confirming you've finished the textbook"
-          ],
-          "choiceAnalysis": "選択肢1「履歴書を変更」→言及なし。選択肢2「学部長に会う」→面接官が既に話している。選択肢3「論文のコピー」→まだ完成していない。選択肢4「出版社に連絡」→正解。",
-          "audioFile": "audio/part3_q25.mp3",
-          "answer": 4
-        },
-        {
-          "number": 26,
-          "situation": "You must fly to Dublin, Ireland, urgently and return to Los Angeles by July 22. You can only spend $2,000. A travel agent tells you the following.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Tomorrow's direct flight to Dublin on Cloverleaf Airways would get you there in the shortest time. Returning on July 20th would cost $2,500. EuroAm has a flight that costs $1,900. It has a quick stopover in London but gets you back on the 21st. A direct flight with AirDream would get you back one day earlier but it's $2,900. Another option is to buy two one-way tickets. There's a flight tomorrow with Blue Stream. You could then return on July 23rd with Sungate. Those flights would cost $1,700 altogether."
-            }
-          ],
-          "question": "Which option should you choose?",
-          "choices": [
-            "The direct flight with Cloverleaf Airways.",
-            "The EuroAm flight with a connection in London.",
-            "The direct flight with AirDream.",
-            "The Blue Stream and Sungate flights."
-          ],
-          "explanation": "予算$2,000以内で7月22日までに戻る必要あり。Cloverleaf→$2,500で予算オーバー。AirDream→$2,900で予算オーバー。Blue Stream+Sungate→帰り7/23で間に合わない。EuroAm→$1,900で7/21帰着→条件を満たす。",
-          "highlights": [
-            "EuroAm has a flight that costs $1,900",
-            "gets you back on the 21st"
-          ],
-          "choiceAnalysis": "選択肢1「Cloverleaf」→$2,500で予算超過。選択肢2「EuroAm」→正解。$1,900で7/21帰着。選択肢3「AirDream」→$2,900で予算超過。選択肢4「Blue Stream+Sungate」→7/23帰着で遅い。",
-          "audioFile": "audio/part3_q26.mp3",
-          "answer": 2
-        },
-        {
-          "number": 27,
-          "situation": "You bought a coat eight days ago. Today, the same store is advertising it for a lower price online. You call the store to ask about a refund of the difference.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "For future reference, a refund of the price difference is available for purchases made within one week of an item going on sale. Refunds on purchases outside of that period can sometimes be given but require the manager's approval. He's away for lunch now, so I'll confirm with him, then call you back later today. By the way, assuming the refund is approved, you can choose to have it credited to your current store loyalty card. Do that and you will also receive a coupon for 10% off your next purchase."
-            }
-          ],
-          "question": "What should you do next?",
-          "choices": [
-            "Wait to be called back.",
-            "Go to the store this afternoon.",
-            "Speak directly to the manager.",
-            "Apply for a credit card."
-          ],
-          "explanation": "8日前の購入で1週間を超えているためマネージャーの承認が必要。マネージャーは昼食中なので、店員が確認後折り返し電話してくれます。",
-          "highlights": [
-            "I'll confirm with him, then call you back later today"
-          ],
-          "choiceAnalysis": "選択肢1「折り返し電話を待つ」→正解。選択肢2「店に行く」→電話で対応。選択肢3「マネージャーと直接話す」→不在。選択肢4「クレジットカード申請」→ロイヤリティカード。",
-          "audioFile": "audio/part3_q27.mp3",
-          "answer": 1
-        },
-        {
-          "number": 28,
-          "situation": "You are talking to a salesperson about trading in your car for another one. You can afford $300 in monthly payments but do not want to make a down payment.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Well, our hybrid sedan gets top marks for safety and fuel economy. If you trade in your current car, it's $350 a month with a $2,000 down payment. Our SUV has longer repayment options, bringing the monthly down to $280 with the same down payment. You might consider a preowned minivan—the ultimate family vehicle. I can do it for $275 a month and no down payment if you trade in your current car. Finally, there's a nice station wagon. It has lots of room and gets decent gas mileage. It's $225 a month if you make a $1,000 down payment and do a trade-in."
-            }
-          ],
-          "question": "Which vehicle should you choose?",
-          "choices": [
-            "The hybrid sedan.",
-            "The SUV.",
-            "The minivan.",
-            "The station wagon."
-          ],
-          "explanation": "月々$300以内＆頭金なし。Sedan→$350+頭金$2,000。SUV→$280+頭金$2,000。Minivan→$275で頭金なし→条件を満たす。Station wagon→$225だが頭金$1,000必要。",
-          "highlights": [
-            "I can do it for $275 a month and no down payment"
-          ],
-          "choiceAnalysis": "選択肢1「セダン」→$350+頭金。選択肢2「SUV」→頭金必要。選択肢3「ミニバン」→正解。頭金なしで$275/月。選択肢4「ステーションワゴン」→頭金$1,000必要。",
-          "audioFile": "audio/part3_q28.mp3",
-          "answer": 3
-        },
-        {
-          "number": 29,
-          "situation": "You are an international student in your first semester of college. A curriculum coordinator is explaining the English requirements. Your placement-test score was 74.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "OK, everyone, I'll go over the English requirements. You must take the courses in order, but high scorers on the placement test can get advanced placement. If you scored below 60, you'll need to start with the basics in English I. A score of 79 or above allows students to skip English I and II. Instead, you can register for an advanced course, English Plus. Everyone else should start with English II. In the second year, all students must complete English Academic, which focuses on academic writing."
-            }
-          ],
-          "question": "Which English class should you register for now?",
-          "choices": [
-            "English I.",
-            "English II.",
-            "English Plus.",
-            "English Academic."
-          ],
-          "explanation": "スコア74→60以上だがmore79未満→English IIから始める。",
-          "highlights": [
-            "Everyone else should start with English II"
-          ],
-          "choiceAnalysis": "選択肢1「English I」→60点未満向け。選択肢2「English II」→正解。60-78点はここから。選択肢3「English Plus」→79点以上。選択肢4「English Academic」→2年次。",
-          "audioFile": "audio/part3_q29.mp3",
-          "answer": 2
-        }
-      ]
-    }
-  ]
+    ]
 }

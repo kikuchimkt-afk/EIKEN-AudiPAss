@@ -1,0 +1,920 @@
+{
+  "title": "2023年度 第1回検定一次試験 英検準2級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その最後の文に対する応答として最も適切なものを、放送される1, 2, 3の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 10",
+      "partType": "spoken-choices",
+      "questions": [
+        {
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Welcome to HomeWorld. Can I help you?"
+            },
+            {
+              "speaker": "male",
+              "text": "Hello. I have a fence around my garden that I'd like to paint."
+            },
+            {
+              "speaker": "female",
+              "text": "Let me show you where our paints are. What color do you need?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "It's made out of wood.",
+            "I really love gardening.",
+            "I want something bright."
+          ],
+          "explanation": "何色が必要か聞かれ、明るい色が欲しいと答えるのが適切です。",
+          "highlights": [
+            "What color do you need?"
+          ],
+          "choiceAnalysis": "選択肢1「木でできている」→色の質問。選択肢2「ガーデニングが好き」→色の質問。選択肢3「明るいものがいい」→正解。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 3
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Baseball again? Can't we watch something else on TV tonight?"
+            },
+            {
+              "speaker": "male",
+              "text": "But it's a big game. The Tigers are playing the Giants."
+            },
+            {
+              "speaker": "female",
+              "text": "Honey, you know I don't like watching sports."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Sure. I'll tell you when the game starts.",
+            "OK. I'll watch it on the TV in the kitchen.",
+            "Well, I'm really happy the Tigers won."
+          ],
+          "explanation": "スポーツは嫌いだと言われ、キッチンのテレビで見ると配慮するのが自然です。",
+          "highlights": [
+            "I don't like watching sports"
+          ],
+          "choiceAnalysis": "選択肢1「試合が始まったら教える」→嫌いだと言っている。選択肢2「キッチンのテレビで見る」→正解。選択肢3「タイガースが勝って嬉しい」→まだ試合中。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 2
+        },
+        {
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi, Jessica. I just made some cookies. You should come over and try some."
+            },
+            {
+              "speaker": "female",
+              "text": "I can't right now, but maybe this afternoon after my soccer game."
+            },
+            {
+              "speaker": "male",
+              "text": "OK, great. I'll save some for you."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Well, thanks for helping me with my project.",
+            "Thanks! I can't wait to try them.",
+            "Of course. I hope your team wins the game."
+          ],
+          "explanation": "クッキーを取っておいてくれると言われ、楽しみだと答えるのが自然です。",
+          "highlights": [
+            "I'll save some for you"
+          ],
+          "choiceAnalysis": "選択肢1「プロジェクト手伝ってくれてありがとう」→クッキーの話。選択肢2「ありがとう！食べるの楽しみ」→正解。選択肢3「チームの勝利を祈る」→男性はサッカーしない。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 2
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Did you meet the new science teacher yet?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, I met her yesterday. David and I are taking her chemistry class."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? What kind of person is she?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Well, I don't really like science.",
+            "Well, her name is Ms. Donaldson.",
+            "Well, she's very friendly."
+          ],
+          "explanation": "どんな人か聞かれ、とても親しみやすいと人柄を答えるのが適切です。",
+          "highlights": [
+            "What kind of person is she?"
+          ],
+          "choiceAnalysis": "選択肢1「理科は好きじゃない」→先生の人柄。選択肢2「名前はMs. Donaldson」→人柄を聞いている。選択肢3「とても親しみやすい」→正解。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 3
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Welcome to Freeman's Department Store. Can I help you?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. I would like to buy my wife some jewelry for our anniversary."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, the jewelry department is next to the women's clothing department."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Great. I hope to find a new bracelet for her.",
+            "You're welcome. I hope she likes the ring.",
+            "Thank you. She already has enough necklaces."
+          ],
+          "explanation": "ジュエリー売り場を教えてもらい、ブレスレットを見つけたいと答えるのが自然です。",
+          "highlights": [
+            "the jewelry department is next to the women's clothing department"
+          ],
+          "choiceAnalysis": "選択肢1「ブレスレットを見つけたい」→正解。選択肢2「指輪を気に入るといい」→まだ買っていない。選択肢3「ネックレスは十分ある」→これから買う。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 1
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Are you going somewhere, Ben? What is that map for?"
+            },
+            {
+              "speaker": "male",
+              "text": "Well, I'm thinking about traveling around Asia this summer."
+            },
+            {
+              "speaker": "female",
+              "text": "Wow, exciting! What countries will you go to?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "I went to China last year.",
+            "I haven't decided yet.",
+            "I'll be there for one month."
+          ],
+          "explanation": "どの国に行くか聞かれ、まだ決めていないと答えるのが自然です。",
+          "highlights": [
+            "What countries will you go to?"
+          ],
+          "choiceAnalysis": "選択肢1「去年中国に行った」→今年の計画。選択肢2「まだ決めていない」→正解。選択肢3「1ヶ月いる」→国を聞いている。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 2
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello, Mr. Davis. I understand you called us about receiving your Adventure Magazine."
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. I would like to stop receiving it."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I can help with that. Are you sure you'd like to cancel?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Yes. I'm trying to save some money.",
+            "OK. Let me know if you need my help.",
+            "You're right. I don't like the outdoors, either."
+          ],
+          "explanation": "本当にキャンセルしたいか確認され、節約したいと理由を答えるのが適切です。",
+          "highlights": [
+            "Are you sure you'd like to cancel?"
+          ],
+          "choiceAnalysis": "選択肢1「節約したい」→正解。選択肢2「助けが必要なら言って」→キャンセルの確認。選択肢3「アウトドアが嫌い」→文脈に合わない。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 1
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi, Ms. Horner. Do you have a few minutes to talk?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sure, Eric. Is this about your grade in French class?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. I want to get better scores on my tests."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "I know. I need to find a study group to join, too.",
+            "Yeah. We will begin learning that next month.",
+            "Well, try doing the practice exercises in the textbook."
+          ],
+          "explanation": "テストの点を上げたいと言う生徒に、教科書の練習問題をやるよう助言するのが適切です。",
+          "highlights": [
+            "I want to get better scores on my tests"
+          ],
+          "choiceAnalysis": "選択肢1「勉強グループに入りたい」→先生の返答としておかしい。選択肢2「来月学ぶ」→今の成績の話。選択肢3「教科書の練習問題をやって」→正解。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 3
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Excuse me. Do you know where the nearest bus station is?"
+            },
+            {
+              "speaker": "female",
+              "text": "There's one right around the corner. I can show you."
+            },
+            {
+              "speaker": "male",
+              "text": "You don't need to do that for me!"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "It's OK. I'm going that way anyway.",
+            "Sorry. The station is closed today.",
+            "All right. You can pay me later."
+          ],
+          "explanation": "そこまでしなくていいと遠慮する男性に、同じ方向だからと申し出るのが自然です。",
+          "highlights": [
+            "You don't need to do that for me!"
+          ],
+          "choiceAnalysis": "選択肢1「大丈夫、同じ方向だから」→正解。選択肢2「駅は閉まっている」→案内の話。選択肢3「後で払ってくれればいい」→道案内で支払いは不自然。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 1
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Wow! That smells good. What are you cooking, honey?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm making a new recipe. I think I put in too much salt, though. Here, try some."
+            },
+            {
+              "speaker": "male",
+              "text": "It's delicious. What's in the sauce?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "There are leftovers in the refrigerator.",
+            "It's an easy recipe to make.",
+            "White wine and garlic."
+          ],
+          "explanation": "ソースの材料を聞かれ、白ワインとガーリックと答えるのが適切です。",
+          "highlights": [
+            "What's in the sauce?"
+          ],
+          "choiceAnalysis": "選択肢1「冷蔵庫に残り物がある」→材料の質問。選択肢2「簡単なレシピ」→材料を聞いている。選択肢3「白ワインとガーリック」→正解。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 11 〜 No. 20",
+      "questions": [
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Excuse me. Can I borrow these magazines?"
+            },
+            {
+              "speaker": "female",
+              "text": "No, sir. Only books can be taken out of the library."
+            },
+            {
+              "speaker": "male",
+              "text": "I see. Does this library have a copy machine? I'd like to make copies of some articles."
+            },
+            {
+              "speaker": "female",
+              "text": "Yes, we do. It's in the newspaper section."
+            }
+          ],
+          "question": "What does the man want to do?",
+          "choices": [
+            "Borrow books from the library.",
+            "Return some magazines.",
+            "Copy some articles from magazines.",
+            "Read the newspaper in the library."
+          ],
+          "explanation": "男性は雑誌の記事をコピーしたいと言っています。",
+          "highlights": [
+            "I'd like to make copies of some articles"
+          ],
+          "choiceAnalysis": "選択肢1「本を借りる」→雑誌のコピー。選択肢2「雑誌を返す」→コピーしたい。選択肢3「雑誌の記事をコピー」→正解。選択肢4「新聞を読む」→コピー機の場所。",
+          "audioFile": "audio/part2_q11.mp3",
+          "answer": 3
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Honey, your mother called again. She wants to know if we are coming to the barbecue this weekend or not."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. I'll give her a call right after dinner."
+            },
+            {
+              "speaker": "female",
+              "text": "It sounded like she really wanted us to come this weekend."
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah, I think we should probably go, especially since you have a business trip next weekend."
+            }
+          ],
+          "question": "What will the couple probably do this weekend?",
+          "choices": [
+            "Have a barbecue at their house.",
+            "Go on a business trip together.",
+            "Go to the man's mother's barbecue.",
+            "Cook dinner for the man's mother."
+          ],
+          "explanation": "来週は出張があるので今週末に母のバーベキューに行くべきだと言っています。",
+          "highlights": [
+            "I think we should probably go"
+          ],
+          "choiceAnalysis": "選択肢1「家でバーベキュー」→母の家。選択肢2「一緒に出張」→来週。選択肢3「母のバーベキューに行く」→正解。選択肢4「母に夕食を作る」→バーベキュー。",
+          "audioFile": "audio/part2_q12.mp3",
+          "answer": 3
+        },
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me. I'm looking for a sweater to wear with this light-blue skirt."
+            },
+            {
+              "speaker": "male",
+              "text": "We have a few that should match right over here."
+            },
+            {
+              "speaker": "female",
+              "text": "Hmm. Do you have any sweaters made of wool?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'm sorry, but I'm afraid we're sold out of those. We have these cotton ones, however."
+            }
+          ],
+          "question": "Why does the man say sorry to the woman?",
+          "choices": [
+            "He doesn't have the right color.",
+            "He cannot find her size.",
+            "They don't have wool sweaters.",
+            "The cotton sweaters are too expensive."
+          ],
+          "explanation": "ウールのセーターが売り切れているため謝っています。",
+          "highlights": [
+            "we're sold out of those"
+          ],
+          "choiceAnalysis": "選択肢1「色がない」→ウールが売り切れ。選択肢2「サイズがない」→素材の問題。選択肢3「ウールのセーターがない」→正解。選択肢4「綿が高すぎる」→言及なし。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 3
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Cindy, when you go to the supermarket, could you get some eggs? I need them to bake a cake."
+            },
+            {
+              "speaker": "female",
+              "text": "No problem, Dad. I'm leaving now. Do you need anything else?"
+            },
+            {
+              "speaker": "male",
+              "text": "Hmm. Could you get some milk, too? By the way, the car key is on the table by the door."
+            },
+            {
+              "speaker": "female",
+              "text": "OK, thanks. I'll be back in about 30 minutes."
+            }
+          ],
+          "question": "What is the man planning to do?",
+          "choices": [
+            "Drive to the supermarket.",
+            "Bake a cake.",
+            "Clean the kitchen.",
+            "Go out for dinner."
+          ],
+          "explanation": "男性はケーキを焼くために卵が必要だと言っています。",
+          "highlights": [
+            "I need them to bake a cake"
+          ],
+          "choiceAnalysis": "選択肢1「スーパーに行く」→娘に頼んでいる。選択肢2「ケーキを焼く」→正解。選択肢3「キッチンを掃除」→言及なし。選択肢4「夕食に出かける」→ケーキを焼く。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 2
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Thank you for calling Bob's Repair Company. How can I help you?"
+            },
+            {
+              "speaker": "male",
+              "text": "I need to get my garage door repaired. It stopped working the other day."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, we can send someone to take a look at it on Monday morning. Is that OK?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. I'll be home then. Thanks!"
+            }
+          ],
+          "question": "Why did the man call the woman?",
+          "choices": [
+            "To get his garage door fixed.",
+            "To schedule a delivery.",
+            "To ask about store hours.",
+            "To cancel an appointment."
+          ],
+          "explanation": "ガレージのドアが壊れたので修理を依頼するために電話しました。",
+          "highlights": [
+            "I need to get my garage door repaired"
+          ],
+          "choiceAnalysis": "選択肢1「ガレージのドアを修理」→正解。選択肢2「配達の予約」→修理。選択肢3「営業時間を聞く」→修理依頼。選択肢4「予約をキャンセル」→新規依頼。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 1
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello, George. Are you ready for your trip?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, Brittany. I have my new guidebook, my suitcase is packed, and I just bought my plane ticket online."
+            },
+            {
+              "speaker": "female",
+              "text": "How about your hotel reservation?"
+            },
+            {
+              "speaker": "male",
+              "text": "Oh no! I guess I did forget something. I'll make it now."
+            }
+          ],
+          "question": "How did the woman help the man?",
+          "choices": [
+            "She packed his suitcase.",
+            "She bought his plane ticket.",
+            "She gave him a guidebook.",
+            "She reminded him about his hotel reservation."
+          ],
+          "explanation": "女性がホテルの予約について確認し、忘れていたことに気づかせました。",
+          "highlights": [
+            "How about your hotel reservation?",
+            "I guess I did forget something"
+          ],
+          "choiceAnalysis": "選択肢1「荷造りした」→自分でした。選択肢2「航空券を買った」→自分で。選択肢3「ガイドブックをあげた」→自分で持っている。選択肢4「ホテル予約を思い出させた」→正解。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 4
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hey, Jiro. What time is your baseball practice today?"
+            },
+            {
+              "speaker": "male",
+              "text": "Oh, hi, Amanda. It starts at two, and then we have a game at five."
+            },
+            {
+              "speaker": "female",
+              "text": "Do you mind if I come and watch your game?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, not at all. I'd be happy if you came."
+            }
+          ],
+          "question": "What does Amanda want to do?",
+          "choices": [
+            "Join the baseball team.",
+            "Practice baseball with Jiro.",
+            "Cancel the baseball game.",
+            "Watch Jiro's baseball game."
+          ],
+          "explanation": "Amandaはジローの野球の試合を見に行きたいと言っています。",
+          "highlights": [
+            "Do you mind if I come and watch your game?"
+          ],
+          "choiceAnalysis": "選択肢1「チームに入る」→見に行きたい。選択肢2「一緒に練習」→試合を見たい。選択肢3「試合をキャンセル」→見に行きたい。選択肢4「試合を見る」→正解。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 4
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "How can I help you today, ma'am?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm interested in this computer keyboard, but I'd like one in red. Do you have any?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'm sorry, but we only have black or gray ones at this store."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh, that's too bad. I really want to get a red one."
+            }
+          ],
+          "question": "Why is the woman disappointed?",
+          "choices": [
+            "The keyboard is too expensive.",
+            "The store doesn't have many keyboards.",
+            "The store doesn't have the color she wants.",
+            "The keyboard doesn't work properly."
+          ],
+          "explanation": "赤いキーボードが欲しいのに、その店には黒とグレーしかないからです。",
+          "highlights": [
+            "I'd like one in red",
+            "we only have black or gray ones"
+          ],
+          "choiceAnalysis": "選択肢1「高すぎる」→色の問題。選択肢2「種類が少ない」→色がない。選択肢3「欲しい色がない」→正解。選択肢4「動作不良」→言及なし。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 3
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hello."
+            },
+            {
+              "speaker": "female",
+              "text": "Jimmy, the New Orleans Jazz Superstars are playing downtown tonight."
+            },
+            {
+              "speaker": "male",
+              "text": "Tonight? I love that band! Their concerts are so much fun."
+            },
+            {
+              "speaker": "female",
+              "text": "I know. The concert starts at 7 p.m. Do you think you can get off work early enough to go?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yeah! My business meeting just got moved to next week."
+            }
+          ],
+          "question": "What will the man and woman probably do tonight?",
+          "choices": [
+            "Go to a concert.",
+            "Have a business meeting.",
+            "Play in a jazz band.",
+            "Work late at the office."
+          ],
+          "explanation": "今夜のジャズコンサートに一緒に行く予定です。",
+          "highlights": [
+            "the New Orleans Jazz Superstars are playing downtown tonight",
+            "My business meeting just got moved to next week"
+          ],
+          "choiceAnalysis": "選択肢1「コンサートに行く」→正解。選択肢2「ビジネスミーティング」→来週に変更。選択肢3「ジャズバンドで演奏」→見に行く。選択肢4「残業」→早く帰れる。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 1
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Where did you go last Sunday, Sam?"
+            },
+            {
+              "speaker": "male",
+              "text": "My brother and I went hiking on Tucker Mountain. But the weather was terrible. It was really cold and rainy all day."
+            },
+            {
+              "speaker": "female",
+              "text": "You should have checked the weather report."
+            },
+            {
+              "speaker": "male",
+              "text": "You're right. Next time, I'll make sure to check before I go."
+            }
+          ],
+          "question": "What was the boy's mistake?",
+          "choices": [
+            "He forgot to bring warm clothes.",
+            "He didn't check the weather before going.",
+            "He went to the wrong mountain.",
+            "He didn't invite his brother."
+          ],
+          "explanation": "天気予報を確認せずにハイキングに行ったのが失敗でした。",
+          "highlights": [
+            "You should have checked the weather report",
+            "I'll make sure to check before I go"
+          ],
+          "choiceAnalysis": "選択肢1「暖かい服を忘れた」→天気を確認しなかった。選択肢2「天気を確認しなかった」→正解。選択肢3「違う山に行った」→言及なし。選択肢4「兄を誘わなかった」→一緒に行った。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 21 〜 No. 30",
+      "questions": [
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "When Kyle arrived at the park for his camping trip, the park ranger told him to watch out for bears. Bears sometimes came looking for food, so he told Kyle to keep the area clean. He said that if people left food near their tents, the bears would come close to the camping site."
+            }
+          ],
+          "question": "What did the park ranger tell Kyle to do?",
+          "choices": [
+            "Keep the camping area clean.",
+            "Feed the bears at the park.",
+            "Set up his tent far from other campers.",
+            "Stay away from the park at night."
+          ],
+          "explanation": "レンジャーはキャンプ場をきれいに保つよう伝えました。",
+          "highlights": [
+            "he told Kyle to keep the area clean"
+          ],
+          "choiceAnalysis": "選択肢1「キャンプ場をきれいに保つ」→正解。選択肢2「クマに餌をやる」→逆。選択肢3「離れてテントを張る」→言及なし。選択肢4「夜は公園に近づかない」→言及なし。",
+          "audioFile": "audio/part3_q21.mp3",
+          "answer": 1
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Hannah likes to take all kinds of lessons after work. She has just finished a computer programming course. This summer, she wants to start taking piano lessons, so she is going to cancel all her other lessons, such as swimming and judo. She wants to be able to play the instrument well by the end of the summer."
+            }
+          ],
+          "question": "What will Hannah do this summer?",
+          "choices": [
+            "Start taking piano lessons.",
+            "Take a computer programming course.",
+            "Join a swimming team.",
+            "Learn judo and piano."
+          ],
+          "explanation": "Hannahはこの夏ピアノのレッスンを始める予定です。",
+          "highlights": [
+            "she wants to start taking piano lessons"
+          ],
+          "choiceAnalysis": "選択肢1「ピアノレッスンを始める」→正解。選択肢2「プログラミングコース」→終了した。選択肢3「水泳チームに入る」→キャンセルする。選択肢4「柔道とピアノ」→柔道はキャンセル。",
+          "audioFile": "audio/part3_q22.mp3",
+          "answer": 1
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Nick's football team was supposed to play in the final competition at a big stadium on Saturday. Nick got hurt last week, but now he is better and will be able to play. When he woke up on Saturday morning, he looked out of the window and was upset. There was a bad rainstorm. The football competition had to be changed to another date."
+            }
+          ],
+          "question": "Why was the football competition date changed?",
+          "choices": [
+            "Nick got hurt during practice.",
+            "There was a bad rainstorm.",
+            "The stadium was not ready.",
+            "Not enough players could come."
+          ],
+          "explanation": "ひどい暴風雨のために試合の日程が変更されました。",
+          "highlights": [
+            "There was a bad rainstorm",
+            "The football competition had to be changed to another date"
+          ],
+          "choiceAnalysis": "選択肢1「Nickが怪我した」→もう治った。選択肢2「ひどい暴風雨」→正解。選択肢3「スタジアムが準備できていない」→暴風雨。選択肢4「選手が集まらない」→言及なし。",
+          "audioFile": "audio/part3_q23.mp3",
+          "answer": 2
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "When Isaac was a child, he played soccer on a team that his father coached. In senior high school, he started watching rugby games on TV and learned more about the game. He also studied to become a sports coach in college. Now, Isaac is a coach for a rugby team in his city."
+            }
+          ],
+          "question": "What did Isaac do when he was a child?",
+          "choices": [
+            "He watched rugby on TV.",
+            "He played soccer.",
+            "He coached a sports team.",
+            "He studied at college."
+          ],
+          "explanation": "Isaacは子供の時、父がコーチをするチームでサッカーをしていました。",
+          "highlights": [
+            "When Isaac was a child, he played soccer"
+          ],
+          "choiceAnalysis": "選択肢1「テレビでラグビーを見た」→高校の時。選択肢2「サッカーをした」→正解。選択肢3「スポーツチームのコーチ」→今の仕事。選択肢4「大学で勉強」→大人になってから。",
+          "audioFile": "audio/part3_q24.mp3",
+          "answer": 2
+        },
+        {
+          "number": 25,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Roberto did not have any food in his refrigerator, so he decided to go out to buy something for dinner. He went to his favorite Italian restaurant and ordered pasta and a salad to take home. He took out his wallet, but he did not have enough cash. He had to ask the staff member to wait. Roberto ran home and got his credit card. Unfortunately, the pasta was cold by the time he got home with it."
+            }
+          ],
+          "question": "What was Roberto's problem at the restaurant?",
+          "choices": [
+            "He didn't have enough cash.",
+            "The restaurant was closed.",
+            "They didn't have his favorite pasta.",
+            "He forgot to bring his wallet."
+          ],
+          "explanation": "Robertoは現金が足りませんでした。",
+          "highlights": [
+            "he did not have enough cash"
+          ],
+          "choiceAnalysis": "選択肢1「現金が足りなかった」→正解。選択肢2「レストランが閉まっていた」→注文した。選択肢3「好きなパスタがなかった」→注文した。選択肢4「財布を忘れた」→財布は持っていたが現金不足。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 1
+        },
+        {
+          "number": 26,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Sophie was asked to go to a party by her friend James. She wanted to look as nice as possible, so she chose her favorite blue dress and a sweater. However, she noticed all of her shoes were old and did not look nice. As a result, she went to the department store to pick out a new pair."
+            }
+          ],
+          "question": "Why did Sophie go to the department store?",
+          "choices": [
+            "To buy a new dress.",
+            "To find a sweater.",
+            "To return some old shoes.",
+            "To buy new shoes."
+          ],
+          "explanation": "古い靴しかなかったので新しい靴を買いに行きました。",
+          "highlights": [
+            "all of her shoes were old",
+            "she went to the department store to pick out a new pair"
+          ],
+          "choiceAnalysis": "選択肢1「新しいドレス」→お気に入りがある。選択肢2「セーター」→すでに選んだ。選択肢3「古い靴を返品」→新しいのを買う。選択肢4「新しい靴を買う」→正解。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 4
+        },
+        {
+          "number": 27,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Electric cars are said to be better for the environment than cars that use gasoline. However, gasoline-powered cars are quicker and easier to fill up. There are not enough places outside cities to charge car batteries. As a result, people who drive far outside of cities like to have cars that use gasoline. In some African countries, for example, many businesses need to use gasoline-powered cars over long distances."
+            }
+          ],
+          "question": "Why are cars that use gasoline still needed in some African countries?",
+          "choices": [
+            "Electric cars are too expensive there.",
+            "People there prefer the sound of gasoline engines.",
+            "There aren't enough places to charge electric cars.",
+            "Gasoline is cheaper in African countries."
+          ],
+          "explanation": "都市の外に充電場所が十分にないため、ガソリン車が必要です。",
+          "highlights": [
+            "There are not enough places outside cities to charge car batteries"
+          ],
+          "choiceAnalysis": "選択肢1「電気自動車が高すぎる」→充電場所の問題。選択肢2「エンジン音が好き」→言及なし。選択肢3「充電場所が十分にない」→正解。選択肢4「ガソリンが安い」→言及なし。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 3
+        },
+        {
+          "number": 28,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thank you for coming to the Pineville Mall fresh-food store. We will be closing in 10 minutes, at 9 p.m. We ask that you finish up your shopping soon. The south exit to the parking lot has closed already, so please use the exit on the north side. We will open again tomorrow at 10 a.m."
+            }
+          ],
+          "question": "Why is this announcement being made?",
+          "choices": [
+            "The store is having a special sale.",
+            "New products have arrived.",
+            "The store will close soon.",
+            "The parking lot is full."
+          ],
+          "explanation": "10分後に閉店するため、買い物を早く終えるよう案内しています。",
+          "highlights": [
+            "We will be closing in 10 minutes"
+          ],
+          "choiceAnalysis": "選択肢1「特別セール」→閉店の案内。選択肢2「新商品入荷」→閉店。選択肢3「もうすぐ閉店」→正解。選択肢4「駐車場が満車」→南の出口が閉まった。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 3
+        },
+        {
+          "number": 29,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Attention, all passengers. We apologize for the delay, but we cannot take off because of all the snow on the runway. We should be able to take off in 10 minutes. We will let you know as soon as enough of the snow has been cleared away. The pilot has turned off the seat belt sign, so please feel free to use the restrooms or to get up to stretch your legs."
+            }
+          ],
+          "question": "Why has the flight been delayed?",
+          "choices": [
+            "The pilot is not ready.",
+            "There is snow on the runway.",
+            "The plane needs more fuel.",
+            "Some passengers are late."
+          ],
+          "explanation": "滑走路の雪のため離陸できません。",
+          "highlights": [
+            "we cannot take off because of all the snow on the runway"
+          ],
+          "choiceAnalysis": "選択肢1「パイロットの準備ができていない」→雪。選択肢2「滑走路に雪」→正解。選択肢3「燃料が必要」→言及なし。選択肢4「乗客が遅れている」→言及なし。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 2
+        },
+        {
+          "number": 30,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "In some parts of Africa, there are small animals called bush babies. Bush babies like to live in tall trees, and they have large ears and eyes. They start being active after the sun goes down and look for food throughout the night. Bush babies usually eat plants, but they sometimes eat other small animals as well."
+            }
+          ],
+          "question": "What is one thing we learn about bush babies?",
+          "choices": [
+            "They are active at night.",
+            "They only eat plants.",
+            "They live in small caves.",
+            "They are found in Asia."
+          ],
+          "explanation": "ブッシュベイビーは日が沈んでから活動し始める夜行性です。",
+          "highlights": [
+            "They start being active after the sun goes down"
+          ],
+          "choiceAnalysis": "選択肢1「夜に活動する」→正解。選択肢2「植物だけ食べる」→小動物も食べる。選択肢3「小さな洞窟に住む」→高い木。選択肢4「アジアにいる」→アフリカ。",
+          "audioFile": "audio/part3_q30.mp3",
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,982 +1,982 @@
 {
-  "title": "2021年度 第2回検定一次試験 英検準1級 リスニング",
-  "parts": [
-    {
-      "name": "第1部",
-      "nameEn": "Part 1",
-      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-      "questionRange": "No. 1 〜 No. 12",
-      "questions": [
+    "title": "2021年度 第2回検定一次試験 英検準1級 リスニング",
+    "parts": [
         {
-          "number": 1,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Yusuke, I'm going to a Japanese-style wedding next month. What kind of present should I buy?"
-            },
-            {
-              "speaker": "male",
-              "text": "It's pretty easy here in Japan. We just give cash wrapped in a special envelope."
-            },
-            {
-              "speaker": "female",
-              "text": "Really? Is that all?"
-            },
-            {
-              "speaker": "male",
-              "text": "Yeah, it's the custom here. How close are you to the couple?"
-            },
-            {
-              "speaker": "female",
-              "text": "The bride is my best friend in Japan."
-            },
-            {
-              "speaker": "male",
-              "text": "Ah. In that case, you're looking at around 30,000 yen."
-            },
-            {
-              "speaker": "female",
-              "text": "That much!? I'll have to cut way back on expenses this month so I can cover that."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, good luck."
-            }
-          ],
-          "question": "What does the woman tell Yusuke?",
-          "choices": [
-            "She will find it hard to get the money.",
-            "She barely knows the bride.",
-            "She can no longer attend the wedding.",
-            "She already bought a gift."
-          ],
-          "explanation": "女性は3万円を用意するために今月大幅に出費を切り詰める必要があると言っています。",
-          "highlights": [
-            "I'll have to cut way back on expenses this month so I can cover that"
-          ],
-          "choiceAnalysis": "選択肢1「お金を用意するのが大変」→正解。出費を切り詰める必要あり。選択肢2「花嫁をほとんど知らない」→親友。選択肢3「結婚式に出られない」→言及なし。選択肢4「既に贈り物を買った」→現金を渡す。",
-          "audioFile": "audio/part1_q01.mp3",
-          "answer": 1
+            "name": "第1部",
+            "nameEn": "Part 1",
+            "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 1 〜 No. 12",
+            "questions": [
+                {
+                    "number": 1,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Yusuke, I'm going to a Japanese-style wedding next month. What kind of present should I buy?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "It's pretty easy here in Japan. We just give cash wrapped in a special envelope."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Really? Is that all?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yeah, it's the custom here. How close are you to the couple?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "The bride is my best friend in Japan."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Ah. In that case, you're looking at around 30,000 yen."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "That much!? I'll have to cut way back on expenses this month so I can cover that."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, good luck."
+                        }
+                    ],
+                    "question": "What does the woman tell Yusuke?",
+                    "choices": [
+                        "She will find it hard to get the money.",
+                        "She barely knows the bride.",
+                        "She can no longer attend the wedding.",
+                        "She already bought a gift."
+                    ],
+                    "explanation": "女性は3万円を用意するために今月大幅に出費を切り詰める必要があると言っています。",
+                    "highlights": [
+                        "I'll have to cut way back on expenses this month so I can cover that"
+                    ],
+                    "choiceAnalysis": "選択肢1「お金を用意するのが大変」→正解。出費を切り詰める必要あり。選択肢2「花嫁をほとんど知らない」→親友。選択肢3「結婚式に出られない」→言及なし。選択肢4「既に贈り物を買った」→現金を渡す。",
+                    "audioFile": "audio/part1_q01.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 2,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Good evening, sir. May I see your ticket, please?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Here you are. I'm taking the 6:30 flight to Boston. I'd like an aisle seat, if possible."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Ah, that flight is overbooked."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Do you mean I can't get a seat?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No, your seat is confirmed. But we are asking all passengers whether they can help us out this evening. If you agree to take the 9:30 flight, we will give you a complimentary $100 travel voucher."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That would be fine."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Thank you very much, sir."
+                        }
+                    ],
+                    "question": "What does the man agree to do?",
+                    "choices": [
+                        "Take the 6:30 flight.",
+                        "Change his flight.",
+                        "Pay extra for an upgrade.",
+                        "Give up his window seat."
+                    ],
+                    "explanation": "男性は9:30の便に変更することに同意し、$100のトラベルバウチャーを受け取ります。",
+                    "highlights": [
+                        "If you agree to take the 9:30 flight",
+                        "That would be fine"
+                    ],
+                    "choiceAnalysis": "選択肢1「6:30の便に乗る」→9:30に変更。選択肢2「便を変更する」→正解。選択肢3「アップグレード料金を払う」→無料バウチャーをもらう。選択肢4「窓側席を譲る」→通路側を希望していた。",
+                    "audioFile": "audio/part1_q02.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 3,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hello, front desk. Can I help you?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes, I'm in room 302. It's so hot in here I can hardly breathe."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I assume you've tried adjusting the temperature already."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Several times. It's at the lowest possible setting, but it doesn't seem to be having any effect. I'm boiling up here."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That's very strange. I sincerely apologize. I'll have someone from our maintenance staff go up and look at it right away."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Thanks. I'd appreciate that."
+                        }
+                    ],
+                    "question": "What is the woman's problem?",
+                    "choices": [
+                        "She has a high fever.",
+                        "She requested a different room.",
+                        "The air conditioner is not working properly.",
+                        "Room service has not arrived yet."
+                    ],
+                    "explanation": "女性の部屋のエアコンが最低設定にしても効かず、部屋が暑すぎると訴えています。",
+                    "highlights": [
+                        "It's at the lowest possible setting, but it doesn't seem to be having any effect"
+                    ],
+                    "choiceAnalysis": "選択肢1「高熱がある」→部屋が暑い。選択肢2「部屋の変更を依頼」→修理を依頼。選択肢3「エアコンが正常に動かない」→正解。選択肢4「ルームサービスがまだ」→言及なし。",
+                    "audioFile": "audio/part1_q03.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 4,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Honey, I'm going to invite my sister to stay with us this summer."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Don't I have a say in this matter?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Uh, sure you do, but I thought you liked Patty."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Of course, but a whole summer? I'm the one who has to cook for an extra person."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I get the point. How about a couple of weeks in July, then?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, that might be better."
+                        }
+                    ],
+                    "question": "What does the woman suggest to the man?",
+                    "choices": [
+                        "Sharing the responsibilities.",
+                        "Shortening Patty's visit.",
+                        "Making the decision later.",
+                        "Postponing the visit."
+                    ],
+                    "explanation": "女性は夏の間ずっとは長すぎると不満を示し、結果的に滞在期間を短くする提案（7月の2週間）に同意しました。",
+                    "highlights": [
+                        "a whole summer?",
+                        "How about a couple of weeks in July",
+                        "that might be better"
+                    ],
+                    "choiceAnalysis": "選択肢1「責任を分担」→言及なし。選択肢2「Pattyの訪問を短くする」→正解。選択肢3「後で決める」→言及なし。選択肢4「訪問を延期」→時期ではなく期間の問題。",
+                    "audioFile": "audio/part1_q04.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 5,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hey, Abigail. Are you having as much trouble as I am with our sociology class?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Big trouble! What's with the book the professor assigned?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I spent ages just trying to understand the introduction. It's all I can do to get through a single chapter!"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah, the author just seems to go around in circles."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I agree. He never seems to make a point."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Hey, maybe there's a study guide on the Internet . . ."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That's an idea."
+                        }
+                    ],
+                    "question": "Why are these students complaining?",
+                    "choices": [
+                        "The class is not challenging enough.",
+                        "The professor is too busy to help them.",
+                        "The study guide is not helpful.",
+                        "The book is difficult to understand."
+                    ],
+                    "explanation": "学生たちは社会学の授業で指定された教科書が難解で、著者の主張が堂々巡りで理解しにくいと不満を述べています。",
+                    "highlights": [
+                        "What's with the book the professor assigned",
+                        "the author just seems to go around in circles"
+                    ],
+                    "choiceAnalysis": "選択肢1「授業が簡単すぎる」→逆に難しい。選択肢2「教授が忙しい」→言及なし。選択肢3「スタディガイドが役立たない」→まだ探していない。選択肢4「本が理解しにくい」→正解。",
+                    "audioFile": "audio/part1_q05.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 6,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "I get the feeling Susan's upset with me."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "What happened?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I was trying to organize a farewell party for her, but I had to give up. We just couldn't find a date or time that everyone could agree to."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "She doesn't blame you for that, does she? I mean, with how busy she is, her schedule is probably the hardest to work around."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Exactly, but when I suggested calling it off, she seemed hurt. I e-mailed her a couple of days ago and said maybe we could all have lunch instead, but I haven't heard from her since."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, she's very busy, so maybe she just hasn't gotten around to answering you yet."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Maybe, but her last day is tomorrow!"
+                        }
+                    ],
+                    "question": "What do we learn from the conversation?",
+                    "choices": [
+                        "Susan invited her coworkers to lunch.",
+                        "Susan's farewell party is tomorrow.",
+                        "The man does not know Susan's e-mail address.",
+                        "The man could not organize a farewell party."
+                    ],
+                    "explanation": "男性はSusanの送別会を企画しようとしたが、全員の都合が合わず断念しました。",
+                    "highlights": [
+                        "I was trying to organize a farewell party for her, but I had to give up"
+                    ],
+                    "choiceAnalysis": "選択肢1「Susanがランチに招いた」→男性がランチを提案。選択肢2「明日が送別会」→パーティーは中止。選択肢3「メールアドレスを知らない」→メール済み。選択肢4「送別会を企画できなかった」→正解。",
+                    "audioFile": "audio/part1_q06.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 7,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hi, Samantha, welcome back."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Hi, Jack. Thanks. How's work been?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Pretty busy, as always. So tell me, how's married life?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, the honeymoon was great. But now I'm adjusting to living with another person. Plus, we moved into a new house. The whole situation is quite a change."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I remember going through a similar thing. It takes a while to get used to it."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, I hope things settle down soon."
+                        }
+                    ],
+                    "question": "What do we learn about the woman?",
+                    "choices": [
+                        "She is not used to being married yet.",
+                        "She does not like being busy at work.",
+                        "She needs to adjust to her new job.",
+                        "She is ready for another vacation."
+                    ],
+                    "explanation": "女性は結婚したばかりで、新婚生活と新しい家への引越しに適応中です。",
+                    "highlights": [
+                        "I'm adjusting to living with another person",
+                        "The whole situation is quite a change"
+                    ],
+                    "choiceAnalysis": "選択肢1「結婚生活にまだ慣れていない」→正解。選択肢2「仕事が忙しいのが嫌」→言及なし。選択肢3「新しい仕事に適応」→仕事ではなく結婚生活。選択肢4「また休暇が欲しい」→言及なし。",
+                    "audioFile": "audio/part1_q07.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 8,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Good morning. My name is Tom Hendricks. I'm here to see Mr. Phelps."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I'm sorry, Mr. Hendricks. Mr. Phelps is out of town today. Did you have an appointment to see him?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, I thought so. I had my secretary schedule it last week."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Let me check. . . . Oh, it seems he's scheduled to meet you tomorrow at this time."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Really? I guess I must have written it down wrong. Well, could you please see that he gets these brochures? I'll call him later in the week to discuss them."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I'll see that he gets them."
+                        }
+                    ],
+                    "question": "What does Mr. Hendricks say he will do?",
+                    "choices": [
+                        "Reschedule the appointment.",
+                        "Come back tomorrow.",
+                        "Speak with his secretary.",
+                        "Call Mr. Phelps another time."
+                    ],
+                    "explanation": "Hendricksさんは今週中にPhelpsさんに電話してパンフレットについて話すと言いました。",
+                    "highlights": [
+                        "I'll call him later in the week to discuss them"
+                    ],
+                    "choiceAnalysis": "選択肢1「予約を取り直す」→電話すると言及。選択肢2「明日戻る」→言及なし。選択肢3「秘書と話す」→言及なし。選択肢4「別の機会にPhelpsに電話」→正解。",
+                    "audioFile": "audio/part1_q08.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 9,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "That baby behind us has been crying the whole trip. The noise is driving me crazy!"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Don't you remember what our kids were like when we traveled on trains with them?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I thought they were fairly quiet and well behaved, weren't they?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "You're kidding, right? They used to start up as soon as we sat down."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Really? I don't remember that at all. Did other passengers complain?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No. They were more polite than that."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "OK. I get your point."
+                        }
+                    ],
+                    "question": "What does the woman imply?",
+                    "choices": [
+                        "The man should not complain about the noise.",
+                        "The man should not have taken the train.",
+                        "The other passengers should be more polite.",
+                        "The baby's parents should be more careful."
+                    ],
+                    "explanation": "女性は自分たちの子供も同じだったのに他の乗客は文句を言わなかったと指摘し、男性も文句を言うべきではないと暗示しています。",
+                    "highlights": [
+                        "Don't you remember what our kids were like",
+                        "They were more polite than that",
+                        "I get your point"
+                    ],
+                    "choiceAnalysis": "選択肢1「騒音に文句を言うべきでない」→正解。自分たちの子も同じだった。選択肢2「電車に乗るべきでなかった」→言及なし。選択肢3「他の乗客がもっと丁寧に」→他の乗客は丁寧だった。選択肢4「赤ちゃんの親がもっと注意」→言及なし。",
+                    "audioFile": "audio/part1_q09.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 10,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "How was your job interview at the restaurant?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Pretty good, I think. But they have a lot of other chefs to interview."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, you graduated from a famous school, and you trained at that French restaurant while you were studying."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "But I made a mistake by not working over the summer. The interviewers asked me what I did. I wish I'd gotten a part-time job instead of spending my time on the beach."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah, it would've made your résumé look better."
+                        }
+                    ],
+                    "question": "What is the man's concern?",
+                    "choices": [
+                        "The school he graduated from is not well known.",
+                        "He has never cooked French food before.",
+                        "He did not have a job over the summer.",
+                        "His résumé contained too many mistakes."
+                    ],
+                    "explanation": "男性は夏にアルバイトをせずビーチで過ごしたことを後悔しており、履歴書の見栄えが悪いことを心配しています。",
+                    "highlights": [
+                        "I made a mistake by not working over the summer",
+                        "I wish I'd gotten a part-time job"
+                    ],
+                    "choiceAnalysis": "選択肢1「学校が有名でない」→有名な学校を卒業。選択肢2「フランス料理を作ったことがない」→フランス料理店で修行。選択肢3「夏に仕事をしなかった」→正解。選択肢4「履歴書にミスが多い」→経験不足が問題。",
+                    "audioFile": "audio/part1_q10.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 11,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "How are things, Felicity?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Great! I just got invited to audition for another movie."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That's exciting. But what about college?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I'm thinking about dropping out. These days, I have so many auditions that I'm sure to get a part soon."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I don't think that's a good idea."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "You should understand. You lived for playing music when you were in high school."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yeah, but I eventually realized a college degree would give me a better chance to make a steady living."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "That's true enough. But I just don't want to have regrets later."
+                        }
+                    ],
+                    "question": "What does the man imply?",
+                    "choices": [
+                        "The woman should prepare more for the audition.",
+                        "The woman's career plan is unrealistic.",
+                        "He chose the wrong major in college.",
+                        "He should have pursued a career in music."
+                    ],
+                    "explanation": "男性は大学中退は良くないと言い、学位があった方が安定した生活ができると助言しています。女性のキャリアプランは非現実的だと暗示。",
+                    "highlights": [
+                        "I don't think that's a good idea",
+                        "a college degree would give me a better chance to make a steady living"
+                    ],
+                    "choiceAnalysis": "選択肢1「オーディション準備をもっと」→言及なし。選択肢2「キャリアプランが非現実的」→正解。中退は良くないと示唆。選択肢3「専攻を間違えた」→言及なし。選択肢4「音楽キャリアを追求すべきだった」→逆に大学を選んだ。",
+                    "audioFile": "audio/part1_q11.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 12,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "You're looking very serious. What's the matter?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "It's our electric bill. It was over $250 last month."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, it was the coldest month this winter."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes, but that still seems high. Maybe I'll call the electric company."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I'm sure the bill's correct. I think we should start turning down the temperature at night. We have extra blankets we can use to keep warm."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I guess we can start with that and see if it helps."
+                        }
+                    ],
+                    "question": "What does the couple decide to do first?",
+                    "choices": [
+                        "Purchase more blankets.",
+                        "Replace their heating unit.",
+                        "Call the electric company.",
+                        "Use the heating less at night."
+                    ],
+                    "explanation": "男性が夜間の暖房温度を下げて毛布を使うことを提案し、女性もまずそれを試すことに同意しました。",
+                    "highlights": [
+                        "start turning down the temperature at night",
+                        "we can start with that and see if it helps"
+                    ],
+                    "choiceAnalysis": "選択肢1「毛布を購入」→既に持っている。選択肢2「暖房器具を交換」→言及なし。選択肢3「電力会社に電話」→女性は検討したが男性は不要と判断。選択肢4「夜間の暖房使用を減らす」→正解。",
+                    "audioFile": "audio/part1_q12.mp3",
+                    "answer": 4
+                }
+            ]
         },
         {
-          "number": 2,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Good evening, sir. May I see your ticket, please?"
-            },
-            {
-              "speaker": "male",
-              "text": "Here you are. I'm taking the 6:30 flight to Boston. I'd like an aisle seat, if possible."
-            },
-            {
-              "speaker": "female",
-              "text": "Ah, that flight is overbooked."
-            },
-            {
-              "speaker": "male",
-              "text": "Do you mean I can't get a seat?"
-            },
-            {
-              "speaker": "female",
-              "text": "No, your seat is confirmed. But we are asking all passengers whether they can help us out this evening. If you agree to take the 9:30 flight, we will give you a complimentary $100 travel voucher."
-            },
-            {
-              "speaker": "male",
-              "text": "That would be fine."
-            },
-            {
-              "speaker": "female",
-              "text": "Thank you very much, sir."
-            }
-          ],
-          "question": "What does the man agree to do?",
-          "choices": [
-            "Take the 6:30 flight.",
-            "Change his flight.",
-            "Pay extra for an upgrade.",
-            "Give up his window seat."
-          ],
-          "explanation": "男性は9:30の便に変更することに同意し、$100のトラベルバウチャーを受け取ります。",
-          "highlights": [
-            "If you agree to take the 9:30 flight",
-            "That would be fine"
-          ],
-          "choiceAnalysis": "選択肢1「6:30の便に乗る」→9:30に変更。選択肢2「便を変更する」→正解。選択肢3「アップグレード料金を払う」→無料バウチャーをもらう。選択肢4「窓側席を譲る」→通路側を希望していた。",
-          "audioFile": "audio/part1_q02.mp3",
-          "answer": 2
+            "name": "第2部",
+            "nameEn": "Part 2",
+            "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 13 〜 No. 24",
+            "questions": [
+                {
+                    "number": 13,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Researchers have long considered the possibility of ancient contact between Polynesian people of the South Pacific and Native Americans of South America. A recent study strongly supports such a theory. The study's researchers analyzed DNA samples from hundreds of Polynesians and Native Americans. They found genetic evidence that these peoples met and produced children together around 800 years ago."
+                        }
+                    ],
+                    "question": "What did the researchers confirm about Polynesians and Native Americans?",
+                    "choices": [
+                        "They do not share genetic similarities.",
+                        "They met and had children centuries ago.",
+                        "They shared knowledge about building rafts.",
+                        "They had little experience as sailors."
+                    ],
+                    "explanation": "研究者はDNA分析により、ポリネシア人とネイティブアメリカンが約800年前に出会い、子供をもうけたという遺伝的証拠を発見しました。",
+                    "highlights": [
+                        "genetic evidence that these peoples met and produced children together around 800 years ago"
+                    ],
+                    "choiceAnalysis": "選択肢1「遺伝的類似性がない」→逆。選択肢2「数世紀前に出会い子供をもうけた」→正解。選択肢3「いかだ建造の知識を共有」→言及なし。選択肢4「航海経験が少ない」→逆に航海能力が高い。",
+                    "audioFile": "audio/part2_q13.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 14,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "What remains unclear is which group crossed the thousands of kilometers of ocean to make such contact possible. Polynesians were known for their canoes. They made long sea voyages and settled on many islands in the Pacific Ocean. However, in 1947, an explorer showed it was possible to cross the Pacific Ocean from South America on a raft. Native Americans, who used rafts, may therefore also have made great voyages."
+                        }
+                    ],
+                    "question": "What did an explorer demonstrate in 1947?",
+                    "choices": [
+                        "A raft could be used to cross the Pacific Ocean.",
+                        "It is unlikely Native Americans crossed the Pacific Ocean.",
+                        "Polynesians' rafts were superior to their canoes.",
+                        "Some Pacific islands could not be reached by boat."
+                    ],
+                    "explanation": "1947年に探検家がいかだで南米から太平洋を横断できることを証明しました。",
+                    "highlights": [
+                        "an explorer showed it was possible to cross the Pacific Ocean from South America on a raft"
+                    ],
+                    "choiceAnalysis": "選択肢1「いかだで太平洋を横断可能」→正解。選択肢2「ネイティブアメリカンが横断は不可能」→逆。選択肢3「いかだがカヌーより優れている」→言及なし。選択肢4「船で到達できない島」→言及なし。",
+                    "audioFile": "audio/part2_q14.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 15,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "It has often been claimed that listening to music during work can improve focus and productivity. Recent research, however, suggests this may only be true of people performing highly repetitive tasks. For more-creative jobs, or those requiring intense concentration, listening to music might be harmful."
+                        }
+                    ],
+                    "question": "What is one thing recent research has revealed about listening to music?",
+                    "choices": [
+                        "It has little effect on people's productivity.",
+                        "It helps students perform better on tests.",
+                        "It might make certain tasks more difficult to do.",
+                        "It improves people's mental health."
+                    ],
+                    "explanation": "最近の研究では、創造的な仕事や集中力を要する作業では音楽を聴くことが有害になる可能性があることが明らかになりました。",
+                    "highlights": [
+                        "For more-creative jobs, or those requiring intense concentration, listening to music might be harmful"
+                    ],
+                    "choiceAnalysis": "選択肢1「生産性にほとんど影響なし」→反復作業には効果的。選択肢2「テスト成績が向上」→逆に低下。選択肢3「特定の作業をより困難にする可能性」→正解。選択肢4「精神的健康を改善」→言及なし。",
+                    "audioFile": "audio/part2_q15.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 16,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "According to neuroscientist Daniel Levitin, many people are unaware that music might be causing them to get less done. Although listening to music while working may be enjoyable, Levitin says popular music with lyrics is especially bad for concentration. However, he believes that listening to music helps workers relax during rest periods between tasks, so it can improve their overall ability to concentrate."
+                        }
+                    ],
+                    "question": "What does Daniel Levitin believe about listening to music?",
+                    "choices": [
+                        "It can be effective during breaks.",
+                        "It can actually make work less enjoyable.",
+                        "It improves communication between workers.",
+                        "It only has a small effect on concentration."
+                    ],
+                    "explanation": "Levitinは休憩中に音楽を聴くことで労働者がリラックスし、全体的な集中力が向上すると信じています。",
+                    "highlights": [
+                        "listening to music helps workers relax during rest periods between tasks, so it can improve their overall ability to concentrate"
+                    ],
+                    "choiceAnalysis": "選択肢1「休憩中に効果的」→正解。選択肢2「仕事の楽しさを減らす」→楽しいが生産性に影響。選択肢3「コミュニケーション改善」→言及なし。選択肢4「集中力への影響は小さい」→歌詞付き音楽は特に悪い。",
+                    "audioFile": "audio/part2_q16.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 17,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Some animals, such as dolphins, are thought to communicate using sounds that can express specific meanings. However, it was long believed that the sounds made by some other animals, such as bats, were random. A study of Egyptian fruit bats suggests that their communication system is actually quite complex."
+                        }
+                    ],
+                    "question": "What did the study of Egyptian fruit bats suggest?",
+                    "choices": [
+                        "They make more sounds than dolphins.",
+                        "The sounds they make have meaning.",
+                        "Their sounds are not very complex.",
+                        "Their communication system has changed."
+                    ],
+                    "explanation": "エジプト・フルーツバットの研究により、彼らのコミュニケーションシステムは実際にはかなり複雑であることが示唆されました。",
+                    "highlights": [
+                        "their communication system is actually quite complex"
+                    ],
+                    "choiceAnalysis": "選択肢1「イルカより多くの音を出す」→言及なし。選択肢2「音に意味がある」→正解。ランダムではなく複雑。選択肢3「音はあまり複雑でない」→逆。選択肢4「コミュニケーションシステムが変化した」→言及なし。",
+                    "audioFile": "audio/part2_q17.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 18,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The bats were kept in captivity, and the scientists conducting the study used a computer program to analyze the sounds that the bats made. The sounds were grouped into categories based on context. For example, certain sounds tended to be produced in the presence of food. Other sounds occurred during what appeared to be arguments between bats over where the bats would sleep. In the future, the scientists hope to monitor bats in their natural habitat to see whether the sounds they make change."
+                        }
+                    ],
+                    "question": "How did the scientists conduct their analysis?",
+                    "choices": [
+                        "They recorded the sounds that sleeping bats made.",
+                        "They matched bat sounds to those of other animals.",
+                        "They monitored bats in their natural environment.",
+                        "They used a computer program to categorize bat sounds."
+                    ],
+                    "explanation": "科学者はコンピュータープログラムを使ってコウモリの音を分析し、文脈に基づいてカテゴリーに分類しました。",
+                    "highlights": [
+                        "used a computer program to analyze the sounds",
+                        "The sounds were grouped into categories based on context"
+                    ],
+                    "choiceAnalysis": "選択肢1「寝ているコウモリの音を録音」→言及なし。選択肢2「他の動物の音と比較」→言及なし。選択肢3「自然環境でモニター」→飼育下で研究。選択肢4「コンピュータープログラムで分類」→正解。",
+                    "audioFile": "audio/part2_q18.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 19,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The Boundary Waters Canoe Area Wilderness, located in a US national forest, contains over a thousand lakes and rivers. It offers visitors the chance to experience nature in an undisturbed state and provides an important habitat for endangered plants and animals."
+                        }
+                    ],
+                    "question": "What is true about the area described by the speaker?",
+                    "choices": [
+                        "The rivers and lakes there are polluted.",
+                        "It is home to a number of rare species.",
+                        "Important products are developed there.",
+                        "It is no longer open to tourists."
+                    ],
+                    "explanation": "この地域は絶滅危惧植物や動物の重要な生息地を提供しています。",
+                    "highlights": [
+                        "provides an important habitat for endangered plants and animals"
+                    ],
+                    "choiceAnalysis": "選択肢1「川や湖が汚染」→手つかずの自然。選択肢2「希少種の生息地」→正解。絶滅危惧種の生息地。選択肢3「重要な製品を開発」→言及なし。選択肢4「観光客に非公開」→訪問者に開放。",
+                    "audioFile": "audio/part2_q19.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 20,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Local residents are split over whether to allow mining in the area. Some say it could improve the economy by creating jobs, while others believe protecting nature should be the priority. According to a study by an economist, mining may indeed bring short-term economic benefits. However, the study found that such benefits would be smaller than the long-term negative impact mining would have on the tourist industry."
+                        }
+                    ],
+                    "question": "What did the study suggest about allowing mining in the area?",
+                    "choices": [
+                        "It would not affect local residents.",
+                        "It could bring long-term benefits.",
+                        "It would boost the tourist industry.",
+                        "It could do more harm than good."
+                    ],
+                    "explanation": "経済学者の研究によると、採掘は短期的な経済的利益をもたらす可能性があるが、観光産業への長期的な悪影響の方が大きいとされています。",
+                    "highlights": [
+                        "such benefits would be smaller than the long-term negative impact mining would have on the tourist industry"
+                    ],
+                    "choiceAnalysis": "選択肢1「地元住民に影響なし」→影響あり。選択肢2「長期的利益」→短期的のみ。選択肢3「観光産業を促進」→逆に悪影響。選択肢4「害の方が大きい」→正解。",
+                    "audioFile": "audio/part2_q20.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 21,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Hetepheres was an important Egyptian queen who lived more than 4,000 years ago. However, the location of her burial place was long a mystery. It was finally discovered in the 1920s by a photographer who, when setting up his camera, noticed something unusual under his camera stand."
+                        }
+                    ],
+                    "question": "What is one thing the speaker says about the tomb of Hetepheres?",
+                    "choices": [
+                        "It was discovered by chance.",
+                        "It was smaller than archaeologists expected.",
+                        "It is the oldest tomb in Egypt.",
+                        "It has never been photographed."
+                    ],
+                    "explanation": "写真家がカメラを設置しているときに偶然、カメラスタンドの下に何か異常なものを発見しました。",
+                    "highlights": [
+                        "a photographer who, when setting up his camera, noticed something unusual under his camera stand"
+                    ],
+                    "choiceAnalysis": "選択肢1「偶然発見された」→正解。写真家が偶然発見。選択肢2「予想より小さかった」→言及なし。選択肢3「エジプト最古の墓」→言及なし。選択肢4「写真を撮られたことがない」→言及なし。",
+                    "audioFile": "audio/part2_q21.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 22,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Thanks to the photographer's unexpected discovery, archaeologists found items of ancient furniture and jewelry, some of which had writings on them. The archaeologists also found evidence that the tomb had been broken into after Hetepheres was buried there. Many items appeared to have been stolen. In fact, even the body of Hetepheres was missing. Although the archaeologists were disappointed by this, the writings and remaining objects in the tomb have helped to expand our knowledge of ancient Egypt."
+                        }
+                    ],
+                    "question": "What is one reason the archaeologists were disappointed?",
+                    "choices": [
+                        "The writings in the tomb could not be translated.",
+                        "The body of Hetepheres was not in the tomb.",
+                        "All of the tomb's treasures had disappeared.",
+                        "They were not allowed to study the jewelry."
+                    ],
+                    "explanation": "考古学者は墓が荒らされており、多くの品物が盗まれ、Hetepheresの遺体さえなかったことに失望しました。",
+                    "highlights": [
+                        "even the body of Hetepheres was missing",
+                        "the archaeologists were disappointed by this"
+                    ],
+                    "choiceAnalysis": "選択肢1「碑文が解読不能」→碑文は知識拡大に貢献。選択肢2「Hetepheresの遺体がなかった」→正解。選択肢3「すべての宝物が消えた」→一部は残存。選択肢4「宝石の研究を許可されなかった」→言及なし。",
+                    "audioFile": "audio/part2_q22.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 23,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Moving to a new home can be difficult for children. Researchers are learning more about the problems it causes and which children are most at risk. Studies in the UK have shown that children forced to move more than once in a single year are especially affected. The impact of moving is the same whether children come from wealthy or poor backgrounds. However, some of the studies have also shown that teenagers may experience the most serious negative effects of moving."
+                        }
+                    ],
+                    "question": "What have some studies in the UK shown about moving?",
+                    "choices": [
+                        "It causes more problems for wealthy families.",
+                        "It has been occurring less frequently.",
+                        "It may especially affect teenagers.",
+                        "It has a significant impact on adults' health."
+                    ],
+                    "explanation": "英国の研究で、ティーンエイジャーが引越しの最も深刻な悪影響を受ける可能性があることが示されました。",
+                    "highlights": [
+                        "teenagers may experience the most serious negative effects of moving"
+                    ],
+                    "choiceAnalysis": "選択肢1「裕福な家庭により問題」→裕富・貧困に関わらず同じ。選択肢2「頻度が減っている」→言及なし。選択肢3「特にティーンエイジャーに影響」→正解。選択肢4「大人の健康に影響」→子供の話。",
+                    "audioFile": "audio/part2_q23.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 24,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The findings of a study using data from Denmark showed that moving more than once can increase a child's risk of criminal activity later in life. Moving to a new area and having to form social relationships at a new school can be difficult and stressful for children. More research is needed to determine how to prevent these negative effects."
+                        }
+                    ],
+                    "question": "What was learned from the data from Denmark?",
+                    "choices": [
+                        "Moving increases the rate of divorce.",
+                        "Moving helps solve problems at school.",
+                        "Moving can damage parent-child relationships.",
+                        "Moving can lead to behavior problems."
+                    ],
+                    "explanation": "デンマークのデータにより、複数回の引越しが子供の将来の犯罪活動のリスクを高める可能性があることが判明しました。",
+                    "highlights": [
+                        "moving more than once can increase a child's risk of criminal activity later in life"
+                    ],
+                    "choiceAnalysis": "選択肢1「離婚率の上昇」→言及なし。選択肢2「学校の問題解決」→逆に問題を引き起こす。選択肢3「親子関係を損なう」→言及なし。選択肢4「行動問題につながる」→正解。犯罪活動のリスク増。",
+                    "audioFile": "audio/part2_q24.mp3",
+                    "answer": 4
+                }
+            ]
         },
         {
-          "number": 3,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hello, front desk. Can I help you?"
-            },
-            {
-              "speaker": "female",
-              "text": "Yes, I'm in room 302. It's so hot in here I can hardly breathe."
-            },
-            {
-              "speaker": "male",
-              "text": "I assume you've tried adjusting the temperature already."
-            },
-            {
-              "speaker": "female",
-              "text": "Several times. It's at the lowest possible setting, but it doesn't seem to be having any effect. I'm boiling up here."
-            },
-            {
-              "speaker": "male",
-              "text": "That's very strange. I sincerely apologize. I'll have someone from our maintenance staff go up and look at it right away."
-            },
-            {
-              "speaker": "female",
-              "text": "Thanks. I'd appreciate that."
-            }
-          ],
-          "question": "What is the woman's problem?",
-          "choices": [
-            "She has a high fever.",
-            "She requested a different room.",
-            "The air conditioner is not working properly.",
-            "Room service has not arrived yet."
-          ],
-          "explanation": "女性の部屋のエアコンが最低設定にしても効かず、部屋が暑すぎると訴えています。",
-          "highlights": [
-            "It's at the lowest possible setting, but it doesn't seem to be having any effect"
-          ],
-          "choiceAnalysis": "選択肢1「高熱がある」→部屋が暑い。選択肢2「部屋の変更を依頼」→修理を依頼。選択肢3「エアコンが正常に動かない」→正解。選択肢4「ルームサービスがまだ」→言及なし。",
-          "audioFile": "audio/part1_q03.mp3",
-          "answer": 3
-        },
-        {
-          "number": 4,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Honey, I'm going to invite my sister to stay with us this summer."
-            },
-            {
-              "speaker": "female",
-              "text": "Don't I have a say in this matter?"
-            },
-            {
-              "speaker": "male",
-              "text": "Uh, sure you do, but I thought you liked Patty."
-            },
-            {
-              "speaker": "female",
-              "text": "Of course, but a whole summer? I'm the one who has to cook for an extra person."
-            },
-            {
-              "speaker": "male",
-              "text": "I get the point. How about a couple of weeks in July, then?"
-            },
-            {
-              "speaker": "female",
-              "text": "Well, that might be better."
-            }
-          ],
-          "question": "What does the woman suggest to the man?",
-          "choices": [
-            "Sharing the responsibilities.",
-            "Shortening Patty's visit.",
-            "Making the decision later.",
-            "Postponing the visit."
-          ],
-          "explanation": "女性は夏の間ずっとは長すぎると不満を示し、結果的に滞在期間を短くする提案（7月の2週間）に同意しました。",
-          "highlights": [
-            "a whole summer?",
-            "How about a couple of weeks in July",
-            "that might be better"
-          ],
-          "choiceAnalysis": "選択肢1「責任を分担」→言及なし。選択肢2「Pattyの訪問を短くする」→正解。選択肢3「後で決める」→言及なし。選択肢4「訪問を延期」→時期ではなく期間の問題。",
-          "audioFile": "audio/part1_q04.mp3",
-          "answer": 2
-        },
-        {
-          "number": 5,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hey, Abigail. Are you having as much trouble as I am with our sociology class?"
-            },
-            {
-              "speaker": "female",
-              "text": "Big trouble! What's with the book the professor assigned?"
-            },
-            {
-              "speaker": "male",
-              "text": "I spent ages just trying to understand the introduction. It's all I can do to get through a single chapter!"
-            },
-            {
-              "speaker": "female",
-              "text": "Yeah, the author just seems to go around in circles."
-            },
-            {
-              "speaker": "male",
-              "text": "I agree. He never seems to make a point."
-            },
-            {
-              "speaker": "female",
-              "text": "Hey, maybe there's a study guide on the Internet . . ."
-            },
-            {
-              "speaker": "male",
-              "text": "That's an idea."
-            }
-          ],
-          "question": "Why are these students complaining?",
-          "choices": [
-            "The class is not challenging enough.",
-            "The professor is too busy to help them.",
-            "The study guide is not helpful.",
-            "The book is difficult to understand."
-          ],
-          "explanation": "学生たちは社会学の授業で指定された教科書が難解で、著者の主張が堂々巡りで理解しにくいと不満を述べています。",
-          "highlights": [
-            "What's with the book the professor assigned",
-            "the author just seems to go around in circles"
-          ],
-          "choiceAnalysis": "選択肢1「授業が簡単すぎる」→逆に難しい。選択肢2「教授が忙しい」→言及なし。選択肢3「スタディガイドが役立たない」→まだ探していない。選択肢4「本が理解しにくい」→正解。",
-          "audioFile": "audio/part1_q05.mp3",
-          "answer": 4
-        },
-        {
-          "number": 6,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "I get the feeling Susan's upset with me."
-            },
-            {
-              "speaker": "female",
-              "text": "What happened?"
-            },
-            {
-              "speaker": "male",
-              "text": "I was trying to organize a farewell party for her, but I had to give up. We just couldn't find a date or time that everyone could agree to."
-            },
-            {
-              "speaker": "female",
-              "text": "She doesn't blame you for that, does she? I mean, with how busy she is, her schedule is probably the hardest to work around."
-            },
-            {
-              "speaker": "male",
-              "text": "Exactly, but when I suggested calling it off, she seemed hurt. I e-mailed her a couple of days ago and said maybe we could all have lunch instead, but I haven't heard from her since."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, she's very busy, so maybe she just hasn't gotten around to answering you yet."
-            },
-            {
-              "speaker": "male",
-              "text": "Maybe, but her last day is tomorrow!"
-            }
-          ],
-          "question": "What do we learn from the conversation?",
-          "choices": [
-            "Susan invited her coworkers to lunch.",
-            "Susan's farewell party is tomorrow.",
-            "The man does not know Susan's e-mail address.",
-            "The man could not organize a farewell party."
-          ],
-          "explanation": "男性はSusanの送別会を企画しようとしたが、全員の都合が合わず断念しました。",
-          "highlights": [
-            "I was trying to organize a farewell party for her, but I had to give up"
-          ],
-          "choiceAnalysis": "選択肢1「Susanがランチに招いた」→男性がランチを提案。選択肢2「明日が送別会」→パーティーは中止。選択肢3「メールアドレスを知らない」→メール済み。選択肢4「送別会を企画できなかった」→正解。",
-          "audioFile": "audio/part1_q06.mp3",
-          "answer": 4
-        },
-        {
-          "number": 7,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hi, Samantha, welcome back."
-            },
-            {
-              "speaker": "female",
-              "text": "Hi, Jack. Thanks. How's work been?"
-            },
-            {
-              "speaker": "male",
-              "text": "Pretty busy, as always. So tell me, how's married life?"
-            },
-            {
-              "speaker": "female",
-              "text": "Well, the honeymoon was great. But now I'm adjusting to living with another person. Plus, we moved into a new house. The whole situation is quite a change."
-            },
-            {
-              "speaker": "male",
-              "text": "I remember going through a similar thing. It takes a while to get used to it."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, I hope things settle down soon."
-            }
-          ],
-          "question": "What do we learn about the woman?",
-          "choices": [
-            "She is not used to being married yet.",
-            "She does not like being busy at work.",
-            "She needs to adjust to her new job.",
-            "She is ready for another vacation."
-          ],
-          "explanation": "女性は結婚したばかりで、新婚生活と新しい家への引越しに適応中です。",
-          "highlights": [
-            "I'm adjusting to living with another person",
-            "The whole situation is quite a change"
-          ],
-          "choiceAnalysis": "選択肢1「結婚生活にまだ慣れていない」→正解。選択肢2「仕事が忙しいのが嫌」→言及なし。選択肢3「新しい仕事に適応」→仕事ではなく結婚生活。選択肢4「また休暇が欲しい」→言及なし。",
-          "audioFile": "audio/part1_q07.mp3",
-          "answer": 1
-        },
-        {
-          "number": 8,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Good morning. My name is Tom Hendricks. I'm here to see Mr. Phelps."
-            },
-            {
-              "speaker": "female",
-              "text": "I'm sorry, Mr. Hendricks. Mr. Phelps is out of town today. Did you have an appointment to see him?"
-            },
-            {
-              "speaker": "male",
-              "text": "Well, I thought so. I had my secretary schedule it last week."
-            },
-            {
-              "speaker": "female",
-              "text": "Let me check. . . . Oh, it seems he's scheduled to meet you tomorrow at this time."
-            },
-            {
-              "speaker": "male",
-              "text": "Really? I guess I must have written it down wrong. Well, could you please see that he gets these brochures? I'll call him later in the week to discuss them."
-            },
-            {
-              "speaker": "female",
-              "text": "I'll see that he gets them."
-            }
-          ],
-          "question": "What does Mr. Hendricks say he will do?",
-          "choices": [
-            "Reschedule the appointment.",
-            "Come back tomorrow.",
-            "Speak with his secretary.",
-            "Call Mr. Phelps another time."
-          ],
-          "explanation": "Hendricksさんは今週中にPhelpsさんに電話してパンフレットについて話すと言いました。",
-          "highlights": [
-            "I'll call him later in the week to discuss them"
-          ],
-          "choiceAnalysis": "選択肢1「予約を取り直す」→電話すると言及。選択肢2「明日戻る」→言及なし。選択肢3「秘書と話す」→言及なし。選択肢4「別の機会にPhelpsに電話」→正解。",
-          "audioFile": "audio/part1_q08.mp3",
-          "answer": 4
-        },
-        {
-          "number": 9,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "That baby behind us has been crying the whole trip. The noise is driving me crazy!"
-            },
-            {
-              "speaker": "female",
-              "text": "Don't you remember what our kids were like when we traveled on trains with them?"
-            },
-            {
-              "speaker": "male",
-              "text": "I thought they were fairly quiet and well behaved, weren't they?"
-            },
-            {
-              "speaker": "female",
-              "text": "You're kidding, right? They used to start up as soon as we sat down."
-            },
-            {
-              "speaker": "male",
-              "text": "Really? I don't remember that at all. Did other passengers complain?"
-            },
-            {
-              "speaker": "female",
-              "text": "No. They were more polite than that."
-            },
-            {
-              "speaker": "male",
-              "text": "OK. I get your point."
-            }
-          ],
-          "question": "What does the woman imply?",
-          "choices": [
-            "The man should not complain about the noise.",
-            "The man should not have taken the train.",
-            "The other passengers should be more polite.",
-            "The baby's parents should be more careful."
-          ],
-          "explanation": "女性は自分たちの子供も同じだったのに他の乗客は文句を言わなかったと指摘し、男性も文句を言うべきではないと暗示しています。",
-          "highlights": [
-            "Don't you remember what our kids were like",
-            "They were more polite than that",
-            "I get your point"
-          ],
-          "choiceAnalysis": "選択肢1「騒音に文句を言うべきでない」→正解。自分たちの子も同じだった。選択肢2「電車に乗るべきでなかった」→言及なし。選択肢3「他の乗客がもっと丁寧に」→他の乗客は丁寧だった。選択肢4「赤ちゃんの親がもっと注意」→言及なし。",
-          "audioFile": "audio/part1_q09.mp3",
-          "answer": 1
-        },
-        {
-          "number": 10,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "How was your job interview at the restaurant?"
-            },
-            {
-              "speaker": "male",
-              "text": "Pretty good, I think. But they have a lot of other chefs to interview."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, you graduated from a famous school, and you trained at that French restaurant while you were studying."
-            },
-            {
-              "speaker": "male",
-              "text": "But I made a mistake by not working over the summer. The interviewers asked me what I did. I wish I'd gotten a part-time job instead of spending my time on the beach."
-            },
-            {
-              "speaker": "female",
-              "text": "Yeah, it would've made your résumé look better."
-            }
-          ],
-          "question": "What is the man's concern?",
-          "choices": [
-            "The school he graduated from is not well known.",
-            "He has never cooked French food before.",
-            "He did not have a job over the summer.",
-            "His résumé contained too many mistakes."
-          ],
-          "explanation": "男性は夏にアルバイトをせずビーチで過ごしたことを後悔しており、履歴書の見栄えが悪いことを心配しています。",
-          "highlights": [
-            "I made a mistake by not working over the summer",
-            "I wish I'd gotten a part-time job"
-          ],
-          "choiceAnalysis": "選択肢1「学校が有名でない」→有名な学校を卒業。選択肢2「フランス料理を作ったことがない」→フランス料理店で修行。選択肢3「夏に仕事をしなかった」→正解。選択肢4「履歴書にミスが多い」→経験不足が問題。",
-          "audioFile": "audio/part1_q10.mp3",
-          "answer": 3
-        },
-        {
-          "number": 11,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "How are things, Felicity?"
-            },
-            {
-              "speaker": "female",
-              "text": "Great! I just got invited to audition for another movie."
-            },
-            {
-              "speaker": "male",
-              "text": "That's exciting. But what about college?"
-            },
-            {
-              "speaker": "female",
-              "text": "I'm thinking about dropping out. These days, I have so many auditions that I'm sure to get a part soon."
-            },
-            {
-              "speaker": "male",
-              "text": "I don't think that's a good idea."
-            },
-            {
-              "speaker": "female",
-              "text": "You should understand. You lived for playing music when you were in high school."
-            },
-            {
-              "speaker": "male",
-              "text": "Yeah, but I eventually realized a college degree would give me a better chance to make a steady living."
-            },
-            {
-              "speaker": "female",
-              "text": "That's true enough. But I just don't want to have regrets later."
-            }
-          ],
-          "question": "What does the man imply?",
-          "choices": [
-            "The woman should prepare more for the audition.",
-            "The woman's career plan is unrealistic.",
-            "He chose the wrong major in college.",
-            "He should have pursued a career in music."
-          ],
-          "explanation": "男性は大学中退は良くないと言い、学位があった方が安定した生活ができると助言しています。女性のキャリアプランは非現実的だと暗示。",
-          "highlights": [
-            "I don't think that's a good idea",
-            "a college degree would give me a better chance to make a steady living"
-          ],
-          "choiceAnalysis": "選択肢1「オーディション準備をもっと」→言及なし。選択肢2「キャリアプランが非現実的」→正解。中退は良くないと示唆。選択肢3「専攻を間違えた」→言及なし。選択肢4「音楽キャリアを追求すべきだった」→逆に大学を選んだ。",
-          "audioFile": "audio/part1_q11.mp3",
-          "answer": 2
-        },
-        {
-          "number": 12,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "You're looking very serious. What's the matter?"
-            },
-            {
-              "speaker": "female",
-              "text": "It's our electric bill. It was over $250 last month."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, it was the coldest month this winter."
-            },
-            {
-              "speaker": "female",
-              "text": "Yes, but that still seems high. Maybe I'll call the electric company."
-            },
-            {
-              "speaker": "male",
-              "text": "I'm sure the bill's correct. I think we should start turning down the temperature at night. We have extra blankets we can use to keep warm."
-            },
-            {
-              "speaker": "female",
-              "text": "I guess we can start with that and see if it helps."
-            }
-          ],
-          "question": "What does the couple decide to do first?",
-          "choices": [
-            "Purchase more blankets.",
-            "Replace their heating unit.",
-            "Call the electric company.",
-            "Use the heating less at night."
-          ],
-          "explanation": "男性が夜間の暖房温度を下げて毛布を使うことを提案し、女性もまずそれを試すことに同意しました。",
-          "highlights": [
-            "start turning down the temperature at night",
-            "we can start with that and see if it helps"
-          ],
-          "choiceAnalysis": "選択肢1「毛布を購入」→既に持っている。選択肢2「暖房器具を交換」→言及なし。選択肢3「電力会社に電話」→女性は検討したが男性は不要と判断。選択肢4「夜間の暖房使用を減らす」→正解。",
-          "audioFile": "audio/part1_q12.mp3",
-          "answer": 4
+            "name": "第3部",
+            "nameEn": "Part 3",
+            "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+            "questionRange": "No. 25 〜 No. 29",
+            "questions": [
+                {
+                    "number": 25,
+                    "situation": "You are an international student at a US university. You want to apply for a graduate program but are worried about funding. An academic adviser tells you the following.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Well, your grades are good enough to qualify, and you might even be entitled to a scholarship based on your academic record so far. You can apply for one, but you'll need to be accepted into the program first. In the meantime, if you're concerned about the cost of the program, you can apply for other forms of financial aid, like a student loan. That can be done right away, and the approval process is quick. Your visa shouldn't be an issue, and as for your supervisor, one will be appointed for you depending on your course of study."
+                        }
+                    ],
+                    "question": "What should you do first?",
+                    "choices": [
+                        "Apply for a scholarship.",
+                        "Renew your visa.",
+                        "Apply for financial aid.",
+                        "Choose a supervisor."
+                    ],
+                    "explanation": "奨学金はプログラム合格後でないと申請できませんが、学生ローンなどの経済支援はすぐに申請でき、承認も早いです。",
+                    "highlights": [
+                        "you can apply for other forms of financial aid, like a student loan. That can be done right away"
+                    ],
+                    "choiceAnalysis": "選択肢1「奨学金申請」→プログラム合格が先。選択肢2「ビザ更新」→問題ないと言及。選択肢3「経済支援を申請」→正解。すぐに申請可能。選択肢4「指導教員を選ぶ」→自動で割り当てられる。",
+                    "audioFile": "audio/part3_q25.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 26,
+                    "situation": "You are at an airport. Your flight to London has been canceled, but you need to get there as soon as possible. You hear the following announcement.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "We apologize for the cancellation of the flight to London. All passengers can take the same flight tomorrow, and free accommodation will be provided at an airport hotel for tonight. Passengers wishing to leave today have two options. First, a charter flight will leave in one hour and arrive in London this evening. This flight has economy-class seats only. Second, there are first-class and business-class seats available on a flight to Amsterdam. A connecting flight to London will arrive in the early hours of tomorrow morning. You can use your existing ticket for both of these options."
+                        }
+                    ],
+                    "question": "What should you do?",
+                    "choices": [
+                        "Take the charter flight.",
+                        "Pay for a seat upgrade.",
+                        "Go to the airport hotel.",
+                        "Take the flight to Amsterdam."
+                    ],
+                    "explanation": "できるだけ早くロンドンに着く必要があるので、1時間後に出発して今晩到着するチャーター便が最適です。",
+                    "highlights": [
+                        "a charter flight will leave in one hour and arrive in London this evening"
+                    ],
+                    "choiceAnalysis": "選択肢1「チャーター便に乗る」→正解。今晩ロンドン着。選択肢2「アップグレード料金を払う」→既存チケットで利用可能。選択肢3「空港ホテルへ」→明日まで待つ。選択肢4「アムステルダム便」→翌朝早朝着。",
+                    "audioFile": "audio/part3_q26.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 27,
+                    "situation": "You are attending an academic conference on teaching English to university students. Your main interest is student motivation. You hear the following announcement.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "That concludes this morning's opening session. The next session will begin at 1 p.m., following the lunch break. There are four excellent options to choose from, each focusing on a different theme. The first seminar will focus on factors that affect English pronunciation and will be held in room 210. The second will focus on teaching grammar to beginners and will be held in room 212. In room 214, participants will learn how to create motivating lessons using realistic situations that inspire students to use English. Finally, in room 216, there'll be a discussion on testing in relation to class placement."
+                        }
+                    ],
+                    "question": "Which room should you go to?",
+                    "choices": [
+                        "Room 210.",
+                        "Room 212.",
+                        "Room 214.",
+                        "Room 216."
+                    ],
+                    "explanation": "学生のモチベーションに興味があるので、Room 214の「やる気を引き出す授業作り」セミナーが最適です。",
+                    "highlights": [
+                        "In room 214, participants will learn how to create motivating lessons"
+                    ],
+                    "choiceAnalysis": "選択肢1「Room 210」→発音。選択肢2「Room 212」→初心者向け文法。選択肢3「Room 214」→正解。モチベーション関連。選択肢4「Room 216」→テストとクラス分け。",
+                    "audioFile": "audio/part3_q27.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 28,
+                    "situation": "You are a teacher. You teach classes every weekday and supervise basketball practice after school on Tuesdays. You receive the following voice mail from a colleague on Monday morning.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Hi, Lance here. I know we'd planned our meeting about the new curriculum for this evening, but something's come up. I've had to book an after-school meeting with a parent, so I need to reschedule. Unfortunately, I have lunchroom duty every day this week, so that time slot is out. I know you're really busy, but could we meet tomorrow after school? I have another evening meeting on Wednesday, but Thursday evening would also work. We can't leave it until next week because I need to confirm the curriculum with the principal by next Monday."
+                        }
+                    ],
+                    "question": "When should you meet with your colleague?",
+                    "choices": [
+                        "During lunchtime on Tuesday.",
+                        "On Wednesday evening.",
+                        "On Thursday evening.",
+                        "Next Monday."
+                    ],
+                    "explanation": "月曜は今日で再調整が必要。火曜放課後はバスケ練の監督がある。水曜はLanceの会議あり。木曜夜がお互い空いている。",
+                    "highlights": [
+                        "could we meet tomorrow after school",
+                        "Thursday evening would also work"
+                    ],
+                    "choiceAnalysis": "選択肢1「火曜の昼」→Lanceは毎日ランチルーム当番。選択肢2「水曜夜」→Lanceの会議あり。選択肢3「木曜夜」→正解。両者とも可能。選択肢4「来週月曜」→校長への確認期限に間に合わない。",
+                    "audioFile": "audio/part3_q28.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 29,
+                    "situation": "You want to become a volunteer language interpreter. You do not have experience volunteering. The director of a local volunteer center tells you the following.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Thank you for applying to be a volunteer. There are a number of options that might interest you. Mainly, we need people who can work at hospitals to assist new immigrants with paperwork, which requires at least a year of experience. For people new to volunteer work, there's a program in schools to help children with different language backgrounds. We also need people to help out at police stations, which requires at least two years of experience. There's also the youth mentorship program, which is open to people with experience participating in similar programs."
+                        }
+                    ],
+                    "question": "Which option should you choose?",
+                    "choices": [
+                        "Helping at hospitals.",
+                        "The school program.",
+                        "Helping at police stations.",
+                        "The youth mentorship program."
+                    ],
+                    "explanation": "ボランティア経験がないので、経験不問の学校プログラム（異なる言語背景の子供を支援）が適しています。",
+                    "highlights": [
+                        "For people new to volunteer work, there's a program in schools"
+                    ],
+                    "choiceAnalysis": "選択肢1「病院」→1年以上の経験が必要。選択肢2「学校プログラム」→正解。経験不要。選択肢3「警察署」→2年以上の経験が必要。選択肢4「青少年メンターシップ」→類似プログラムの参加経験が必要。",
+                    "audioFile": "audio/part3_q29.mp3",
+                    "answer": 2
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "第2部",
-      "nameEn": "Part 2",
-      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-      "questionRange": "No. 13 〜 No. 24",
-      "questions": [
-        {
-          "number": 13,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Researchers have long considered the possibility of ancient contact between Polynesian people of the South Pacific and Native Americans of South America. A recent study strongly supports such a theory. The study's researchers analyzed DNA samples from hundreds of Polynesians and Native Americans. They found genetic evidence that these peoples met and produced children together around 800 years ago."
-            }
-          ],
-          "question": "What did the researchers confirm about Polynesians and Native Americans?",
-          "choices": [
-            "They do not share genetic similarities.",
-            "They met and had children centuries ago.",
-            "They shared knowledge about building rafts.",
-            "They had little experience as sailors."
-          ],
-          "explanation": "研究者はDNA分析により、ポリネシア人とネイティブアメリカンが約800年前に出会い、子供をもうけたという遺伝的証拠を発見しました。",
-          "highlights": [
-            "genetic evidence that these peoples met and produced children together around 800 years ago"
-          ],
-          "choiceAnalysis": "選択肢1「遺伝的類似性がない」→逆。選択肢2「数世紀前に出会い子供をもうけた」→正解。選択肢3「いかだ建造の知識を共有」→言及なし。選択肢4「航海経験が少ない」→逆に航海能力が高い。",
-          "audioFile": "audio/part2_q13.mp3",
-          "answer": 2
-        },
-        {
-          "number": 14,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "What remains unclear is which group crossed the thousands of kilometers of ocean to make such contact possible. Polynesians were known for their canoes. They made long sea voyages and settled on many islands in the Pacific Ocean. However, in 1947, an explorer showed it was possible to cross the Pacific Ocean from South America on a raft. Native Americans, who used rafts, may therefore also have made great voyages."
-            }
-          ],
-          "question": "What did an explorer demonstrate in 1947?",
-          "choices": [
-            "A raft could be used to cross the Pacific Ocean.",
-            "It is unlikely Native Americans crossed the Pacific Ocean.",
-            "Polynesians' rafts were superior to their canoes.",
-            "Some Pacific islands could not be reached by boat."
-          ],
-          "explanation": "1947年に探検家がいかだで南米から太平洋を横断できることを証明しました。",
-          "highlights": [
-            "an explorer showed it was possible to cross the Pacific Ocean from South America on a raft"
-          ],
-          "choiceAnalysis": "選択肢1「いかだで太平洋を横断可能」→正解。選択肢2「ネイティブアメリカンが横断は不可能」→逆。選択肢3「いかだがカヌーより優れている」→言及なし。選択肢4「船で到達できない島」→言及なし。",
-          "audioFile": "audio/part2_q14.mp3",
-          "answer": 1
-        },
-        {
-          "number": 15,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "It has often been claimed that listening to music during work can improve focus and productivity. Recent research, however, suggests this may only be true of people performing highly repetitive tasks. For more-creative jobs, or those requiring intense concentration, listening to music might be harmful."
-            }
-          ],
-          "question": "What is one thing recent research has revealed about listening to music?",
-          "choices": [
-            "It has little effect on people's productivity.",
-            "It helps students perform better on tests.",
-            "It might make certain tasks more difficult to do.",
-            "It improves people's mental health."
-          ],
-          "explanation": "最近の研究では、創造的な仕事や集中力を要する作業では音楽を聴くことが有害になる可能性があることが明らかになりました。",
-          "highlights": [
-            "For more-creative jobs, or those requiring intense concentration, listening to music might be harmful"
-          ],
-          "choiceAnalysis": "選択肢1「生産性にほとんど影響なし」→反復作業には効果的。選択肢2「テスト成績が向上」→逆に低下。選択肢3「特定の作業をより困難にする可能性」→正解。選択肢4「精神的健康を改善」→言及なし。",
-          "audioFile": "audio/part2_q15.mp3",
-          "answer": 3
-        },
-        {
-          "number": 16,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "According to neuroscientist Daniel Levitin, many people are unaware that music might be causing them to get less done. Although listening to music while working may be enjoyable, Levitin says popular music with lyrics is especially bad for concentration. However, he believes that listening to music helps workers relax during rest periods between tasks, so it can improve their overall ability to concentrate."
-            }
-          ],
-          "question": "What does Daniel Levitin believe about listening to music?",
-          "choices": [
-            "It can be effective during breaks.",
-            "It can actually make work less enjoyable.",
-            "It improves communication between workers.",
-            "It only has a small effect on concentration."
-          ],
-          "explanation": "Levitinは休憩中に音楽を聴くことで労働者がリラックスし、全体的な集中力が向上すると信じています。",
-          "highlights": [
-            "listening to music helps workers relax during rest periods between tasks, so it can improve their overall ability to concentrate"
-          ],
-          "choiceAnalysis": "選択肢1「休憩中に効果的」→正解。選択肢2「仕事の楽しさを減らす」→楽しいが生産性に影響。選択肢3「コミュニケーション改善」→言及なし。選択肢4「集中力への影響は小さい」→歌詞付き音楽は特に悪い。",
-          "audioFile": "audio/part2_q16.mp3",
-          "answer": 1
-        },
-        {
-          "number": 17,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Some animals, such as dolphins, are thought to communicate using sounds that can express specific meanings. However, it was long believed that the sounds made by some other animals, such as bats, were random. A study of Egyptian fruit bats suggests that their communication system is actually quite complex."
-            }
-          ],
-          "question": "What did the study of Egyptian fruit bats suggest?",
-          "choices": [
-            "They make more sounds than dolphins.",
-            "The sounds they make have meaning.",
-            "Their sounds are not very complex.",
-            "Their communication system has changed."
-          ],
-          "explanation": "エジプト・フルーツバットの研究により、彼らのコミュニケーションシステムは実際にはかなり複雑であることが示唆されました。",
-          "highlights": [
-            "their communication system is actually quite complex"
-          ],
-          "choiceAnalysis": "選択肢1「イルカより多くの音を出す」→言及なし。選択肢2「音に意味がある」→正解。ランダムではなく複雑。選択肢3「音はあまり複雑でない」→逆。選択肢4「コミュニケーションシステムが変化した」→言及なし。",
-          "audioFile": "audio/part2_q17.mp3",
-          "answer": 2
-        },
-        {
-          "number": 18,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The bats were kept in captivity, and the scientists conducting the study used a computer program to analyze the sounds that the bats made. The sounds were grouped into categories based on context. For example, certain sounds tended to be produced in the presence of food. Other sounds occurred during what appeared to be arguments between bats over where the bats would sleep. In the future, the scientists hope to monitor bats in their natural habitat to see whether the sounds they make change."
-            }
-          ],
-          "question": "How did the scientists conduct their analysis?",
-          "choices": [
-            "They recorded the sounds that sleeping bats made.",
-            "They matched bat sounds to those of other animals.",
-            "They monitored bats in their natural environment.",
-            "They used a computer program to categorize bat sounds."
-          ],
-          "explanation": "科学者はコンピュータープログラムを使ってコウモリの音を分析し、文脈に基づいてカテゴリーに分類しました。",
-          "highlights": [
-            "used a computer program to analyze the sounds",
-            "The sounds were grouped into categories based on context"
-          ],
-          "choiceAnalysis": "選択肢1「寝ているコウモリの音を録音」→言及なし。選択肢2「他の動物の音と比較」→言及なし。選択肢3「自然環境でモニター」→飼育下で研究。選択肢4「コンピュータープログラムで分類」→正解。",
-          "audioFile": "audio/part2_q18.mp3",
-          "answer": 4
-        },
-        {
-          "number": 19,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The Boundary Waters Canoe Area Wilderness, located in a US national forest, contains over a thousand lakes and rivers. It offers visitors the chance to experience nature in an undisturbed state and provides an important habitat for endangered plants and animals."
-            }
-          ],
-          "question": "What is true about the area described by the speaker?",
-          "choices": [
-            "The rivers and lakes there are polluted.",
-            "It is home to a number of rare species.",
-            "Important products are developed there.",
-            "It is no longer open to tourists."
-          ],
-          "explanation": "この地域は絶滅危惧植物や動物の重要な生息地を提供しています。",
-          "highlights": [
-            "provides an important habitat for endangered plants and animals"
-          ],
-          "choiceAnalysis": "選択肢1「川や湖が汚染」→手つかずの自然。選択肢2「希少種の生息地」→正解。絶滅危惧種の生息地。選択肢3「重要な製品を開発」→言及なし。選択肢4「観光客に非公開」→訪問者に開放。",
-          "audioFile": "audio/part2_q19.mp3",
-          "answer": 2
-        },
-        {
-          "number": 20,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Local residents are split over whether to allow mining in the area. Some say it could improve the economy by creating jobs, while others believe protecting nature should be the priority. According to a study by an economist, mining may indeed bring short-term economic benefits. However, the study found that such benefits would be smaller than the long-term negative impact mining would have on the tourist industry."
-            }
-          ],
-          "question": "What did the study suggest about allowing mining in the area?",
-          "choices": [
-            "It would not affect local residents.",
-            "It could bring long-term benefits.",
-            "It would boost the tourist industry.",
-            "It could do more harm than good."
-          ],
-          "explanation": "経済学者の研究によると、採掘は短期的な経済的利益をもたらす可能性があるが、観光産業への長期的な悪影響の方が大きいとされています。",
-          "highlights": [
-            "such benefits would be smaller than the long-term negative impact mining would have on the tourist industry"
-          ],
-          "choiceAnalysis": "選択肢1「地元住民に影響なし」→影響あり。選択肢2「長期的利益」→短期的のみ。選択肢3「観光産業を促進」→逆に悪影響。選択肢4「害の方が大きい」→正解。",
-          "audioFile": "audio/part2_q20.mp3",
-          "answer": 4
-        },
-        {
-          "number": 21,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Hetepheres was an important Egyptian queen who lived more than 4,000 years ago. However, the location of her burial place was long a mystery. It was finally discovered in the 1920s by a photographer who, when setting up his camera, noticed something unusual under his camera stand."
-            }
-          ],
-          "question": "What is one thing the speaker says about the tomb of Hetepheres?",
-          "choices": [
-            "It was discovered by chance.",
-            "It was smaller than archaeologists expected.",
-            "It is the oldest tomb in Egypt.",
-            "It has never been photographed."
-          ],
-          "explanation": "写真家がカメラを設置しているときに偶然、カメラスタンドの下に何か異常なものを発見しました。",
-          "highlights": [
-            "a photographer who, when setting up his camera, noticed something unusual under his camera stand"
-          ],
-          "choiceAnalysis": "選択肢1「偶然発見された」→正解。写真家が偶然発見。選択肢2「予想より小さかった」→言及なし。選択肢3「エジプト最古の墓」→言及なし。選択肢4「写真を撮られたことがない」→言及なし。",
-          "audioFile": "audio/part2_q21.mp3",
-          "answer": 1
-        },
-        {
-          "number": 22,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Thanks to the photographer's unexpected discovery, archaeologists found items of ancient furniture and jewelry, some of which had writings on them. The archaeologists also found evidence that the tomb had been broken into after Hetepheres was buried there. Many items appeared to have been stolen. In fact, even the body of Hetepheres was missing. Although the archaeologists were disappointed by this, the writings and remaining objects in the tomb have helped to expand our knowledge of ancient Egypt."
-            }
-          ],
-          "question": "What is one reason the archaeologists were disappointed?",
-          "choices": [
-            "The writings in the tomb could not be translated.",
-            "The body of Hetepheres was not in the tomb.",
-            "All of the tomb's treasures had disappeared.",
-            "They were not allowed to study the jewelry."
-          ],
-          "explanation": "考古学者は墓が荒らされており、多くの品物が盗まれ、Hetepheresの遺体さえなかったことに失望しました。",
-          "highlights": [
-            "even the body of Hetepheres was missing",
-            "the archaeologists were disappointed by this"
-          ],
-          "choiceAnalysis": "選択肢1「碑文が解読不能」→碑文は知識拡大に貢献。選択肢2「Hetepheresの遺体がなかった」→正解。選択肢3「すべての宝物が消えた」→一部は残存。選択肢4「宝石の研究を許可されなかった」→言及なし。",
-          "audioFile": "audio/part2_q22.mp3",
-          "answer": 2
-        },
-        {
-          "number": 23,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Moving to a new home can be difficult for children. Researchers are learning more about the problems it causes and which children are most at risk. Studies in the UK have shown that children forced to move more than once in a single year are especially affected. The impact of moving is the same whether children come from wealthy or poor backgrounds. However, some of the studies have also shown that teenagers may experience the most serious negative effects of moving."
-            }
-          ],
-          "question": "What have some studies in the UK shown about moving?",
-          "choices": [
-            "It causes more problems for wealthy families.",
-            "It has been occurring less frequently.",
-            "It may especially affect teenagers.",
-            "It has a significant impact on adults' health."
-          ],
-          "explanation": "英国の研究で、ティーンエイジャーが引越しの最も深刻な悪影響を受ける可能性があることが示されました。",
-          "highlights": [
-            "teenagers may experience the most serious negative effects of moving"
-          ],
-          "choiceAnalysis": "選択肢1「裕福な家庭により問題」→裕富・貧困に関わらず同じ。選択肢2「頻度が減っている」→言及なし。選択肢3「特にティーンエイジャーに影響」→正解。選択肢4「大人の健康に影響」→子供の話。",
-          "audioFile": "audio/part2_q23.mp3",
-          "answer": 3
-        },
-        {
-          "number": 24,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The findings of a study using data from Denmark showed that moving more than once can increase a child's risk of criminal activity later in life. Moving to a new area and having to form social relationships at a new school can be difficult and stressful for children. More research is needed to determine how to prevent these negative effects."
-            }
-          ],
-          "question": "What was learned from the data from Denmark?",
-          "choices": [
-            "Moving increases the rate of divorce.",
-            "Moving helps solve problems at school.",
-            "Moving can damage parent-child relationships.",
-            "Moving can lead to behavior problems."
-          ],
-          "explanation": "デンマークのデータにより、複数回の引越しが子供の将来の犯罪活動のリスクを高める可能性があることが判明しました。",
-          "highlights": [
-            "moving more than once can increase a child's risk of criminal activity later in life"
-          ],
-          "choiceAnalysis": "選択肢1「離婚率の上昇」→言及なし。選択肢2「学校の問題解決」→逆に問題を引き起こす。選択肢3「親子関係を損なう」→言及なし。選択肢4「行動問題につながる」→正解。犯罪活動のリスク増。",
-          "audioFile": "audio/part2_q24.mp3",
-          "answer": 4
-        }
-      ]
-    },
-    {
-      "name": "第3部",
-      "nameEn": "Part 3",
-      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
-      "questionRange": "No. 25 〜 No. 29",
-      "questions": [
-        {
-          "number": 25,
-          "situation": "You are an international student at a US university. You want to apply for a graduate program but are worried about funding. An academic adviser tells you the following.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Well, your grades are good enough to qualify, and you might even be entitled to a scholarship based on your academic record so far. You can apply for one, but you'll need to be accepted into the program first. In the meantime, if you're concerned about the cost of the program, you can apply for other forms of financial aid, like a student loan. That can be done right away, and the approval process is quick. Your visa shouldn't be an issue, and as for your supervisor, one will be appointed for you depending on your course of study."
-            }
-          ],
-          "question": "What should you do first?",
-          "choices": [
-            "Apply for a scholarship.",
-            "Renew your visa.",
-            "Apply for financial aid.",
-            "Choose a supervisor."
-          ],
-          "explanation": "奨学金はプログラム合格後でないと申請できませんが、学生ローンなどの経済支援はすぐに申請でき、承認も早いです。",
-          "highlights": [
-            "you can apply for other forms of financial aid, like a student loan. That can be done right away"
-          ],
-          "choiceAnalysis": "選択肢1「奨学金申請」→プログラム合格が先。選択肢2「ビザ更新」→問題ないと言及。選択肢3「経済支援を申請」→正解。すぐに申請可能。選択肢4「指導教員を選ぶ」→自動で割り当てられる。",
-          "audioFile": "audio/part3_q25.mp3",
-          "answer": 3
-        },
-        {
-          "number": 26,
-          "situation": "You are at an airport. Your flight to London has been canceled, but you need to get there as soon as possible. You hear the following announcement.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "We apologize for the cancellation of the flight to London. All passengers can take the same flight tomorrow, and free accommodation will be provided at an airport hotel for tonight. Passengers wishing to leave today have two options. First, a charter flight will leave in one hour and arrive in London this evening. This flight has economy-class seats only. Second, there are first-class and business-class seats available on a flight to Amsterdam. A connecting flight to London will arrive in the early hours of tomorrow morning. You can use your existing ticket for both of these options."
-            }
-          ],
-          "question": "What should you do?",
-          "choices": [
-            "Take the charter flight.",
-            "Pay for a seat upgrade.",
-            "Go to the airport hotel.",
-            "Take the flight to Amsterdam."
-          ],
-          "explanation": "できるだけ早くロンドンに着く必要があるので、1時間後に出発して今晩到着するチャーター便が最適です。",
-          "highlights": [
-            "a charter flight will leave in one hour and arrive in London this evening"
-          ],
-          "choiceAnalysis": "選択肢1「チャーター便に乗る」→正解。今晩ロンドン着。選択肢2「アップグレード料金を払う」→既存チケットで利用可能。選択肢3「空港ホテルへ」→明日まで待つ。選択肢4「アムステルダム便」→翌朝早朝着。",
-          "audioFile": "audio/part3_q26.mp3",
-          "answer": 1
-        },
-        {
-          "number": 27,
-          "situation": "You are attending an academic conference on teaching English to university students. Your main interest is student motivation. You hear the following announcement.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "That concludes this morning's opening session. The next session will begin at 1 p.m., following the lunch break. There are four excellent options to choose from, each focusing on a different theme. The first seminar will focus on factors that affect English pronunciation and will be held in room 210. The second will focus on teaching grammar to beginners and will be held in room 212. In room 214, participants will learn how to create motivating lessons using realistic situations that inspire students to use English. Finally, in room 216, there'll be a discussion on testing in relation to class placement."
-            }
-          ],
-          "question": "Which room should you go to?",
-          "choices": [
-            "Room 210.",
-            "Room 212.",
-            "Room 214.",
-            "Room 216."
-          ],
-          "explanation": "学生のモチベーションに興味があるので、Room 214の「やる気を引き出す授業作り」セミナーが最適です。",
-          "highlights": [
-            "In room 214, participants will learn how to create motivating lessons"
-          ],
-          "choiceAnalysis": "選択肢1「Room 210」→発音。選択肢2「Room 212」→初心者向け文法。選択肢3「Room 214」→正解。モチベーション関連。選択肢4「Room 216」→テストとクラス分け。",
-          "audioFile": "audio/part3_q27.mp3",
-          "answer": 3
-        },
-        {
-          "number": 28,
-          "situation": "You are a teacher. You teach classes every weekday and supervise basketball practice after school on Tuesdays. You receive the following voice mail from a colleague on Monday morning.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Hi, Lance here. I know we'd planned our meeting about the new curriculum for this evening, but something's come up. I've had to book an after-school meeting with a parent, so I need to reschedule. Unfortunately, I have lunchroom duty every day this week, so that time slot is out. I know you're really busy, but could we meet tomorrow after school? I have another evening meeting on Wednesday, but Thursday evening would also work. We can't leave it until next week because I need to confirm the curriculum with the principal by next Monday."
-            }
-          ],
-          "question": "When should you meet with your colleague?",
-          "choices": [
-            "During lunchtime on Tuesday.",
-            "On Wednesday evening.",
-            "On Thursday evening.",
-            "Next Monday."
-          ],
-          "explanation": "月曜は今日で再調整が必要。火曜放課後はバスケ練の監督がある。水曜はLanceの会議あり。木曜夜がお互い空いている。",
-          "highlights": [
-            "could we meet tomorrow after school",
-            "Thursday evening would also work"
-          ],
-          "choiceAnalysis": "選択肢1「火曜の昼」→Lanceは毎日ランチルーム当番。選択肢2「水曜夜」→Lanceの会議あり。選択肢3「木曜夜」→正解。両者とも可能。選択肢4「来週月曜」→校長への確認期限に間に合わない。",
-          "audioFile": "audio/part3_q28.mp3",
-          "answer": 3
-        },
-        {
-          "number": 29,
-          "situation": "You want to become a volunteer language interpreter. You do not have experience volunteering. The director of a local volunteer center tells you the following.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Thank you for applying to be a volunteer. There are a number of options that might interest you. Mainly, we need people who can work at hospitals to assist new immigrants with paperwork, which requires at least a year of experience. For people new to volunteer work, there's a program in schools to help children with different language backgrounds. We also need people to help out at police stations, which requires at least two years of experience. There's also the youth mentorship program, which is open to people with experience participating in similar programs."
-            }
-          ],
-          "question": "Which option should you choose?",
-          "choices": [
-            "Helping at hospitals.",
-            "The school program.",
-            "Helping at police stations.",
-            "The youth mentorship program."
-          ],
-          "explanation": "ボランティア経験がないので、経験不問の学校プログラム（異なる言語背景の子供を支援）が適しています。",
-          "highlights": [
-            "For people new to volunteer work, there's a program in schools"
-          ],
-          "choiceAnalysis": "選択肢1「病院」→1年以上の経験が必要。選択肢2「学校プログラム」→正解。経験不要。選択肢3「警察署」→2年以上の経験が必要。選択肢4「青少年メンターシップ」→類似プログラムの参加経験が必要。",
-          "audioFile": "audio/part3_q29.mp3",
-          "answer": 2
-        }
-      ]
-    }
-  ]
+    ]
 }

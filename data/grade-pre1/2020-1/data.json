@@ -1,976 +1,976 @@
 {
-  "title": "2020年度 第1回検定一次試験 英検準1級 リスニング",
-  "parts": [
-    {
-      "name": "第1部",
-      "nameEn": "Part 1",
-      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。対話と質問は一度だけ放送されます。",
-      "questionRange": "No. 1 〜 No. 12",
-      "questions": [
+    "title": "2020年度 第1回検定一次試験 英検準1級 リスニング",
+    "parts": [
         {
-          "number": 1,
-          "audioFile": "audio/part1_q01.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "So, John, do you have any plans for your family vacation?"
-            },
-            {
-              "speaker": "male",
-              "text": "Well, we usually visit my parents in Florida, but the drive is so tiring we may stay closer to home this year."
-            },
-            {
-              "speaker": "female",
-              "text": "How about taking the train instead?"
-            },
-            {
-              "speaker": "male",
-              "text": "Hmm. I hadn't thought of that."
-            },
-            {
-              "speaker": "female",
-              "text": "My kids really like being free to move around, and they love the sleeping compartments."
-            },
-            {
-              "speaker": "male",
-              "text": "You know, that sounds appealing. We'd have to find someone to look after the dog, but it might be worth it."
-            }
-          ],
-          "question": "What is the woman's opinion?",
-          "choices": [
-            "Traveling by road is too tiring.",
-            "People should not travel with pets.",
-            "Riding on trains is fun for children.",
-            "The man should stay home this year."
-          ],
-          "answer": 3,
-          "explanation": "女性は列車での旅行を勧めており、子供たちが自由に動き回れること、寝台車が好きだと述べています。",
-          "highlights": [
-            "My kids really like being free to move around",
-            "they love the sleeping compartments"
-          ],
-          "choiceAnalysis": "選択肢1「車での旅行は疲れる」→男性の意見。選択肢2「ペットと旅行すべきでない」→言及なし。選択肢3「列車は子供に楽しい」→正解。子供が列車を好むと述べている。選択肢4「今年は家にいるべき」→言及なし。"
+            "name": "第1部",
+            "nameEn": "Part 1",
+            "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。対話と質問は一度だけ放送されます。",
+            "questionRange": "No. 1 〜 No. 12",
+            "questions": [
+                {
+                    "number": 1,
+                    "audioFile": "audio/part1_q01.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "So, John, do you have any plans for your family vacation?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, we usually visit my parents in Florida, but the drive is so tiring we may stay closer to home this year."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "How about taking the train instead?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Hmm. I hadn't thought of that."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "My kids really like being free to move around, and they love the sleeping compartments."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "You know, that sounds appealing. We'd have to find someone to look after the dog, but it might be worth it."
+                        }
+                    ],
+                    "question": "What is the woman's opinion?",
+                    "choices": [
+                        "Traveling by road is too tiring.",
+                        "People should not travel with pets.",
+                        "Riding on trains is fun for children.",
+                        "The man should stay home this year."
+                    ],
+                    "answer": 3,
+                    "explanation": "女性は列車での旅行を勧めており、子供たちが自由に動き回れること、寝台車が好きだと述べています。",
+                    "highlights": [
+                        "My kids really like being free to move around",
+                        "they love the sleeping compartments"
+                    ],
+                    "choiceAnalysis": "選択肢1「車での旅行は疲れる」→男性の意見。選択肢2「ペットと旅行すべきでない」→言及なし。選択肢3「列車は子供に楽しい」→正解。子供が列車を好むと述べている。選択肢4「今年は家にいるべき」→言及なし。"
+                },
+                {
+                    "number": 2,
+                    "audioFile": "audio/part1_q02.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Good morning. Can I help you?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes, I'd like to have these pants shortened. How long do your alterations take?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "We generally need two full days. So you could pick them up on Wednesday evening. Are you in a hurry?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, if possible, I'd really like to have them sometime tomorrow."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "We can do that for an extra $5. The total would be $12."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Fine. I'll drop by tomorrow afternoon, then."
+                        }
+                    ],
+                    "question": "What will the man do?",
+                    "choices": [
+                        "Wait until Wednesday.",
+                        "Choose another store.",
+                        "Buy a new pair of pants.",
+                        "Pay extra for faster service."
+                    ],
+                    "answer": 4,
+                    "explanation": "男性は追加料金$5を支払って翌日受け取ることに同意しています。",
+                    "highlights": [
+                        "I'd really like to have them sometime tomorrow",
+                        "We can do that for an extra $5"
+                    ],
+                    "choiceAnalysis": "選択肢1「水曜日まで待つ」→翌日を希望。選択肢2「別の店を選ぶ」→言及なし。選択肢3「新しいパンツを買う」→お直し依頼。選択肢4「早いサービスに追加料金を払う」→正解。"
+                },
+                {
+                    "number": 3,
+                    "audioFile": "audio/part1_q03.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Excuse me. Did I just hear that the 9 o'clock train to Kentbury has been canceled?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes, ma'am. By the time a replacement is ready, the next train will be leaving anyway."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "But that doesn't leave until 10:15. I've got to be in Kentbury by 10."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "You could take a taxi. The worst of the traffic should be gone by now. Or take the bus, which wouldn't cost as much."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I'd rather pay extra. At least then I might get there on time."
+                        }
+                    ],
+                    "question": "What will the woman probably do?",
+                    "choices": [
+                        "Come back to the station at 10:15.",
+                        "Wait for traffic conditions to improve.",
+                        "Go to Kentbury by taxi.",
+                        "Check the bus timetable."
+                    ],
+                    "answer": 3,
+                    "explanation": "女性は「余分に払ってでも時間通りに着きたい」と言っており、タクシーを選ぶことを示唆しています。",
+                    "highlights": [
+                        "I'd rather pay extra",
+                        "At least then I might get there on time"
+                    ],
+                    "choiceAnalysis": "選択肢1「10:15に戻る」→10時までに着く必要がある。選択肢2「交通状況の改善を待つ」→言及なし。選択肢3「タクシーでKentburyへ」→正解。追加料金を払うことを選んだ。選択肢4「バスの時刻表を確認」→バスより高いタクシーを選択。"
+                },
+                {
+                    "number": 4,
+                    "audioFile": "audio/part1_q04.mp3",
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hi, Simone. Have you finished that travel guidebook you've been putting together?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah, it's all done. The whole process was a bit frustrating, though."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Why? Was it difficult editing all the articles? Travel writers can be defensive about their work."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No. That was fine, but my boss has been away, so I had to teach myself how to use the publishing software as I went along, which slowed things down."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, with this experience, the next one is sure to go more smoothly."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I hope so."
+                        }
+                    ],
+                    "question": "What does the woman say about the guidebook?",
+                    "choices": [
+                        "The software she used was out-of-date.",
+                        "The project has not been finished yet.",
+                        "Her boss was unable to help her.",
+                        "She found some errors at the last minute."
+                    ],
+                    "answer": 3,
+                    "explanation": "女性はボスが不在だったため、出版ソフトの使い方を自分で学ぶ必要があり作業が遅れたと述べています。",
+                    "highlights": [
+                        "my boss has been away",
+                        "I had to teach myself how to use the publishing software"
+                    ],
+                    "choiceAnalysis": "選択肢1「ソフトが古かった」→独学が問題。選択肢2「まだ完成していない」→完成済み。選択肢3「ボスが助けられなかった」→正解。ボスが不在。選択肢4「最後にエラーを発見」→言及なし。"
+                },
+                {
+                    "number": 5,
+                    "audioFile": "audio/part1_q05.mp3",
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Did you see the program about local universities on TV last night? We were featured."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No, I missed that. What did they say about us?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, they showed the university center, library, and research facilities. And several of my students were interviewed. They did quite well."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "So it helped our university's image."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Maybe. But the other schools also looked pretty good. I wonder how attractive we looked in comparison."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Hmm. Let's hope enough high school students liked what they saw."
+                        }
+                    ],
+                    "question": "What can be said about the TV program?",
+                    "choices": [
+                        "It featured several local universities.",
+                        "It was produced by local students.",
+                        "It attracted many new students.",
+                        "It criticized the woman's university."
+                    ],
+                    "answer": 1,
+                    "explanation": "TV番組は複数の地元大学を紹介しており、男性の大学も取り上げられました。",
+                    "highlights": [
+                        "the program about local universities",
+                        "the other schools also looked pretty good"
+                    ],
+                    "choiceAnalysis": "選択肢1「複数の地元大学を紹介した」→正解。選択肢2「地元の学生が制作」→言及なし。選択肢3「多くの新入生を集めた」→未確定。選択肢4「女性の大学を批判」→言及なし。"
+                },
+                {
+                    "number": 6,
+                    "audioFile": "audio/part1_q06.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Hi, Joe. I'm calling to send my regrets in regard to your retirement party."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Oh, you can't make it, Kathy?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No, sorry. My grandson invited me to his college graduation, and I've really been looking forward to going."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, you can't be in two places at once. We'll miss you at the party, though."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I'm sure you'll still have a good time. Let's try and catch up soon."
+                        }
+                    ],
+                    "question": "What do we learn about Kathy?",
+                    "choices": [
+                        "She has received two invitations for the same day.",
+                        "She would rather attend the retirement party.",
+                        "She has decided to cancel the party.",
+                        "She cannot attend her grandson's ceremony."
+                    ],
+                    "answer": 1,
+                    "explanation": "Kathyは退職パーティーと孫の大学卒業式が重なっており、卒業式を選んでいます。",
+                    "highlights": [
+                        "send my regrets in regard to your retirement party",
+                        "My grandson invited me to his college graduation"
+                    ],
+                    "choiceAnalysis": "選択肢1「同じ日に2つの招待を受けた」→正解。選択肢2「退職パーティーに出たい」→卒業式を選択。選択肢3「パーティーをキャンセルした」→欠席の連絡。選択肢4「孫の式に出席できない」→出席予定。"
+                },
+                {
+                    "number": 7,
+                    "audioFile": "audio/part1_q07.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Hello, I'm here to see Victor Chu. He had surgery this morning."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Visiting hours ended 10 minutes ago, but you can come back tomorrow."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "But I'm his sister, and I'm out of the country on business from tomorrow. Isn't there any way I could see him now?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Sorry, it would disturb the other patients."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Could I at least talk to the doctor about how the surgery went?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "All right. I'll page him and see if he's available."
+                        }
+                    ],
+                    "question": "What does the man agree to do?",
+                    "choices": [
+                        "Extend the visiting hours.",
+                        "Call the woman tomorrow.",
+                        "Contact Victor's doctor.",
+                        "Check to see if Victor is awake."
+                    ],
+                    "answer": 3,
+                    "explanation": "男性は医師に連絡して対応可能か確認すると同意しています。",
+                    "highlights": [
+                        "Could I at least talk to the doctor",
+                        "I'll page him and see if he's available"
+                    ],
+                    "choiceAnalysis": "選択肢1「面会時間を延長」→拒否。選択肢2「明日電話する」→言及なし。選択肢3「Victorの医師に連絡」→正解。選択肢4「Victorが起きているか確認」→医師への連絡。"
+                },
+                {
+                    "number": 8,
+                    "audioFile": "audio/part1_q08.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "We finally got our bonuses! What are you going to do with yours, Charlie?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I'm planning to invest it."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Really? Are you going to buy stock in our company?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "No. I've heard the real money is in overseas markets."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Sounds risky. How can you be sure you won't lose everything?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I'll talk to a financial advisor first, of course, but you can't expect to get good returns without taking a chance."
+                        }
+                    ],
+                    "question": "What is the man planning to do?",
+                    "choices": [
+                        "Invest in the domestic market.",
+                        "Buy some of his company's stock.",
+                        "Make a low-risk investment.",
+                        "Get some advice about investments."
+                    ],
+                    "answer": 4,
+                    "explanation": "男性はまずファイナンシャルアドバイザーに相談する予定です。",
+                    "highlights": [
+                        "I'll talk to a financial advisor first",
+                        "the real money is in overseas markets"
+                    ],
+                    "choiceAnalysis": "選択肢1「国内市場に投資」→海外市場。選択肢2「自社株を買う」→否定。選択肢3「低リスク投資」→リスクを取ると言及。選択肢4「投資についてアドバイスを得る」→正解。"
+                },
+                {
+                    "number": 9,
+                    "audioFile": "audio/part1_q09.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I want to start an herb garden so we can have some fresh ingredients when we cook."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "What would that involve?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "For a start, we'd have to remove some of the lawn."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I don't know. That sounds like it might be overambitious."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "It's just part of the lawn, and we can do it ourselves, so we wouldn't need to hire a landscaping service. There'd still be plenty of room for the dogs to play."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Hmm. Let me think about it."
+                        }
+                    ],
+                    "question": "What is the man's opinion?",
+                    "choices": [
+                        "They cannot afford to build the herb garden.",
+                        "The herb garden may require too much effort.",
+                        "They should find a new landscaping service.",
+                        "The dogs have more space than they need."
+                    ],
+                    "answer": 2,
+                    "explanation": "男性はハーブガーデンが「大げさすぎるかもしれない」と感じています。",
+                    "highlights": [
+                        "That sounds like it might be overambitious",
+                        "Let me think about it"
+                    ],
+                    "choiceAnalysis": "選択肢1「費用が出せない」→言及なし。選択肢2「労力がかかりすぎるかも」→正解。「overambitious」が根拠。選択肢3「新しい造園業者を探すべき」→業者は不要と女性が説明。選択肢4「犬のスペースが余っている」→言及なし。"
+                },
+                {
+                    "number": 10,
+                    "audioFile": "audio/part1_q10.mp3",
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hi, Liz. I heard you climbed Mount Rainier last weekend."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah. We were worried about the weather, but it turned out OK."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Did you reach the top in time for the sunset?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Unfortunately, we missed it. A member of our group hurt his ankle, so we took an easier route that was less direct."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Oh, well, I hope you still got some great photos along the way."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I did, and it was very satisfying when we finally reached the top."
+                        }
+                    ],
+                    "question": "Why did Liz's group miss the sunset?",
+                    "choices": [
+                        "They lost their way.",
+                        "They had to take a different route.",
+                        "The weather slowed them down.",
+                        "People kept stopping to take photos."
+                    ],
+                    "answer": 2,
+                    "explanation": "メンバーが足首を怪我したため、より簡単で遠回りのルートを取り、日没に間に合いませんでした。",
+                    "highlights": [
+                        "A member of our group hurt his ankle",
+                        "we took an easier route that was less direct"
+                    ],
+                    "choiceAnalysis": "選択肢1「道に迷った」→別ルートを選択。選択肢2「別のルートを取った」→正解。選択肢3「天気が原因」→天気は問題なし。選択肢4「写真撮影で止まった」→言及なし。"
+                },
+                {
+                    "number": 11,
+                    "audioFile": "audio/part1_q11.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I'm full. That seafood salad was wonderful! I've never had such delicious shrimp, and the dressing was amazing."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes, and that blueberry sauce went surprisingly well with the roast lamb."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "The waiter could have been a bit quicker, though. It took 10 minutes just to get a menu."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "And I never did get a beer refill, either. They need to pay a bit more attention to the little things."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah. Still, the restaurant's only been open a few days. These things take a bit of time."
+                        }
+                    ],
+                    "question": "What do these people think?",
+                    "choices": [
+                        "The service could have been better.",
+                        "The main dish was tastier than the salad.",
+                        "The menu choices were limited.",
+                        "The lamb was not cooked well enough."
+                    ],
+                    "answer": 1,
+                    "explanation": "二人は料理は素晴らしいがサービスが遅いと感じています。",
+                    "highlights": [
+                        "The waiter could have been a bit quicker",
+                        "They need to pay a bit more attention to the little things"
+                    ],
+                    "choiceAnalysis": "選択肢1「サービスがもっと良くできた」→正解。選択肢2「メインがサラダより美味しい」→両方好評。選択肢3「メニューの選択が限られている」→言及なし。選択肢4「ラムの調理が不十分」→美味しいと評価。"
+                },
+                {
+                    "number": 12,
+                    "audioFile": "audio/part1_q12.mp3",
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Excuse me, Professor Rivers, do you have a moment?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Sure, Luke, what's the problem?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "To be honest, I've found your biochemistry class tough recently."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, I'm a little concerned about your recent test scores, too. You seem to be having trouble with some of the key concepts."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Is there anything I can do to catch up?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I expect your schedule's a little full, but I can set you up with a tutor, if you'd like."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I'd appreciate that."
+                        }
+                    ],
+                    "question": "What is Luke's problem?",
+                    "choices": [
+                        "He has been late for class recently.",
+                        "He did not hand in an assignment.",
+                        "He is struggling with biochemistry.",
+                        "He has been unable to find a tutor."
+                    ],
+                    "answer": 3,
+                    "explanation": "Lukeは生化学の授業が最近難しく、テストの成績も良くないと述べています。",
+                    "highlights": [
+                        "I've found your biochemistry class tough recently",
+                        "having trouble with some of the key concepts"
+                    ],
+                    "choiceAnalysis": "選択肢1「最近授業に遅刻」→言及なし。選択肢2「課題を提出しなかった」→言及なし。選択肢3「生化学に苦戦」→正解。選択肢4「家庭教師が見つからない」→教授が紹介予定。"
+                }
+            ]
         },
         {
-          "number": 2,
-          "audioFile": "audio/part1_q02.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Good morning. Can I help you?"
-            },
-            {
-              "speaker": "male",
-              "text": "Yes, I'd like to have these pants shortened. How long do your alterations take?"
-            },
-            {
-              "speaker": "female",
-              "text": "We generally need two full days. So you could pick them up on Wednesday evening. Are you in a hurry?"
-            },
-            {
-              "speaker": "male",
-              "text": "Well, if possible, I'd really like to have them sometime tomorrow."
-            },
-            {
-              "speaker": "female",
-              "text": "We can do that for an extra $5. The total would be $12."
-            },
-            {
-              "speaker": "male",
-              "text": "Fine. I'll drop by tomorrow afternoon, then."
-            }
-          ],
-          "question": "What will the man do?",
-          "choices": [
-            "Wait until Wednesday.",
-            "Choose another store.",
-            "Buy a new pair of pants.",
-            "Pay extra for faster service."
-          ],
-          "answer": 4,
-          "explanation": "男性は追加料金$5を支払って翌日受け取ることに同意しています。",
-          "highlights": [
-            "I'd really like to have them sometime tomorrow",
-            "We can do that for an extra $5"
-          ],
-          "choiceAnalysis": "選択肢1「水曜日まで待つ」→翌日を希望。選択肢2「別の店を選ぶ」→言及なし。選択肢3「新しいパンツを買う」→お直し依頼。選択肢4「早いサービスに追加料金を払う」→正解。"
+            "name": "第2部",
+            "nameEn": "Part 2",
+            "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。英文と質問は一度だけ放送されます。",
+            "questionRange": "No. 13 〜 No. 24",
+            "questions": [
+                {
+                    "number": 13,
+                    "audioFile": "audio/part2_q13.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "In recent decades, Spain's historical city of Pontevedra has been transformed into an urban environment that promotes family life. The mayor says Pontevedra used to be a city that was heavily polluted and had a lot of traffic accidents. However, rather than just trying to improve traffic conditions, the local government decided to adopt a policy of pedestrianization. The policy banned street parking in the city center, which led to a large reduction in vehicle usage. Now, public spaces have been redesigned for people on foot rather than for vehicles."
+                        }
+                    ],
+                    "question": "What is one change the local government made?",
+                    "choices": [
+                        "Car sharing was introduced in the city center.",
+                        "Parking lots were replaced with public parks.",
+                        "Only electric cars are allowed in the city.",
+                        "Many public areas are now suitable for walking."
+                    ],
+                    "answer": 4,
+                    "explanation": "地方政府は歩行者化政策を採用し、公共スペースを車ではなく歩行者向けに再設計しました。",
+                    "highlights": [
+                        "pedestrianization",
+                        "public spaces have been redesigned for people on foot"
+                    ],
+                    "choiceAnalysis": "選択肢1「カーシェアリング導入」→言及なし。選択肢2「駐車場を公園に」→路上駐車を禁止。選択肢3「電気自動車のみ許可」→言及なし。選択肢4「多くの公共エリアが歩行可能に」→正解。"
+                },
+                {
+                    "number": 14,
+                    "audioFile": "audio/part2_q14.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Not surprisingly, CO2 emissions in Pontevedra are down by about 70 percent. What is more, crime has decreased, and the population and birthrate have risen. There were early protests from businesspeople who feared the local economy would suffer, but that has not happened, and the city's policy has been well received overall. In fact, the political party which implemented it has enjoyed repeated election successes due to its popularity."
+                        }
+                    ],
+                    "question": "What has been one result of the city's policy?",
+                    "choices": [
+                        "The local economy has been hurt.",
+                        "A political party has benefited from it.",
+                        "There has been an increase in crime.",
+                        "Fewer babies are being born."
+                    ],
+                    "answer": 2,
+                    "explanation": "この政策を実施した政党は、その人気により選挙で繰り返し成功を収めています。",
+                    "highlights": [
+                        "the political party which implemented it has enjoyed repeated election successes"
+                    ],
+                    "choiceAnalysis": "選択肢1「地方経済が打撃」→実際には起きていない。選択肢2「政党が恩恵を受けた」→正解。選択肢3「犯罪が増加」→減少。選択肢4「出生率低下」→上昇。"
+                },
+                {
+                    "number": 15,
+                    "audioFile": "audio/part2_q15.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "People with a rare condition known as \"hyperthymesia\" can recall nearly all their experiences starting from a young age. Interestingly, brain scans reveal some differences between their brains and those of ordinary people. But in many ways, the memories of people with hyperthymesia are quite similar. For example, when memorizing lists of words or remembering faces, their memories are sometimes no better than those of ordinary people. However, for people with hyperthymesia, memories of personal events do not fade in the way that other people's memories do."
+                        }
+                    ],
+                    "question": "How are people with hyperthymesia different from ordinary people?",
+                    "choices": [
+                        "They cannot remember faces.",
+                        "They are able to remember more words.",
+                        "They tend to invent memories.",
+                        "They recall past events more clearly."
+                    ],
+                    "answer": 4,
+                    "explanation": "超記憶症の人は個人的な出来事の記憶が通常の人のように薄れません。",
+                    "highlights": [
+                        "memories of personal events do not fade"
+                    ],
+                    "choiceAnalysis": "選択肢1「顔を覚えられない」→普通の人と同程度。選択肢2「より多くの単語を記憶」→普通の人と同程度。選択肢3「記憶を作り出す傾向」→言及なし。選択肢4「過去の出来事をより鮮明に思い出す」→正解。"
+                },
+                {
+                    "number": 16,
+                    "audioFile": "audio/part2_q16.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Unfortunately, people with hyperthymesia can find it difficult to overcome emotional pain and regret because they can easily be reminded of unpleasant experiences that happened far in the past. People with hyperthymesia recall such experiences as if they had happened very recently, which can be extremely painful."
+                        }
+                    ],
+                    "question": "What is one side effect for people with hyperthymesia?",
+                    "choices": [
+                        "They feel that time passes more quickly.",
+                        "They can be seriously affected by negative memories.",
+                        "They have trouble forming relationships.",
+                        "They are unable to identify false memories."
+                    ],
+                    "answer": 2,
+                    "explanation": "過去の不快な経験をまるで最近起こったかのように思い出してしまい、精神的苦痛を感じます。",
+                    "highlights": [
+                        "difficult to overcome emotional pain and regret",
+                        "recall such experiences as if they had happened very recently"
+                    ],
+                    "choiceAnalysis": "選択肢1「時間が早く過ぎる」→言及なし。選択肢2「ネガティブな記憶に深刻な影響を受ける」→正解。選択肢3「人間関係形成が困難」→言及なし。選択肢4「虚偽の記憶を識別できない」→言及なし。"
+                },
+                {
+                    "number": 17,
+                    "audioFile": "audio/part2_q17.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The Lex Oppia was a law passed in ancient Rome in 215 BC that limited the amount of wealth women could possess. At that time, Rome faced a financial crisis because it was at war with Carthage. Many historians believe the women's wealth was taken to support the war effort. Women were also banned from wearing large amounts of jewelry and fancy clothing."
+                        }
+                    ],
+                    "question": "What is one way the Lex Oppia affected women?",
+                    "choices": [
+                        "They had to donate money to Carthage.",
+                        "They had to dress plainly.",
+                        "They had to serve in the military.",
+                        "They had to leave Rome temporarily."
+                    ],
+                    "answer": 2,
+                    "explanation": "Lex Oppiaにより女性は大量の宝石や派手な服を着ることが禁止されました。",
+                    "highlights": [
+                        "banned from wearing large amounts of jewelry and fancy clothing"
+                    ],
+                    "choiceAnalysis": "選択肢1「カルタゴに寄付」→戦争資金に充てられた。選択肢2「質素な服装を強いられた」→正解。選択肢3「軍務に服す」→言及なし。選択肢4「一時的にローマを離れる」→言及なし。"
+                },
+                {
+                    "number": 18,
+                    "audioFile": "audio/part2_q18.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "After Rome defeated Carthage, many Romans demanded an end to the Lex Oppia. Some politicians, like Cato the Elder, however, wanted it to remain because he believed too much wealth had a harmful effect on women. Cato the Elder had a poor opinion of women and claimed luxury led to jealousy and disharmony. But mass demonstrations by women eventually led to the law's removal in 195 BC."
+                        }
+                    ],
+                    "question": "What is one thing we learn about Cato the Elder?",
+                    "choices": [
+                        "He believed women should have more power.",
+                        "He had a negative attitude toward women.",
+                        "He took part in demonstrations.",
+                        "He wanted to be wealthy himself."
+                    ],
+                    "answer": 2,
+                    "explanation": "大カトーは女性に対して低い評価を持ち、贅沢が嫉妬と不和を引き起こすと主張しました。",
+                    "highlights": [
+                        "had a poor opinion of women",
+                        "claimed luxury led to jealousy and disharmony"
+                    ],
+                    "choiceAnalysis": "選択肢1「女性にもっと権力を」→逆。選択肢2「女性に対して否定的な態度」→正解。選択肢3「デモに参加」→法の維持を主張。選択肢4「自身が裕福になりたかった」→言及なし。"
+                },
+                {
+                    "number": 19,
+                    "audioFile": "audio/part2_q19.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Ira Aldridge was a well-known actor in Europe in the 1800s. What made him different from most other actors was his race. He was an African American born in New York City in 1807, at a time when black people were still slaves in some states. Although Aldridge was talented, black actors were generally kept out of the theater business in the US, so he emigrated to England."
+                        }
+                    ],
+                    "question": "Why did Ira Aldridge move to England?",
+                    "choices": [
+                        "He preferred the British style of acting.",
+                        "He wanted to attend a famous university.",
+                        "He hoped to meet famous British actors.",
+                        "He found it hard to get work in the US."
+                    ],
+                    "answer": 4,
+                    "explanation": "米国では黒人俳優は劇場ビジネスから締め出されていたため、イギリスに移住しました。",
+                    "highlights": [
+                        "black actors were generally kept out of the theater business in the US",
+                        "he emigrated to England"
+                    ],
+                    "choiceAnalysis": "選択肢1「英国式演技を好んだ」→言及なし。選択肢2「有名大学に通いたかった」→言及なし。選択肢3「有名な英国俳優に会いたかった」→言及なし。選択肢4「米国で仕事が困難だった」→正解。"
+                },
+                {
+                    "number": 20,
+                    "audioFile": "audio/part2_q20.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Aldridge still experienced some racism in England, but he was also recognized for his acting ability. Just a few years after relocating, he became manager of the Coventry Theatre. He acted in and produced plays that expressed his views against slavery. And it is thought that he inspired people to pressure the British government to end slavery. Aldridge also performed for kings and queens all over Europe, and he remains an important figure in both black history and theater."
+                        }
+                    ],
+                    "question": "What is one thing we learn about Aldridge when he was in England?",
+                    "choices": [
+                        "His plays had an antislavery message.",
+                        "He worked for the British government.",
+                        "His theater went out of business.",
+                        "He was prevented from performing for royalty."
+                    ],
+                    "answer": 1,
+                    "explanation": "Aldridgeは奴隷制に反対する見解を表現した劇に出演・制作しました。",
+                    "highlights": [
+                        "produced plays that expressed his views against slavery"
+                    ],
+                    "choiceAnalysis": "選択肢1「劇に反奴隷制メッセージ」→正解。選択肢2「英国政府で働いた」→言及なし。選択肢3「劇場が倒産」→マネージャーに就任。選択肢4「王族の前での公演を阻止された」→公演した。"
+                },
+                {
+                    "number": 21,
+                    "audioFile": "audio/part2_q21.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "One day in 2018, an amateur astronomer received a weak signal from a satellite that NASA had lost contact with in 2005. IMAGE is a multimillion dollar satellite that performed a number of missions in space. NASA stopped trying to contact IMAGE a few years later because it believed the satellite's power supply had been badly damaged and was no longer working. The amateur astronomer posted information about his discovery on the Internet and contacted NASA himself."
+                        }
+                    ],
+                    "question": "Why did NASA stop trying to contact the IMAGE satellite?",
+                    "choices": [
+                        "The satellite was too expensive to continue using.",
+                        "The information the satellite sent was incorrect.",
+                        "NASA thought the satellite had lost power.",
+                        "NASA's project goals had been achieved."
+                    ],
+                    "answer": 3,
+                    "explanation": "NASAは衛星の電源が深刻な損傷を受け機能しなくなったと判断しました。",
+                    "highlights": [
+                        "the satellite's power supply had been badly damaged and was no longer working"
+                    ],
+                    "choiceAnalysis": "選択肢1「維持費が高すぎる」→言及なし。選択肢2「送信情報が不正確」→言及なし。選択肢3「電源が失われたと判断」→正解。選択肢4「目標達成済み」→言及なし。"
+                },
+                {
+                    "number": 22,
+                    "audioFile": "audio/part2_q22.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "When NASA scientists found that IMAGE was still functioning, they tried to regain control over it. Unfortunately, its operating system has become out-of-date, so the project's scientists are trying to develop software that will work with the satellite. NASA hopes it can start controlling IMAGE again and have the satellite send pictures of the northernmost part of Earth."
+                        }
+                    ],
+                    "question": "Why has it been difficult for NASA to regain control over the IMAGE satellite?",
+                    "choices": [
+                        "The satellite's operating system is too old.",
+                        "The satellite is too far from Earth.",
+                        "The satellite's software has been deleted.",
+                        "The satellite's location is unknown."
+                    ],
+                    "answer": 1,
+                    "explanation": "衛星のOSが時代遅れになっており、互換性のあるソフトウェアを開発する必要があります。",
+                    "highlights": [
+                        "its operating system has become out-of-date"
+                    ],
+                    "choiceAnalysis": "選択肢1「OSが古すぎる」→正解。選択肢2「地球から遠すぎる」→言及なし。選択肢3「ソフトが削除された」→時代遅れ。選択肢4「位置が不明」→信号を受信済み。"
+                },
+                {
+                    "number": 23,
+                    "audioFile": "audio/part2_q23.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "In recent decades, many older hospitals in the US have been closed. One reason is that hospitals today often need large operating rooms and private accommodations for patients. Many older hospital buildings, though, had shared accommodations and smaller operating rooms, so they were unable to meet modern medical needs."
+                        }
+                    ],
+                    "question": "What caused many older hospitals to close?",
+                    "choices": [
+                        "They did not meet legal safety standards.",
+                        "Fewer operations were being performed.",
+                        "Their facilities were no longer suitable.",
+                        "Patients complained they were unsafe."
+                    ],
+                    "answer": 3,
+                    "explanation": "古い病院は共用の部屋や小さな手術室しかなく、現代の医療ニーズに対応できませんでした。",
+                    "highlights": [
+                        "unable to meet modern medical needs",
+                        "shared accommodations and smaller operating rooms"
+                    ],
+                    "choiceAnalysis": "選択肢1「法的安全基準を満たさない」→言及なし。選択肢2「手術件数の減少」→言及なし。選択肢3「施設が適さなくなった」→正解。選択肢4「患者から安全でないと苦情」→言及なし。"
+                },
+                {
+                    "number": 24,
+                    "audioFile": "audio/part2_q24.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "In urban areas, many former hospitals are being turned into apartments. Their high ceilings and wide hallways make them easy to convert into separate living spaces. In addition, many are in central city locations, so they are popular places to live. However, some have been converted into luxury residences, which has angered local people. The hospitals were originally built to care for the poor. Locals say it is wrong for them to be made into living spaces for wealthy people. More recently, there have been efforts to use former hospitals as low-rent public housing for senior citizens."
+                        }
+                    ],
+                    "question": "Why are local people upset?",
+                    "choices": [
+                        "The hospital buildings have been knocked down.",
+                        "Rich people are living in some former hospitals.",
+                        "The apartments are not comfortable.",
+                        "Some people have been given free apartments."
+                    ],
+                    "answer": 2,
+                    "explanation": "元々貧困層のために建てられた病院が裕福な人の住居に変えられていることに怒っています。",
+                    "highlights": [
+                        "converted into luxury residences",
+                        "it is wrong for them to be made into living spaces for wealthy people"
+                    ],
+                    "choiceAnalysis": "選択肢1「病院が取り壊された」→アパートに転用。選択肢2「裕福な人が元病院に住んでいる」→正解。選択肢3「アパートが快適でない」→言及なし。選択肢4「無料アパートを与えられた」→低家賃公営住宅の取り組み。"
+                }
+            ]
         },
         {
-          "number": 3,
-          "audioFile": "audio/part1_q03.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Excuse me. Did I just hear that the 9 o'clock train to Kentbury has been canceled?"
-            },
-            {
-              "speaker": "male",
-              "text": "Yes, ma'am. By the time a replacement is ready, the next train will be leaving anyway."
-            },
-            {
-              "speaker": "female",
-              "text": "But that doesn't leave until 10:15. I've got to be in Kentbury by 10."
-            },
-            {
-              "speaker": "male",
-              "text": "You could take a taxi. The worst of the traffic should be gone by now. Or take the bus, which wouldn't cost as much."
-            },
-            {
-              "speaker": "female",
-              "text": "I'd rather pay extra. At least then I might get there on time."
-            }
-          ],
-          "question": "What will the woman probably do?",
-          "choices": [
-            "Come back to the station at 10:15.",
-            "Wait for traffic conditions to improve.",
-            "Go to Kentbury by taxi.",
-            "Check the bus timetable."
-          ],
-          "answer": 3,
-          "explanation": "女性は「余分に払ってでも時間通りに着きたい」と言っており、タクシーを選ぶことを示唆しています。",
-          "highlights": [
-            "I'd rather pay extra",
-            "At least then I might get there on time"
-          ],
-          "choiceAnalysis": "選択肢1「10:15に戻る」→10時までに着く必要がある。選択肢2「交通状況の改善を待つ」→言及なし。選択肢3「タクシーでKentburyへ」→正解。追加料金を払うことを選んだ。選択肢4「バスの時刻表を確認」→バスより高いタクシーを選択。"
-        },
-        {
-          "number": 4,
-          "audioFile": "audio/part1_q04.mp3",
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hi, Simone. Have you finished that travel guidebook you've been putting together?"
-            },
-            {
-              "speaker": "female",
-              "text": "Yeah, it's all done. The whole process was a bit frustrating, though."
-            },
-            {
-              "speaker": "male",
-              "text": "Why? Was it difficult editing all the articles? Travel writers can be defensive about their work."
-            },
-            {
-              "speaker": "female",
-              "text": "No. That was fine, but my boss has been away, so I had to teach myself how to use the publishing software as I went along, which slowed things down."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, with this experience, the next one is sure to go more smoothly."
-            },
-            {
-              "speaker": "female",
-              "text": "I hope so."
-            }
-          ],
-          "question": "What does the woman say about the guidebook?",
-          "choices": [
-            "The software she used was out-of-date.",
-            "The project has not been finished yet.",
-            "Her boss was unable to help her.",
-            "She found some errors at the last minute."
-          ],
-          "answer": 3,
-          "explanation": "女性はボスが不在だったため、出版ソフトの使い方を自分で学ぶ必要があり作業が遅れたと述べています。",
-          "highlights": [
-            "my boss has been away",
-            "I had to teach myself how to use the publishing software"
-          ],
-          "choiceAnalysis": "選択肢1「ソフトが古かった」→独学が問題。選択肢2「まだ完成していない」→完成済み。選択肢3「ボスが助けられなかった」→正解。ボスが不在。選択肢4「最後にエラーを発見」→言及なし。"
-        },
-        {
-          "number": 5,
-          "audioFile": "audio/part1_q05.mp3",
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Did you see the program about local universities on TV last night? We were featured."
-            },
-            {
-              "speaker": "female",
-              "text": "No, I missed that. What did they say about us?"
-            },
-            {
-              "speaker": "male",
-              "text": "Well, they showed the university center, library, and research facilities. And several of my students were interviewed. They did quite well."
-            },
-            {
-              "speaker": "female",
-              "text": "So it helped our university's image."
-            },
-            {
-              "speaker": "male",
-              "text": "Maybe. But the other schools also looked pretty good. I wonder how attractive we looked in comparison."
-            },
-            {
-              "speaker": "female",
-              "text": "Hmm. Let's hope enough high school students liked what they saw."
-            }
-          ],
-          "question": "What can be said about the TV program?",
-          "choices": [
-            "It featured several local universities.",
-            "It was produced by local students.",
-            "It attracted many new students.",
-            "It criticized the woman's university."
-          ],
-          "answer": 1,
-          "explanation": "TV番組は複数の地元大学を紹介しており、男性の大学も取り上げられました。",
-          "highlights": [
-            "the program about local universities",
-            "the other schools also looked pretty good"
-          ],
-          "choiceAnalysis": "選択肢1「複数の地元大学を紹介した」→正解。選択肢2「地元の学生が制作」→言及なし。選択肢3「多くの新入生を集めた」→未確定。選択肢4「女性の大学を批判」→言及なし。"
-        },
-        {
-          "number": 6,
-          "audioFile": "audio/part1_q06.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Hi, Joe. I'm calling to send my regrets in regard to your retirement party."
-            },
-            {
-              "speaker": "male",
-              "text": "Oh, you can't make it, Kathy?"
-            },
-            {
-              "speaker": "female",
-              "text": "No, sorry. My grandson invited me to his college graduation, and I've really been looking forward to going."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, you can't be in two places at once. We'll miss you at the party, though."
-            },
-            {
-              "speaker": "female",
-              "text": "I'm sure you'll still have a good time. Let's try and catch up soon."
-            }
-          ],
-          "question": "What do we learn about Kathy?",
-          "choices": [
-            "She has received two invitations for the same day.",
-            "She would rather attend the retirement party.",
-            "She has decided to cancel the party.",
-            "She cannot attend her grandson's ceremony."
-          ],
-          "answer": 1,
-          "explanation": "Kathyは退職パーティーと孫の大学卒業式が重なっており、卒業式を選んでいます。",
-          "highlights": [
-            "send my regrets in regard to your retirement party",
-            "My grandson invited me to his college graduation"
-          ],
-          "choiceAnalysis": "選択肢1「同じ日に2つの招待を受けた」→正解。選択肢2「退職パーティーに出たい」→卒業式を選択。選択肢3「パーティーをキャンセルした」→欠席の連絡。選択肢4「孫の式に出席できない」→出席予定。"
-        },
-        {
-          "number": 7,
-          "audioFile": "audio/part1_q07.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Hello, I'm here to see Victor Chu. He had surgery this morning."
-            },
-            {
-              "speaker": "male",
-              "text": "Visiting hours ended 10 minutes ago, but you can come back tomorrow."
-            },
-            {
-              "speaker": "female",
-              "text": "But I'm his sister, and I'm out of the country on business from tomorrow. Isn't there any way I could see him now?"
-            },
-            {
-              "speaker": "male",
-              "text": "Sorry, it would disturb the other patients."
-            },
-            {
-              "speaker": "female",
-              "text": "Could I at least talk to the doctor about how the surgery went?"
-            },
-            {
-              "speaker": "male",
-              "text": "All right. I'll page him and see if he's available."
-            }
-          ],
-          "question": "What does the man agree to do?",
-          "choices": [
-            "Extend the visiting hours.",
-            "Call the woman tomorrow.",
-            "Contact Victor's doctor.",
-            "Check to see if Victor is awake."
-          ],
-          "answer": 3,
-          "explanation": "男性は医師に連絡して対応可能か確認すると同意しています。",
-          "highlights": [
-            "Could I at least talk to the doctor",
-            "I'll page him and see if he's available"
-          ],
-          "choiceAnalysis": "選択肢1「面会時間を延長」→拒否。選択肢2「明日電話する」→言及なし。選択肢3「Victorの医師に連絡」→正解。選択肢4「Victorが起きているか確認」→医師への連絡。"
-        },
-        {
-          "number": 8,
-          "audioFile": "audio/part1_q08.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "We finally got our bonuses! What are you going to do with yours, Charlie?"
-            },
-            {
-              "speaker": "male",
-              "text": "I'm planning to invest it."
-            },
-            {
-              "speaker": "female",
-              "text": "Really? Are you going to buy stock in our company?"
-            },
-            {
-              "speaker": "male",
-              "text": "No. I've heard the real money is in overseas markets."
-            },
-            {
-              "speaker": "female",
-              "text": "Sounds risky. How can you be sure you won't lose everything?"
-            },
-            {
-              "speaker": "male",
-              "text": "I'll talk to a financial advisor first, of course, but you can't expect to get good returns without taking a chance."
-            }
-          ],
-          "question": "What is the man planning to do?",
-          "choices": [
-            "Invest in the domestic market.",
-            "Buy some of his company's stock.",
-            "Make a low-risk investment.",
-            "Get some advice about investments."
-          ],
-          "answer": 4,
-          "explanation": "男性はまずファイナンシャルアドバイザーに相談する予定です。",
-          "highlights": [
-            "I'll talk to a financial advisor first",
-            "the real money is in overseas markets"
-          ],
-          "choiceAnalysis": "選択肢1「国内市場に投資」→海外市場。選択肢2「自社株を買う」→否定。選択肢3「低リスク投資」→リスクを取ると言及。選択肢4「投資についてアドバイスを得る」→正解。"
-        },
-        {
-          "number": 9,
-          "audioFile": "audio/part1_q09.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "I want to start an herb garden so we can have some fresh ingredients when we cook."
-            },
-            {
-              "speaker": "male",
-              "text": "What would that involve?"
-            },
-            {
-              "speaker": "female",
-              "text": "For a start, we'd have to remove some of the lawn."
-            },
-            {
-              "speaker": "male",
-              "text": "I don't know. That sounds like it might be overambitious."
-            },
-            {
-              "speaker": "female",
-              "text": "It's just part of the lawn, and we can do it ourselves, so we wouldn't need to hire a landscaping service. There'd still be plenty of room for the dogs to play."
-            },
-            {
-              "speaker": "male",
-              "text": "Hmm. Let me think about it."
-            }
-          ],
-          "question": "What is the man's opinion?",
-          "choices": [
-            "They cannot afford to build the herb garden.",
-            "The herb garden may require too much effort.",
-            "They should find a new landscaping service.",
-            "The dogs have more space than they need."
-          ],
-          "answer": 2,
-          "explanation": "男性はハーブガーデンが「大げさすぎるかもしれない」と感じています。",
-          "highlights": [
-            "That sounds like it might be overambitious",
-            "Let me think about it"
-          ],
-          "choiceAnalysis": "選択肢1「費用が出せない」→言及なし。選択肢2「労力がかかりすぎるかも」→正解。「overambitious」が根拠。選択肢3「新しい造園業者を探すべき」→業者は不要と女性が説明。選択肢4「犬のスペースが余っている」→言及なし。"
-        },
-        {
-          "number": 10,
-          "audioFile": "audio/part1_q10.mp3",
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hi, Liz. I heard you climbed Mount Rainier last weekend."
-            },
-            {
-              "speaker": "female",
-              "text": "Yeah. We were worried about the weather, but it turned out OK."
-            },
-            {
-              "speaker": "male",
-              "text": "Did you reach the top in time for the sunset?"
-            },
-            {
-              "speaker": "female",
-              "text": "Unfortunately, we missed it. A member of our group hurt his ankle, so we took an easier route that was less direct."
-            },
-            {
-              "speaker": "male",
-              "text": "Oh, well, I hope you still got some great photos along the way."
-            },
-            {
-              "speaker": "female",
-              "text": "I did, and it was very satisfying when we finally reached the top."
-            }
-          ],
-          "question": "Why did Liz's group miss the sunset?",
-          "choices": [
-            "They lost their way.",
-            "They had to take a different route.",
-            "The weather slowed them down.",
-            "People kept stopping to take photos."
-          ],
-          "answer": 2,
-          "explanation": "メンバーが足首を怪我したため、より簡単で遠回りのルートを取り、日没に間に合いませんでした。",
-          "highlights": [
-            "A member of our group hurt his ankle",
-            "we took an easier route that was less direct"
-          ],
-          "choiceAnalysis": "選択肢1「道に迷った」→別ルートを選択。選択肢2「別のルートを取った」→正解。選択肢3「天気が原因」→天気は問題なし。選択肢4「写真撮影で止まった」→言及なし。"
-        },
-        {
-          "number": 11,
-          "audioFile": "audio/part1_q11.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "I'm full. That seafood salad was wonderful! I've never had such delicious shrimp, and the dressing was amazing."
-            },
-            {
-              "speaker": "male",
-              "text": "Yes, and that blueberry sauce went surprisingly well with the roast lamb."
-            },
-            {
-              "speaker": "female",
-              "text": "The waiter could have been a bit quicker, though. It took 10 minutes just to get a menu."
-            },
-            {
-              "speaker": "male",
-              "text": "And I never did get a beer refill, either. They need to pay a bit more attention to the little things."
-            },
-            {
-              "speaker": "female",
-              "text": "Yeah. Still, the restaurant's only been open a few days. These things take a bit of time."
-            }
-          ],
-          "question": "What do these people think?",
-          "choices": [
-            "The service could have been better.",
-            "The main dish was tastier than the salad.",
-            "The menu choices were limited.",
-            "The lamb was not cooked well enough."
-          ],
-          "answer": 1,
-          "explanation": "二人は料理は素晴らしいがサービスが遅いと感じています。",
-          "highlights": [
-            "The waiter could have been a bit quicker",
-            "They need to pay a bit more attention to the little things"
-          ],
-          "choiceAnalysis": "選択肢1「サービスがもっと良くできた」→正解。選択肢2「メインがサラダより美味しい」→両方好評。選択肢3「メニューの選択が限られている」→言及なし。選択肢4「ラムの調理が不十分」→美味しいと評価。"
-        },
-        {
-          "number": 12,
-          "audioFile": "audio/part1_q12.mp3",
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Excuse me, Professor Rivers, do you have a moment?"
-            },
-            {
-              "speaker": "female",
-              "text": "Sure, Luke, what's the problem?"
-            },
-            {
-              "speaker": "male",
-              "text": "To be honest, I've found your biochemistry class tough recently."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, I'm a little concerned about your recent test scores, too. You seem to be having trouble with some of the key concepts."
-            },
-            {
-              "speaker": "male",
-              "text": "Is there anything I can do to catch up?"
-            },
-            {
-              "speaker": "female",
-              "text": "I expect your schedule's a little full, but I can set you up with a tutor, if you'd like."
-            },
-            {
-              "speaker": "male",
-              "text": "I'd appreciate that."
-            }
-          ],
-          "question": "What is Luke's problem?",
-          "choices": [
-            "He has been late for class recently.",
-            "He did not hand in an assignment.",
-            "He is struggling with biochemistry.",
-            "He has been unable to find a tutor."
-          ],
-          "answer": 3,
-          "explanation": "Lukeは生化学の授業が最近難しく、テストの成績も良くないと述べています。",
-          "highlights": [
-            "I've found your biochemistry class tough recently",
-            "having trouble with some of the key concepts"
-          ],
-          "choiceAnalysis": "選択肢1「最近授業に遅刻」→言及なし。選択肢2「課題を提出しなかった」→言及なし。選択肢3「生化学に苦戦」→正解。選択肢4「家庭教師が見つからない」→教授が紹介予定。"
+            "name": "第3部",
+            "nameEn": "Part 3",
+            "description": "実生活の場面を想定した英文を聞き、質問に対して最も適切な答えを選ぶ形式です。放送前に状況と質問を読む時間が10秒与えられます。",
+            "questionRange": "No. 25 〜 No. 29",
+            "questions": [
+                {
+                    "number": 25,
+                    "audioFile": "audio/part3_q25.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "【状況】あなたは最近、息子と一緒に日本から海外に引っ越しました。自宅から徒歩30分以内の学校を探しています。カウンセラーが以下のことを話します。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Your son's English isn't good enough for regular classes yet. So, we have some other options. Bishop Elementary is a Japanese-English bilingual school in Bridgetown, about an hour's drive from your home. Williams Elementary has a program in Japanese. It's about 30 minutes away by car. There are also two schools about a 20-minute walk from your home. The first is Thatcher Elementary, which has an English program for nonnative English speakers. The second one, Johnson Elementary, offers an English Mainstream Program, but it's too soon for that."
+                        }
+                    ],
+                    "question": "Which elementary school should you choose?",
+                    "choices": [
+                        "Bishop.",
+                        "Williams.",
+                        "Thatcher.",
+                        "Johnson."
+                    ],
+                    "answer": 3,
+                    "explanation": "条件：徒歩30分以内＋息子の英語力に適したプログラム。Thatcherは徒歩20分で非ネイティブ向け英語プログラムがあります。",
+                    "highlights": [
+                        "a 20-minute walk from your home",
+                        "English program for nonnative English speakers"
+                    ],
+                    "choiceAnalysis": "選択肢1「Bishop」→車で1時間。選択肢2「Williams」→車で30分。選択肢3「Thatcher」→正解。徒歩20分+非ネイティブ向け。選択肢4「Johnson」→通常プログラムはまだ早い。",
+                    "situation": "You recently moved abroad from Japan with your son. You are looking for a school less than 30 minutes' walk from your home. A counselor tells you the following."
+                },
+                {
+                    "number": 26,
+                    "audioFile": "audio/part3_q26.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "【状況】あなたは製薬会社のPR部門で働いています。上司が以下のことを話します。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "As you know, we will release our new product, Coraspan-T, onto the market soon. However, when taken with certain drugs and supplements, the risk of side effects is a little higher than previously thought. The label we have already made has a general warning, but the legal team says we risk a lawsuit if we don't make a new one. The new label should list all drugs and supplements that might interact with Coraspan-T. The research team has the necessary details, so meet with them right away. Once the label's done, you'll need to prepare a new press release by June 15th."
+                        }
+                    ],
+                    "question": "What should you do first?",
+                    "choices": [
+                        "Check other companies' products.",
+                        "Contact the research team.",
+                        "Meet with the company's lawyers.",
+                        "Work on the press release."
+                    ],
+                    "answer": 2,
+                    "explanation": "まず研究チームと会って必要な詳細を入手し、その後ラベルを作成、最後にプレスリリースを準備する順序です。",
+                    "highlights": [
+                        "The research team has the necessary details",
+                        "meet with them right away"
+                    ],
+                    "choiceAnalysis": "選択肢1「他社製品を確認」→言及なし。選択肢2「研究チームに連絡」→正解。「right away」が根拠。選択肢3「弁護士と会う」→法務チームは訴訟リスクを指摘済み。選択肢4「プレスリリース作成」→ラベル完成後。",
+                    "situation": "You work in the PR department of a pharmaceutical company. Your boss tells you the following."
+                },
+                {
+                    "number": 27,
+                    "audioFile": "audio/part3_q27.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "【状況】あなたはケニアに4日間滞在しています。できるだけ多くの種類の動物を見られるツアーを予約したいです。予算は$1,000です。旅行代理店が説明します。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "We have four tours at the moment. The two-day Big Cat Safari Camp, a photographers' favorite, focuses on lions and cheetahs. That one's $800. Then, we have a couple of three-day tours with access to giraffes, elephants, hippos, lions, and more. The first three-day tour, the Backpacker's Special, is $900, and provides guests with a sleeping bag and large tent. The second one, the Glamping Expedition, offers comfortable huts with private baths, for $1,200. Finally, the Game Park Tour takes you through three of Kenya's game parks over five days. You'll see hippos, flamingos, and elephants for $1,000—a great bargain."
+                        }
+                    ],
+                    "question": "Which safari should you choose?",
+                    "choices": [
+                        "The Big Cat Safari.",
+                        "The Game Park Tour.",
+                        "The Backpacker's Special.",
+                        "The Glamping Expedition."
+                    ],
+                    "answer": 3,
+                    "explanation": "条件：4日以内＋多種の動物＋$1,000以下。Backpacker's Specialは3日間、多種の動物、$900で条件を満たします。Game Park Tourは5日で期間超過。",
+                    "highlights": [
+                        "three-day tours with access to giraffes, elephants, hippos, lions, and more",
+                        "Backpacker's Special, is $900"
+                    ],
+                    "choiceAnalysis": "選択肢1「Big Cat Safari」→ライオンとチーターのみ。選択肢2「Game Park Tour」→5日間で期間超過。選択肢3「Backpacker's Special」→正解。3日$900、多種の動物。選択肢4「Glamping Expedition」→$1,200で予算超過。",
+                    "situation": "You are staying in Kenya for four days. You want to book a tour where you can see as many kinds of animals as possible. Your budget is $1,000. A travel agent explains the options."
+                },
+                {
+                    "number": 28,
+                    "audioFile": "audio/part3_q28.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "【状況】あなたは成人教育の英作文クラスを始めます。先生が成績評価について説明します。ジャーナル課題で良い成績を取りたいです。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Thirty percent of your grade comes from your textbook assignments and class participation. Another 30 percent of your grade will be based on your essays. The main criteria will be structure, content, and grammar. The final 40 percent will come from the journal you keep outside of class. This will be scored on quantity and originality. There is a minimum page requirement for grades of A, B, C, and D. The journal is meant to encourage free writing, so don't worry too much about grammar or spelling."
+                        }
+                    ],
+                    "question": "What is one thing you should do?",
+                    "choices": [
+                        "Write only about the assigned topics.",
+                        "Avoid grammar and spelling errors.",
+                        "Follow the minimum page requirement.",
+                        "Work in groups to write journal entries."
+                    ],
+                    "answer": 3,
+                    "explanation": "ジャーナルは量とオリジナリティで採点され、各成績にはページの最低要件があります。",
+                    "highlights": [
+                        "scored on quantity and originality",
+                        "minimum page requirement for grades of A, B, C, and D"
+                    ],
+                    "choiceAnalysis": "選択肢1「指定されたトピックのみ」→自由作文。選択肢2「文法・スペルミスを避ける」→気にしなくて良いと言及。選択肢3「最低ページ要件に従う」→正解。選択肢4「グループで書く」→言及なし。",
+                    "situation": "You are starting an adult-education writing class. Your teacher explains the grading. You want to get a good grade on the journal assignment."
+                },
+                {
+                    "number": 29,
+                    "audioFile": "audio/part3_q29.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "【状況】あなたは木工に興味がありますが、まだ試したことがありません。平日の夜が空いています。生涯学習センターの担当者が説明します。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Thanks for your interest. We offer courses in all kinds of arts and handicrafts. Our new evening classes include Advanced Ceramics and Advanced Woodworking. Those are on Thursdays at 6 and 8, respectively, and we recommend you have at least a year's experience before joining them. Other classes are on the same schedule as last semester. On Mondays, it's Basic Watercolors at 6 and Metalworking at 8. On Tuesdays, Beginner Ceramics at 6 and Woodworking Basics at 8. On Wednesdays, we have Intermediate Ceramics at 6 and Leatherworking for Beginners at 8."
+                        }
+                    ],
+                    "question": "What day and time should you choose?",
+                    "choices": [
+                        "Mondays at six.",
+                        "Tuesdays at eight.",
+                        "Wednesdays at six.",
+                        "Thursdays at eight."
+                    ],
+                    "answer": 2,
+                    "explanation": "木工初心者で平日の夜が空いている条件に合うのは、火曜日8時のWoodworking Basicsです。Advanced Woodworkingは経験1年以上が推奨。",
+                    "highlights": [
+                        "Woodworking Basics",
+                        "On Tuesdays, Beginner Ceramics at 6 and Woodworking Basics at 8"
+                    ],
+                    "choiceAnalysis": "選択肢1「月曜6時」→Basic Watercolors。選択肢2「火曜8時」→正解。Woodworking Basics。選択肢3「水曜6時」→Intermediate Ceramics。選択肢4「木曜8時」→Advanced Woodworking（経験者向け）。",
+                    "situation": "You are interested in woodworking but have never tried it. Your weekday evenings are free. A staff member at the lifelong learning center explains the options."
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "第2部",
-      "nameEn": "Part 2",
-      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。英文と質問は一度だけ放送されます。",
-      "questionRange": "No. 13 〜 No. 24",
-      "questions": [
-        {
-          "number": 13,
-          "audioFile": "audio/part2_q13.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "In recent decades, Spain's historical city of Pontevedra has been transformed into an urban environment that promotes family life. The mayor says Pontevedra used to be a city that was heavily polluted and had a lot of traffic accidents. However, rather than just trying to improve traffic conditions, the local government decided to adopt a policy of pedestrianization. The policy banned street parking in the city center, which led to a large reduction in vehicle usage. Now, public spaces have been redesigned for people on foot rather than for vehicles."
-            }
-          ],
-          "question": "What is one change the local government made?",
-          "choices": [
-            "Car sharing was introduced in the city center.",
-            "Parking lots were replaced with public parks.",
-            "Only electric cars are allowed in the city.",
-            "Many public areas are now suitable for walking."
-          ],
-          "answer": 4,
-          "explanation": "地方政府は歩行者化政策を採用し、公共スペースを車ではなく歩行者向けに再設計しました。",
-          "highlights": [
-            "pedestrianization",
-            "public spaces have been redesigned for people on foot"
-          ],
-          "choiceAnalysis": "選択肢1「カーシェアリング導入」→言及なし。選択肢2「駐車場を公園に」→路上駐車を禁止。選択肢3「電気自動車のみ許可」→言及なし。選択肢4「多くの公共エリアが歩行可能に」→正解。"
-        },
-        {
-          "number": 14,
-          "audioFile": "audio/part2_q14.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Not surprisingly, CO2 emissions in Pontevedra are down by about 70 percent. What is more, crime has decreased, and the population and birthrate have risen. There were early protests from businesspeople who feared the local economy would suffer, but that has not happened, and the city's policy has been well received overall. In fact, the political party which implemented it has enjoyed repeated election successes due to its popularity."
-            }
-          ],
-          "question": "What has been one result of the city's policy?",
-          "choices": [
-            "The local economy has been hurt.",
-            "A political party has benefited from it.",
-            "There has been an increase in crime.",
-            "Fewer babies are being born."
-          ],
-          "answer": 2,
-          "explanation": "この政策を実施した政党は、その人気により選挙で繰り返し成功を収めています。",
-          "highlights": [
-            "the political party which implemented it has enjoyed repeated election successes"
-          ],
-          "choiceAnalysis": "選択肢1「地方経済が打撃」→実際には起きていない。選択肢2「政党が恩恵を受けた」→正解。選択肢3「犯罪が増加」→減少。選択肢4「出生率低下」→上昇。"
-        },
-        {
-          "number": 15,
-          "audioFile": "audio/part2_q15.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "People with a rare condition known as \"hyperthymesia\" can recall nearly all their experiences starting from a young age. Interestingly, brain scans reveal some differences between their brains and those of ordinary people. But in many ways, the memories of people with hyperthymesia are quite similar. For example, when memorizing lists of words or remembering faces, their memories are sometimes no better than those of ordinary people. However, for people with hyperthymesia, memories of personal events do not fade in the way that other people's memories do."
-            }
-          ],
-          "question": "How are people with hyperthymesia different from ordinary people?",
-          "choices": [
-            "They cannot remember faces.",
-            "They are able to remember more words.",
-            "They tend to invent memories.",
-            "They recall past events more clearly."
-          ],
-          "answer": 4,
-          "explanation": "超記憶症の人は個人的な出来事の記憶が通常の人のように薄れません。",
-          "highlights": [
-            "memories of personal events do not fade"
-          ],
-          "choiceAnalysis": "選択肢1「顔を覚えられない」→普通の人と同程度。選択肢2「より多くの単語を記憶」→普通の人と同程度。選択肢3「記憶を作り出す傾向」→言及なし。選択肢4「過去の出来事をより鮮明に思い出す」→正解。"
-        },
-        {
-          "number": 16,
-          "audioFile": "audio/part2_q16.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Unfortunately, people with hyperthymesia can find it difficult to overcome emotional pain and regret because they can easily be reminded of unpleasant experiences that happened far in the past. People with hyperthymesia recall such experiences as if they had happened very recently, which can be extremely painful."
-            }
-          ],
-          "question": "What is one side effect for people with hyperthymesia?",
-          "choices": [
-            "They feel that time passes more quickly.",
-            "They can be seriously affected by negative memories.",
-            "They have trouble forming relationships.",
-            "They are unable to identify false memories."
-          ],
-          "answer": 2,
-          "explanation": "過去の不快な経験をまるで最近起こったかのように思い出してしまい、精神的苦痛を感じます。",
-          "highlights": [
-            "difficult to overcome emotional pain and regret",
-            "recall such experiences as if they had happened very recently"
-          ],
-          "choiceAnalysis": "選択肢1「時間が早く過ぎる」→言及なし。選択肢2「ネガティブな記憶に深刻な影響を受ける」→正解。選択肢3「人間関係形成が困難」→言及なし。選択肢4「虚偽の記憶を識別できない」→言及なし。"
-        },
-        {
-          "number": 17,
-          "audioFile": "audio/part2_q17.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The Lex Oppia was a law passed in ancient Rome in 215 BC that limited the amount of wealth women could possess. At that time, Rome faced a financial crisis because it was at war with Carthage. Many historians believe the women's wealth was taken to support the war effort. Women were also banned from wearing large amounts of jewelry and fancy clothing."
-            }
-          ],
-          "question": "What is one way the Lex Oppia affected women?",
-          "choices": [
-            "They had to donate money to Carthage.",
-            "They had to dress plainly.",
-            "They had to serve in the military.",
-            "They had to leave Rome temporarily."
-          ],
-          "answer": 2,
-          "explanation": "Lex Oppiaにより女性は大量の宝石や派手な服を着ることが禁止されました。",
-          "highlights": [
-            "banned from wearing large amounts of jewelry and fancy clothing"
-          ],
-          "choiceAnalysis": "選択肢1「カルタゴに寄付」→戦争資金に充てられた。選択肢2「質素な服装を強いられた」→正解。選択肢3「軍務に服す」→言及なし。選択肢4「一時的にローマを離れる」→言及なし。"
-        },
-        {
-          "number": 18,
-          "audioFile": "audio/part2_q18.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "After Rome defeated Carthage, many Romans demanded an end to the Lex Oppia. Some politicians, like Cato the Elder, however, wanted it to remain because he believed too much wealth had a harmful effect on women. Cato the Elder had a poor opinion of women and claimed luxury led to jealousy and disharmony. But mass demonstrations by women eventually led to the law's removal in 195 BC."
-            }
-          ],
-          "question": "What is one thing we learn about Cato the Elder?",
-          "choices": [
-            "He believed women should have more power.",
-            "He had a negative attitude toward women.",
-            "He took part in demonstrations.",
-            "He wanted to be wealthy himself."
-          ],
-          "answer": 2,
-          "explanation": "大カトーは女性に対して低い評価を持ち、贅沢が嫉妬と不和を引き起こすと主張しました。",
-          "highlights": [
-            "had a poor opinion of women",
-            "claimed luxury led to jealousy and disharmony"
-          ],
-          "choiceAnalysis": "選択肢1「女性にもっと権力を」→逆。選択肢2「女性に対して否定的な態度」→正解。選択肢3「デモに参加」→法の維持を主張。選択肢4「自身が裕福になりたかった」→言及なし。"
-        },
-        {
-          "number": 19,
-          "audioFile": "audio/part2_q19.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Ira Aldridge was a well-known actor in Europe in the 1800s. What made him different from most other actors was his race. He was an African American born in New York City in 1807, at a time when black people were still slaves in some states. Although Aldridge was talented, black actors were generally kept out of the theater business in the US, so he emigrated to England."
-            }
-          ],
-          "question": "Why did Ira Aldridge move to England?",
-          "choices": [
-            "He preferred the British style of acting.",
-            "He wanted to attend a famous university.",
-            "He hoped to meet famous British actors.",
-            "He found it hard to get work in the US."
-          ],
-          "answer": 4,
-          "explanation": "米国では黒人俳優は劇場ビジネスから締め出されていたため、イギリスに移住しました。",
-          "highlights": [
-            "black actors were generally kept out of the theater business in the US",
-            "he emigrated to England"
-          ],
-          "choiceAnalysis": "選択肢1「英国式演技を好んだ」→言及なし。選択肢2「有名大学に通いたかった」→言及なし。選択肢3「有名な英国俳優に会いたかった」→言及なし。選択肢4「米国で仕事が困難だった」→正解。"
-        },
-        {
-          "number": 20,
-          "audioFile": "audio/part2_q20.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Aldridge still experienced some racism in England, but he was also recognized for his acting ability. Just a few years after relocating, he became manager of the Coventry Theatre. He acted in and produced plays that expressed his views against slavery. And it is thought that he inspired people to pressure the British government to end slavery. Aldridge also performed for kings and queens all over Europe, and he remains an important figure in both black history and theater."
-            }
-          ],
-          "question": "What is one thing we learn about Aldridge when he was in England?",
-          "choices": [
-            "His plays had an antislavery message.",
-            "He worked for the British government.",
-            "His theater went out of business.",
-            "He was prevented from performing for royalty."
-          ],
-          "answer": 1,
-          "explanation": "Aldridgeは奴隷制に反対する見解を表現した劇に出演・制作しました。",
-          "highlights": [
-            "produced plays that expressed his views against slavery"
-          ],
-          "choiceAnalysis": "選択肢1「劇に反奴隷制メッセージ」→正解。選択肢2「英国政府で働いた」→言及なし。選択肢3「劇場が倒産」→マネージャーに就任。選択肢4「王族の前での公演を阻止された」→公演した。"
-        },
-        {
-          "number": 21,
-          "audioFile": "audio/part2_q21.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "One day in 2018, an amateur astronomer received a weak signal from a satellite that NASA had lost contact with in 2005. IMAGE is a multimillion dollar satellite that performed a number of missions in space. NASA stopped trying to contact IMAGE a few years later because it believed the satellite's power supply had been badly damaged and was no longer working. The amateur astronomer posted information about his discovery on the Internet and contacted NASA himself."
-            }
-          ],
-          "question": "Why did NASA stop trying to contact the IMAGE satellite?",
-          "choices": [
-            "The satellite was too expensive to continue using.",
-            "The information the satellite sent was incorrect.",
-            "NASA thought the satellite had lost power.",
-            "NASA's project goals had been achieved."
-          ],
-          "answer": 3,
-          "explanation": "NASAは衛星の電源が深刻な損傷を受け機能しなくなったと判断しました。",
-          "highlights": [
-            "the satellite's power supply had been badly damaged and was no longer working"
-          ],
-          "choiceAnalysis": "選択肢1「維持費が高すぎる」→言及なし。選択肢2「送信情報が不正確」→言及なし。選択肢3「電源が失われたと判断」→正解。選択肢4「目標達成済み」→言及なし。"
-        },
-        {
-          "number": 22,
-          "audioFile": "audio/part2_q22.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "When NASA scientists found that IMAGE was still functioning, they tried to regain control over it. Unfortunately, its operating system has become out-of-date, so the project's scientists are trying to develop software that will work with the satellite. NASA hopes it can start controlling IMAGE again and have the satellite send pictures of the northernmost part of Earth."
-            }
-          ],
-          "question": "Why has it been difficult for NASA to regain control over the IMAGE satellite?",
-          "choices": [
-            "The satellite's operating system is too old.",
-            "The satellite is too far from Earth.",
-            "The satellite's software has been deleted.",
-            "The satellite's location is unknown."
-          ],
-          "answer": 1,
-          "explanation": "衛星のOSが時代遅れになっており、互換性のあるソフトウェアを開発する必要があります。",
-          "highlights": [
-            "its operating system has become out-of-date"
-          ],
-          "choiceAnalysis": "選択肢1「OSが古すぎる」→正解。選択肢2「地球から遠すぎる」→言及なし。選択肢3「ソフトが削除された」→時代遅れ。選択肢4「位置が不明」→信号を受信済み。"
-        },
-        {
-          "number": 23,
-          "audioFile": "audio/part2_q23.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "In recent decades, many older hospitals in the US have been closed. One reason is that hospitals today often need large operating rooms and private accommodations for patients. Many older hospital buildings, though, had shared accommodations and smaller operating rooms, so they were unable to meet modern medical needs."
-            }
-          ],
-          "question": "What caused many older hospitals to close?",
-          "choices": [
-            "They did not meet legal safety standards.",
-            "Fewer operations were being performed.",
-            "Their facilities were no longer suitable.",
-            "Patients complained they were unsafe."
-          ],
-          "answer": 3,
-          "explanation": "古い病院は共用の部屋や小さな手術室しかなく、現代の医療ニーズに対応できませんでした。",
-          "highlights": [
-            "unable to meet modern medical needs",
-            "shared accommodations and smaller operating rooms"
-          ],
-          "choiceAnalysis": "選択肢1「法的安全基準を満たさない」→言及なし。選択肢2「手術件数の減少」→言及なし。選択肢3「施設が適さなくなった」→正解。選択肢4「患者から安全でないと苦情」→言及なし。"
-        },
-        {
-          "number": 24,
-          "audioFile": "audio/part2_q24.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "In urban areas, many former hospitals are being turned into apartments. Their high ceilings and wide hallways make them easy to convert into separate living spaces. In addition, many are in central city locations, so they are popular places to live. However, some have been converted into luxury residences, which has angered local people. The hospitals were originally built to care for the poor. Locals say it is wrong for them to be made into living spaces for wealthy people. More recently, there have been efforts to use former hospitals as low-rent public housing for senior citizens."
-            }
-          ],
-          "question": "Why are local people upset?",
-          "choices": [
-            "The hospital buildings have been knocked down.",
-            "Rich people are living in some former hospitals.",
-            "The apartments are not comfortable.",
-            "Some people have been given free apartments."
-          ],
-          "answer": 2,
-          "explanation": "元々貧困層のために建てられた病院が裕福な人の住居に変えられていることに怒っています。",
-          "highlights": [
-            "converted into luxury residences",
-            "it is wrong for them to be made into living spaces for wealthy people"
-          ],
-          "choiceAnalysis": "選択肢1「病院が取り壊された」→アパートに転用。選択肢2「裕福な人が元病院に住んでいる」→正解。選択肢3「アパートが快適でない」→言及なし。選択肢4「無料アパートを与えられた」→低家賃公営住宅の取り組み。"
-        }
-      ]
-    },
-    {
-      "name": "第3部",
-      "nameEn": "Part 3",
-      "description": "実生活の場面を想定した英文を聞き、質問に対して最も適切な答えを選ぶ形式です。放送前に状況と質問を読む時間が10秒与えられます。",
-      "questionRange": "No. 25 〜 No. 29",
-      "questions": [
-        {
-          "number": 25,
-          "audioFile": "audio/part3_q25.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "【状況】あなたは最近、息子と一緒に日本から海外に引っ越しました。自宅から徒歩30分以内の学校を探しています。カウンセラーが以下のことを話します。"
-            },
-            {
-              "speaker": "female",
-              "text": "Your son's English isn't good enough for regular classes yet. So, we have some other options. Bishop Elementary is a Japanese-English bilingual school in Bridgetown, about an hour's drive from your home. Williams Elementary has a program in Japanese. It's about 30 minutes away by car. There are also two schools about a 20-minute walk from your home. The first is Thatcher Elementary, which has an English program for nonnative English speakers. The second one, Johnson Elementary, offers an English Mainstream Program, but it's too soon for that."
-            }
-          ],
-          "question": "Which elementary school should you choose?",
-          "choices": [
-            "Bishop.",
-            "Williams.",
-            "Thatcher.",
-            "Johnson."
-          ],
-          "answer": 3,
-          "explanation": "条件：徒歩30分以内＋息子の英語力に適したプログラム。Thatcherは徒歩20分で非ネイティブ向け英語プログラムがあります。",
-          "highlights": [
-            "a 20-minute walk from your home",
-            "English program for nonnative English speakers"
-          ],
-          "choiceAnalysis": "選択肢1「Bishop」→車で1時間。選択肢2「Williams」→車で30分。選択肢3「Thatcher」→正解。徒歩20分+非ネイティブ向け。選択肢4「Johnson」→通常プログラムはまだ早い。",
-          "situation": "You recently moved abroad from Japan with your son. You are looking for a school less than 30 minutes' walk from your home. A counselor tells you the following."
-        },
-        {
-          "number": 26,
-          "audioFile": "audio/part3_q26.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "【状況】あなたは製薬会社のPR部門で働いています。上司が以下のことを話します。"
-            },
-            {
-              "speaker": "male",
-              "text": "As you know, we will release our new product, Coraspan-T, onto the market soon. However, when taken with certain drugs and supplements, the risk of side effects is a little higher than previously thought. The label we have already made has a general warning, but the legal team says we risk a lawsuit if we don't make a new one. The new label should list all drugs and supplements that might interact with Coraspan-T. The research team has the necessary details, so meet with them right away. Once the label's done, you'll need to prepare a new press release by June 15th."
-            }
-          ],
-          "question": "What should you do first?",
-          "choices": [
-            "Check other companies' products.",
-            "Contact the research team.",
-            "Meet with the company's lawyers.",
-            "Work on the press release."
-          ],
-          "answer": 2,
-          "explanation": "まず研究チームと会って必要な詳細を入手し、その後ラベルを作成、最後にプレスリリースを準備する順序です。",
-          "highlights": [
-            "The research team has the necessary details",
-            "meet with them right away"
-          ],
-          "choiceAnalysis": "選択肢1「他社製品を確認」→言及なし。選択肢2「研究チームに連絡」→正解。「right away」が根拠。選択肢3「弁護士と会う」→法務チームは訴訟リスクを指摘済み。選択肢4「プレスリリース作成」→ラベル完成後。",
-          "situation": "You work in the PR department of a pharmaceutical company. Your boss tells you the following."
-        },
-        {
-          "number": 27,
-          "audioFile": "audio/part3_q27.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "【状況】あなたはケニアに4日間滞在しています。できるだけ多くの種類の動物を見られるツアーを予約したいです。予算は$1,000です。旅行代理店が説明します。"
-            },
-            {
-              "speaker": "male",
-              "text": "We have four tours at the moment. The two-day Big Cat Safari Camp, a photographers' favorite, focuses on lions and cheetahs. That one's $800. Then, we have a couple of three-day tours with access to giraffes, elephants, hippos, lions, and more. The first three-day tour, the Backpacker's Special, is $900, and provides guests with a sleeping bag and large tent. The second one, the Glamping Expedition, offers comfortable huts with private baths, for $1,200. Finally, the Game Park Tour takes you through three of Kenya's game parks over five days. You'll see hippos, flamingos, and elephants for $1,000—a great bargain."
-            }
-          ],
-          "question": "Which safari should you choose?",
-          "choices": [
-            "The Big Cat Safari.",
-            "The Game Park Tour.",
-            "The Backpacker's Special.",
-            "The Glamping Expedition."
-          ],
-          "answer": 3,
-          "explanation": "条件：4日以内＋多種の動物＋$1,000以下。Backpacker's Specialは3日間、多種の動物、$900で条件を満たします。Game Park Tourは5日で期間超過。",
-          "highlights": [
-            "three-day tours with access to giraffes, elephants, hippos, lions, and more",
-            "Backpacker's Special, is $900"
-          ],
-          "choiceAnalysis": "選択肢1「Big Cat Safari」→ライオンとチーターのみ。選択肢2「Game Park Tour」→5日間で期間超過。選択肢3「Backpacker's Special」→正解。3日$900、多種の動物。選択肢4「Glamping Expedition」→$1,200で予算超過。",
-          "situation": "You are staying in Kenya for four days. You want to book a tour where you can see as many kinds of animals as possible. Your budget is $1,000. A travel agent explains the options."
-        },
-        {
-          "number": 28,
-          "audioFile": "audio/part3_q28.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "【状況】あなたは成人教育の英作文クラスを始めます。先生が成績評価について説明します。ジャーナル課題で良い成績を取りたいです。"
-            },
-            {
-              "speaker": "female",
-              "text": "Thirty percent of your grade comes from your textbook assignments and class participation. Another 30 percent of your grade will be based on your essays. The main criteria will be structure, content, and grammar. The final 40 percent will come from the journal you keep outside of class. This will be scored on quantity and originality. There is a minimum page requirement for grades of A, B, C, and D. The journal is meant to encourage free writing, so don't worry too much about grammar or spelling."
-            }
-          ],
-          "question": "What is one thing you should do?",
-          "choices": [
-            "Write only about the assigned topics.",
-            "Avoid grammar and spelling errors.",
-            "Follow the minimum page requirement.",
-            "Work in groups to write journal entries."
-          ],
-          "answer": 3,
-          "explanation": "ジャーナルは量とオリジナリティで採点され、各成績にはページの最低要件があります。",
-          "highlights": [
-            "scored on quantity and originality",
-            "minimum page requirement for grades of A, B, C, and D"
-          ],
-          "choiceAnalysis": "選択肢1「指定されたトピックのみ」→自由作文。選択肢2「文法・スペルミスを避ける」→気にしなくて良いと言及。選択肢3「最低ページ要件に従う」→正解。選択肢4「グループで書く」→言及なし。",
-          "situation": "You are starting an adult-education writing class. Your teacher explains the grading. You want to get a good grade on the journal assignment."
-        },
-        {
-          "number": 29,
-          "audioFile": "audio/part3_q29.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "【状況】あなたは木工に興味がありますが、まだ試したことがありません。平日の夜が空いています。生涯学習センターの担当者が説明します。"
-            },
-            {
-              "speaker": "female",
-              "text": "Thanks for your interest. We offer courses in all kinds of arts and handicrafts. Our new evening classes include Advanced Ceramics and Advanced Woodworking. Those are on Thursdays at 6 and 8, respectively, and we recommend you have at least a year's experience before joining them. Other classes are on the same schedule as last semester. On Mondays, it's Basic Watercolors at 6 and Metalworking at 8. On Tuesdays, Beginner Ceramics at 6 and Woodworking Basics at 8. On Wednesdays, we have Intermediate Ceramics at 6 and Leatherworking for Beginners at 8."
-            }
-          ],
-          "question": "What day and time should you choose?",
-          "choices": [
-            "Mondays at six.",
-            "Tuesdays at eight.",
-            "Wednesdays at six.",
-            "Thursdays at eight."
-          ],
-          "answer": 2,
-          "explanation": "木工初心者で平日の夜が空いている条件に合うのは、火曜日8時のWoodworking Basicsです。Advanced Woodworkingは経験1年以上が推奨。",
-          "highlights": [
-            "Woodworking Basics",
-            "On Tuesdays, Beginner Ceramics at 6 and Woodworking Basics at 8"
-          ],
-          "choiceAnalysis": "選択肢1「月曜6時」→Basic Watercolors。選択肢2「火曜8時」→正解。Woodworking Basics。選択肢3「水曜6時」→Intermediate Ceramics。選択肢4「木曜8時」→Advanced Woodworking（経験者向け）。",
-          "situation": "You are interested in woodworking but have never tried it. Your weekday evenings are free. A staff member at the lifelong learning center explains the options."
-        }
-      ]
-    }
-  ]
+    ]
 }

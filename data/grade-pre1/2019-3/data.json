@@ -1,971 +1,971 @@
 {
-  "title": "2019年度 第3回検定一次試験 英検準1級 リスニング",
-  "parts": [
-    {
-      "name": "第1部",
-      "nameEn": "Part 1",
-      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-      "questionRange": "No. 1 〜 No. 12",
-      "questions": [
+    "title": "2019年度 第3回検定一次試験 英検準1級 リスニング",
+    "parts": [
         {
-          "number": 1,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Ms. Anderson, I'd like to reserve my summer holidays."
-            },
-            {
-              "speaker": "female",
-              "text": "No problem, Jeff. Which week would you like?"
-            },
-            {
-              "speaker": "male",
-              "text": "July 3rd to the 10th, if possible."
-            },
-            {
-              "speaker": "female",
-              "text": "Hmm. That might be a problem. I'm scheduled for that week."
-            },
-            {
-              "speaker": "male",
-              "text": "That's too bad. My parents are visiting then, and I don't see them very often."
-            },
-            {
-              "speaker": "female",
-              "text": "Tell you what, Jeff, I think I can be flexible."
-            },
-            {
-              "speaker": "male",
-              "text": "Really?"
-            },
-            {
-              "speaker": "female",
-              "text": "Yes. I'll book a different week. It's important for you to spend time with your family."
-            },
-            {
-              "speaker": "male",
-              "text": "That's very kind of you."
-            }
-          ],
-          "question": "What will the woman do?",
-          "choices": [
-            "Visit her family in the summer.",
-            "Change her vacation time.",
-            "Take an extra week off.",
-            "Reschedule her parents' visit."
-          ],
-          "explanation": "女性は自分の休暇を別の週に変更し、男性が希望する週に休めるようにしてあげると言っています。",
-          "highlights": [
-            "I'll book a different week. It's important for you to spend time with your family"
-          ],
-          "choiceAnalysis": "選択肢1「家族を訪ねる」→男性の話。選択肢2「休暇の時期を変更する」→正解。選択肢3「もう1週間休む」→言及なし。選択肢4「両親の訪問を変更」→男性の話。",
-          "audioFile": "audio/part1_q01.mp3",
-          "answer": 2
+            "name": "第1部",
+            "nameEn": "Part 1",
+            "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 1 〜 No. 12",
+            "questions": [
+                {
+                    "number": 1,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Ms. Anderson, I'd like to reserve my summer holidays."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No problem, Jeff. Which week would you like?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "July 3rd to the 10th, if possible."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Hmm. That might be a problem. I'm scheduled for that week."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That's too bad. My parents are visiting then, and I don't see them very often."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Tell you what, Jeff, I think I can be flexible."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Really?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes. I'll book a different week. It's important for you to spend time with your family."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That's very kind of you."
+                        }
+                    ],
+                    "question": "What will the woman do?",
+                    "choices": [
+                        "Visit her family in the summer.",
+                        "Change her vacation time.",
+                        "Take an extra week off.",
+                        "Reschedule her parents' visit."
+                    ],
+                    "explanation": "女性は自分の休暇を別の週に変更し、男性が希望する週に休めるようにしてあげると言っています。",
+                    "highlights": [
+                        "I'll book a different week. It's important for you to spend time with your family"
+                    ],
+                    "choiceAnalysis": "選択肢1「家族を訪ねる」→男性の話。選択肢2「休暇の時期を変更する」→正解。選択肢3「もう1週間休む」→言及なし。選択肢4「両親の訪問を変更」→男性の話。",
+                    "audioFile": "audio/part1_q01.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 2,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "It says in the paper that the coach of the Springfield Hawks got fired."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Really? I know the team hasn't been doing well this season, but was he that bad?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Apparently, last week's loss was too much for the owners."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, considering the amount they're paying him, you would've expected the team to win more games."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Still, I think the owners' ambitions were too high."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "That's probably true."
+                        }
+                    ],
+                    "question": "Why do these people think the coach lost his job?",
+                    "choices": [
+                        "The team's results were unsatisfactory.",
+                        "He refused to listen to the owners' advice.",
+                        "The players did not like him.",
+                        "He demanded too much money."
+                    ],
+                    "explanation": "チームの成績が悪く、先週の敗戦がオーナーにとって限界だったため解雇されました。",
+                    "highlights": [
+                        "the team hasn't been doing well this season",
+                        "last week's loss was too much for the owners"
+                    ],
+                    "choiceAnalysis": "選択肢1「チームの結果が不満足」→正解。選択肢2「オーナーの助言を聞かない」→言及なし。選択肢3「選手に嫌われた」→言及なし。選択肢4「高い報酬を要求」→高い給料だが要求ではない。",
+                    "audioFile": "audio/part1_q02.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 3,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "So, Michelle, how're your studies going?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "College is great, Dad, but I'm considering switching my major to finance."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Really? But you've wanted to be a doctor since you were little!"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Actually, I think that's what you've wanted for me. I've realized going into business appeals to me much more."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "But as a doctor you could help so many people!"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Maybe, but I'd be happier doing something I enjoy, Dad."
+                        }
+                    ],
+                    "question": "Why is the man concerned?",
+                    "choices": [
+                        "His daughter has decided to quit college.",
+                        "His daughter cannot find a job in finance.",
+                        "His daughter wants to change her career path.",
+                        "His daughter cannot afford to attend college."
+                    ],
+                    "explanation": "娘が医学からファイナンスに専攻を変えようとしていることに父親は心配しています。",
+                    "highlights": [
+                        "I'm considering switching my major to finance",
+                        "you've wanted to be a doctor since you were little"
+                    ],
+                    "choiceAnalysis": "選択肢1「大学を辞める」→辞めない。選択肢2「仕事が見つからない」→まだ学生。選択肢3「キャリアパスを変えたい」→正解。選択肢4「大学費用が払えない」→言及なし。",
+                    "audioFile": "audio/part1_q03.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 4,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hi, Liz. How was the photography exhibition about the Arctic?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Fascinating. You should've come. The photographer had taken all the photos from a helicopter."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "They must have been beautiful."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, actually, they were a bit depressing. They showed how Arctic ice and animal habitats are disappearing."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I didn't know that was the point of the exhibition."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Me neither. But I learned a lot about how humans are destroying the world around us."
+                        }
+                    ],
+                    "question": "What does the woman say about the exhibition?",
+                    "choices": [
+                        "It had an environmental message.",
+                        "The pictures were very beautiful.",
+                        "It was not well attended.",
+                        "She was unable to meet the photographer."
+                    ],
+                    "explanation": "展示は北極の氷や動物の生息地が消えていることを伝える環境メッセージがありました。",
+                    "highlights": [
+                        "They showed how Arctic ice and animal habitats are disappearing",
+                        "how humans are destroying the world around us"
+                    ],
+                    "choiceAnalysis": "選択肢1「環境メッセージがあった」→正解。選択肢2「写真がきれい」→実際は少し憂鬱。選択肢3「来場者が少ない」→言及なし。選択肢4「写真家に会えない」→言及なし。",
+                    "audioFile": "audio/part1_q04.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 5,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Honey, the house needs to be painted."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I know, but we need to replace the roof first. We can't patch it up any more than we already have."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, we can't afford to get both done."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "The painting can wait until next year."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I suppose you're right. Some of the roof tiles are falling off again."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "It's our only choice, unless you want a flood in the living room!"
+                        }
+                    ],
+                    "question": "What does the couple decide to do?",
+                    "choices": [
+                        "Have the house painted.",
+                        "Get a new roof.",
+                        "Wait until they save more money.",
+                        "Replace the living room carpets."
+                    ],
+                    "explanation": "両方はできないので、塗装は来年に延ばし、まず屋根を修理することにしました。",
+                    "highlights": [
+                        "we need to replace the roof first",
+                        "The painting can wait until next year"
+                    ],
+                    "choiceAnalysis": "選択肢1「塗装する」→来年に延期。選択肢2「新しい屋根にする」→正解。選択肢3「お金を貯めるまで待つ」→屋根は今やる。選択肢4「カーペット交換」→言及なし。",
+                    "audioFile": "audio/part1_q05.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 6,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Ray Collins from SolarTech called. I gave him your cell phone number, so he might call you."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Oh, no. I think he wants to meet for lunch next week."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Is there a problem? I thought SolarTech was one of your best clients."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "It is, but I already have lunchtime appointments every day next week."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Just be straight with him. I'm sure he'll understand."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I hope so. The week after is no good, either. I'll be on vacation."
+                        }
+                    ],
+                    "question": "Why is the woman unable to meet Ray Collins next week?",
+                    "choices": [
+                        "She will be away on vacation.",
+                        "She has arranged to meet other people.",
+                        "He will be on a business trip.",
+                        "He has not returned her calls."
+                    ],
+                    "explanation": "来週はランチの予定が毎日入っています。再来週は休暇。来週会えない理由は他の人との予定があるから。",
+                    "highlights": [
+                        "I already have lunchtime appointments every day next week"
+                    ],
+                    "choiceAnalysis": "選択肢1「休暇中」→再来週が休暇。選択肢2「他の人と会う予定」→正解。選択肢3「出張中」→言及なし。選択肢4「電話に出ない」→言及なし。",
+                    "audioFile": "audio/part1_q06.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 7,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Was Anna at the staff meeting this week?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "No, she wasn't. That's the third one in a row."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "That's unacceptable. What was her excuse?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "She said she was meeting a client, but when she came back to the office, I noticed she had gotten her hair cut."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "She really needs to shape up. Her sales performance isn't bad, but if she doesn't change her attitude soon, she's going to be out of a job."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I'll speak with her today."
+                        }
+                    ],
+                    "question": "What is the problem with Anna?",
+                    "choices": [
+                        "She does not pay attention to clients.",
+                        "She does not speak up in staff meetings.",
+                        "She is failing to meet her sales targets.",
+                        "She is missing too many meetings."
+                    ],
+                    "explanation": "Annaは3回連続でスタッフミーティングを欠席しており、それが問題です。",
+                    "highlights": [
+                        "That's the third one in a row",
+                        "That's unacceptable"
+                    ],
+                    "choiceAnalysis": "選択肢1「クライアントに注意しない」→言い訳に使った。選択肢2「会議で発言しない」→出席していない。選択肢3「売上目標未達」→成績は悪くない。選択肢4「会議に出席しない」→正解。",
+                    "audioFile": "audio/part1_q07.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 8,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "We need to talk about the promotion I was offered, honey. My boss needs an answer next week."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "The offer's great—the problem is the relocation."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "You could probably find work in Leicester."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "But I like my job here. And Leicester is far from our families."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Maybe I should just decline."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Let's not be hasty. I'll check out some options in Leicester."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I don't want you making huge sacrifices on my behalf."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, maybe we can find a solution. Let's look into it."
+                        }
+                    ],
+                    "question": "What does the man suggest?",
+                    "choices": [
+                        "That they do more research before deciding.",
+                        "That he move to Leicester on his own.",
+                        "That the woman find a new position locally.",
+                        "That they move closer to his family."
+                    ],
+                    "explanation": "男性は急がず、レスターでの選択肢を調べてみようと提案しています。",
+                    "highlights": [
+                        "Let's not be hasty. I'll check out some options in Leicester",
+                        "Let's look into it"
+                    ],
+                    "choiceAnalysis": "選択肢1「決める前にもっと調べる」→正解。選択肢2「男性だけ引っ越す」→言及なし。選択肢3「地元で新しい仕事」→言及なし。選択肢4「家族の近くに引っ越す」→言及なし。",
+                    "audioFile": "audio/part1_q08.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 9,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hey, how was your high school reunion last weekend?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "It was OK. I don't think I'll go to the next one, though."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Why not? Didn't a lot of people turn up?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Actually, there were tons of people there."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, it must've been good to catch up with people you haven't seen for years."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "But I never really enjoyed high school that much. I didn't fit in, so even last weekend it wasn't easy to chat with people."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Fair enough. I guess reunions aren't for everyone."
+                        }
+                    ],
+                    "question": "What does the woman say about the reunion?",
+                    "choices": [
+                        "The number of people who attended was low.",
+                        "She felt uncomfortable talking to people.",
+                        "It should have been held on another date.",
+                        "She wishes the man had gone with her."
+                    ],
+                    "explanation": "女性は高校時代なじめなかったので、同窓会でも人と話すのが楽ではなかったと言っています。",
+                    "highlights": [
+                        "I didn't fit in, so even last weekend it wasn't easy to chat with people"
+                    ],
+                    "choiceAnalysis": "選択肢1「来場者が少ない」→大勢いた。選択肢2「人と話すのが不快だった」→正解。選択肢3「別の日にすべき」→言及なし。選択肢4「男性も来てほしかった」→言及なし。",
+                    "audioFile": "audio/part1_q09.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 10,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "How about taking a trip to Las Vegas in April? I've found some fantastic hotel deals online for weekdays."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Sounds great, but I'm pretty busy at work. I could probably manage a weekend, though."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "But rooms are a lot more expensive on weekends, and the city will be packed."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, my supervisor might let me take a couple days off during the week."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, check on that soon. We need to make reservations early to get a good deal."
+                        }
+                    ],
+                    "question": "What does the man want the woman to do?",
+                    "choices": [
+                        "Reserve a hotel room today.",
+                        "Check some sightseeing websites.",
+                        "Request some time off.",
+                        "Postpone the trip for now."
+                    ],
+                    "explanation": "男性は女性に平日に休みを取れるか上司に確認してほしいと言っています。",
+                    "highlights": [
+                        "check on that soon",
+                        "my supervisor might let me take a couple days off during the week"
+                    ],
+                    "choiceAnalysis": "選択肢1「今日ホテルを予約」→まだ確認していない。選択肢2「観光サイトを見る」→言及なし。選択肢3「休暇を申請する」→正解。選択肢4「旅行を延期」→延期ではない。",
+                    "audioFile": "audio/part1_q10.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 11,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Can you give me a hand?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Sure. What are you doing?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I want to hang these paintings your mother gave us in the living room. I need your thoughts on the arrangement."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "OK. But I thought we were going to hang them in the bedroom."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "We were, but I don't think they match the design there."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Maybe you're right. And putting them in the living room means my mom can enjoy seeing them when she visits."
+                        }
+                    ],
+                    "question": "What does the woman think about the paintings?",
+                    "choices": [
+                        "The living room is too small for them.",
+                        "The man's mother will not like them.",
+                        "They would not look good in the bedroom.",
+                        "They will be too heavy to hang on the wall."
+                    ],
+                    "explanation": "女性は絵が寝室のデザインに合わないと考え、リビングに飾ることにしました。",
+                    "highlights": [
+                        "I don't think they match the design there"
+                    ],
+                    "choiceAnalysis": "選択肢1「リビングが狭い」→リビングに飾る。選択肢2「母親が気に入らない」→言及なし。選択肢3「寝室に合わない」→正解。選択肢4「重すぎる」→言及なし。",
+                    "audioFile": "audio/part1_q11.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 12,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Have you seen my wallet?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Isn't it on the hall table?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "No, I must have left it somewhere else. My keys too. I checked in the kitchen, but they're not there."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "If you'd just put your things on the hall table whenever you come in, you wouldn't waste so much time looking for them."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "OK, but that doesn't help me find them now."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "They're probably in your suit jacket in the closet."
+                        }
+                    ],
+                    "question": "What does the woman want the man to do?",
+                    "choices": [
+                        "Keep his things in the same place.",
+                        "Stop leaving valuables in the kitchen.",
+                        "Help her look for the things she lost.",
+                        "Hang his suits in the closet."
+                    ],
+                    "explanation": "女性は帰宅時にいつも玄関のテーブルに物を置く習慣をつければ探す時間が省けると言っています。",
+                    "highlights": [
+                        "If you'd just put your things on the hall table whenever you come in, you wouldn't waste so much time looking for them"
+                    ],
+                    "choiceAnalysis": "選択肢1「いつも同じ場所に置く」→正解。選択肢2「台所に貴重品を置くのをやめる」→言及なし。選択肢3「女性の物を探す手伝い」→男性が探している。選択肢4「スーツをクローゼットに」→言及なし。",
+                    "audioFile": "audio/part1_q12.mp3",
+                    "answer": 1
+                }
+            ]
         },
         {
-          "number": 2,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "It says in the paper that the coach of the Springfield Hawks got fired."
-            },
-            {
-              "speaker": "female",
-              "text": "Really? I know the team hasn't been doing well this season, but was he that bad?"
-            },
-            {
-              "speaker": "male",
-              "text": "Apparently, last week's loss was too much for the owners."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, considering the amount they're paying him, you would've expected the team to win more games."
-            },
-            {
-              "speaker": "male",
-              "text": "Still, I think the owners' ambitions were too high."
-            },
-            {
-              "speaker": "female",
-              "text": "That's probably true."
-            }
-          ],
-          "question": "Why do these people think the coach lost his job?",
-          "choices": [
-            "The team's results were unsatisfactory.",
-            "He refused to listen to the owners' advice.",
-            "The players did not like him.",
-            "He demanded too much money."
-          ],
-          "explanation": "チームの成績が悪く、先週の敗戦がオーナーにとって限界だったため解雇されました。",
-          "highlights": [
-            "the team hasn't been doing well this season",
-            "last week's loss was too much for the owners"
-          ],
-          "choiceAnalysis": "選択肢1「チームの結果が不満足」→正解。選択肢2「オーナーの助言を聞かない」→言及なし。選択肢3「選手に嫌われた」→言及なし。選択肢4「高い報酬を要求」→高い給料だが要求ではない。",
-          "audioFile": "audio/part1_q02.mp3",
-          "answer": 1
+            "name": "第2部",
+            "nameEn": "Part 2",
+            "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 13 〜 No. 24",
+            "questions": [
+                {
+                    "number": 13,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "In 1782, French brothers Joseph-Michel and Jacques-Étienne Montgolfier had an idea. The Montgolfier brothers, who were paper manufacturers, noticed that open paper bags placed above a fire would rise upwards. At first, the brothers believed it was the smoke, rather than the heat, that caused the bags to rise. Nevertheless, they thought they might be able to build an aircraft. After some experimenting, they built a balloon out of cloth and paper, and the first manned flight took place in 1783."
+                        }
+                    ],
+                    "question": "What is one thing the Montgolfier brothers believed?",
+                    "choices": [
+                        "Smoke caused the paper bags to rise.",
+                        "Paper was better than cloth for making aircraft.",
+                        "Their balloon could never carry people.",
+                        "Their balloon might catch fire."
+                    ],
+                    "explanation": "兄弟は最初、熱ではなく煙が紙袋を上昇させると信じていました。",
+                    "highlights": [
+                        "the brothers believed it was the smoke, rather than the heat, that caused the bags to rise"
+                    ],
+                    "choiceAnalysis": "選択肢1「煙が紙袋を上昇させた」→正解。選択肢2「紙が布より良い」→言及なし。選択肢3「人は乗れない」→有人飛行を行った。選択肢4「火災の危険」→言及なし。",
+                    "audioFile": "audio/part2_q13.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 14,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "More balloon flights followed, and in 1785 pilots Jean-Pierre Blanchard and John Jeffries made the first-ever flight across the English Channel. Because they had some letters with them, they also made the first-ever international airmail delivery. The trip nearly ended in disaster when the balloon began to lose height. Blanchard and Jeffries threw almost everything out of the balloon to stay in the sky. However, when the pilots landed in France, they still had the letters."
+                        }
+                    ],
+                    "question": "What is one reason the flight across the English Channel was significant?",
+                    "choices": [
+                        "The pilots showed that ballooning was cheap.",
+                        "It was quicker than previous English Channel flights.",
+                        "It helped improve English-French relations.",
+                        "It had never been done before."
+                    ],
+                    "explanation": "英仏海峡を気球で横断したのは史上初めてのことでした。",
+                    "highlights": [
+                        "the first-ever flight across the English Channel"
+                    ],
+                    "choiceAnalysis": "選択肢1「気球が安い」→言及なし。選択肢2「以前より速い」→初めて。選択肢3「英仏関係改善」→言及なし。選択肢4「初めてのこと」→正解。",
+                    "audioFile": "audio/part2_q14.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 15,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Many remote communities of Alaska are accessible only by small boat or light plane. This makes it difficult for unwanted appliances and electronics to be taken away and disposed of. Currently, the US government provides some funding to local organizations to remove waste, but it is not enough. As a result, garbage sites are running out of space, and the garbage is affecting the quality of the soil and water. Trash is sometimes burned, but this sends dangerous chemicals into the air, which sometimes forces local schools to close."
+                        }
+                    ],
+                    "question": "What is one problem that people in remote Alaskan communities face?",
+                    "choices": [
+                        "Boats and planes are causing pollution.",
+                        "Garbage sites are becoming full.",
+                        "Local wildlife is attracted to garbage.",
+                        "There is a shortage of natural resources."
+                    ],
+                    "explanation": "ごみ処理場がスペース不足になっています。",
+                    "highlights": [
+                        "garbage sites are running out of space"
+                    ],
+                    "choiceAnalysis": "選択肢1「船と飛行機が汚染」→輸送手段の制約。選択肢2「ごみ処理場が満杯」→正解。選択肢3「野生動物がごみに」→言及なし。選択肢4「天然資源不足」→言及なし。",
+                    "audioFile": "audio/part2_q15.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 16,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Unfortunately, the government support is coming to an end, so worried local organizations are rushing to remove as much waste as possible. Larger appliances and cars are being given priority, but smaller things, like batteries and chemicals, are being stored locally. Once funding ends, these organizations will need to find new ways to deal with waste and protect Alaska's environment."
+                        }
+                    ],
+                    "question": "Why are local organizations concerned?",
+                    "choices": [
+                        "They are receiving complaints from citizens.",
+                        "Recycling laws are too strict.",
+                        "Shipping prices for supplies have risen.",
+                        "They will lose a source of funding."
+                    ],
+                    "explanation": "政府の資金援助が終了するため、新しい廃棄物処理方法を見つける必要があります。",
+                    "highlights": [
+                        "the government support is coming to an end"
+                    ],
+                    "choiceAnalysis": "選択肢1「住民からの苦情」→言及なし。選択肢2「リサイクル法が厳しい」→言及なし。選択肢3「輸送費上昇」→言及なし。選択肢4「資金源を失う」→正解。",
+                    "audioFile": "audio/part2_q16.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 17,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "It is common for teachers to read fiction aloud in English lessons for elementary school students. Research in the US showed it may also be valuable for older students, especially those who struggle with reading. Just a few minutes of being read to daily helped motivate students to read more on their own. It also expanded their vocabulary and helped them enjoy more-sophisticated literature."
+                        }
+                    ],
+                    "question": "What is one thing the research showed about reading fiction aloud to older students?",
+                    "choices": [
+                        "It increased their vocabulary.",
+                        "It improved their reading speed.",
+                        "It increased their ability to spell new words.",
+                        "It improved their school attendance."
+                    ],
+                    "explanation": "音読を聞くことで生徒の語彙が広がりました。",
+                    "highlights": [
+                        "It also expanded their vocabulary"
+                    ],
+                    "choiceAnalysis": "選択肢1「語彙が増えた」→正解。選択肢2「読む速度が向上」→言及なし。選択肢3「スペル能力」→言及なし。選択肢4「出席率改善」→言及なし。",
+                    "audioFile": "audio/part2_q17.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 18,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Educators say that when a person is being read to, that person does not have to understand how words are spelled: their brain is free to try to understand new concepts more deeply. In fact, educators in subjects other than English literature have recently been reading nonfiction books aloud to students. Some history or science teachers, for example, say they find it to be a useful supplement to traditional textbooks."
+                        }
+                    ],
+                    "question": "What have some educators been doing recently?",
+                    "choices": [
+                        "Encouraging students to read science fiction in class.",
+                        "Asking students to take notes when reading.",
+                        "Focusing more on spelling than reading.",
+                        "Reading aloud to teach subjects other than English."
+                    ],
+                    "explanation": "英語以外の教科の教師が、歴史や理科の授業でノンフィクションを音読しています。",
+                    "highlights": [
+                        "educators in subjects other than English literature have recently been reading nonfiction books aloud to students"
+                    ],
+                    "choiceAnalysis": "選択肢1「SF読書」→ノンフィクション。選択肢2「ノート取り」→言及なし。選択肢3「スペル重視」→スペルを知らなくてもよい。選択肢4「英語以外の教科で音読」→正解。",
+                    "audioFile": "audio/part2_q18.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 19,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Red Cloud was a Native American leader who fought a war against the US government in the 1860s. A chief of the Oglala Sioux tribe, Red Cloud began attacking government soldiers, travelers, and other people who entered the tribe's territory without permission. Although many Native American tribes had failed to prevent the invasion of their lands in the past, Red Cloud was able to defeat his enemies. He did this by getting the support of other tribes and using their combined strength to achieve victory."
+                        }
+                    ],
+                    "question": "Why was Red Cloud able to achieve victory in the 1860s?",
+                    "choices": [
+                        "He was more familiar with the territory.",
+                        "He was able to trick the US government.",
+                        "He learned about the US soldiers' attack plans.",
+                        "He got other tribes to help him fight."
+                    ],
+                    "explanation": "レッドクラウドは他の部族の支援を得て、連合軍の力で勝利しました。",
+                    "highlights": [
+                        "getting the support of other tribes and using their combined strength to achieve victory"
+                    ],
+                    "choiceAnalysis": "選択肢1「領土に詳しい」→言及なし。選択肢2「政府を騙せた」→言及なし。選択肢3「攻撃計画を知った」→言及なし。選択肢4「他の部族に協力を得た」→正解。",
+                    "audioFile": "audio/part2_q19.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 20,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "In 1868, the US government signed the Treaty of Fort Laramie. This peace agreement stated that no white people would enter certain territory without permission. However, the US government broke the agreement in 1874, when gold was discovered in Sioux territory. Red Cloud tried to negotiate peace, but war began once again. This time, his people lost and were removed from their land."
+                        }
+                    ],
+                    "question": "What happened in 1874?",
+                    "choices": [
+                        "The US government returned land to the Sioux.",
+                        "The US government broke the peace treaty.",
+                        "Red Cloud's tribe began mining for gold.",
+                        "Red Cloud defeated the US soldiers again."
+                    ],
+                    "explanation": "スー族の領土で金が発見され、米国政府が条約を破りました。",
+                    "highlights": [
+                        "the US government broke the agreement in 1874, when gold was discovered"
+                    ],
+                    "choiceAnalysis": "選択肢1「土地を返還」→逆に奪った。選択肢2「条約を破った」→正解。選択肢3「金の採掘」→政府側。選択肢4「再び勝利」→今度は敗北。",
+                    "audioFile": "audio/part2_q20.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 21,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "In 1878, Eadweard Muybridge made Horse in Motion, which some people say is the world's first movie. However, it was created as a scientific experiment, not as entertainment. Because running horses move so fast, it is impossible for the human eye to see whether all four legs are ever in the air at the same time. To settle this question, Muybridge attempted to take multiple photos in a very short time."
+                        }
+                    ],
+                    "question": "Why was Horse in Motion made?",
+                    "choices": [
+                        "To find a way to make horses run faster.",
+                        "To answer a question about how horses run.",
+                        "To advertise a horse show.",
+                        "To provide public entertainment."
+                    ],
+                    "explanation": "走る馬の4本の脚が同時に空中にあるかという疑問に答えるための科学実験でした。",
+                    "highlights": [
+                        "it was created as a scientific experiment",
+                        "whether all four legs are ever in the air at the same time"
+                    ],
+                    "choiceAnalysis": "選択肢1「馬を速くする」→言及なし。選択肢2「馬の走り方の疑問に答える」→正解。選択肢3「馬のショーの宣伝」→言及なし。選択肢4「娯楽」→科学実験。",
+                    "audioFile": "audio/part2_q21.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 22,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Movie cameras had not yet been invented, so Muybridge set up regular cameras at various positions along a racetrack. Each camera was attached to a wire, and as the horse's legs hit each wire, the camera took a picture. When the photographs were projected at high speed, people were amazed to see a moving image of a running horse whose feet were briefly all in the air at the same time."
+                        }
+                    ],
+                    "question": "What is one thing Eadweard Muybridge did to create Horse in Motion?",
+                    "choices": [
+                        "He hired people to take photos.",
+                        "He increased the shutter speed of his cameras.",
+                        "He used wires to make cameras take photos.",
+                        "He drew images based on photos."
+                    ],
+                    "explanation": "各カメラにワイヤーを取り付け、馬の脚がワイヤーに触れると自動的に撮影されるようにしました。",
+                    "highlights": [
+                        "Each camera was attached to a wire, and as the horse's legs hit each wire, the camera took a picture"
+                    ],
+                    "choiceAnalysis": "選択肢1「人を雇って撮影」→自動。選択肢2「シャッタースピード上げた」→言及なし。選択肢3「ワイヤーでカメラを作動」→正解。選択肢4「写真を元に絵を描いた」→言及なし。",
+                    "audioFile": "audio/part2_q22.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 23,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The Mayan civilizations of Central America and southern Mexico were at their height between AD 250 and 900. Using the latest technology, scientists recently surveyed hundreds of miles of ancient Mayan territory from an airplane. They discovered that the network of cities, highways, and walls was far larger than anyone had previously imagined. They also found that the Maya used sophisticated agricultural techniques, such as canals to deliver water to crops, which helped to feed a population of millions."
+                        }
+                    ],
+                    "question": "What is one thing the speaker says about the Maya?",
+                    "choices": [
+                        "They traded with other cultures.",
+                        "They attacked enemies in the deep jungle.",
+                        "They could not feed their population.",
+                        "They used advanced farming methods."
+                    ],
+                    "explanation": "マヤ文明は運河など高度な農業技術を用いて数百万人の人口を養っていました。",
+                    "highlights": [
+                        "the Maya used sophisticated agricultural techniques, such as canals to deliver water to crops"
+                    ],
+                    "choiceAnalysis": "選択肢1「他の文化と交易」→言及なし。選択肢2「ジャングルで敵を攻撃」→言及なし。選択肢3「人口を養えない」→養えた。選択肢4「高度な農業技術」→正解。",
+                    "audioFile": "audio/part2_q23.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 24,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Most of the newly discovered structures were buried deep in the jungle, which actually helped keep them in good condition. Remains of many other civilizations around the world have been destroyed by wars or farming activities. But thanks to the jungle swallowing up the Mayan cities, these structures have been preserved almost as they were over a thousand years ago."
+                        }
+                    ],
+                    "question": "What do we learn about the newly discovered structures?",
+                    "choices": [
+                        "They were protected by the jungle.",
+                        "They have been badly damaged in wars.",
+                        "They were copied from another civilization.",
+                        "They are still used by modern farmers."
+                    ],
+                    "explanation": "ジャングルに覆われたおかげで1000年以上前のほぼ当時のまま保存されています。",
+                    "highlights": [
+                        "the jungle swallowing up the Mayan cities, these structures have been preserved"
+                    ],
+                    "choiceAnalysis": "選択肢1「ジャングルに守られた」→正解。選択肢2「戦争で損傷」→他の文明の話。選択肢3「他の文明の模倣」→言及なし。選択肢4「現代の農民が使用」→言及なし。",
+                    "audioFile": "audio/part2_q24.mp3",
+                    "answer": 1
+                }
+            ]
         },
         {
-          "number": 3,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "So, Michelle, how're your studies going?"
-            },
-            {
-              "speaker": "female",
-              "text": "College is great, Dad, but I'm considering switching my major to finance."
-            },
-            {
-              "speaker": "male",
-              "text": "Really? But you've wanted to be a doctor since you were little!"
-            },
-            {
-              "speaker": "female",
-              "text": "Actually, I think that's what you've wanted for me. I've realized going into business appeals to me much more."
-            },
-            {
-              "speaker": "male",
-              "text": "But as a doctor you could help so many people!"
-            },
-            {
-              "speaker": "female",
-              "text": "Maybe, but I'd be happier doing something I enjoy, Dad."
-            }
-          ],
-          "question": "Why is the man concerned?",
-          "choices": [
-            "His daughter has decided to quit college.",
-            "His daughter cannot find a job in finance.",
-            "His daughter wants to change her career path.",
-            "His daughter cannot afford to attend college."
-          ],
-          "explanation": "娘が医学からファイナンスに専攻を変えようとしていることに父親は心配しています。",
-          "highlights": [
-            "I'm considering switching my major to finance",
-            "you've wanted to be a doctor since you were little"
-          ],
-          "choiceAnalysis": "選択肢1「大学を辞める」→辞めない。選択肢2「仕事が見つからない」→まだ学生。選択肢3「キャリアパスを変えたい」→正解。選択肢4「大学費用が払えない」→言及なし。",
-          "audioFile": "audio/part1_q03.mp3",
-          "answer": 3
-        },
-        {
-          "number": 4,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hi, Liz. How was the photography exhibition about the Arctic?"
-            },
-            {
-              "speaker": "female",
-              "text": "Fascinating. You should've come. The photographer had taken all the photos from a helicopter."
-            },
-            {
-              "speaker": "male",
-              "text": "They must have been beautiful."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, actually, they were a bit depressing. They showed how Arctic ice and animal habitats are disappearing."
-            },
-            {
-              "speaker": "male",
-              "text": "I didn't know that was the point of the exhibition."
-            },
-            {
-              "speaker": "female",
-              "text": "Me neither. But I learned a lot about how humans are destroying the world around us."
-            }
-          ],
-          "question": "What does the woman say about the exhibition?",
-          "choices": [
-            "It had an environmental message.",
-            "The pictures were very beautiful.",
-            "It was not well attended.",
-            "She was unable to meet the photographer."
-          ],
-          "explanation": "展示は北極の氷や動物の生息地が消えていることを伝える環境メッセージがありました。",
-          "highlights": [
-            "They showed how Arctic ice and animal habitats are disappearing",
-            "how humans are destroying the world around us"
-          ],
-          "choiceAnalysis": "選択肢1「環境メッセージがあった」→正解。選択肢2「写真がきれい」→実際は少し憂鬱。選択肢3「来場者が少ない」→言及なし。選択肢4「写真家に会えない」→言及なし。",
-          "audioFile": "audio/part1_q04.mp3",
-          "answer": 1
-        },
-        {
-          "number": 5,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Honey, the house needs to be painted."
-            },
-            {
-              "speaker": "female",
-              "text": "I know, but we need to replace the roof first. We can't patch it up any more than we already have."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, we can't afford to get both done."
-            },
-            {
-              "speaker": "female",
-              "text": "The painting can wait until next year."
-            },
-            {
-              "speaker": "male",
-              "text": "I suppose you're right. Some of the roof tiles are falling off again."
-            },
-            {
-              "speaker": "female",
-              "text": "It's our only choice, unless you want a flood in the living room!"
-            }
-          ],
-          "question": "What does the couple decide to do?",
-          "choices": [
-            "Have the house painted.",
-            "Get a new roof.",
-            "Wait until they save more money.",
-            "Replace the living room carpets."
-          ],
-          "explanation": "両方はできないので、塗装は来年に延ばし、まず屋根を修理することにしました。",
-          "highlights": [
-            "we need to replace the roof first",
-            "The painting can wait until next year"
-          ],
-          "choiceAnalysis": "選択肢1「塗装する」→来年に延期。選択肢2「新しい屋根にする」→正解。選択肢3「お金を貯めるまで待つ」→屋根は今やる。選択肢4「カーペット交換」→言及なし。",
-          "audioFile": "audio/part1_q05.mp3",
-          "answer": 2
-        },
-        {
-          "number": 6,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Ray Collins from SolarTech called. I gave him your cell phone number, so he might call you."
-            },
-            {
-              "speaker": "female",
-              "text": "Oh, no. I think he wants to meet for lunch next week."
-            },
-            {
-              "speaker": "male",
-              "text": "Is there a problem? I thought SolarTech was one of your best clients."
-            },
-            {
-              "speaker": "female",
-              "text": "It is, but I already have lunchtime appointments every day next week."
-            },
-            {
-              "speaker": "male",
-              "text": "Just be straight with him. I'm sure he'll understand."
-            },
-            {
-              "speaker": "female",
-              "text": "I hope so. The week after is no good, either. I'll be on vacation."
-            }
-          ],
-          "question": "Why is the woman unable to meet Ray Collins next week?",
-          "choices": [
-            "She will be away on vacation.",
-            "She has arranged to meet other people.",
-            "He will be on a business trip.",
-            "He has not returned her calls."
-          ],
-          "explanation": "来週はランチの予定が毎日入っています。再来週は休暇。来週会えない理由は他の人との予定があるから。",
-          "highlights": [
-            "I already have lunchtime appointments every day next week"
-          ],
-          "choiceAnalysis": "選択肢1「休暇中」→再来週が休暇。選択肢2「他の人と会う予定」→正解。選択肢3「出張中」→言及なし。選択肢4「電話に出ない」→言及なし。",
-          "audioFile": "audio/part1_q06.mp3",
-          "answer": 2
-        },
-        {
-          "number": 7,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Was Anna at the staff meeting this week?"
-            },
-            {
-              "speaker": "male",
-              "text": "No, she wasn't. That's the third one in a row."
-            },
-            {
-              "speaker": "female",
-              "text": "That's unacceptable. What was her excuse?"
-            },
-            {
-              "speaker": "male",
-              "text": "She said she was meeting a client, but when she came back to the office, I noticed she had gotten her hair cut."
-            },
-            {
-              "speaker": "female",
-              "text": "She really needs to shape up. Her sales performance isn't bad, but if she doesn't change her attitude soon, she's going to be out of a job."
-            },
-            {
-              "speaker": "male",
-              "text": "I'll speak with her today."
-            }
-          ],
-          "question": "What is the problem with Anna?",
-          "choices": [
-            "She does not pay attention to clients.",
-            "She does not speak up in staff meetings.",
-            "She is failing to meet her sales targets.",
-            "She is missing too many meetings."
-          ],
-          "explanation": "Annaは3回連続でスタッフミーティングを欠席しており、それが問題です。",
-          "highlights": [
-            "That's the third one in a row",
-            "That's unacceptable"
-          ],
-          "choiceAnalysis": "選択肢1「クライアントに注意しない」→言い訳に使った。選択肢2「会議で発言しない」→出席していない。選択肢3「売上目標未達」→成績は悪くない。選択肢4「会議に出席しない」→正解。",
-          "audioFile": "audio/part1_q07.mp3",
-          "answer": 4
-        },
-        {
-          "number": 8,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "We need to talk about the promotion I was offered, honey. My boss needs an answer next week."
-            },
-            {
-              "speaker": "male",
-              "text": "The offer's great—the problem is the relocation."
-            },
-            {
-              "speaker": "female",
-              "text": "You could probably find work in Leicester."
-            },
-            {
-              "speaker": "male",
-              "text": "But I like my job here. And Leicester is far from our families."
-            },
-            {
-              "speaker": "female",
-              "text": "Maybe I should just decline."
-            },
-            {
-              "speaker": "male",
-              "text": "Let's not be hasty. I'll check out some options in Leicester."
-            },
-            {
-              "speaker": "female",
-              "text": "I don't want you making huge sacrifices on my behalf."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, maybe we can find a solution. Let's look into it."
-            }
-          ],
-          "question": "What does the man suggest?",
-          "choices": [
-            "That they do more research before deciding.",
-            "That he move to Leicester on his own.",
-            "That the woman find a new position locally.",
-            "That they move closer to his family."
-          ],
-          "explanation": "男性は急がず、レスターでの選択肢を調べてみようと提案しています。",
-          "highlights": [
-            "Let's not be hasty. I'll check out some options in Leicester",
-            "Let's look into it"
-          ],
-          "choiceAnalysis": "選択肢1「決める前にもっと調べる」→正解。選択肢2「男性だけ引っ越す」→言及なし。選択肢3「地元で新しい仕事」→言及なし。選択肢4「家族の近くに引っ越す」→言及なし。",
-          "audioFile": "audio/part1_q08.mp3",
-          "answer": 1
-        },
-        {
-          "number": 9,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hey, how was your high school reunion last weekend?"
-            },
-            {
-              "speaker": "female",
-              "text": "It was OK. I don't think I'll go to the next one, though."
-            },
-            {
-              "speaker": "male",
-              "text": "Why not? Didn't a lot of people turn up?"
-            },
-            {
-              "speaker": "female",
-              "text": "Actually, there were tons of people there."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, it must've been good to catch up with people you haven't seen for years."
-            },
-            {
-              "speaker": "female",
-              "text": "But I never really enjoyed high school that much. I didn't fit in, so even last weekend it wasn't easy to chat with people."
-            },
-            {
-              "speaker": "male",
-              "text": "Fair enough. I guess reunions aren't for everyone."
-            }
-          ],
-          "question": "What does the woman say about the reunion?",
-          "choices": [
-            "The number of people who attended was low.",
-            "She felt uncomfortable talking to people.",
-            "It should have been held on another date.",
-            "She wishes the man had gone with her."
-          ],
-          "explanation": "女性は高校時代なじめなかったので、同窓会でも人と話すのが楽ではなかったと言っています。",
-          "highlights": [
-            "I didn't fit in, so even last weekend it wasn't easy to chat with people"
-          ],
-          "choiceAnalysis": "選択肢1「来場者が少ない」→大勢いた。選択肢2「人と話すのが不快だった」→正解。選択肢3「別の日にすべき」→言及なし。選択肢4「男性も来てほしかった」→言及なし。",
-          "audioFile": "audio/part1_q09.mp3",
-          "answer": 2
-        },
-        {
-          "number": 10,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "How about taking a trip to Las Vegas in April? I've found some fantastic hotel deals online for weekdays."
-            },
-            {
-              "speaker": "female",
-              "text": "Sounds great, but I'm pretty busy at work. I could probably manage a weekend, though."
-            },
-            {
-              "speaker": "male",
-              "text": "But rooms are a lot more expensive on weekends, and the city will be packed."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, my supervisor might let me take a couple days off during the week."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, check on that soon. We need to make reservations early to get a good deal."
-            }
-          ],
-          "question": "What does the man want the woman to do?",
-          "choices": [
-            "Reserve a hotel room today.",
-            "Check some sightseeing websites.",
-            "Request some time off.",
-            "Postpone the trip for now."
-          ],
-          "explanation": "男性は女性に平日に休みを取れるか上司に確認してほしいと言っています。",
-          "highlights": [
-            "check on that soon",
-            "my supervisor might let me take a couple days off during the week"
-          ],
-          "choiceAnalysis": "選択肢1「今日ホテルを予約」→まだ確認していない。選択肢2「観光サイトを見る」→言及なし。選択肢3「休暇を申請する」→正解。選択肢4「旅行を延期」→延期ではない。",
-          "audioFile": "audio/part1_q10.mp3",
-          "answer": 3
-        },
-        {
-          "number": 11,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Can you give me a hand?"
-            },
-            {
-              "speaker": "male",
-              "text": "Sure. What are you doing?"
-            },
-            {
-              "speaker": "female",
-              "text": "I want to hang these paintings your mother gave us in the living room. I need your thoughts on the arrangement."
-            },
-            {
-              "speaker": "male",
-              "text": "OK. But I thought we were going to hang them in the bedroom."
-            },
-            {
-              "speaker": "female",
-              "text": "We were, but I don't think they match the design there."
-            },
-            {
-              "speaker": "male",
-              "text": "Maybe you're right. And putting them in the living room means my mom can enjoy seeing them when she visits."
-            }
-          ],
-          "question": "What does the woman think about the paintings?",
-          "choices": [
-            "The living room is too small for them.",
-            "The man's mother will not like them.",
-            "They would not look good in the bedroom.",
-            "They will be too heavy to hang on the wall."
-          ],
-          "explanation": "女性は絵が寝室のデザインに合わないと考え、リビングに飾ることにしました。",
-          "highlights": [
-            "I don't think they match the design there"
-          ],
-          "choiceAnalysis": "選択肢1「リビングが狭い」→リビングに飾る。選択肢2「母親が気に入らない」→言及なし。選択肢3「寝室に合わない」→正解。選択肢4「重すぎる」→言及なし。",
-          "audioFile": "audio/part1_q11.mp3",
-          "answer": 3
-        },
-        {
-          "number": 12,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Have you seen my wallet?"
-            },
-            {
-              "speaker": "female",
-              "text": "Isn't it on the hall table?"
-            },
-            {
-              "speaker": "male",
-              "text": "No, I must have left it somewhere else. My keys too. I checked in the kitchen, but they're not there."
-            },
-            {
-              "speaker": "female",
-              "text": "If you'd just put your things on the hall table whenever you come in, you wouldn't waste so much time looking for them."
-            },
-            {
-              "speaker": "male",
-              "text": "OK, but that doesn't help me find them now."
-            },
-            {
-              "speaker": "female",
-              "text": "They're probably in your suit jacket in the closet."
-            }
-          ],
-          "question": "What does the woman want the man to do?",
-          "choices": [
-            "Keep his things in the same place.",
-            "Stop leaving valuables in the kitchen.",
-            "Help her look for the things she lost.",
-            "Hang his suits in the closet."
-          ],
-          "explanation": "女性は帰宅時にいつも玄関のテーブルに物を置く習慣をつければ探す時間が省けると言っています。",
-          "highlights": [
-            "If you'd just put your things on the hall table whenever you come in, you wouldn't waste so much time looking for them"
-          ],
-          "choiceAnalysis": "選択肢1「いつも同じ場所に置く」→正解。選択肢2「台所に貴重品を置くのをやめる」→言及なし。選択肢3「女性の物を探す手伝い」→男性が探している。選択肢4「スーツをクローゼットに」→言及なし。",
-          "audioFile": "audio/part1_q12.mp3",
-          "answer": 1
+            "name": "第3部",
+            "nameEn": "Part 3",
+            "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+            "questionRange": "No. 25 〜 No. 29",
+            "questions": [
+                {
+                    "number": 25,
+                    "situation": "You are beginning your first year studying at a university abroad. You have a Y2 visa. You are interested in working part-time and attend an orientation.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "First of all, the International Center offers assistance with many issues including supplementary English classes, so please visit us anytime. We can also help you find employment. Those with Z1 visas may qualify for an internship with a university department. Gunther Heinz handles these; he's in room 205. If you have a Y2 visa, you are eligible for part-time jobs on campus. For specific details, see Maria Rivera in room 201. Y2 visa holders can work off campus from their second year. Talk to Anita Kern in room 301 if this applies to you. For visa renewal issues, see Jill Chen in room 207."
+                        }
+                    ],
+                    "question": "Who should you speak to?",
+                    "choices": [
+                        "Gunther Heinz in room 205.",
+                        "Maria Rivera in room 201.",
+                        "Anita Kern in room 301.",
+                        "Jill Chen in room 207."
+                    ],
+                    "explanation": "Y2ビザの1年目で学内のパートタイムの仕事に興味がある→Maria Rivera（201号室）が担当。",
+                    "highlights": [
+                        "If you have a Y2 visa, you are eligible for part-time jobs on campus. For specific details, see Maria Rivera in room 201"
+                    ],
+                    "choiceAnalysis": "選択肢1「Gunther」→Z1ビザのインターンシップ。選択肢2「Maria」→正解。Y2ビザの学内パート。選択肢3「Anita」→2年目以降の学外勤務。選択肢4「Jill」→ビザ更新。",
+                    "audioFile": "audio/part3_q25.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 26,
+                    "situation": "You have checked in to take Freedom Airlines Flight 214 to Singapore. You will then take a Europa Airlines flight. You hear the following announcement.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Freedom Airlines regrets to announce Flight 214 to Singapore has been canceled. All passengers who have already checked in: please return to Freedom Airlines counter C to collect your baggage. Once you have your bags, if you are connecting to another Freedom Airlines flight in Singapore, please proceed to Freedom Airlines counter G to reschedule your flights. If you are connecting to a different airline, please proceed to counter E. Passengers whose final destination is Singapore should go to counter A. We apologize for the inconvenience."
+                        }
+                    ],
+                    "question": "Where should you go after collecting your baggage?",
+                    "choices": [
+                        "Counter C.",
+                        "Counter G.",
+                        "Counter E.",
+                        "Counter A."
+                    ],
+                    "explanation": "シンガポールで別の航空会社（Europa Airlines）に乗り継ぐ→荷物回収後はcounter Eに行く。",
+                    "highlights": [
+                        "If you are connecting to a different airline, please proceed to counter E"
+                    ],
+                    "choiceAnalysis": "選択肢1「Counter C」→荷物回収場所で、荷物回収後ではない。選択肢2「Counter G」→Freedom Airlinesの乗り継ぎ。選択肢3「Counter E」→正解。別の航空会社への乗り継ぎ。選択肢4「Counter A」→シンガポールが最終目的地の場合。",
+                    "audioFile": "audio/part3_q26.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 27,
+                    "situation": "Your boss asked you to order 100 individual cupcakes or cookies, each showing your company's logo, for a conference that begins in two days. A bakery leaves you the following voice mail.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "This is Betty's Bakery returning your call about ordering 100 custom cupcakes or cookies. Unfortunately, we need a minimum of one week's notice for cupcake orders that large. The other local bakery requires the same. That said, you have a few options. We could make you 100 regular cupcakes without the logo. Or, if you want to use the logo and you can wait three to four days, we could prepare about 10 large cakes. Alternatively, we could make 100 fancy cut-out cookies with the logo printed on them. This only takes a day. Let me know what you decide."
+                        }
+                    ],
+                    "question": "What should you do?",
+                    "choices": [
+                        "Order from the other local bakery.",
+                        "Order the regular cupcakes.",
+                        "Order the large-sized cakes.",
+                        "Order the fancy cookies."
+                    ],
+                    "explanation": "ロゴ入りで2日以内に100個必要。カスタムカップケーキは1週間必要。大きなケーキは3〜4日。クッキーは1日で可能でロゴ入り。",
+                    "highlights": [
+                        "we could make 100 fancy cut-out cookies with the logo printed on them. This only takes a day"
+                    ],
+                    "choiceAnalysis": "選択肢1「他のベーカリー」→同じ条件。選択肢2「普通のカップケーキ」→ロゴなし。選択肢3「大きなケーキ」→3〜4日かかる。選択肢4「ファンシークッキー」→正解。1日でロゴ入り。",
+                    "audioFile": "audio/part3_q27.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 28,
+                    "situation": "You start a new job in three days and have to wear a gray suit with no patterns. Your budget is $200. A store clerk tells you the following.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "We have some great suit options. The Romano is tailored in Italy from high-quality wool. It comes in black, navy, or gray, for $225. The Franklin is gray with a check pattern, and it's currently on sale for $189. The Gladstone is also on sale, priced at $199. It's a polyester-wool blend in dark gray. We're currently out of stock in your size, but more will arrive in a week. Finally, the Vostel, made from Tasmanian wool, comes in solid black or gray with a quality inner lining. It's also $189."
+                        }
+                    ],
+                    "question": "Which suit should you choose?",
+                    "choices": [
+                        "The Romano.",
+                        "The Franklin.",
+                        "The Gladstone.",
+                        "The Vostel."
+                    ],
+                    "explanation": "グレーで無地、予算$200以内、3日以内に必要。Romano→$225で予算超。Franklin→チェック柄。Gladstone→在庫切れ1週間後。Vostel→$189、グレー無地、在庫あり。",
+                    "highlights": [
+                        "the Vostel, made from Tasmanian wool, comes in solid black or gray",
+                        "It's also $189"
+                    ],
+                    "choiceAnalysis": "選択肢1「Romano」→$225で予算超過。選択肢2「Franklin」→チェック柄で条件外。選択肢3「Gladstone」→在庫切れで1週間後。選択肢4「Vostel」→正解。条件すべて満たす。",
+                    "audioFile": "audio/part3_q28.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 29,
+                    "situation": "You are on vacation with your elderly parents, who have trouble walking. They want to take a boat trip to see some nature. You call a tour company.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Our most popular daytime cruise goes downriver from Princess Bridge. It offers great people-watching opportunities, and you can take in views of the downtown skyscrapers and open-air cafés as we glide quietly by. For romantics, we offer the same cruise at night, with a complimentary glass of wine for adults. We also have two upriver trips offering the chance to view wildlife and the natural scenery. The shorter one, which lasts an hour, takes you past an old pine forest and a wildlife park along the river. The extended version includes those sites and also stops for a two-hour hike through a wildlife preserve."
+                        }
+                    ],
+                    "question": "Which cruise should you take?",
+                    "choices": [
+                        "The daytime downriver cruise.",
+                        "The nighttime downriver cruise.",
+                        "The shorter upriver cruise.",
+                        "The extended upriver cruise."
+                    ],
+                    "explanation": "自然を見たい＋歩行が困難な高齢の両親。下流クルーズは都市の景色。上流の短いクルーズは自然と野生動物が見られ、歩く必要なし。延長版は2時間のハイキングが含まれ歩行困難な人には不適。",
+                    "highlights": [
+                        "two upriver trips offering the chance to view wildlife and the natural scenery",
+                        "The shorter one, which lasts an hour, takes you past an old pine forest and a wildlife park"
+                    ],
+                    "choiceAnalysis": "選択肢1「日中下流」→都市の景色。選択肢2「夜の下流」→都市の景色。選択肢3「短い上流」→正解。自然が見られ歩かない。選択肢4「延長上流」→2時間のハイキングあり。",
+                    "audioFile": "audio/part3_q29.mp3",
+                    "answer": 3
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "第2部",
-      "nameEn": "Part 2",
-      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-      "questionRange": "No. 13 〜 No. 24",
-      "questions": [
-        {
-          "number": 13,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "In 1782, French brothers Joseph-Michel and Jacques-Étienne Montgolfier had an idea. The Montgolfier brothers, who were paper manufacturers, noticed that open paper bags placed above a fire would rise upwards. At first, the brothers believed it was the smoke, rather than the heat, that caused the bags to rise. Nevertheless, they thought they might be able to build an aircraft. After some experimenting, they built a balloon out of cloth and paper, and the first manned flight took place in 1783."
-            }
-          ],
-          "question": "What is one thing the Montgolfier brothers believed?",
-          "choices": [
-            "Smoke caused the paper bags to rise.",
-            "Paper was better than cloth for making aircraft.",
-            "Their balloon could never carry people.",
-            "Their balloon might catch fire."
-          ],
-          "explanation": "兄弟は最初、熱ではなく煙が紙袋を上昇させると信じていました。",
-          "highlights": [
-            "the brothers believed it was the smoke, rather than the heat, that caused the bags to rise"
-          ],
-          "choiceAnalysis": "選択肢1「煙が紙袋を上昇させた」→正解。選択肢2「紙が布より良い」→言及なし。選択肢3「人は乗れない」→有人飛行を行った。選択肢4「火災の危険」→言及なし。",
-          "audioFile": "audio/part2_q13.mp3",
-          "answer": 1
-        },
-        {
-          "number": 14,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "More balloon flights followed, and in 1785 pilots Jean-Pierre Blanchard and John Jeffries made the first-ever flight across the English Channel. Because they had some letters with them, they also made the first-ever international airmail delivery. The trip nearly ended in disaster when the balloon began to lose height. Blanchard and Jeffries threw almost everything out of the balloon to stay in the sky. However, when the pilots landed in France, they still had the letters."
-            }
-          ],
-          "question": "What is one reason the flight across the English Channel was significant?",
-          "choices": [
-            "The pilots showed that ballooning was cheap.",
-            "It was quicker than previous English Channel flights.",
-            "It helped improve English-French relations.",
-            "It had never been done before."
-          ],
-          "explanation": "英仏海峡を気球で横断したのは史上初めてのことでした。",
-          "highlights": [
-            "the first-ever flight across the English Channel"
-          ],
-          "choiceAnalysis": "選択肢1「気球が安い」→言及なし。選択肢2「以前より速い」→初めて。選択肢3「英仏関係改善」→言及なし。選択肢4「初めてのこと」→正解。",
-          "audioFile": "audio/part2_q14.mp3",
-          "answer": 4
-        },
-        {
-          "number": 15,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Many remote communities of Alaska are accessible only by small boat or light plane. This makes it difficult for unwanted appliances and electronics to be taken away and disposed of. Currently, the US government provides some funding to local organizations to remove waste, but it is not enough. As a result, garbage sites are running out of space, and the garbage is affecting the quality of the soil and water. Trash is sometimes burned, but this sends dangerous chemicals into the air, which sometimes forces local schools to close."
-            }
-          ],
-          "question": "What is one problem that people in remote Alaskan communities face?",
-          "choices": [
-            "Boats and planes are causing pollution.",
-            "Garbage sites are becoming full.",
-            "Local wildlife is attracted to garbage.",
-            "There is a shortage of natural resources."
-          ],
-          "explanation": "ごみ処理場がスペース不足になっています。",
-          "highlights": [
-            "garbage sites are running out of space"
-          ],
-          "choiceAnalysis": "選択肢1「船と飛行機が汚染」→輸送手段の制約。選択肢2「ごみ処理場が満杯」→正解。選択肢3「野生動物がごみに」→言及なし。選択肢4「天然資源不足」→言及なし。",
-          "audioFile": "audio/part2_q15.mp3",
-          "answer": 2
-        },
-        {
-          "number": 16,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Unfortunately, the government support is coming to an end, so worried local organizations are rushing to remove as much waste as possible. Larger appliances and cars are being given priority, but smaller things, like batteries and chemicals, are being stored locally. Once funding ends, these organizations will need to find new ways to deal with waste and protect Alaska's environment."
-            }
-          ],
-          "question": "Why are local organizations concerned?",
-          "choices": [
-            "They are receiving complaints from citizens.",
-            "Recycling laws are too strict.",
-            "Shipping prices for supplies have risen.",
-            "They will lose a source of funding."
-          ],
-          "explanation": "政府の資金援助が終了するため、新しい廃棄物処理方法を見つける必要があります。",
-          "highlights": [
-            "the government support is coming to an end"
-          ],
-          "choiceAnalysis": "選択肢1「住民からの苦情」→言及なし。選択肢2「リサイクル法が厳しい」→言及なし。選択肢3「輸送費上昇」→言及なし。選択肢4「資金源を失う」→正解。",
-          "audioFile": "audio/part2_q16.mp3",
-          "answer": 4
-        },
-        {
-          "number": 17,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "It is common for teachers to read fiction aloud in English lessons for elementary school students. Research in the US showed it may also be valuable for older students, especially those who struggle with reading. Just a few minutes of being read to daily helped motivate students to read more on their own. It also expanded their vocabulary and helped them enjoy more-sophisticated literature."
-            }
-          ],
-          "question": "What is one thing the research showed about reading fiction aloud to older students?",
-          "choices": [
-            "It increased their vocabulary.",
-            "It improved their reading speed.",
-            "It increased their ability to spell new words.",
-            "It improved their school attendance."
-          ],
-          "explanation": "音読を聞くことで生徒の語彙が広がりました。",
-          "highlights": [
-            "It also expanded their vocabulary"
-          ],
-          "choiceAnalysis": "選択肢1「語彙が増えた」→正解。選択肢2「読む速度が向上」→言及なし。選択肢3「スペル能力」→言及なし。選択肢4「出席率改善」→言及なし。",
-          "audioFile": "audio/part2_q17.mp3",
-          "answer": 1
-        },
-        {
-          "number": 18,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Educators say that when a person is being read to, that person does not have to understand how words are spelled: their brain is free to try to understand new concepts more deeply. In fact, educators in subjects other than English literature have recently been reading nonfiction books aloud to students. Some history or science teachers, for example, say they find it to be a useful supplement to traditional textbooks."
-            }
-          ],
-          "question": "What have some educators been doing recently?",
-          "choices": [
-            "Encouraging students to read science fiction in class.",
-            "Asking students to take notes when reading.",
-            "Focusing more on spelling than reading.",
-            "Reading aloud to teach subjects other than English."
-          ],
-          "explanation": "英語以外の教科の教師が、歴史や理科の授業でノンフィクションを音読しています。",
-          "highlights": [
-            "educators in subjects other than English literature have recently been reading nonfiction books aloud to students"
-          ],
-          "choiceAnalysis": "選択肢1「SF読書」→ノンフィクション。選択肢2「ノート取り」→言及なし。選択肢3「スペル重視」→スペルを知らなくてもよい。選択肢4「英語以外の教科で音読」→正解。",
-          "audioFile": "audio/part2_q18.mp3",
-          "answer": 4
-        },
-        {
-          "number": 19,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Red Cloud was a Native American leader who fought a war against the US government in the 1860s. A chief of the Oglala Sioux tribe, Red Cloud began attacking government soldiers, travelers, and other people who entered the tribe's territory without permission. Although many Native American tribes had failed to prevent the invasion of their lands in the past, Red Cloud was able to defeat his enemies. He did this by getting the support of other tribes and using their combined strength to achieve victory."
-            }
-          ],
-          "question": "Why was Red Cloud able to achieve victory in the 1860s?",
-          "choices": [
-            "He was more familiar with the territory.",
-            "He was able to trick the US government.",
-            "He learned about the US soldiers' attack plans.",
-            "He got other tribes to help him fight."
-          ],
-          "explanation": "レッドクラウドは他の部族の支援を得て、連合軍の力で勝利しました。",
-          "highlights": [
-            "getting the support of other tribes and using their combined strength to achieve victory"
-          ],
-          "choiceAnalysis": "選択肢1「領土に詳しい」→言及なし。選択肢2「政府を騙せた」→言及なし。選択肢3「攻撃計画を知った」→言及なし。選択肢4「他の部族に協力を得た」→正解。",
-          "audioFile": "audio/part2_q19.mp3",
-          "answer": 4
-        },
-        {
-          "number": 20,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "In 1868, the US government signed the Treaty of Fort Laramie. This peace agreement stated that no white people would enter certain territory without permission. However, the US government broke the agreement in 1874, when gold was discovered in Sioux territory. Red Cloud tried to negotiate peace, but war began once again. This time, his people lost and were removed from their land."
-            }
-          ],
-          "question": "What happened in 1874?",
-          "choices": [
-            "The US government returned land to the Sioux.",
-            "The US government broke the peace treaty.",
-            "Red Cloud's tribe began mining for gold.",
-            "Red Cloud defeated the US soldiers again."
-          ],
-          "explanation": "スー族の領土で金が発見され、米国政府が条約を破りました。",
-          "highlights": [
-            "the US government broke the agreement in 1874, when gold was discovered"
-          ],
-          "choiceAnalysis": "選択肢1「土地を返還」→逆に奪った。選択肢2「条約を破った」→正解。選択肢3「金の採掘」→政府側。選択肢4「再び勝利」→今度は敗北。",
-          "audioFile": "audio/part2_q20.mp3",
-          "answer": 2
-        },
-        {
-          "number": 21,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "In 1878, Eadweard Muybridge made Horse in Motion, which some people say is the world's first movie. However, it was created as a scientific experiment, not as entertainment. Because running horses move so fast, it is impossible for the human eye to see whether all four legs are ever in the air at the same time. To settle this question, Muybridge attempted to take multiple photos in a very short time."
-            }
-          ],
-          "question": "Why was Horse in Motion made?",
-          "choices": [
-            "To find a way to make horses run faster.",
-            "To answer a question about how horses run.",
-            "To advertise a horse show.",
-            "To provide public entertainment."
-          ],
-          "explanation": "走る馬の4本の脚が同時に空中にあるかという疑問に答えるための科学実験でした。",
-          "highlights": [
-            "it was created as a scientific experiment",
-            "whether all four legs are ever in the air at the same time"
-          ],
-          "choiceAnalysis": "選択肢1「馬を速くする」→言及なし。選択肢2「馬の走り方の疑問に答える」→正解。選択肢3「馬のショーの宣伝」→言及なし。選択肢4「娯楽」→科学実験。",
-          "audioFile": "audio/part2_q21.mp3",
-          "answer": 2
-        },
-        {
-          "number": 22,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Movie cameras had not yet been invented, so Muybridge set up regular cameras at various positions along a racetrack. Each camera was attached to a wire, and as the horse's legs hit each wire, the camera took a picture. When the photographs were projected at high speed, people were amazed to see a moving image of a running horse whose feet were briefly all in the air at the same time."
-            }
-          ],
-          "question": "What is one thing Eadweard Muybridge did to create Horse in Motion?",
-          "choices": [
-            "He hired people to take photos.",
-            "He increased the shutter speed of his cameras.",
-            "He used wires to make cameras take photos.",
-            "He drew images based on photos."
-          ],
-          "explanation": "各カメラにワイヤーを取り付け、馬の脚がワイヤーに触れると自動的に撮影されるようにしました。",
-          "highlights": [
-            "Each camera was attached to a wire, and as the horse's legs hit each wire, the camera took a picture"
-          ],
-          "choiceAnalysis": "選択肢1「人を雇って撮影」→自動。選択肢2「シャッタースピード上げた」→言及なし。選択肢3「ワイヤーでカメラを作動」→正解。選択肢4「写真を元に絵を描いた」→言及なし。",
-          "audioFile": "audio/part2_q22.mp3",
-          "answer": 3
-        },
-        {
-          "number": 23,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The Mayan civilizations of Central America and southern Mexico were at their height between AD 250 and 900. Using the latest technology, scientists recently surveyed hundreds of miles of ancient Mayan territory from an airplane. They discovered that the network of cities, highways, and walls was far larger than anyone had previously imagined. They also found that the Maya used sophisticated agricultural techniques, such as canals to deliver water to crops, which helped to feed a population of millions."
-            }
-          ],
-          "question": "What is one thing the speaker says about the Maya?",
-          "choices": [
-            "They traded with other cultures.",
-            "They attacked enemies in the deep jungle.",
-            "They could not feed their population.",
-            "They used advanced farming methods."
-          ],
-          "explanation": "マヤ文明は運河など高度な農業技術を用いて数百万人の人口を養っていました。",
-          "highlights": [
-            "the Maya used sophisticated agricultural techniques, such as canals to deliver water to crops"
-          ],
-          "choiceAnalysis": "選択肢1「他の文化と交易」→言及なし。選択肢2「ジャングルで敵を攻撃」→言及なし。選択肢3「人口を養えない」→養えた。選択肢4「高度な農業技術」→正解。",
-          "audioFile": "audio/part2_q23.mp3",
-          "answer": 4
-        },
-        {
-          "number": 24,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Most of the newly discovered structures were buried deep in the jungle, which actually helped keep them in good condition. Remains of many other civilizations around the world have been destroyed by wars or farming activities. But thanks to the jungle swallowing up the Mayan cities, these structures have been preserved almost as they were over a thousand years ago."
-            }
-          ],
-          "question": "What do we learn about the newly discovered structures?",
-          "choices": [
-            "They were protected by the jungle.",
-            "They have been badly damaged in wars.",
-            "They were copied from another civilization.",
-            "They are still used by modern farmers."
-          ],
-          "explanation": "ジャングルに覆われたおかげで1000年以上前のほぼ当時のまま保存されています。",
-          "highlights": [
-            "the jungle swallowing up the Mayan cities, these structures have been preserved"
-          ],
-          "choiceAnalysis": "選択肢1「ジャングルに守られた」→正解。選択肢2「戦争で損傷」→他の文明の話。選択肢3「他の文明の模倣」→言及なし。選択肢4「現代の農民が使用」→言及なし。",
-          "audioFile": "audio/part2_q24.mp3",
-          "answer": 1
-        }
-      ]
-    },
-    {
-      "name": "第3部",
-      "nameEn": "Part 3",
-      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
-      "questionRange": "No. 25 〜 No. 29",
-      "questions": [
-        {
-          "number": 25,
-          "situation": "You are beginning your first year studying at a university abroad. You have a Y2 visa. You are interested in working part-time and attend an orientation.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "First of all, the International Center offers assistance with many issues including supplementary English classes, so please visit us anytime. We can also help you find employment. Those with Z1 visas may qualify for an internship with a university department. Gunther Heinz handles these; he's in room 205. If you have a Y2 visa, you are eligible for part-time jobs on campus. For specific details, see Maria Rivera in room 201. Y2 visa holders can work off campus from their second year. Talk to Anita Kern in room 301 if this applies to you. For visa renewal issues, see Jill Chen in room 207."
-            }
-          ],
-          "question": "Who should you speak to?",
-          "choices": [
-            "Gunther Heinz in room 205.",
-            "Maria Rivera in room 201.",
-            "Anita Kern in room 301.",
-            "Jill Chen in room 207."
-          ],
-          "explanation": "Y2ビザの1年目で学内のパートタイムの仕事に興味がある→Maria Rivera（201号室）が担当。",
-          "highlights": [
-            "If you have a Y2 visa, you are eligible for part-time jobs on campus. For specific details, see Maria Rivera in room 201"
-          ],
-          "choiceAnalysis": "選択肢1「Gunther」→Z1ビザのインターンシップ。選択肢2「Maria」→正解。Y2ビザの学内パート。選択肢3「Anita」→2年目以降の学外勤務。選択肢4「Jill」→ビザ更新。",
-          "audioFile": "audio/part3_q25.mp3",
-          "answer": 2
-        },
-        {
-          "number": 26,
-          "situation": "You have checked in to take Freedom Airlines Flight 214 to Singapore. You will then take a Europa Airlines flight. You hear the following announcement.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Freedom Airlines regrets to announce Flight 214 to Singapore has been canceled. All passengers who have already checked in: please return to Freedom Airlines counter C to collect your baggage. Once you have your bags, if you are connecting to another Freedom Airlines flight in Singapore, please proceed to Freedom Airlines counter G to reschedule your flights. If you are connecting to a different airline, please proceed to counter E. Passengers whose final destination is Singapore should go to counter A. We apologize for the inconvenience."
-            }
-          ],
-          "question": "Where should you go after collecting your baggage?",
-          "choices": [
-            "Counter C.",
-            "Counter G.",
-            "Counter E.",
-            "Counter A."
-          ],
-          "explanation": "シンガポールで別の航空会社（Europa Airlines）に乗り継ぐ→荷物回収後はcounter Eに行く。",
-          "highlights": [
-            "If you are connecting to a different airline, please proceed to counter E"
-          ],
-          "choiceAnalysis": "選択肢1「Counter C」→荷物回収場所で、荷物回収後ではない。選択肢2「Counter G」→Freedom Airlinesの乗り継ぎ。選択肢3「Counter E」→正解。別の航空会社への乗り継ぎ。選択肢4「Counter A」→シンガポールが最終目的地の場合。",
-          "audioFile": "audio/part3_q26.mp3",
-          "answer": 3
-        },
-        {
-          "number": 27,
-          "situation": "Your boss asked you to order 100 individual cupcakes or cookies, each showing your company's logo, for a conference that begins in two days. A bakery leaves you the following voice mail.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "This is Betty's Bakery returning your call about ordering 100 custom cupcakes or cookies. Unfortunately, we need a minimum of one week's notice for cupcake orders that large. The other local bakery requires the same. That said, you have a few options. We could make you 100 regular cupcakes without the logo. Or, if you want to use the logo and you can wait three to four days, we could prepare about 10 large cakes. Alternatively, we could make 100 fancy cut-out cookies with the logo printed on them. This only takes a day. Let me know what you decide."
-            }
-          ],
-          "question": "What should you do?",
-          "choices": [
-            "Order from the other local bakery.",
-            "Order the regular cupcakes.",
-            "Order the large-sized cakes.",
-            "Order the fancy cookies."
-          ],
-          "explanation": "ロゴ入りで2日以内に100個必要。カスタムカップケーキは1週間必要。大きなケーキは3〜4日。クッキーは1日で可能でロゴ入り。",
-          "highlights": [
-            "we could make 100 fancy cut-out cookies with the logo printed on them. This only takes a day"
-          ],
-          "choiceAnalysis": "選択肢1「他のベーカリー」→同じ条件。選択肢2「普通のカップケーキ」→ロゴなし。選択肢3「大きなケーキ」→3〜4日かかる。選択肢4「ファンシークッキー」→正解。1日でロゴ入り。",
-          "audioFile": "audio/part3_q27.mp3",
-          "answer": 4
-        },
-        {
-          "number": 28,
-          "situation": "You start a new job in three days and have to wear a gray suit with no patterns. Your budget is $200. A store clerk tells you the following.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "We have some great suit options. The Romano is tailored in Italy from high-quality wool. It comes in black, navy, or gray, for $225. The Franklin is gray with a check pattern, and it's currently on sale for $189. The Gladstone is also on sale, priced at $199. It's a polyester-wool blend in dark gray. We're currently out of stock in your size, but more will arrive in a week. Finally, the Vostel, made from Tasmanian wool, comes in solid black or gray with a quality inner lining. It's also $189."
-            }
-          ],
-          "question": "Which suit should you choose?",
-          "choices": [
-            "The Romano.",
-            "The Franklin.",
-            "The Gladstone.",
-            "The Vostel."
-          ],
-          "explanation": "グレーで無地、予算$200以内、3日以内に必要。Romano→$225で予算超。Franklin→チェック柄。Gladstone→在庫切れ1週間後。Vostel→$189、グレー無地、在庫あり。",
-          "highlights": [
-            "the Vostel, made from Tasmanian wool, comes in solid black or gray",
-            "It's also $189"
-          ],
-          "choiceAnalysis": "選択肢1「Romano」→$225で予算超過。選択肢2「Franklin」→チェック柄で条件外。選択肢3「Gladstone」→在庫切れで1週間後。選択肢4「Vostel」→正解。条件すべて満たす。",
-          "audioFile": "audio/part3_q28.mp3",
-          "answer": 4
-        },
-        {
-          "number": 29,
-          "situation": "You are on vacation with your elderly parents, who have trouble walking. They want to take a boat trip to see some nature. You call a tour company.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Our most popular daytime cruise goes downriver from Princess Bridge. It offers great people-watching opportunities, and you can take in views of the downtown skyscrapers and open-air cafés as we glide quietly by. For romantics, we offer the same cruise at night, with a complimentary glass of wine for adults. We also have two upriver trips offering the chance to view wildlife and the natural scenery. The shorter one, which lasts an hour, takes you past an old pine forest and a wildlife park along the river. The extended version includes those sites and also stops for a two-hour hike through a wildlife preserve."
-            }
-          ],
-          "question": "Which cruise should you take?",
-          "choices": [
-            "The daytime downriver cruise.",
-            "The nighttime downriver cruise.",
-            "The shorter upriver cruise.",
-            "The extended upriver cruise."
-          ],
-          "explanation": "自然を見たい＋歩行が困難な高齢の両親。下流クルーズは都市の景色。上流の短いクルーズは自然と野生動物が見られ、歩く必要なし。延長版は2時間のハイキングが含まれ歩行困難な人には不適。",
-          "highlights": [
-            "two upriver trips offering the chance to view wildlife and the natural scenery",
-            "The shorter one, which lasts an hour, takes you past an old pine forest and a wildlife park"
-          ],
-          "choiceAnalysis": "選択肢1「日中下流」→都市の景色。選択肢2「夜の下流」→都市の景色。選択肢3「短い上流」→正解。自然が見られ歩かない。選択肢4「延長上流」→2時間のハイキングあり。",
-          "audioFile": "audio/part3_q29.mp3",
-          "answer": 3
-        }
-      ]
-    }
-  ]
+    ]
 }

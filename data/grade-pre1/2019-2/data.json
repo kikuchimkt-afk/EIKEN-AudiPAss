@@ -1,1017 +1,1262 @@
 {
-  "title": "2019年度 第2回検定一次試験 英検準1級 リスニング",
-  "parts": [
-    {
-      "name": "第1部",
-      "nameEn": "Part 1",
-      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-      "questionRange": "No. 1 〜 No. 12",
-      "questions": [
+    "title": "2019年度 第2回検定一次試験 英検準1級 リスニング",
+    "parts": [
         {
-          "number": 1,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Hey, Callum. You're in early today."
-            },
-            {
-              "speaker": "male",
-              "text": "Yeah, my new apartment's much closer to work."
-            },
-            {
-              "speaker": "female",
-              "text": "How is the new place?"
-            },
-            {
-              "speaker": "male",
-              "text": "Very spacious, but the wallpaper and carpets are horrible. I really need to redecorate."
-            },
-            {
-              "speaker": "female",
-              "text": "Did you know I was an interior decorator before I joined this advertising agency?"
-            },
-            {
-              "speaker": "male",
-              "text": "Really? You wouldn't consider doing it, would you? I'd pay, of course."
-            },
-            {
-              "speaker": "female",
-              "text": "Unfortunately, I'm just too busy. But I probably know someone who'd be interested. I'll ask around."
-            },
-            {
-              "speaker": "male",
-              "text": "Great, thanks."
-            }
-          ],
-          "question": "What does the woman offer to do?",
-          "choices": [
-            "Assist Callum in getting a job.",
-            "Redecorate Callum's apartment.",
-            "Try to find a decorator for Callum.",
-            "Help Callum search for a new apartment."
-          ],
-          "explanation": "女性は自分は忙しくてできないが、興味のある人を知っているかもしれないので探してみると申し出ています。",
-          "highlights": [
-            "I probably know someone who'd be interested. I'll ask around"
-          ],
-          "choiceAnalysis": "選択肢1「就職活動の手伝い」→言及なし。選択肢2「自分で模様替え」→忙しくてできない。選択肢3「装飾担当者を探す」→正解。選択肢4「新しいアパート」→既に引っ越し済み。",
-          "audioFile": "audio/part1_q01.mp3",
-          "answer": 3
+            "name": "第1部",
+            "nameEn": "Part 1",
+            "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 1 〜 No. 12",
+            "questions": [
+                {
+                    "number": 1,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Hey, Callum. You're in early today.",
+                            "translation": "やあ、カラム。今日は早いね。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yeah, my new apartment's much closer to work.",
+                            "translation": "うん、新しいアパートが職場にずっと近くなったんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "How is the new place?",
+                            "translation": "新しい場所はどう？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Very spacious, but the wallpaper and carpets are horrible. I really need to redecorate.",
+                            "translation": "すごく広いんだけど、壁紙とカーペットがひどくてね。本当に改装する必要があるんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Did you know I was an interior decorator before I joined this advertising agency?",
+                            "translation": "私がこの広告代理店に入る前はインテリアデザイナーだったって知ってた？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Really? You wouldn't consider doing it, would you? I'd pay, of course.",
+                            "translation": "本当？やってくれるなんてことはないよね？もちろん、お金は払うよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Unfortunately, I'm just too busy. But I probably know someone who'd be interested. I'll ask around.",
+                            "translation": "残念ながら、今は忙しすぎるの。でも、興味を持ってくれる人を知っているかもしれないわ。聞いてみるね。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Great, thanks.",
+                            "translation": "ありがとう、助かるよ。"
+                        }
+                    ],
+                    "question": "What does the woman offer to do?",
+                    "choices": [
+                        "Assist Callum in getting a job.",
+                        "Redecorate Callum's apartment.",
+                        "Try to find a decorator for Callum.",
+                        "Help Callum search for a new apartment."
+                    ],
+                    "explanation": "女性は自分は忙しくてできないが、興味のある人を知っているかもしれないので探してみると申し出ています。",
+                    "highlights": [
+                        "I probably know someone who'd be interested. I'll ask around"
+                    ],
+                    "choiceAnalysis": "選択肢1「就職活動の手伝い」→言及なし。選択肢2「自分で模様替え」→忙しくてできない。選択肢3「装飾担当者を探す」→正解。選択肢4「新しいアパート」→既に引っ越し済み。",
+                    "audioFile": "audio/part1_q01.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "カラムが仕事を見つけるのを手伝う。",
+                        "カラムのアパートを改装する。",
+                        "カラムのために装飾家を見つけようとする。",
+                        "カラムが新しいアパートを探すのを手伝う。"
+                    ]
+                },
+                {
+                    "number": 2,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "I'm sure glad that meeting is finally over.",
+                            "translation": "やっとあの会議が終わって本当に嬉しいわ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Me, too. The other parents didn't seem very friendly, did they?",
+                            "translation": "私もよ。他の親御さんたち、あまり友好的じゃなかったわね？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yeah, I noticed. Well, we did hear that the kind of parents who consider Cumberland High for their children are pretty snobbish. After all, it's an expensive private school.",
+                            "translation": "うん、気づいたよ。まあ、カンバーランド高校を子供に検討するような親はかなりお高くとまっているって聞いてたからね。結局のところ、高い私立学校だから。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, I guess their kids will be pretty much like they are. Plus, it'd be a struggle to keep up with that kind of tuition.",
+                            "translation": "まあ、彼らの子供たちもだいたい親と同じような感じになるんだろうね。それに、あの学費についていくのは大変だろうし。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "We'd get by, but I am worried about the kind of friends our son would have.",
+                            "translation": "なんとかやっていけるだろうけど、息子がどんな友達を持つことになるのか心配だわ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I totally agree, Jon. Perhaps we should consider a public school after all.",
+                            "translation": "全く同感よ、ジョン。結局のところ、公立学校を検討すべきなのかもしれないわね。"
+                        }
+                    ],
+                    "question": "What will the couple most likely do?",
+                    "choices": [
+                        "Consider another school for their son.",
+                        "Enroll their son in Cumberland.",
+                        "Get a loan to pay for tuition.",
+                        "Consult with the other parents."
+                    ],
+                    "explanation": "夫婦は他の保護者の態度やそれが子供の友人関係に影響することを心配し、公立学校を検討しようと結論づけています。",
+                    "highlights": [
+                        "Perhaps we should consider a public school after all"
+                    ],
+                    "choiceAnalysis": "選択肢1「他の学校を検討」→正解。選択肢2「入学させる」→やめようとしている。選択肢3「ローンを組む」→言及なし。選択肢4「他の保護者に相談」→言及なし。",
+                    "audioFile": "audio/part1_q02.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "息子さんのために別の学校を検討する。",
+                        "息子さんをカンバーランド校に入学させる。",
+                        "学費を払うためにローンを組む。",
+                        "他の保護者と相談する。"
+                    ]
+                },
+                {
+                    "number": 3,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "You didn't come to our barbecue yesterday, Wayne. What happened?",
+                            "translation": "昨日、僕たちのバーベキューに来なかったね、ウェイン。どうしたの？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I went to Nun's Park, but I couldn't find you guys anywhere. I looked around for over an hour.",
+                            "translation": "ナンズパークに行ったんだけど、みんながどこにも見つからなかったんだ。1時間以上探し回ったよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Ah... it was actually at Vivian Park. We couldn't reserve a barbecue pit at Nun's Park. I e-mailed everyone about it.",
+                            "translation": "ああ…実はビビアンパークだったんだ。ナンズパークではバーベキューピットが予約できなかったんだよ。みんなにメールで知らせたんだけど。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Really? I didn't check my e-mail.",
+                            "translation": "本当？メールをチェックしなかったよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Why didn't you call me?",
+                            "translation": "なんで電話してくれなかったの？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Sorry, I forgot to take my phone with me.",
+                            "translation": "ごめん、携帯電話を持っていくのを忘れてたんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, we'll have another one again soon.",
+                            "translation": "まあ、また近いうちにやろうよ。"
+                        }
+                    ],
+                    "question": "Why did Wayne not go to the barbecue yesterday?",
+                    "choices": [
+                        "He got lost going to the park.",
+                        "He was not e-mailed about the location.",
+                        "He had a last-minute appointment.",
+                        "He went to the wrong place."
+                    ],
+                    "explanation": "場所が変更されメールが送られたが、Wayneはメールを確認せず元の公園に行ってしまいました。",
+                    "highlights": [
+                        "I went to Nun's Park",
+                        "it was actually at Vivian Park",
+                        "I didn't check my e-mail"
+                    ],
+                    "choiceAnalysis": "選択肢1「道に迷った」→場所が違った。選択肢2「メールが来なかった」→メールは送られたが確認しなかった。選択肢3「急用」→言及なし。選択肢4「間違った場所に行った」→正解。",
+                    "audioFile": "audio/part1_q03.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "彼は公園に行く途中で道に迷った。",
+                        "彼は場所についてメールを受け取っていなかった。",
+                        "彼は直前の約束があった。",
+                        "彼は間違った場所に行った。"
+                    ]
+                },
+                {
+                    "number": 4,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Man, that had to be the most stressful job interview I've ever done.",
+                            "translation": "いやー、あれは今までで一番ストレスの多い就職面接だったよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "What happened? Did it go badly?",
+                            "translation": "どうしたの？うまくいかなかった？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Not really. But when I walked into the room, there were six guys sitting there.",
+                            "translation": "そうでもないんだけどさ。でも部屋に入ったら、6人も座ってたんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "You're kidding! Did they all ask you questions?",
+                            "translation": "冗談でしょ！みんなが質問してきたの？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Only two actually spoke. The others just sat there. They were all taking notes about what I said.",
+                            "translation": "実際に話したのは2人だけだった。他の人たちはただ座っててね。みんな僕が話したことについてメモを取ってたんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "That does sound stressful. Were there many other candidates?",
+                            "translation": "それは確かにストレスだね。他にもたくさんの候補者がいたの？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I've no idea. I didn't see anyone else.",
+                            "translation": "全然わからない。他の誰にも会わなかったから。"
+                        }
+                    ],
+                    "question": "Why did the man feel stressed?",
+                    "choices": [
+                        "He had to talk in front of many people.",
+                        "He made a big mistake during the interview.",
+                        "The interviewers asked some difficult questions.",
+                        "There were a lot of candidates for the job."
+                    ],
+                    "explanation": "部屋に入ると6人がいて全員がメモを取っていた。多くの人の前で話さなければならないのがストレスでした。",
+                    "highlights": [
+                        "there were six guys sitting there",
+                        "They were all taking notes about what I said"
+                    ],
+                    "choiceAnalysis": "選択肢1「多くの人の前で話す」→正解。選択肢2「大きなミス」→うまくいった。選択肢3「難しい質問」→言及なし。選択肢4「候補者が多い」→他には会わなかった。",
+                    "audioFile": "audio/part1_q04.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "彼は多くの人の前で話さなければならなかった。",
+                        "彼は面接中に大きな間違いを犯した。",
+                        "面接官は難しい質問をした。",
+                        "その仕事には多くの候補者がいた。"
+                    ]
+                },
+                {
+                    "number": 5,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Can I help you with something, sir?",
+                            "translation": "何かお探しですか、お客様？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes. I'm looking for a winter coat.",
+                            "translation": "はい。冬用のコートを探しています。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, this style here is popular this year.",
+                            "translation": "ええと、こちらのスタイルは今年人気ですよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I like the design, but not the color. Does it come in dark green?",
+                            "translation": "デザインは気に入ったのですが、色が好みではありません。濃い緑色はありますか？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "It does, but we only have brown and gray in stock.",
+                            "translation": "ございますが、在庫は茶色と灰色しかございません。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, thanks anyway. I'll try another store.",
+                            "translation": "まあ、とにかくありがとう。別の店を当たってみます。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I can order one from our warehouse.",
+                            "translation": "倉庫からお取り寄せできますよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "How long will it take?",
+                            "translation": "どれくらいかかりますか？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "About a week.",
+                            "translation": "1週間ほどです。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "OK. That's fine.",
+                            "translation": "わかりました。それで結構です。"
+                        }
+                    ],
+                    "question": "What will the man do?",
+                    "choices": [
+                        "Order the coat he wants.",
+                        "Keep shopping around.",
+                        "Take the gray coat.",
+                        "Try on a different style."
+                    ],
+                    "explanation": "男性はダークグリーンのコートを倉庫から注文してもらうことにしました。",
+                    "highlights": [
+                        "I can order one from our warehouse",
+                        "OK. That's fine"
+                    ],
+                    "choiceAnalysis": "選択肢1「欲しいコートを注文する」→正解。選択肢2「他の店で探す」→注文に同意。選択肢3「グレーのコート」→ダークグリーンが欲しい。選択肢4「他のスタイル」→言及なし。",
+                    "audioFile": "audio/part1_q05.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "彼が欲しいコートを注文する。",
+                        "他の店も見て回る。",
+                        "灰色のコートを買う。",
+                        "別のスタイルのものを試着する。"
+                    ]
+                },
+                {
+                    "number": 6,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "You've lost weight, Sergio. Have you been dieting?",
+                            "translation": "セルジオ、痩せたね。ダイエットしてるの？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "No. I've just found a new way to exercise.",
+                            "translation": "いや。新しい運動方法を見つけたんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I thought you went jogging regularly?",
+                            "translation": "定期的にジョギングしてると思ってたけど？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I do. But I always skip it when the weather's bad. Now I've started playing exercise video games.",
+                            "translation": "してるよ。でも天気が悪いといつもサボっちゃうんだ。今は運動系のビデオゲームを始めたんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Really? I can't understand how anyone can use those to work out. I really need to be out in the fresh air.",
+                            "translation": "本当？あれでどうやって運動できるのか理解できないわ。私はやっぱり新鮮な空気の中で運動する必要があるのよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I still get outdoors. But when it rains, I can exercise and stay dry!",
+                            "translation": "外にはまだ出るよ。でも雨が降っても、運動できて濡れないんだ！"
+                        }
+                    ],
+                    "question": "What do we learn about the man?",
+                    "choices": [
+                        "He does not jog anymore.",
+                        "He exercises more regularly now.",
+                        "He has just started a new diet.",
+                        "He is too busy to work out these days."
+                    ],
+                    "explanation": "以前は天気が悪いと運動を休んでいたが、今はビデオゲームでも運動できるので、より定期的に運動しています。",
+                    "highlights": [
+                        "I always skip it when the weather's bad. Now I've started playing exercise video games"
+                    ],
+                    "choiceAnalysis": "選択肢1「ジョギングをやめた」→まだしている。選択肢2「より定期的に運動」→正解。選択肢3「ダイエットを始めた」→ダイエットではない。選択肢4「忙しくて運動できない」→運動している。",
+                    "audioFile": "audio/part1_q06.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "彼はもうジョギングをしない。",
+                        "彼は今、より定期的に運動している。",
+                        "彼は新しいダイエットを始めたばかりだ。",
+                        "彼は最近忙しすぎて運動できない。"
+                    ]
+                },
+                {
+                    "number": 7,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Snider Insurance, Jan Meadows speaking.",
+                            "translation": "スナイダー保険、ジャン・メドウズです。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Hi, Jan. Philip here. How did you manage to get to work with all the snow on the roads?",
+                            "translation": "やあ、ジャン。フィリップだよ。道に雪がたくさんあるのに、どうやって仕事に来られたんだい？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "My husband's car has four-wheel drive. It took twice as long as usual, though.",
+                            "translation": "夫の車は四輪駆動なの。でも、いつもより2倍時間がかかったわ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, my car won't start. I could walk down the hill to the bus, but I'm not sure it'll be running.",
+                            "translation": "うーん、僕の車が動かないんだ。坂を下ってバス停まで歩くこともできるけど、バスが運行しているかどうかわからないんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Maybe you should skip work today. I can handle your calls.",
+                            "translation": "今日は仕事を休んだ方がいいんじゃない？あなたの電話は私が対応できるわ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Thanks, Jan. I'll do that.",
+                            "translation": "ありがとう、ジャン。そうするよ。"
+                        }
+                    ],
+                    "question": "What does the man decide to do?",
+                    "choices": [
+                        "Have his car fixed.",
+                        "Stay home from work.",
+                        "Call the bus company.",
+                        "Get Jan to give him a ride."
+                    ],
+                    "explanation": "男性は車が動かず、Janの提案で今日は仕事を休むことにしました。",
+                    "highlights": [
+                        "Maybe you should skip work today",
+                        "Thanks, Jan. I'll do that"
+                    ],
+                    "choiceAnalysis": "選択肢1「車を修理」→言及なし。選択肢2「家にいる」→正解。選択肢3「バス会社に電話」→言及なし。選択肢4「Janに送迎」→言及なし。",
+                    "audioFile": "audio/part1_q07.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "彼の車を修理してもらう。",
+                        "仕事を休む。",
+                        "バス会社に電話する。",
+                        "ジャンに車で送ってもらう。"
+                    ]
+                },
+                {
+                    "number": 8,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hello. How can I help you?",
+                            "translation": "こんにちは。何かお手伝いできますか？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I'm moving to Chicago. I want to close my savings account and transfer the funds.",
+                            "translation": "シカゴに引っ越します。貯蓄口座を閉鎖して、資金を移動したいのですが。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Is the new account also with our bank?",
+                            "translation": "新しい口座も当行のものでしょうか？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No.",
+                            "translation": "いいえ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "In that case, there'll be a small charge. Just fill out this transfer request.",
+                            "translation": "その場合、少額の手数料がかかります。この振込依頼書にご記入ください。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Sure. And how long will the transfer take?",
+                            "translation": "はい。それで、送金にはどれくらいかかりますか？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "About 24 hours.",
+                            "translation": "24時間ほどです。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Oh, it says I need the bank's street address. I'll need to call to get that.",
+                            "translation": "ああ、銀行の番地が必要と書いてありますね。それを入手するために電話する必要がありそうです。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "You can use this phone.",
+                            "translation": "この電話をお使いいただけますよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Thanks.",
+                            "translation": "ありがとう。"
+                        }
+                    ],
+                    "question": "What will the woman do next?",
+                    "choices": [
+                        "Give the man her current address.",
+                        "Have the man call her new bank.",
+                        "Make a deposit at her current bank.",
+                        "Find out the address of her new bank."
+                    ],
+                    "explanation": "女性は新しい銀行の住所が必要なので、電話して確認します。",
+                    "highlights": [
+                        "I need the bank's street address. I'll need to call to get that"
+                    ],
+                    "choiceAnalysis": "選択肢1「住所を教える」→銀行の住所が必要。選択肢2「男性に電話させる」→自分で電話。選択肢3「入金する」→言及なし。選択肢4「新しい銀行の住所を調べる」→正解。",
+                    "audioFile": "audio/part1_q08.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "男性に彼女の現在の住所を伝える。",
+                        "男性に彼女の新しい銀行に電話してもらう。",
+                        "彼女の現在の銀行で預金する。",
+                        "彼女の新しい銀行の住所を調べる。"
+                    ]
+                },
+                {
+                    "number": 9,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Olivia, did you get a gift for Cheryl's baby yet?",
+                            "translation": "オリビア、シェリルさんの赤ちゃんへのプレゼントはもう買った？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes, a nice blue blanket. But now I'm worried it's not such a great idea.",
+                            "translation": "うん、素敵な青い毛布をね。でも、今になってそれがそんなに良いアイデアじゃないんじゃないかって心配になってきたの。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "It sounds fine to me.",
+                            "translation": "私にはいいと思うけど。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "What if it's a girl? I can't give a blue blanket to a baby girl.",
+                            "translation": "もし女の子だったらどうしよう？女の子の赤ちゃんに青い毛布はあげられないわ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Olivia, it's the twenty-first century. No one worries about those kinds of stereotypes anymore, do they?",
+                            "translation": "オリビア、今は21世紀よ。もう誰もそんな固定観念を気にしてないんじゃない？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "You'd be surprised how many people still hang on to tradition.",
+                            "translation": "伝統にこだわる人がどれだけ多いか、驚くわよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "In that case, just keep the receipt so Cheryl can exchange it if necessary.",
+                            "translation": "それなら、レシートを取っておけば、必要ならシェリルが交換できるわよ。"
+                        }
+                    ],
+                    "question": "Why is Olivia worried?",
+                    "choices": [
+                        "The gift she bought may be unsuitable.",
+                        "She should have spent more on the gift.",
+                        "Cheryl has already received a blanket.",
+                        "She cannot find the receipt for the blanket."
+                    ],
+                    "explanation": "もし女の子だったら青いブランケットは不適切かもしれないと心配しています。",
+                    "highlights": [
+                        "What if it's a girl? I can't give a blue blanket to a baby girl"
+                    ],
+                    "choiceAnalysis": "選択肢1「贈り物が不適切かも」→正解。選択肢2「もっと高い物を」→言及なし。選択肢3「既に持っている」→言及なし。選択肢4「レシートが見つからない」→男性がレシートを取っておけと言った。",
+                    "audioFile": "audio/part1_q09.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "彼女が買った贈り物は不適切かもしれない。",
+                        "彼女はその贈り物にもっとお金をかけるべきだった。",
+                        "シェリルはすでに毛布を受け取っている。",
+                        "彼女は毛布のレシートを見つけられない。"
+                    ]
+                },
+                {
+                    "number": 10,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Honey, I'm glad I visited my father in the nursing home today. He seemed really excited to see me.",
+                            "translation": "ハニー、今日老人ホームにいる父を訪ねてよかったわ。私に会えてすごく喜んでくれたみたい。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That's great. I know you don't have much time, but I think it's important for you to see him regularly. He's been depressed recently.",
+                            "translation": "それはよかったね。君はあまり時間がないのはわかるけど、定期的に彼に会うのは大切だと思うよ。最近、彼は落ち込んでいるからね。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah, I know. He still complained about being there, though.",
+                            "translation": "うん、知ってる。でも、まだそこにいることについて不平を言ってたけどね。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, that's understandable. He used to be very independent.",
+                            "translation": "まあ、それは理解できるよ。彼は以前はとても自立していたからね。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Look, do you think we could go again this weekend?",
+                            "translation": "ねえ、今週末にもう一度行けると思う？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I'll have to check my work schedule, but that should be fine.",
+                            "translation": "仕事のスケジュールを確認しないといけないけど、大丈夫だと思うよ。"
+                        }
+                    ],
+                    "question": "What does the man say?",
+                    "choices": [
+                        "He does not enjoy visiting his wife's father.",
+                        "He should have gone with his wife.",
+                        "The nursing home is too far away.",
+                        "His wife should spend time with her father."
+                    ],
+                    "explanation": "男性は妻が定期的に父親に会うことが大切だと思っており、週末にまた行くことにも前向きです。",
+                    "highlights": [
+                        "I think it's important for you to see him regularly"
+                    ],
+                    "choiceAnalysis": "選択肢1「訪問が嫌」→一緒に行くと言っている。選択肢2「一緒に行くべきだった」→次は行く。選択肢3「遠すぎる」→言及なし。選択肢4「父親と時間を過ごすべき」→正解。",
+                    "audioFile": "audio/part1_q10.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "彼は妻の父親を訪ねるのが好きではない。",
+                        "彼は妻と一緒に行くべきだった。",
+                        "その老人ホームは遠すぎる。",
+                        "彼の妻は父親と時間を過ごすべきだ。"
+                    ]
+                },
+                {
+                    "number": 11,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "That's the worst round of golf I've played in months.",
+                            "translation": "今月で一番ひどいゴルフだったわ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "You didn't do that badly.",
+                            "translation": "そんなに悪くなかったよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "You're too nice. But I really struggled. My putting was terrible.",
+                            "translation": "あなたは優しすぎるわ。でも本当に苦戦したの。パッティングがひどかった。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, the wind was pretty strong.",
+                            "translation": "まあ、風がかなり強かったからね。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I'd like to blame my old clubs, but I feel like something is wrong with my form.",
+                            "translation": "古いクラブのせいにしたいけど、フォームに何か問題があるような気がするの。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Working with an instructor might not be a bad idea.",
+                            "translation": "インストラクターについてもらうのは悪くない考えかもしれないね。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Maybe you're right. I seem to have developed some bad habits.",
+                            "translation": "あなたの言う通りかも。悪い癖がついてしまったみたい。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "The professionals here at the club are reasonably priced.",
+                            "translation": "ここのクラブのプロは手頃な値段だよ。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Really? I'll look into it.",
+                            "translation": "本当？調べてみるわ。"
+                        }
+                    ],
+                    "question": "What does the woman suggest the man do?",
+                    "choices": [
+                        "Play golf with her more often.",
+                        "Avoid playing golf on windy days.",
+                        "Buy some new golf clubs.",
+                        "Take golf lessons."
+                    ],
+                    "explanation": "女性はインストラクターと練習することを提案しています。",
+                    "highlights": [
+                        "Working with an instructor might not be a bad idea"
+                    ],
+                    "choiceAnalysis": "選択肢1「一緒にゴルフ」→言及なし。選択肢2「風の日を避ける」→言及なし。選択肢3「新しいクラブ」→フォームの問題。選択肢4「ゴルフレッスン」→正解。",
+                    "audioFile": "audio/part1_q11.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "彼女ともっと頻繁にゴルフをする。",
+                        "風の強い日にゴルフをするのを避ける。",
+                        "新しいゴルフクラブを買う。",
+                        "ゴルフのレッスンを受ける。"
+                    ]
+                },
+                {
+                    "number": 12,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Hey Antonio! What are you doing here? I thought you'd found a job overseas.",
+                            "translation": "ヘイ、アントニオ！ここで何してるの？海外で仕事を見つけたと思ってたのに。"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I did, but I'm home visiting my parents.",
+                            "translation": "そうなんだけど、両親を訪ねに実家に帰ってきてるんだ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "They must be happy to see you. How long are you here for?",
+                            "translation": "彼らも喜んでるでしょうね。いつまでここにいるの？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I go back to Turkey in a couple of days. Listen, I've got a few hours to kill before going to a concert. Do you want to get some lunch?",
+                            "translation": "数日後にはトルコに戻るんだ。ねえ、コンサートに行く前に数時間時間があるんだけど、ランチに行かない？"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I'd love to, if you don't mind me running a few quick errands first.",
+                            "translation": "喜んで！でも、先にいくつか急ぎの用事を済ませても構わない？"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Not a problem. I'll come along and keep you company.",
+                            "translation": "問題ないよ。僕も一緒に行って付き合うよ。"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Great. We have so much to catch up on.",
+                            "translation": "素晴らしいわ。話したいことがたくさんあるものね。"
+                        }
+                    ],
+                    "question": "What is the man going to do next?",
+                    "choices": [
+                        "Visit his parents.",
+                        "Wait at a restaurant.",
+                        "Join the woman on her errands.",
+                        "Get some tickets for the concert."
+                    ],
+                    "explanation": "男性は女性の用事に付き合うと言っています。",
+                    "highlights": [
+                        "I'll come along and keep you company"
+                    ],
+                    "choiceAnalysis": "選択肢1「両親を訪ねる」→既に訪問中。選択肢2「レストランで待つ」→一緒に行く。選択肢3「女性の用事に付き合う」→正解。選択肢4「チケットを買う」→コンサートは後で。",
+                    "audioFile": "audio/part1_q12.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "彼の両親を訪ねる。",
+                        "レストランで待つ。",
+                        "女性の用事に同行する。",
+                        "コンサートのチケットを手に入れる。"
+                    ]
+                }
+            ]
         },
         {
-          "number": 2,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "I'm sure glad that meeting is finally over."
-            },
-            {
-              "speaker": "female",
-              "text": "Me, too. The other parents didn't seem very friendly, did they?"
-            },
-            {
-              "speaker": "male",
-              "text": "Yeah, I noticed. Well, we did hear that the kind of parents who consider Cumberland High for their children are pretty snobbish. After all, it's an expensive private school."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, I guess their kids will be pretty much like they are. Plus, it'd be a struggle to keep up with that kind of tuition."
-            },
-            {
-              "speaker": "male",
-              "text": "We'd get by, but I am worried about the kind of friends our son would have."
-            },
-            {
-              "speaker": "female",
-              "text": "I totally agree, Jon. Perhaps we should consider a public school after all."
-            }
-          ],
-          "question": "What will the couple most likely do?",
-          "choices": [
-            "Consider another school for their son.",
-            "Enroll their son in Cumberland.",
-            "Get a loan to pay for tuition.",
-            "Consult with the other parents."
-          ],
-          "explanation": "夫婦は他の保護者の態度やそれが子供の友人関係に影響することを心配し、公立学校を検討しようと結論づけています。",
-          "highlights": [
-            "Perhaps we should consider a public school after all"
-          ],
-          "choiceAnalysis": "選択肢1「他の学校を検討」→正解。選択肢2「入学させる」→やめようとしている。選択肢3「ローンを組む」→言及なし。選択肢4「他の保護者に相談」→言及なし。",
-          "audioFile": "audio/part1_q02.mp3",
-          "answer": 1
+            "name": "第2部",
+            "nameEn": "Part 2",
+            "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 13 〜 No. 24",
+            "questions": [
+                {
+                    "number": 13,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Much of the world's gold was formed deep beneath the ground, but it's not always necessary to dig deep mines to find this valuable metal. A technique called placer mining is used to find gold in or near rivers. In this type of mining, machines are often used to collect water, sand, and small stones in huge containers. The materials are then shaken and the lighter substances fall out. Because gold is heavy, it will remain in the bottom of the containers.",
+                            "translation": "世界の金の多くは地中深くで形成されましたが、この貴重な金属を見つけるために常に深い鉱山を掘る必要はありません。砂金採掘と呼ばれる技術は、川の中または川の近くで金を見つけるために使われます。この種の採掘では、機械を使って水、砂、小石を巨大な容器に集めることがよくあります。その後、それらの物質は揺すられ、軽い物質は外に落ちます。金は重いので、容器の底に残ります。"
+                        }
+                    ],
+                    "question": "What technique does placer mining rely on?",
+                    "choices": [
+                        "Building dams to block rivers.",
+                        "Digging deep beneath the ground.",
+                        "Drilling holes in rocks.",
+                        "Separating gold from lighter materials."
+                    ],
+                    "explanation": "砂金採掘は容器を振って軽い物質を落とし、重い金を底に残す技術です。",
+                    "highlights": [
+                        "The materials are then shaken and the lighter substances fall out. Because gold is heavy, it will remain"
+                    ],
+                    "choiceAnalysis": "選択肢1「ダム」→言及なし。選択肢2「深く掘る」→深く掘る必要がない。選択肢3「岩に穴」→言及なし。選択肢4「軽い物質から金を分離」→正解。",
+                    "audioFile": "audio/part2_q13.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "川をせき止めるためにダムを建設すること。",
+                        "地面を深く掘ること。",
+                        "岩に穴を開けること。",
+                        "金を軽い物質から分離すること。"
+                    ]
+                },
+                {
+                    "number": 14,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Some spots are better for placer mining than others. For example, gold is slowly washed downriver, but because it is heavy, it tends to build up where there is a sudden drop, such as at waterfalls. The falling water creates pools at the bottom of the waterfall that can trap significant amounts of gold. These are the areas that are of most interest to mining companies.",
+                            "translation": "砂金採掘に適した場所は、他の場所よりも優れています。例えば、金はゆっくりと川を下って流されますが、重いため、滝のように急な落差がある場所にたまりやすい傾向があります。落ちる水は滝の底に水たまりを作り、そこにかなりの量の金を閉じ込めることができます。これらが採掘会社にとって最も関心のある地域です。"
+                        }
+                    ],
+                    "question": "Where are the best areas to find gold when placer mining?",
+                    "choices": [
+                        "Where the level of a river suddenly changes.",
+                        "Where the current of a river is strongest.",
+                        "Where a river suddenly becomes narrower.",
+                        "Where a river is shallow and wide."
+                    ],
+                    "explanation": "滝のように急に落差がある場所に金が溜まりやすいです。",
+                    "highlights": [
+                        "it tends to build up where there is a sudden drop, such as at waterfalls"
+                    ],
+                    "choiceAnalysis": "選択肢1「川の水位が急に変わる場所」→正解。選択肢2「流れが最も強い」→言及なし。選択肢3「川が狭くなる」→言及なし。選択肢4「浅くて広い」→言及なし。",
+                    "audioFile": "audio/part2_q14.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "川の水位が突然変わる場所。",
+                        "川の流れが最も速い場所。",
+                        "川が突然狭くなる場所。",
+                        "川が浅く広い場所。"
+                    ]
+                },
+                {
+                    "number": 15,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "A recent study by researchers has revealed new information about the eating habits of Neanderthals. Using DNA analysis techniques, the researchers compared substances found on the teeth of Neanderthals that lived in northern Spain with substances found on the teeth of Neanderthals in Belgium. The results showed that the Neanderthals in Belgium consumed mainly wild sheep and other mammals, while the Neanderthals in Spain had a plant-based diet.",
+                            "translation": "研究者による最近の研究で、ネアンデルタール人の食習慣に関する新しい情報が明らかになりました。DNA分析技術を用いて、研究者たちはスペイン北部に住んでいたネアンデルタール人の歯に見つかった物質と、ベルギーのネアンデルタール人の歯に見つかった物質を比較しました。その結果、ベルギーのネアンデルタール人は主に野生の羊や他の哺乳類を食べていたのに対し、スペインのネアンデルタール人は植物ベースの食事をしていたことが示されました。"
+                        }
+                    ],
+                    "question": "How were the Neanderthals in Belgium different from those in Spain?",
+                    "choices": [
+                        "The Belgian Neanderthals were more intelligent.",
+                        "The Belgian Neanderthals ate mostly meat.",
+                        "The Spanish Neanderthals tended to live longer.",
+                        "The Spanish Neanderthals were better at fighting."
+                    ],
+                    "explanation": "ベルギーのネアンデルタール人は主に野生の羊などの哺乳類（肉）を食べ、スペインは植物中心でした。",
+                    "highlights": [
+                        "the Neanderthals in Belgium consumed mainly wild sheep and other mammals"
+                    ],
+                    "choiceAnalysis": "選択肢1「知能が高い」→言及なし。選択肢2「主に肉を食べた」→正解。選択肢3「スペインが長寿」→言及なし。選択肢4「戦闘能力」→言及なし。",
+                    "audioFile": "audio/part2_q15.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "ベルギーのネアンデルタール人はより知的だった。",
+                        "ベルギーのネアンデルタール人は主に肉を食べていた。",
+                        "スペインのネアンデルタール人はより長生きする傾向があった。",
+                        "スペインのネアンデルタール人は戦うのが得意だった。"
+                    ]
+                },
+                {
+                    "number": 16,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The researchers also found evidence that a Neanderthal in Spain was suffering from a stomach illness and an infected tooth. DNA from pain-relieving plants was found between his teeth. The researchers believe this indicates that Neanderthals knew that such plants could be used to help reduce pain. If true, it seems that Neanderthals were both more sophisticated and better able to take advantage of their environment than previously thought.",
+                            "translation": "研究者たちはまた、スペインのネアンデルタール人が胃の病気と感染した歯に苦しんでいた証拠を発見しました。彼の歯の間から鎮痛作用のある植物のDNAが見つかりました。研究者たちは、これはネアンデルタール人がそのような植物が痛みを軽減するのに役立つことを知っていたことを示していると考えています。もしそれが本当なら、ネアンデルタール人は以前考えられていたよりも洗練されており、環境をよりうまく利用できていたようです。"
+                        }
+                    ],
+                    "question": "What is one thing the researchers believe about the Neanderthals in Spain?",
+                    "choices": [
+                        "They were very few in number.",
+                        "They caught few diseases.",
+                        "They treated some of their own health problems.",
+                        "They rarely suffered from stomach problems."
+                    ],
+                    "explanation": "痛みを和らげる植物のDNAが歯から発見され、自分で健康問題に対処していたと考えられています。",
+                    "highlights": [
+                        "Neanderthals knew that such plants could be used to help reduce pain"
+                    ],
+                    "choiceAnalysis": "選択肢1「少数」→言及なし。選択肢2「病気にかからない」→胃の病気にかかっていた。選択肢3「自分で健康問題に対処」→正解。選択肢4「胃の問題が少ない」→胃の病気があった。",
+                    "audioFile": "audio/part2_q16.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "彼らは数が非常に少なかった。",
+                        "彼らはほとんど病気にかからなかった。",
+                        "彼らは自分たちの健康問題の一部を治療していた。",
+                        "彼らは胃の病気にほとんど苦しまなかった。"
+                    ]
+                },
+                {
+                    "number": 17,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Elisabeth Amalie Eugenie, commonly known as \"Sisi,\" became the empress of Austria when she married the country's emperor in 1854. However, Sisi had little interest in the duties of royalty, such as ceremonies and policy discussions. She began traveling to escape court life, but this angered her powerful mother-in-law, who considered Sisi's behavior inappropriate for an empress.",
+                            "translation": "エリザベート・アマーリエ・オイゲーニエ、通称「シシ」は、1854年にオーストリア皇帝と結婚し、同国の皇后となりました。しかし、シシは儀式や政策議論といった皇族としての職務にはほとんど関心がありませんでした。彼女は宮廷生活から逃れるために旅を始めましたが、この行動は、シシの振る舞いを皇后として不適切だと考えていた権力のある義母を怒らせました。"
+                        }
+                    ],
+                    "question": "What is one thing we learn about Sisi?",
+                    "choices": [
+                        "She rarely disagreed with her husband.",
+                        "She had always wanted to become empress.",
+                        "She tried to avoid some of her royal duties.",
+                        "She relied on support from her mother-in-law."
+                    ],
+                    "explanation": "シシは王室の義務にほとんど興味がなく、宮廷生活から逃れるために旅に出ました。",
+                    "highlights": [
+                        "Sisi had little interest in the duties of royalty",
+                        "She began traveling to escape court life"
+                    ],
+                    "choiceAnalysis": "選択肢1「夫と対立しない」→言及なし。選択肢2「皇后になりたかった」→興味がなかった。選択肢3「王室の義務を避けた」→正解。選択肢4「義母に頼った」→義母は怒った。",
+                    "audioFile": "audio/part2_q17.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "彼女は夫と意見が対立することはめったになかった。",
+                        "彼女は常に皇后になりたいと願っていた。",
+                        "彼女は皇族としての職務の一部を避けようとした。",
+                        "彼女は義母からの支援に頼っていた。"
+                    ]
+                },
+                {
+                    "number": 18,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "On her travels, Sisi developed a strong relationship with the people of Hungary. At the time, Hungary was ruled by Austria, and Sisi felt that the Hungarians were treated unfairly. When she was back in Austria, she campaigned for Hungarians to have more legal rights and helped them achieve some level of independence from Austria. Sisi was also interested in mental health, and she campaigned for improved care for mentally ill patients. She even asked for the construction of a hospital as a present from her husband.",
+                            "translation": "旅の途中で、シシはハンガリーの人々と強い関係を築きました。当時、ハンガリーはオーストリアに統治されており、シシはハンガリー人が不公平に扱われていると感じていました。オーストリアに戻ると、彼女はハンガリー人がより多くの法的権利を持つよう運動し、オーストリアからの一定の独立を達成するのを助けました。シシは精神衛生にも関心があり、精神疾患患者のケア改善を訴えました。彼女は夫にプレゼントとして病院の建設を頼んだことさえありました。"
+                        }
+                    ],
+                    "question": "What was one way Sisi helped the Hungarian people?",
+                    "choices": [
+                        "She volunteered at a hospital in Hungary.",
+                        "She donated all her wealth to them.",
+                        "She helped to improve their legal situation.",
+                        "She made it easier for them to enter Austria."
+                    ],
+                    "explanation": "シシはハンガリー人がより多くの法的権利を持てるよう運動しました。",
+                    "highlights": [
+                        "she campaigned for Hungarians to have more legal rights"
+                    ],
+                    "choiceAnalysis": "選択肢1「病院でボランティア」→言及なし。選択肢2「財産を寄付」→言及なし。選択肢3「法的状況を改善」→正解。選択肢4「オーストリア入国を容易に」→言及なし。",
+                    "audioFile": "audio/part2_q18.mp3",
+                    "answer": 3,
+                    "choiceTranslations": [
+                        "彼女はハンガリーの病院でボランティアをした。",
+                        "彼女は彼らに全財産を寄付した。",
+                        "彼女は彼らの法的状況を改善するのを助けた。",
+                        "彼女は彼らがオーストリアに入国しやすくした。"
+                    ]
+                },
+                {
+                    "number": 19,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "In recent years, standing meetings have become more popular at many companies. To study the effects of such meetings, researchers at the University of Missouri conducted an experiment in which participants did group problem-solving exercises while either standing or sitting down. The researchers had predicted that the standing groups would rush and make poor decisions. Although the standing groups did take less time to complete their tasks, their decisions were mostly the same as those of the sitting groups.",
+                            "translation": "近年、多くの企業で立ち会議が人気を集めています。そのような会議の効果を研究するため、ミズーリ大学の研究者たちは、参加者が立っているか座っているかのいずれかの状態でグループでの問題解決演習を行う実験を実施しました。研究者たちは、立っているグループが急いで質の悪い決定を下すと予測していました。しかし、立っているグループは課題を完了するのにかかる時間は短かったものの、彼らの決定は座っているグループの決定とほとんど同じでした。"
+                        }
+                    ],
+                    "question": "What did the University of Missouri study reveal?",
+                    "choices": [
+                        "Standing meetings took longer than sit-down meetings.",
+                        "Standing meetings had little impact on decisions.",
+                        "Participants preferred sit-down meetings.",
+                        "Sit-down meetings helped people to be creative."
+                    ],
+                    "explanation": "立ってミーティングをしても意思決定の質はほとんど変わりませんでした。",
+                    "highlights": [
+                        "their decisions were mostly the same as those of the sitting groups"
+                    ],
+                    "choiceAnalysis": "選択肢1「立って会議の方が長い」→短かった。選択肢2「意思決定にほとんど影響なし」→正解。選択肢3「座る方が好まれた」→言及なし。選択肢4「座ると創造的」→言及なし。",
+                    "audioFile": "audio/part2_q19.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "立って行う会議は座って行う会議よりも時間がかかった。",
+                        "立って行う会議は決定にほとんど影響を与えなかった。",
+                        "参加者は座って行う会議を好んだ。",
+                        "座って行う会議は人々の創造性を助けた。"
+                    ]
+                },
+                {
+                    "number": 20,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Standing meetings have their critics, however. Business consultant Bob Frisch argues that when people are standing, the physical differences between them become more important. This can lead to shorter people feeling nervous and therefore being less likely to share their thoughts. Additionally, young people's greater physical stamina could give them an advantage if a negotiation during a standing meeting becomes lengthy.",
+                            "translation": "しかし、立ち会議には批判的な意見もあります。ビジネスコンサルタントのボブ・フリッシュは、人々が立っているとき、身体的な違いがより重要になると主張しています。これにより、背の低い人が緊張し、自分の意見を共有しにくくなる可能性があります。さらに、立ち会議中の交渉が長引いた場合、若者のより高い体力は彼らに有利に働く可能性があります。"
+                        }
+                    ],
+                    "question": "What is one criticism Bob Frisch has of standing meetings?",
+                    "choices": [
+                        "They may be unfair to some participants.",
+                        "They can encourage people to be too casual.",
+                        "They may harm young people's physical health.",
+                        "They can lead to lengthier negotiations."
+                    ],
+                    "explanation": "背の低い人が緊張して意見を言いにくくなるなど、参加者間の公平性に問題があると指摘しています。",
+                    "highlights": [
+                        "shorter people feeling nervous and therefore being less likely to share their thoughts"
+                    ],
+                    "choiceAnalysis": "選択肢1「一部の参加者に不公平」→正解。選択肢2「カジュアルになりすぎる」→言及なし。選択肢3「健康に害」→言及なし。選択肢4「交渉が長引く」→若者に有利になるだけ。",
+                    "audioFile": "audio/part2_q20.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "一部の参加者にとって不公平になる可能性がある。",
+                        "人々をあまりにもカジュアルにさせる可能性がある。",
+                        "若者の身体的健康を害する可能性がある。",
+                        "交渉が長引く原因となる可能性がある。"
+                    ]
+                },
+                {
+                    "number": 21,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "When most people think about the settling of the American West, they imagine people crossing the country in wagons pulled by horses. However, the mule, an animal created by breeding a female horse with a male donkey, was preferred by pioneers. Mules are strong but weigh less and eat less than horses. They also suffer fewer leg injuries, and they can see things to the side more easily. Pioneers found that these characteristics made mules more suitable for traveling over ground that was steep, uneven, or rocky.",
+                            "translation": "ほとんどの人がアメリカ西部の開拓について考えるとき、馬に引かれた荷馬車で国を横断する人々を想像します。"
+                        }
+                    ],
+                    "question": "What is one thing we learn about mules?",
+                    "choices": [
+                        "They eat more than horses.",
+                        "They can move over difficult ground.",
+                        "They cannot pull heavy wagons.",
+                        "They have relatively poor eyesight."
+                    ],
+                    "explanation": "ラバは急な、平らでない、岩の多い地形の移動に適していました。",
+                    "highlights": [
+                        "mules more suitable for traveling over ground that was steep, uneven, or rocky"
+                    ],
+                    "choiceAnalysis": "選択肢1「馬より食べる」→食べない。選択肢2「困難な地形を移動できる」→正解。選択肢3「重い荷馬車を引けない」→引けた。選択肢4「視力が悪い」→側方視が良い。",
+                    "audioFile": "audio/part2_q21.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "彼らは馬よりも多く食べる。",
+                        "彼らは困難な地形を移動できる。",
+                        "彼らは重い荷馬車を引くことができない。",
+                        "彼らは比較的視力が悪い。"
+                    ]
+                },
+                {
+                    "number": 22,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "One disadvantage, however, was that, unlike horses, which follow almost any command given to them, mules generally do what they want. For example, wagon drivers often experienced great difficulties in getting mules to cross rivers that the animals thought might be dangerous. Despite this disadvantage, westward journeys would have been nearly impossible without them.",
+                            "translation": "しかし、一つの欠点は、与えられたほとんどどんな命令にも従う馬とは異なり、ラバは一般的に自分のしたいことをするということでした。"
+                        }
+                    ],
+                    "question": "Why was using mules problematic?",
+                    "choices": [
+                        "They sometimes attacked wagon drivers.",
+                        "They often suffered leg injuries.",
+                        "They required large amounts of water.",
+                        "They sometimes refused to obey orders."
+                    ],
+                    "explanation": "ラバは自分のやりたいことをするため、危険だと思う川を渡らせるのが困難でした。",
+                    "highlights": [
+                        "mules generally do what they want",
+                        "great difficulties in getting mules to cross rivers"
+                    ],
+                    "choiceAnalysis": "選択肢1「御者を攻撃」→言及なし。選択肢2「脚をケガ」→ケガが少ない。選択肢3「大量の水」→言及なし。選択肢4「命令に従わない」→正解。",
+                    "audioFile": "audio/part2_q22.mp3",
+                    "answer": 4,
+                    "choiceTranslations": [
+                        "彼らは時々荷馬車の運転手を襲った。",
+                        "彼らはしばしば脚の怪我を負った。",
+                        "彼らは大量の水を必要とした。",
+                        "彼らは時々命令に従うことを拒否した。"
+                    ]
+                },
+                {
+                    "number": 23,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Steve Jobs, the founder of Apple Inc., had a role model named Edwin Land. Land founded a camera company called Polaroid that was well-known when Jobs was growing up. Jobs agreed with many of Land's ideas. For example, Jobs often said, \"Customers don't know what they want until we've shown them.\" This was a concept he learned from Land. Both Jobs and Land thought that conducting market research on consumer preferences was pointless. They believed companies should make totally new and interesting products their customers had never dreamed of.",
+                            "translation": "Apple Inc.の創設者であるスティーブ・ジョブズには、エドウィン・ランドという名のロールモデルがいました。"
+                        }
+                    ],
+                    "question": "What was one belief held by Steve Jobs and Edwin Land?",
+                    "choices": [
+                        "Customers want products that last.",
+                        "Market research is unnecessary.",
+                        "Advertising should explain concepts simply.",
+                        "Products should be made from recycled materials."
+                    ],
+                    "explanation": "二人とも消費者調査は無意味だと考え、顧客が夢にも思わない全く新しい製品を作るべきだと信じていました。",
+                    "highlights": [
+                        "conducting market research on consumer preferences was pointless"
+                    ],
+                    "choiceAnalysis": "選択肢1「長持ちする製品」→言及なし。選択肢2「市場調査は不要」→正解。選択肢3「広告をシンプルに」→言及なし。選択肢4「リサイクル素材」→言及なし。",
+                    "audioFile": "audio/part2_q23.mp3",
+                    "answer": 2,
+                    "choiceTranslations": [
+                        "顧客は長持ちする製品を求めている。",
+                        "市場調査は不要である。",
+                        "広告は概念を簡潔に説明すべきである。",
+                        "製品はリサイクル素材で作られるべきである。"
+                    ]
+                },
+                {
+                    "number": 24,
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Both Jobs and Land were also famous for trying to make even minor design details of their products perfect. Land, for example, spent so much money on product development that financial experts warned against investing in Polaroid's stock. However, his products were thought to be beautifully designed and his company became highly profitable.",
+                            "translation": "ジョブズとランドの両者は、製品の些細なデザインの細部までも完璧にしようと努めたことでも有名でした。"
+                        }
+                    ],
+                    "question": "What were both Jobs and Land famous for?",
+                    "choices": [
+                        "Focusing on design details.",
+                        "Listening to advice from financial experts.",
+                        "Keeping investors happy.",
+                        "Sharing technology with each other."
+                    ],
+                    "explanation": "二人は製品の細かいデザインまで完璧にすることで有名でした。",
+                    "highlights": [
+                        "famous for trying to make even minor design details of their products perfect"
+                    ],
+                    "choiceAnalysis": "選択肢1「デザインの細部にこだわる」→正解。選択肢2「専門家の助言を聞く」→無視した。選択肢3「投資家を喜ばせる」→投資を心配させた。選択肢4「技術共有」→言及なし。",
+                    "audioFile": "audio/part2_q24.mp3",
+                    "answer": 1,
+                    "choiceTranslations": [
+                        "デザインの細部に焦点を当てること。",
+                        "金融専門家からの助言に耳を傾けること。",
+                        "投資家を満足させること。",
+                        "互いに技術を共有すること。"
+                    ]
+                }
+            ]
         },
         {
-          "number": 3,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "You didn't come to our barbecue yesterday, Wayne. What happened?"
-            },
-            {
-              "speaker": "male",
-              "text": "I went to Nun's Park, but I couldn't find you guys anywhere. I looked around for over an hour."
-            },
-            {
-              "speaker": "female",
-              "text": "Ah... it was actually at Vivian Park. We couldn't reserve a barbecue pit at Nun's Park. I e-mailed everyone about it."
-            },
-            {
-              "speaker": "male",
-              "text": "Really? I didn't check my e-mail."
-            },
-            {
-              "speaker": "female",
-              "text": "Why didn't you call me?"
-            },
-            {
-              "speaker": "male",
-              "text": "Sorry, I forgot to take my phone with me."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, we'll have another one again soon."
-            }
-          ],
-          "question": "Why did Wayne not go to the barbecue yesterday?",
-          "choices": [
-            "He got lost going to the park.",
-            "He was not e-mailed about the location.",
-            "He had a last-minute appointment.",
-            "He went to the wrong place."
-          ],
-          "explanation": "場所が変更されメールが送られたが、Wayneはメールを確認せず元の公園に行ってしまいました。",
-          "highlights": [
-            "I went to Nun's Park",
-            "it was actually at Vivian Park",
-            "I didn't check my e-mail"
-          ],
-          "choiceAnalysis": "選択肢1「道に迷った」→場所が違った。選択肢2「メールが来なかった」→メールは送られたが確認しなかった。選択肢3「急用」→言及なし。選択肢4「間違った場所に行った」→正解。",
-          "audioFile": "audio/part1_q03.mp3",
-          "answer": 4
-        },
-        {
-          "number": 4,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Man, that had to be the most stressful job interview I've ever done."
-            },
-            {
-              "speaker": "female",
-              "text": "What happened? Did it go badly?"
-            },
-            {
-              "speaker": "male",
-              "text": "Not really. But when I walked into the room, there were six guys sitting there."
-            },
-            {
-              "speaker": "female",
-              "text": "You're kidding! Did they all ask you questions?"
-            },
-            {
-              "speaker": "male",
-              "text": "Only two actually spoke. The others just sat there. They were all taking notes about what I said."
-            },
-            {
-              "speaker": "female",
-              "text": "That does sound stressful. Were there many other candidates?"
-            },
-            {
-              "speaker": "male",
-              "text": "I've no idea. I didn't see anyone else."
-            }
-          ],
-          "question": "Why did the man feel stressed?",
-          "choices": [
-            "He had to talk in front of many people.",
-            "He made a big mistake during the interview.",
-            "The interviewers asked some difficult questions.",
-            "There were a lot of candidates for the job."
-          ],
-          "explanation": "部屋に入ると6人がいて全員がメモを取っていた。多くの人の前で話さなければならないのがストレスでした。",
-          "highlights": [
-            "there were six guys sitting there",
-            "They were all taking notes about what I said"
-          ],
-          "choiceAnalysis": "選択肢1「多くの人の前で話す」→正解。選択肢2「大きなミス」→うまくいった。選択肢3「難しい質問」→言及なし。選択肢4「候補者が多い」→他には会わなかった。",
-          "audioFile": "audio/part1_q04.mp3",
-          "answer": 1
-        },
-        {
-          "number": 5,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Can I help you with something, sir?"
-            },
-            {
-              "speaker": "male",
-              "text": "Yes. I'm looking for a winter coat."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, this style here is popular this year."
-            },
-            {
-              "speaker": "male",
-              "text": "I like the design, but not the color. Does it come in dark green?"
-            },
-            {
-              "speaker": "female",
-              "text": "It does, but we only have brown and gray in stock."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, thanks anyway. I'll try another store."
-            },
-            {
-              "speaker": "female",
-              "text": "I can order one from our warehouse."
-            },
-            {
-              "speaker": "male",
-              "text": "How long will it take?"
-            },
-            {
-              "speaker": "female",
-              "text": "About a week."
-            },
-            {
-              "speaker": "male",
-              "text": "OK. That's fine."
-            }
-          ],
-          "question": "What will the man do?",
-          "choices": [
-            "Order the coat he wants.",
-            "Keep shopping around.",
-            "Take the gray coat.",
-            "Try on a different style."
-          ],
-          "explanation": "男性はダークグリーンのコートを倉庫から注文してもらうことにしました。",
-          "highlights": [
-            "I can order one from our warehouse",
-            "OK. That's fine"
-          ],
-          "choiceAnalysis": "選択肢1「欲しいコートを注文する」→正解。選択肢2「他の店で探す」→注文に同意。選択肢3「グレーのコート」→ダークグリーンが欲しい。選択肢4「他のスタイル」→言及なし。",
-          "audioFile": "audio/part1_q05.mp3",
-          "answer": 1
-        },
-        {
-          "number": 6,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "You've lost weight, Sergio. Have you been dieting?"
-            },
-            {
-              "speaker": "male",
-              "text": "No. I've just found a new way to exercise."
-            },
-            {
-              "speaker": "female",
-              "text": "I thought you went jogging regularly?"
-            },
-            {
-              "speaker": "male",
-              "text": "I do. But I always skip it when the weather's bad. Now I've started playing exercise video games."
-            },
-            {
-              "speaker": "female",
-              "text": "Really? I can't understand how anyone can use those to work out. I really need to be out in the fresh air."
-            },
-            {
-              "speaker": "male",
-              "text": "I still get outdoors. But when it rains, I can exercise and stay dry!"
-            }
-          ],
-          "question": "What do we learn about the man?",
-          "choices": [
-            "He does not jog anymore.",
-            "He exercises more regularly now.",
-            "He has just started a new diet.",
-            "He is too busy to work out these days."
-          ],
-          "explanation": "以前は天気が悪いと運動を休んでいたが、今はビデオゲームでも運動できるので、より定期的に運動しています。",
-          "highlights": [
-            "I always skip it when the weather's bad. Now I've started playing exercise video games"
-          ],
-          "choiceAnalysis": "選択肢1「ジョギングをやめた」→まだしている。選択肢2「より定期的に運動」→正解。選択肢3「ダイエットを始めた」→ダイエットではない。選択肢4「忙しくて運動できない」→運動している。",
-          "audioFile": "audio/part1_q06.mp3",
-          "answer": 2
-        },
-        {
-          "number": 7,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Snider Insurance, Jan Meadows speaking."
-            },
-            {
-              "speaker": "male",
-              "text": "Hi, Jan. Philip here. How did you manage to get to work with all the snow on the roads?"
-            },
-            {
-              "speaker": "female",
-              "text": "My husband's car has four-wheel drive. It took twice as long as usual, though."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, my car won't start. I could walk down the hill to the bus, but I'm not sure it'll be running."
-            },
-            {
-              "speaker": "female",
-              "text": "Maybe you should skip work today. I can handle your calls."
-            },
-            {
-              "speaker": "male",
-              "text": "Thanks, Jan. I'll do that."
-            }
-          ],
-          "question": "What does the man decide to do?",
-          "choices": [
-            "Have his car fixed.",
-            "Stay home from work.",
-            "Call the bus company.",
-            "Get Jan to give him a ride."
-          ],
-          "explanation": "男性は車が動かず、Janの提案で今日は仕事を休むことにしました。",
-          "highlights": [
-            "Maybe you should skip work today",
-            "Thanks, Jan. I'll do that"
-          ],
-          "choiceAnalysis": "選択肢1「車を修理」→言及なし。選択肢2「家にいる」→正解。選択肢3「バス会社に電話」→言及なし。選択肢4「Janに送迎」→言及なし。",
-          "audioFile": "audio/part1_q07.mp3",
-          "answer": 2
-        },
-        {
-          "number": 8,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hello. How can I help you?"
-            },
-            {
-              "speaker": "female",
-              "text": "I'm moving to Chicago. I want to close my savings account and transfer the funds."
-            },
-            {
-              "speaker": "male",
-              "text": "Is the new account also with our bank?"
-            },
-            {
-              "speaker": "female",
-              "text": "No."
-            },
-            {
-              "speaker": "male",
-              "text": "In that case, there'll be a small charge. Just fill out this transfer request."
-            },
-            {
-              "speaker": "female",
-              "text": "Sure. And how long will the transfer take?"
-            },
-            {
-              "speaker": "male",
-              "text": "About 24 hours."
-            },
-            {
-              "speaker": "female",
-              "text": "Oh, it says I need the bank's street address. I'll need to call to get that."
-            },
-            {
-              "speaker": "male",
-              "text": "You can use this phone."
-            },
-            {
-              "speaker": "female",
-              "text": "Thanks."
-            }
-          ],
-          "question": "What will the woman do next?",
-          "choices": [
-            "Give the man her current address.",
-            "Have the man call her new bank.",
-            "Make a deposit at her current bank.",
-            "Find out the address of her new bank."
-          ],
-          "explanation": "女性は新しい銀行の住所が必要なので、電話して確認します。",
-          "highlights": [
-            "I need the bank's street address. I'll need to call to get that"
-          ],
-          "choiceAnalysis": "選択肢1「住所を教える」→銀行の住所が必要。選択肢2「男性に電話させる」→自分で電話。選択肢3「入金する」→言及なし。選択肢4「新しい銀行の住所を調べる」→正解。",
-          "audioFile": "audio/part1_q08.mp3",
-          "answer": 4
-        },
-        {
-          "number": 9,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Olivia, did you get a gift for Cheryl's baby yet?"
-            },
-            {
-              "speaker": "female",
-              "text": "Yes, a nice blue blanket. But now I'm worried it's not such a great idea."
-            },
-            {
-              "speaker": "male",
-              "text": "It sounds fine to me."
-            },
-            {
-              "speaker": "female",
-              "text": "What if it's a girl? I can't give a blue blanket to a baby girl."
-            },
-            {
-              "speaker": "male",
-              "text": "Olivia, it's the twenty-first century. No one worries about those kinds of stereotypes anymore, do they?"
-            },
-            {
-              "speaker": "female",
-              "text": "You'd be surprised how many people still hang on to tradition."
-            },
-            {
-              "speaker": "male",
-              "text": "In that case, just keep the receipt so Cheryl can exchange it if necessary."
-            }
-          ],
-          "question": "Why is Olivia worried?",
-          "choices": [
-            "The gift she bought may be unsuitable.",
-            "She should have spent more on the gift.",
-            "Cheryl has already received a blanket.",
-            "She cannot find the receipt for the blanket."
-          ],
-          "explanation": "もし女の子だったら青いブランケットは不適切かもしれないと心配しています。",
-          "highlights": [
-            "What if it's a girl? I can't give a blue blanket to a baby girl"
-          ],
-          "choiceAnalysis": "選択肢1「贈り物が不適切かも」→正解。選択肢2「もっと高い物を」→言及なし。選択肢3「既に持っている」→言及なし。選択肢4「レシートが見つからない」→男性がレシートを取っておけと言った。",
-          "audioFile": "audio/part1_q09.mp3",
-          "answer": 1
-        },
-        {
-          "number": 10,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Honey, I'm glad I visited my father in the nursing home today. He seemed really excited to see me."
-            },
-            {
-              "speaker": "male",
-              "text": "That's great. I know you don't have much time, but I think it's important for you to see him regularly. He's been depressed recently."
-            },
-            {
-              "speaker": "female",
-              "text": "Yeah, I know. He still complained about being there, though."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, that's understandable. He used to be very independent."
-            },
-            {
-              "speaker": "female",
-              "text": "Look, do you think we could go again this weekend?"
-            },
-            {
-              "speaker": "male",
-              "text": "I'll have to check my work schedule, but that should be fine."
-            }
-          ],
-          "question": "What does the man say?",
-          "choices": [
-            "He does not enjoy visiting his wife's father.",
-            "He should have gone with his wife.",
-            "The nursing home is too far away.",
-            "His wife should spend time with her father."
-          ],
-          "explanation": "男性は妻が定期的に父親に会うことが大切だと思っており、週末にまた行くことにも前向きです。",
-          "highlights": [
-            "I think it's important for you to see him regularly"
-          ],
-          "choiceAnalysis": "選択肢1「訪問が嫌」→一緒に行くと言っている。選択肢2「一緒に行くべきだった」→次は行く。選択肢3「遠すぎる」→言及なし。選択肢4「父親と時間を過ごすべき」→正解。",
-          "audioFile": "audio/part1_q10.mp3",
-          "answer": 4
-        },
-        {
-          "number": 11,
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "That's the worst round of golf I've played in months."
-            },
-            {
-              "speaker": "female",
-              "text": "You didn't do that badly."
-            },
-            {
-              "speaker": "male",
-              "text": "You're too nice. But I really struggled. My putting was terrible."
-            },
-            {
-              "speaker": "female",
-              "text": "Well, the wind was pretty strong."
-            },
-            {
-              "speaker": "male",
-              "text": "I'd like to blame my old clubs, but I feel like something is wrong with my form."
-            },
-            {
-              "speaker": "female",
-              "text": "Working with an instructor might not be a bad idea."
-            },
-            {
-              "speaker": "male",
-              "text": "Maybe you're right. I seem to have developed some bad habits."
-            },
-            {
-              "speaker": "female",
-              "text": "The professionals here at the club are reasonably priced."
-            },
-            {
-              "speaker": "male",
-              "text": "Really? I'll look into it."
-            }
-          ],
-          "question": "What does the woman suggest the man do?",
-          "choices": [
-            "Play golf with her more often.",
-            "Avoid playing golf on windy days.",
-            "Buy some new golf clubs.",
-            "Take golf lessons."
-          ],
-          "explanation": "女性はインストラクターと練習することを提案しています。",
-          "highlights": [
-            "Working with an instructor might not be a bad idea"
-          ],
-          "choiceAnalysis": "選択肢1「一緒にゴルフ」→言及なし。選択肢2「風の日を避ける」→言及なし。選択肢3「新しいクラブ」→フォームの問題。選択肢4「ゴルフレッスン」→正解。",
-          "audioFile": "audio/part1_q11.mp3",
-          "answer": 4
-        },
-        {
-          "number": 12,
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Hey Antonio! What are you doing here? I thought you'd found a job overseas."
-            },
-            {
-              "speaker": "male",
-              "text": "I did, but I'm home visiting my parents."
-            },
-            {
-              "speaker": "female",
-              "text": "They must be happy to see you. How long are you here for?"
-            },
-            {
-              "speaker": "male",
-              "text": "I go back to Turkey in a couple of days. Listen, I've got a few hours to kill before going to a concert. Do you want to get some lunch?"
-            },
-            {
-              "speaker": "female",
-              "text": "I'd love to, if you don't mind me running a few quick errands first."
-            },
-            {
-              "speaker": "male",
-              "text": "Not a problem. I'll come along and keep you company."
-            },
-            {
-              "speaker": "female",
-              "text": "Great. We have so much to catch up on."
-            }
-          ],
-          "question": "What is the man going to do next?",
-          "choices": [
-            "Visit his parents.",
-            "Wait at a restaurant.",
-            "Join the woman on her errands.",
-            "Get some tickets for the concert."
-          ],
-          "explanation": "男性は女性の用事に付き合うと言っています。",
-          "highlights": [
-            "I'll come along and keep you company"
-          ],
-          "choiceAnalysis": "選択肢1「両親を訪ねる」→既に訪問中。選択肢2「レストランで待つ」→一緒に行く。選択肢3「女性の用事に付き合う」→正解。選択肢4「チケットを買う」→コンサートは後で。",
-          "audioFile": "audio/part1_q12.mp3",
-          "answer": 3
+            "name": "第3部",
+            "nameEn": "Part 3",
+            "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
+            "questionRange": "No. 25 〜 No. 29",
+            "questions": [
+                {
+                    "number": 25,
+                    "situation": "You teach part-time at Sunset English School, but you are not available on Thursdays or Fridays. The school manager leaves you a voice mail.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Hi, it's Sylvester from Sunset. I'm calling about the advanced grammar course you're scheduled to teach on Mondays from next month. Unfortunately, only three students have signed up, and our minimum class size is five. So we have a couple of options. We could reschedule the advanced class for Thursdays, since two more students could attend then. The other option is to make your class an intermediate one. Most of the students available on Mondays are intermediate students. Finding another teacher at this point is not possible, so we appreciate your cooperation."
+                        }
+                    ],
+                    "question": "What should you do?",
+                    "choices": [
+                        "Teach the advanced class on another day.",
+                        "Wait a month before beginning the advanced class.",
+                        "Ask the school to find another teacher.",
+                        "Teach an intermediate class on Mondays."
+                    ],
+                    "explanation": "木曜・金曜は空いていない→木曜の上級クラスは不可。他の教師も見つからない。月曜に中級クラスを教えるのが唯一の選択肢。",
+                    "highlights": [
+                        "The other option is to make your class an intermediate one"
+                    ],
+                    "choiceAnalysis": "選択肢1「別の日に上級」→木曜は不可。選択肢2「1ヶ月待つ」→提案されていない。選択肢3「他の教師を探す」→不可能。選択肢4「月曜に中級」→正解。",
+                    "audioFile": "audio/part3_q25.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 26,
+                    "situation": "You call about a newspaper subscription. You want to read the daily news online and get printed copies of just the weekend edition.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "We offer several subscription options. The Net Special Plan provides unlimited access to daily news on our website for just $10 a month. Our Premium Plan adds access to online daily puzzles and leisure magazines. That's just $14 a month. Next, the Informed Plan includes the Net Special Plan and home delivery of the printed weekend edition for $20 a month. Finally, if you prefer reading all your news on paper, choose our Comprehensive Plan. You'll get delivery of our newspapers every day, plus unlimited access to our digital content for $30 a month."
+                        }
+                    ],
+                    "question": "Which plan should you choose?",
+                    "choices": [
+                        "The Net Special Plan.",
+                        "The Premium Plan.",
+                        "The Informed Plan.",
+                        "The Comprehensive Plan."
+                    ],
+                    "explanation": "オンラインで日刊ニュース＋週末版の印刷配達→Informed Plan（Net Special＋週末版印刷配達）が条件にぴったり。",
+                    "highlights": [
+                        "the Informed Plan includes the Net Special Plan and home delivery of the printed weekend edition"
+                    ],
+                    "choiceAnalysis": "選択肢1「Net Special」→オンラインのみ、印刷なし。選択肢2「Premium」→パズルと雑誌、印刷なし。選択肢3「Informed」→正解。選択肢4「Comprehensive」→毎日配達で過剰。",
+                    "audioFile": "audio/part3_q26.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 27,
+                    "situation": "You attend an orientation for first-year students at a UK university. You will study for a biology degree, and you already have a student ID card.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "OK, we'll now divide you into groups to receive academic guidance from the teaching staff in your specific department. Those in humanities and language departments should head to Vernal Hall. That's near the main building where you first checked in. Those studying for science degrees should go to Baxter Auditorium, located directly across from the entrance to this building. Engineering students can stay in this hall. Students who have still not received their student ID card should go back to the main building after their academic guidance meeting. You all have maps in your orientation packet if you need to check locations."
+                        }
+                    ],
+                    "question": "What should you do now?",
+                    "choices": [
+                        "Remain where you are.",
+                        "Go to Vernal Hall.",
+                        "Go to Baxter Auditorium.",
+                        "Return to the main building."
+                    ],
+                    "explanation": "生物学は理学部→Baxter Auditoriumに行く。学生証は既に持っている。",
+                    "highlights": [
+                        "Those studying for science degrees should go to Baxter Auditorium"
+                    ],
+                    "choiceAnalysis": "選択肢1「そのまま」→工学部向け。選択肢2「Vernal Hall」→人文・語学。選択肢3「Baxter Auditorium」→正解。理学部。選択肢4「本館」→学生証未取得者向け。",
+                    "audioFile": "audio/part3_q27.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 28,
+                    "situation": "You are at a bakery choosing a dessert for a dinner party you will host at home. You are allergic to dairy products, and one guest cannot eat nuts.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Let me tell you about our seasonal special. It's Peach Paradise Pie, which uses fresh peaches and authentic dairy custard—it's very creamy and absolutely heavenly! On the regular menu, the Stars-and-Stripes Apple Cake is a popular dessert this time of year, and it contains no dairy or nuts. Our biggest seller this month is Turtle Clusters. They're packed with caramel, hazelnuts, and pecan nuts. Last but not least, we have the Carrot Cake Delight, which has walnuts and raisins. It uses locally made butter, and our customers love it."
+                        }
+                    ],
+                    "question": "Which dessert should you choose?",
+                    "choices": [
+                        "The Peach Paradise Pie.",
+                        "The Stars-and-Stripes Apple Cake.",
+                        "The Turtle Clusters.",
+                        "The Carrot Cake Delight."
+                    ],
+                    "explanation": "乳製品アレルギー＋ゲストがナッツを食べられない。Peach Pie→乳製品。Turtle Clusters→ナッツ。Carrot Cake→バター（乳製品）とナッツ。Apple Cake→乳製品もナッツも含まない。",
+                    "highlights": [
+                        "the Stars-and-Stripes Apple Cake is a popular dessert this time of year, and it contains no dairy or nuts"
+                    ],
+                    "choiceAnalysis": "選択肢1「Peach Pie」→乳製品カスタード。選択肢2「Apple Cake」→正解。乳製品・ナッツなし。選択肢3「Turtle Clusters」→ナッツ入り。選択肢4「Carrot Cake」→バターとナッツ。",
+                    "audioFile": "audio/part3_q28.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 29,
+                    "situation": "You are an engineer. You want to change jobs but cannot accept a lower salary. A recruitment consultant tells you the following.",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "There's an opening at MasterTech. The job is similar to what you do now. It's a successful, well-run business, but they cannot match your current pay. Next up, Blau Industrial is looking for a senior engineer. Your experience definitely qualifies you, and you'd get a pay raise, too. Finally, QCS Systems has an opening. The salary at QCS can vary a lot based on bonuses. It's likely you'll earn less than you do now some years. I thought there'd be a job coming up with Redwin, but they've decided not to replace the engineer who's leaving."
+                        }
+                    ],
+                    "question": "Which company should you apply to?",
+                    "choices": [
+                        "MasterTech.",
+                        "Blau Industrial.",
+                        "QCS Systems.",
+                        "Redwin."
+                    ],
+                    "explanation": "給料が下がらないことが条件。MasterTech→現在の給料に合わない。QCS→年によって給料が下がる可能性。Redwin→募集なし。Blau Industrial→昇給あり。",
+                    "highlights": [
+                        "Blau Industrial is looking for a senior engineer",
+                        "you'd get a pay raise, too"
+                    ],
+                    "choiceAnalysis": "選択肢1「MasterTech」→給料が下がる。選択肢2「Blau Industrial」→正解。昇給。選択肢3「QCS」→給料が変動。選択肢4「Redwin」→募集なし。",
+                    "audioFile": "audio/part3_q29.mp3",
+                    "answer": 2
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "第2部",
-      "nameEn": "Part 2",
-      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-      "questionRange": "No. 13 〜 No. 24",
-      "questions": [
-        {
-          "number": 13,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Much of the world's gold was formed deep beneath the ground, but it's not always necessary to dig deep mines to find this valuable metal. A technique called placer mining is used to find gold in or near rivers. In this type of mining, machines are often used to collect water, sand, and small stones in huge containers. The materials are then shaken and the lighter substances fall out. Because gold is heavy, it will remain in the bottom of the containers."
-            }
-          ],
-          "question": "What technique does placer mining rely on?",
-          "choices": [
-            "Building dams to block rivers.",
-            "Digging deep beneath the ground.",
-            "Drilling holes in rocks.",
-            "Separating gold from lighter materials."
-          ],
-          "explanation": "砂金採掘は容器を振って軽い物質を落とし、重い金を底に残す技術です。",
-          "highlights": [
-            "The materials are then shaken and the lighter substances fall out. Because gold is heavy, it will remain"
-          ],
-          "choiceAnalysis": "選択肢1「ダム」→言及なし。選択肢2「深く掘る」→深く掘る必要がない。選択肢3「岩に穴」→言及なし。選択肢4「軽い物質から金を分離」→正解。",
-          "audioFile": "audio/part2_q13.mp3",
-          "answer": 4
-        },
-        {
-          "number": 14,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Some spots are better for placer mining than others. For example, gold is slowly washed downriver, but because it is heavy, it tends to build up where there is a sudden drop, such as at waterfalls. The falling water creates pools at the bottom of the waterfall that can trap significant amounts of gold. These are the areas that are of most interest to mining companies."
-            }
-          ],
-          "question": "Where are the best areas to find gold when placer mining?",
-          "choices": [
-            "Where the level of a river suddenly changes.",
-            "Where the current of a river is strongest.",
-            "Where a river suddenly becomes narrower.",
-            "Where a river is shallow and wide."
-          ],
-          "explanation": "滝のように急に落差がある場所に金が溜まりやすいです。",
-          "highlights": [
-            "it tends to build up where there is a sudden drop, such as at waterfalls"
-          ],
-          "choiceAnalysis": "選択肢1「川の水位が急に変わる場所」→正解。選択肢2「流れが最も強い」→言及なし。選択肢3「川が狭くなる」→言及なし。選択肢4「浅くて広い」→言及なし。",
-          "audioFile": "audio/part2_q14.mp3",
-          "answer": 1
-        },
-        {
-          "number": 15,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "A recent study by researchers has revealed new information about the eating habits of Neanderthals. Using DNA analysis techniques, the researchers compared substances found on the teeth of Neanderthals that lived in northern Spain with substances found on the teeth of Neanderthals in Belgium. The results showed that the Neanderthals in Belgium consumed mainly wild sheep and other mammals, while the Neanderthals in Spain had a plant-based diet."
-            }
-          ],
-          "question": "How were the Neanderthals in Belgium different from those in Spain?",
-          "choices": [
-            "The Belgian Neanderthals were more intelligent.",
-            "The Belgian Neanderthals ate mostly meat.",
-            "The Spanish Neanderthals tended to live longer.",
-            "The Spanish Neanderthals were better at fighting."
-          ],
-          "explanation": "ベルギーのネアンデルタール人は主に野生の羊などの哺乳類（肉）を食べ、スペインは植物中心でした。",
-          "highlights": [
-            "the Neanderthals in Belgium consumed mainly wild sheep and other mammals"
-          ],
-          "choiceAnalysis": "選択肢1「知能が高い」→言及なし。選択肢2「主に肉を食べた」→正解。選択肢3「スペインが長寿」→言及なし。選択肢4「戦闘能力」→言及なし。",
-          "audioFile": "audio/part2_q15.mp3",
-          "answer": 2
-        },
-        {
-          "number": 16,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The researchers also found evidence that a Neanderthal in Spain was suffering from a stomach illness and an infected tooth. DNA from pain-relieving plants was found between his teeth. The researchers believe this indicates that Neanderthals knew that such plants could be used to help reduce pain. If true, it seems that Neanderthals were both more sophisticated and better able to take advantage of their environment than previously thought."
-            }
-          ],
-          "question": "What is one thing the researchers believe about the Neanderthals in Spain?",
-          "choices": [
-            "They were very few in number.",
-            "They caught few diseases.",
-            "They treated some of their own health problems.",
-            "They rarely suffered from stomach problems."
-          ],
-          "explanation": "痛みを和らげる植物のDNAが歯から発見され、自分で健康問題に対処していたと考えられています。",
-          "highlights": [
-            "Neanderthals knew that such plants could be used to help reduce pain"
-          ],
-          "choiceAnalysis": "選択肢1「少数」→言及なし。選択肢2「病気にかからない」→胃の病気にかかっていた。選択肢3「自分で健康問題に対処」→正解。選択肢4「胃の問題が少ない」→胃の病気があった。",
-          "audioFile": "audio/part2_q16.mp3",
-          "answer": 3
-        },
-        {
-          "number": 17,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Elisabeth Amalie Eugenie, commonly known as \"Sisi,\" became the empress of Austria when she married the country's emperor in 1854. However, Sisi had little interest in the duties of royalty, such as ceremonies and policy discussions. She began traveling to escape court life, but this angered her powerful mother-in-law, who considered Sisi's behavior inappropriate for an empress."
-            }
-          ],
-          "question": "What is one thing we learn about Sisi?",
-          "choices": [
-            "She rarely disagreed with her husband.",
-            "She had always wanted to become empress.",
-            "She tried to avoid some of her royal duties.",
-            "She relied on support from her mother-in-law."
-          ],
-          "explanation": "シシは王室の義務にほとんど興味がなく、宮廷生活から逃れるために旅に出ました。",
-          "highlights": [
-            "Sisi had little interest in the duties of royalty",
-            "She began traveling to escape court life"
-          ],
-          "choiceAnalysis": "選択肢1「夫と対立しない」→言及なし。選択肢2「皇后になりたかった」→興味がなかった。選択肢3「王室の義務を避けた」→正解。選択肢4「義母に頼った」→義母は怒った。",
-          "audioFile": "audio/part2_q17.mp3",
-          "answer": 3
-        },
-        {
-          "number": 18,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "On her travels, Sisi developed a strong relationship with the people of Hungary. At the time, Hungary was ruled by Austria, and Sisi felt that the Hungarians were treated unfairly. When she was back in Austria, she campaigned for Hungarians to have more legal rights and helped them achieve some level of independence from Austria. Sisi was also interested in mental health, and she campaigned for improved care for mentally ill patients. She even asked for the construction of a hospital as a present from her husband."
-            }
-          ],
-          "question": "What was one way Sisi helped the Hungarian people?",
-          "choices": [
-            "She volunteered at a hospital in Hungary.",
-            "She donated all her wealth to them.",
-            "She helped to improve their legal situation.",
-            "She made it easier for them to enter Austria."
-          ],
-          "explanation": "シシはハンガリー人がより多くの法的権利を持てるよう運動しました。",
-          "highlights": [
-            "she campaigned for Hungarians to have more legal rights"
-          ],
-          "choiceAnalysis": "選択肢1「病院でボランティア」→言及なし。選択肢2「財産を寄付」→言及なし。選択肢3「法的状況を改善」→正解。選択肢4「オーストリア入国を容易に」→言及なし。",
-          "audioFile": "audio/part2_q18.mp3",
-          "answer": 3
-        },
-        {
-          "number": 19,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "In recent years, standing meetings have become more popular at many companies. To study the effects of such meetings, researchers at the University of Missouri conducted an experiment in which participants did group problem-solving exercises while either standing or sitting down. The researchers had predicted that the standing groups would rush and make poor decisions. Although the standing groups did take less time to complete their tasks, their decisions were mostly the same as those of the sitting groups."
-            }
-          ],
-          "question": "What did the University of Missouri study reveal?",
-          "choices": [
-            "Standing meetings took longer than sit-down meetings.",
-            "Standing meetings had little impact on decisions.",
-            "Participants preferred sit-down meetings.",
-            "Sit-down meetings helped people to be creative."
-          ],
-          "explanation": "立ってミーティングをしても意思決定の質はほとんど変わりませんでした。",
-          "highlights": [
-            "their decisions were mostly the same as those of the sitting groups"
-          ],
-          "choiceAnalysis": "選択肢1「立って会議の方が長い」→短かった。選択肢2「意思決定にほとんど影響なし」→正解。選択肢3「座る方が好まれた」→言及なし。選択肢4「座ると創造的」→言及なし。",
-          "audioFile": "audio/part2_q19.mp3",
-          "answer": 2
-        },
-        {
-          "number": 20,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Standing meetings have their critics, however. Business consultant Bob Frisch argues that when people are standing, the physical differences between them become more important. This can lead to shorter people feeling nervous and therefore being less likely to share their thoughts. Additionally, young people's greater physical stamina could give them an advantage if a negotiation during a standing meeting becomes lengthy."
-            }
-          ],
-          "question": "What is one criticism Bob Frisch has of standing meetings?",
-          "choices": [
-            "They may be unfair to some participants.",
-            "They can encourage people to be too casual.",
-            "They may harm young people's physical health.",
-            "They can lead to lengthier negotiations."
-          ],
-          "explanation": "背の低い人が緊張して意見を言いにくくなるなど、参加者間の公平性に問題があると指摘しています。",
-          "highlights": [
-            "shorter people feeling nervous and therefore being less likely to share their thoughts"
-          ],
-          "choiceAnalysis": "選択肢1「一部の参加者に不公平」→正解。選択肢2「カジュアルになりすぎる」→言及なし。選択肢3「健康に害」→言及なし。選択肢4「交渉が長引く」→若者に有利になるだけ。",
-          "audioFile": "audio/part2_q20.mp3",
-          "answer": 1
-        },
-        {
-          "number": 21,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "When most people think about the settling of the American West, they imagine people crossing the country in wagons pulled by horses. However, the mule, an animal created by breeding a female horse with a male donkey, was preferred by pioneers. Mules are strong but weigh less and eat less than horses. They also suffer fewer leg injuries, and they can see things to the side more easily. Pioneers found that these characteristics made mules more suitable for traveling over ground that was steep, uneven, or rocky."
-            }
-          ],
-          "question": "What is one thing we learn about mules?",
-          "choices": [
-            "They eat more than horses.",
-            "They can move over difficult ground.",
-            "They cannot pull heavy wagons.",
-            "They have relatively poor eyesight."
-          ],
-          "explanation": "ラバは急な、平らでない、岩の多い地形の移動に適していました。",
-          "highlights": [
-            "mules more suitable for traveling over ground that was steep, uneven, or rocky"
-          ],
-          "choiceAnalysis": "選択肢1「馬より食べる」→食べない。選択肢2「困難な地形を移動できる」→正解。選択肢3「重い荷馬車を引けない」→引けた。選択肢4「視力が悪い」→側方視が良い。",
-          "audioFile": "audio/part2_q21.mp3",
-          "answer": 2
-        },
-        {
-          "number": 22,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "One disadvantage, however, was that, unlike horses, which follow almost any command given to them, mules generally do what they want. For example, wagon drivers often experienced great difficulties in getting mules to cross rivers that the animals thought might be dangerous. Despite this disadvantage, westward journeys would have been nearly impossible without them."
-            }
-          ],
-          "question": "Why was using mules problematic?",
-          "choices": [
-            "They sometimes attacked wagon drivers.",
-            "They often suffered leg injuries.",
-            "They required large amounts of water.",
-            "They sometimes refused to obey orders."
-          ],
-          "explanation": "ラバは自分のやりたいことをするため、危険だと思う川を渡らせるのが困難でした。",
-          "highlights": [
-            "mules generally do what they want",
-            "great difficulties in getting mules to cross rivers"
-          ],
-          "choiceAnalysis": "選択肢1「御者を攻撃」→言及なし。選択肢2「脚をケガ」→ケガが少ない。選択肢3「大量の水」→言及なし。選択肢4「命令に従わない」→正解。",
-          "audioFile": "audio/part2_q22.mp3",
-          "answer": 4
-        },
-        {
-          "number": 23,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Steve Jobs, the founder of Apple Inc., had a role model named Edwin Land. Land founded a camera company called Polaroid that was well-known when Jobs was growing up. Jobs agreed with many of Land's ideas. For example, Jobs often said, \"Customers don't know what they want until we've shown them.\" This was a concept he learned from Land. Both Jobs and Land thought that conducting market research on consumer preferences was pointless. They believed companies should make totally new and interesting products their customers had never dreamed of."
-            }
-          ],
-          "question": "What was one belief held by Steve Jobs and Edwin Land?",
-          "choices": [
-            "Customers want products that last.",
-            "Market research is unnecessary.",
-            "Advertising should explain concepts simply.",
-            "Products should be made from recycled materials."
-          ],
-          "explanation": "二人とも消費者調査は無意味だと考え、顧客が夢にも思わない全く新しい製品を作るべきだと信じていました。",
-          "highlights": [
-            "conducting market research on consumer preferences was pointless"
-          ],
-          "choiceAnalysis": "選択肢1「長持ちする製品」→言及なし。選択肢2「市場調査は不要」→正解。選択肢3「広告をシンプルに」→言及なし。選択肢4「リサイクル素材」→言及なし。",
-          "audioFile": "audio/part2_q23.mp3",
-          "answer": 2
-        },
-        {
-          "number": 24,
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Both Jobs and Land were also famous for trying to make even minor design details of their products perfect. Land, for example, spent so much money on product development that financial experts warned against investing in Polaroid's stock. However, his products were thought to be beautifully designed and his company became highly profitable."
-            }
-          ],
-          "question": "What were both Jobs and Land famous for?",
-          "choices": [
-            "Focusing on design details.",
-            "Listening to advice from financial experts.",
-            "Keeping investors happy.",
-            "Sharing technology with each other."
-          ],
-          "explanation": "二人は製品の細かいデザインまで完璧にすることで有名でした。",
-          "highlights": [
-            "famous for trying to make even minor design details of their products perfect"
-          ],
-          "choiceAnalysis": "選択肢1「デザインの細部にこだわる」→正解。選択肢2「専門家の助言を聞く」→無視した。選択肢3「投資家を喜ばせる」→投資を心配させた。選択肢4「技術共有」→言及なし。",
-          "audioFile": "audio/part2_q24.mp3",
-          "answer": 1
-        }
-      ]
-    },
-    {
-      "name": "第3部",
-      "nameEn": "Part 3",
-      "description": "現実の場面を想定したリスニング問題です。音声を聞き、最も適切な答えを選んでください。",
-      "questionRange": "No. 25 〜 No. 29",
-      "questions": [
-        {
-          "number": 25,
-          "situation": "You teach part-time at Sunset English School, but you are not available on Thursdays or Fridays. The school manager leaves you a voice mail.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Hi, it's Sylvester from Sunset. I'm calling about the advanced grammar course you're scheduled to teach on Mondays from next month. Unfortunately, only three students have signed up, and our minimum class size is five. So we have a couple of options. We could reschedule the advanced class for Thursdays, since two more students could attend then. The other option is to make your class an intermediate one. Most of the students available on Mondays are intermediate students. Finding another teacher at this point is not possible, so we appreciate your cooperation."
-            }
-          ],
-          "question": "What should you do?",
-          "choices": [
-            "Teach the advanced class on another day.",
-            "Wait a month before beginning the advanced class.",
-            "Ask the school to find another teacher.",
-            "Teach an intermediate class on Mondays."
-          ],
-          "explanation": "木曜・金曜は空いていない→木曜の上級クラスは不可。他の教師も見つからない。月曜に中級クラスを教えるのが唯一の選択肢。",
-          "highlights": [
-            "The other option is to make your class an intermediate one"
-          ],
-          "choiceAnalysis": "選択肢1「別の日に上級」→木曜は不可。選択肢2「1ヶ月待つ」→提案されていない。選択肢3「他の教師を探す」→不可能。選択肢4「月曜に中級」→正解。",
-          "audioFile": "audio/part3_q25.mp3",
-          "answer": 4
-        },
-        {
-          "number": 26,
-          "situation": "You call about a newspaper subscription. You want to read the daily news online and get printed copies of just the weekend edition.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "We offer several subscription options. The Net Special Plan provides unlimited access to daily news on our website for just $10 a month. Our Premium Plan adds access to online daily puzzles and leisure magazines. That's just $14 a month. Next, the Informed Plan includes the Net Special Plan and home delivery of the printed weekend edition for $20 a month. Finally, if you prefer reading all your news on paper, choose our Comprehensive Plan. You'll get delivery of our newspapers every day, plus unlimited access to our digital content for $30 a month."
-            }
-          ],
-          "question": "Which plan should you choose?",
-          "choices": [
-            "The Net Special Plan.",
-            "The Premium Plan.",
-            "The Informed Plan.",
-            "The Comprehensive Plan."
-          ],
-          "explanation": "オンラインで日刊ニュース＋週末版の印刷配達→Informed Plan（Net Special＋週末版印刷配達）が条件にぴったり。",
-          "highlights": [
-            "the Informed Plan includes the Net Special Plan and home delivery of the printed weekend edition"
-          ],
-          "choiceAnalysis": "選択肢1「Net Special」→オンラインのみ、印刷なし。選択肢2「Premium」→パズルと雑誌、印刷なし。選択肢3「Informed」→正解。選択肢4「Comprehensive」→毎日配達で過剰。",
-          "audioFile": "audio/part3_q26.mp3",
-          "answer": 3
-        },
-        {
-          "number": 27,
-          "situation": "You attend an orientation for first-year students at a UK university. You will study for a biology degree, and you already have a student ID card.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "OK, we'll now divide you into groups to receive academic guidance from the teaching staff in your specific department. Those in humanities and language departments should head to Vernal Hall. That's near the main building where you first checked in. Those studying for science degrees should go to Baxter Auditorium, located directly across from the entrance to this building. Engineering students can stay in this hall. Students who have still not received their student ID card should go back to the main building after their academic guidance meeting. You all have maps in your orientation packet if you need to check locations."
-            }
-          ],
-          "question": "What should you do now?",
-          "choices": [
-            "Remain where you are.",
-            "Go to Vernal Hall.",
-            "Go to Baxter Auditorium.",
-            "Return to the main building."
-          ],
-          "explanation": "生物学は理学部→Baxter Auditoriumに行く。学生証は既に持っている。",
-          "highlights": [
-            "Those studying for science degrees should go to Baxter Auditorium"
-          ],
-          "choiceAnalysis": "選択肢1「そのまま」→工学部向け。選択肢2「Vernal Hall」→人文・語学。選択肢3「Baxter Auditorium」→正解。理学部。選択肢4「本館」→学生証未取得者向け。",
-          "audioFile": "audio/part3_q27.mp3",
-          "answer": 3
-        },
-        {
-          "number": 28,
-          "situation": "You are at a bakery choosing a dessert for a dinner party you will host at home. You are allergic to dairy products, and one guest cannot eat nuts.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Let me tell you about our seasonal special. It's Peach Paradise Pie, which uses fresh peaches and authentic dairy custard—it's very creamy and absolutely heavenly! On the regular menu, the Stars-and-Stripes Apple Cake is a popular dessert this time of year, and it contains no dairy or nuts. Our biggest seller this month is Turtle Clusters. They're packed with caramel, hazelnuts, and pecan nuts. Last but not least, we have the Carrot Cake Delight, which has walnuts and raisins. It uses locally made butter, and our customers love it."
-            }
-          ],
-          "question": "Which dessert should you choose?",
-          "choices": [
-            "The Peach Paradise Pie.",
-            "The Stars-and-Stripes Apple Cake.",
-            "The Turtle Clusters.",
-            "The Carrot Cake Delight."
-          ],
-          "explanation": "乳製品アレルギー＋ゲストがナッツを食べられない。Peach Pie→乳製品。Turtle Clusters→ナッツ。Carrot Cake→バター（乳製品）とナッツ。Apple Cake→乳製品もナッツも含まない。",
-          "highlights": [
-            "the Stars-and-Stripes Apple Cake is a popular dessert this time of year, and it contains no dairy or nuts"
-          ],
-          "choiceAnalysis": "選択肢1「Peach Pie」→乳製品カスタード。選択肢2「Apple Cake」→正解。乳製品・ナッツなし。選択肢3「Turtle Clusters」→ナッツ入り。選択肢4「Carrot Cake」→バターとナッツ。",
-          "audioFile": "audio/part3_q28.mp3",
-          "answer": 2
-        },
-        {
-          "number": 29,
-          "situation": "You are an engineer. You want to change jobs but cannot accept a lower salary. A recruitment consultant tells you the following.",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "There's an opening at MasterTech. The job is similar to what you do now. It's a successful, well-run business, but they cannot match your current pay. Next up, Blau Industrial is looking for a senior engineer. Your experience definitely qualifies you, and you'd get a pay raise, too. Finally, QCS Systems has an opening. The salary at QCS can vary a lot based on bonuses. It's likely you'll earn less than you do now some years. I thought there'd be a job coming up with Redwin, but they've decided not to replace the engineer who's leaving."
-            }
-          ],
-          "question": "Which company should you apply to?",
-          "choices": [
-            "MasterTech.",
-            "Blau Industrial.",
-            "QCS Systems.",
-            "Redwin."
-          ],
-          "explanation": "給料が下がらないことが条件。MasterTech→現在の給料に合わない。QCS→年によって給料が下がる可能性。Redwin→募集なし。Blau Industrial→昇給あり。",
-          "highlights": [
-            "Blau Industrial is looking for a senior engineer",
-            "you'd get a pay raise, too"
-          ],
-          "choiceAnalysis": "選択肢1「MasterTech」→給料が下がる。選択肢2「Blau Industrial」→正解。昇給。選択肢3「QCS」→給料が変動。選択肢4「Redwin」→募集なし。",
-          "audioFile": "audio/part3_q29.mp3",
-          "answer": 2
-        }
-      ]
-    }
-  ]
+    ]
 }

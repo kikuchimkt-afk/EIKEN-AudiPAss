@@ -1,959 +1,959 @@
 {
-  "title": "英検準1級 2020年度 第3回",
-  "grade": "準1級",
-  "gradeId": "grade-pre1",
-  "year": "2020年度",
-  "examNumber": "第3回",
-  "examId": "2020-3",
-  "parts": [
-    {
-      "name": "第1部",
-      "nameEn": "Part 1",
-      "description": "会話を聞いて、質問に対する最も適切な答えを選ぶ形式です。",
-      "questionRange": "No. 1 〜 No. 12",
-      "questions": [
+    "title": "英検準1級 2020年度 第3回",
+    "grade": "準1級",
+    "gradeId": "grade-pre1",
+    "year": "2020年度",
+    "examNumber": "第3回",
+    "examId": "2020-3",
+    "parts": [
         {
-          "number": 1,
-          "audioFile": "audio/part1_q01.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "That was a great movie, Joe. Thanks for bringing me."
-            },
-            {
-              "speaker": "male",
-              "text": "Glad you enjoyed it. Uh-oh, it's raining hard. You didn't bring an umbrella, did you?"
-            },
-            {
-              "speaker": "female",
-              "text": "No. So much for walking to the restaurant! Isn't there a subway station two blocks away?"
-            },
-            {
-              "speaker": "male",
-              "text": "Yes, but we'll get soaking wet in this rain. Let's call a cab."
-            },
-            {
-              "speaker": "female",
-              "text": "We may have to wait a while for them to send one in this weather."
-            },
-            {
-              "speaker": "male",
-              "text": "It's better than getting rained on."
-            },
-            {
-              "speaker": "female",
-              "text": "That's true."
-            }
-          ],
-          "question": "What will the couple do next?",
-          "choices": [
-            "Phone for a taxi.",
-            "Walk to the restaurant.",
-            "Wait for the rain to stop.",
-            "Take the subway."
-          ],
-          "answer": 1,
-          "explanation": "男性が「タクシーを呼ぼう」と提案し、女性も同意しています。雨が激しく歩くのは無理で、地下鉄駅まで2ブロックでも濡れるため。",
-          "highlights": [
-            "Let's call a cab",
-            "we'll get soaking wet in this rain"
-          ],
-          "choiceAnalysis": "選択肢1「タクシーを呼ぶ」→正解。男性が提案し女性も同意。選択肢2「レストランまで歩く」→雨で断念。選択肢3「雨が止むのを待つ」→タクシーを選択。選択肢4「地下鉄に乗る」→濡れるので却下。"
+            "name": "第1部",
+            "nameEn": "Part 1",
+            "description": "会話を聞いて、質問に対する最も適切な答えを選ぶ形式です。",
+            "questionRange": "No. 1 〜 No. 12",
+            "questions": [
+                {
+                    "number": 1,
+                    "audioFile": "audio/part1_q01.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "That was a great movie, Joe. Thanks for bringing me."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Glad you enjoyed it. Uh-oh, it's raining hard. You didn't bring an umbrella, did you?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No. So much for walking to the restaurant! Isn't there a subway station two blocks away?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes, but we'll get soaking wet in this rain. Let's call a cab."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "We may have to wait a while for them to send one in this weather."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "It's better than getting rained on."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "That's true."
+                        }
+                    ],
+                    "question": "What will the couple do next?",
+                    "choices": [
+                        "Phone for a taxi.",
+                        "Walk to the restaurant.",
+                        "Wait for the rain to stop.",
+                        "Take the subway."
+                    ],
+                    "answer": 1,
+                    "explanation": "男性が「タクシーを呼ぼう」と提案し、女性も同意しています。雨が激しく歩くのは無理で、地下鉄駅まで2ブロックでも濡れるため。",
+                    "highlights": [
+                        "Let's call a cab",
+                        "we'll get soaking wet in this rain"
+                    ],
+                    "choiceAnalysis": "選択肢1「タクシーを呼ぶ」→正解。男性が提案し女性も同意。選択肢2「レストランまで歩く」→雨で断念。選択肢3「雨が止むのを待つ」→タクシーを選択。選択肢4「地下鉄に乗る」→濡れるので却下。"
+                },
+                {
+                    "number": 2,
+                    "audioFile": "audio/part1_q02.mp3",
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "My tooth is killing me!"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "When did you last see a dentist, honey?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Maybe a few years ago. I never seem to have the time."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "And look where that's gotten you! Well, Dr. Prashad opens at 8:30, but she's always busy in the mornings, so you'd have to wait a while. Or you could take the afternoon off."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I have an important meeting after lunch, so that's out. I'll just have to go to the office late this morning."
+                        }
+                    ],
+                    "question": "What will the man probably do?",
+                    "choices": [
+                        "Cancel his meeting.",
+                        "Take the afternoon off.",
+                        "Wait to see if the pain decreases.",
+                        "Go to the dentist this morning."
+                    ],
+                    "answer": 4,
+                    "explanation": "男性は午後に重要な会議があるので午後は取れず、朝Dr. Prashad（8:30開院）に行くことにしました。朝は混んでいるが待つ覚悟です。",
+                    "highlights": [
+                        "I have an important meeting after lunch, so that's out",
+                        "I'll just have to go to the office late this morning"
+                    ],
+                    "choiceAnalysis": "選択肢1「会議をキャンセル」→言及なし。選択肢2「午後休を取る」→会議があるので不可。選択肢3「痛みが減るか様子を見る」→すぐ行く。選択肢4「今朝歯医者へ」→正解。朝遅刻して受診を選択。"
+                },
+                {
+                    "number": 3,
+                    "audioFile": "audio/part1_q03.mp3",
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "I can't believe this heat wave—over 35 degrees for 10 days straight."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I think this must be a record. Global warming is really kicking in."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I wouldn't go that far. The world's climate has always gone through cycles."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "This is no cycle. Scientists say it's pollution, and it's getting worse."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "They'll all be proven wrong in another 100 years."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I hope you're right!"
+                        }
+                    ],
+                    "question": "What does the woman think?",
+                    "choices": [
+                        "Scientists often make wrong predictions.",
+                        "Pollution levels do not affect the weather.",
+                        "The high temperatures are nothing to worry about.",
+                        "The heat wave is related to global warming."
+                    ],
+                    "answer": 4,
+                    "explanation": "女性は猛暑が地球温暖化の影響だと確信しており、科学者も汚染が原因で悪化していると述べていると主張しています。",
+                    "highlights": [
+                        "Global warming is really kicking in",
+                        "Scientists say it's pollution, and it's getting worse"
+                    ],
+                    "choiceAnalysis": "選択肢1「科学者はよく間違った予測をする」→男性の意見。選択肢2「汚染は天候に影響しない」→女性は逆の主張。選択肢3「高温は心配ない」→男性の立場。選択肢4「猛暑は地球温暖化に関連」→正解。女性の主張。"
+                },
+                {
+                    "number": 4,
+                    "audioFile": "audio/part1_q04.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Peter, some of the parents at the kids' playgroup are talking about having another picnic."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Sounds like fun. Let me know when you've decided on a date."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Actually, we were wondering if you could organize it."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That depends on when you have in mind. I'm away on business for a week this month."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Either Saturday the 14th or the 21st."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Hmm... The 14th should be OK. How does Fairfield Park sound?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Perfect. The kids love the jungle gym there."
+                        }
+                    ],
+                    "question": "What does the woman ask the man to do?",
+                    "choices": [
+                        "Change the dates of his business trip.",
+                        "Arrange a picnic for the playgroup.",
+                        "Find a park with a jungle gym.",
+                        "Give her directions to Fairfield Park."
+                    ],
+                    "answer": 2,
+                    "explanation": "女性はplaygroup のピクニックの企画を夫に依頼しています。日程調整やFairfield Parkの提案など段取りを頼んでいます。",
+                    "highlights": [
+                        "we were wondering if you could organize it",
+                        "How does Fairfield Park sound?"
+                    ],
+                    "choiceAnalysis": "選択肢1「出張日程を変更する」→言及なし。選択肢2「ピクニックを企画する」→正解。女性がピクニックの企画を依頼。選択肢3「ジャングルジムのある公園を探す」→すでにFairfield Park提案。選択肢4「Fairfield Parkへの道順を教える」→言及なし。"
+                },
+                {
+                    "number": 5,
+                    "audioFile": "audio/part1_q05.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "We have so many things to throw away before we move!"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Let's have another yard sale."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "We only made a little money with the last one. The newspaper ad was expensive, and the sale took up so much time."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Well, even a little extra cash would help."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "It's not worth it, considering all the other stuff we need to do before we move."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yeah, I guess you're right. Let's just give what we don't need to charity."
+                        }
+                    ],
+                    "question": "What do we learn about the woman?",
+                    "choices": [
+                        "She does not want to give their things to charity.",
+                        "She does not want to have another yard sale.",
+                        "She wants to change the moving date.",
+                        "She wants to advertise in the newspaper."
+                    ],
+                    "answer": 2,
+                    "explanation": "女性は前回のヤードセールで新聞広告が高く手間もかかった割に少ししか稼げなかったので、もう一度やりたくないと言っています。",
+                    "highlights": [
+                        "We only made a little money with the last one",
+                        "It's not worth it"
+                    ],
+                    "choiceAnalysis": "選択肢1「チャリティーに出したくない」→最終的にチャリティーに同意。選択肢2「またヤードセールをしたくない」→正解。手間と効果が見合わない。選択肢3「引越し日を変えたい」→言及なし。選択肢4「新聞に広告を出したい」→広告が高かったと不満。"
+                },
+                {
+                    "number": 6,
+                    "audioFile": "audio/part1_q06.mp3",
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hi, Peggy. What's the matter?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I almost didn't make it to work today. My babysitter cancelled."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Again? Gosh, she doesn't sound very reliable."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "She's not, but I haven't found a new sitter yet. I had to leave the baby with a friend."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Hey, you know my sister Carol? She's great with kids, and she's looking for extra work. Shall I give you her number?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Thanks. Let me just grab a pen and some paper."
+                        }
+                    ],
+                    "question": "What does the man suggest to Peggy?",
+                    "choices": [
+                        "That she call his sister.",
+                        "That she ask a friend for help.",
+                        "That she start work later.",
+                        "That she take care of Carol's kids."
+                    ],
+                    "answer": 1,
+                    "explanation": "男性は妹のCarolが子供の面倒を見るのが上手で追加の仕事を探しているので、Peggyに電話番号を教えると提案しています。つまり妹に電話するよう勧めています。",
+                    "highlights": [
+                        "my sister Carol? She's great with kids, and she's looking for extra work",
+                        "Shall I give you her number?"
+                    ],
+                    "choiceAnalysis": "選択肢1「妹に電話する」→正解。Carolの番号を教えるので電話するよう提案。選択肢2「友人に助けを求める」→友人は一時的な対応。選択肢3「仕事を遅く始める」→言及なし。選択肢4「Carolの子供の面倒を見る」→逆、CarolがPeggyの子供を見る。"
+                },
+                {
+                    "number": 7,
+                    "audioFile": "audio/part1_q07.mp3",
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Ms. Hattori, have those textbooks we ordered arrived yet?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No, they haven't. I called Mr. Abe, their sales rep, yesterday and he says his records show that they were shipped last Friday."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I see. Then could you please contact the delivery service and have them track the order?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I did that right after I spoke with Mr. Abe. The delivery people said they'd check their records and get back to us ASAP."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Alright. Keep me informed. I really need those books."
+                        }
+                    ],
+                    "question": "What is the status of the order?",
+                    "choices": [
+                        "It will arrive no later than Friday.",
+                        "It is being looked into.",
+                        "It was sent back to the manufacturer.",
+                        "It has not yet been shipped."
+                    ],
+                    "answer": 2,
+                    "explanation": "テキストは出荷済みだが届いていないため、配送業者に追跡を依頼し、調査中で回答待ちの状態です。",
+                    "highlights": [
+                        "they were shipped last Friday",
+                        "The delivery people said they'd check their records and get back to us"
+                    ],
+                    "choiceAnalysis": "選択肢1「金曜までに届く」→言及なし。選択肢2「調査中」→正解。配送業者が記録を確認中。選択肢3「メーカーに返送された」→言及なし。選択肢4「まだ出荷されていない」→出荷済み。"
+                },
+                {
+                    "number": 8,
+                    "audioFile": "audio/part1_q08.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "What happened to Ray? I haven't seen him for a while."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "He quit his teaching job and opened up a restaurant in San Francisco."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "You're kidding! What a switch! He's always been into teaching."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I know. It was all so sudden that I didn't even get the chance to say good-bye."
+                        }
+                    ],
+                    "question": "What happened to Ray?",
+                    "choices": [
+                        "He is now working as a teacher.",
+                        "He quit his restaurant job.",
+                        "He started a new career.",
+                        "He went back to school."
+                    ],
+                    "answer": 3,
+                    "explanation": "Rayは教師の仕事を辞めて、サンフランシスコでレストランを開きました。全く新しいキャリアを始めたのです。",
+                    "highlights": [
+                        "He quit his teaching job and opened up a restaurant",
+                        "What a switch!"
+                    ],
+                    "choiceAnalysis": "選択肢1「教師として働いている」→辞めた。選択肢2「レストランの仕事を辞めた」→教師を辞めた。選択肢3「新しいキャリアを始めた」→正解。教師からレストラン経営へ転身。選択肢4「学校に戻った」→言及なし。"
+                },
+                {
+                    "number": 9,
+                    "audioFile": "audio/part1_q09.mp3",
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hi, Charlene. How's life on the 10th floor? Have you settled into your new office yet?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Getting there. I still have some boxes to unpack, though."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Too bad they moved your project team. It was more convenient having you on the 6th floor with us."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "True, but the new space is much bigger and brighter. I know we have to meet with you guys regularly, but there are only a few floors between us."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I guess it'll be good exercise if we use the stairs!"
+                        }
+                    ],
+                    "question": "What does the woman imply?",
+                    "choices": [
+                        "She will soon start work on a bigger project.",
+                        "She prefers her new office space.",
+                        "She wants her staff to hold fewer meetings.",
+                        "She is looking for a new office."
+                    ],
+                    "answer": 2,
+                    "explanation": "女性は新しいオフィスが広くて明るいと述べ、移動の不便さはあるが新スペースを気に入っている様子です。",
+                    "highlights": [
+                        "the new space is much bigger and brighter",
+                        "there are only a few floors between us"
+                    ],
+                    "choiceAnalysis": "選択肢1「大きなプロジェクトに取りかかる」→言及なし。選択肢2「新しいオフィスの方が好き」→正解。広くて明るいと好感。選択肢3「会議を減らしたい」→言及なし。選択肢4「新しいオフィスを探している」→すでに移動済み。"
+                },
+                {
+                    "number": 10,
+                    "audioFile": "audio/part1_q10.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "What's up, Rick? You look frustrated."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I'm trying to put together my presentation for Friday's class."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Right, you told me about that. Not going well?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Not really. I don't have much experience giving presentations, and the topic the instructor assigned is pretty dull."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "He doesn't let you choose your own topic?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "After the first presentation, he does. I guess I'll just have to suffer through this one."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Let me know if you want some help."
+                        }
+                    ],
+                    "question": "What is one problem the man has?",
+                    "choices": [
+                        "The class instructor is likely to fail him.",
+                        "He is concerned he will not meet the deadline.",
+                        "The woman refused to practice with him.",
+                        "He is not used to making presentations."
+                    ],
+                    "answer": 4,
+                    "explanation": "男性はプレゼンの経験があまりなく、割り当てられたトピックもつまらないと苦戦しています。最初のプレゼンは自由にトピックを選べません。",
+                    "highlights": [
+                        "I don't have much experience giving presentations",
+                        "the topic the instructor assigned is pretty dull"
+                    ],
+                    "choiceAnalysis": "選択肢1「講師に不合格にされそう」→言及なし。選択肢2「期限に間に合わないか心配」→言及なし。選択肢3「女性が練習を断った」→言及なし。選択肢4「プレゼンに慣れていない」→正解。経験不足を述べている。"
+                },
+                {
+                    "number": 11,
+                    "audioFile": "audio/part1_q11.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Romesh, I'd like a word with you about the new file clerk."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "You mean Brent? He seems to work hard, and he's friendly enough, isn't he?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Well, that may be, but I heard he was fired from his last position. Were his references checked thoroughly?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I assume so. It's standard procedure. Anyway, if his performance is adequate, let's leave well enough alone for now. We've got too much on our plates as is."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I suppose you're right."
+                        }
+                    ],
+                    "question": "What does the man imply?",
+                    "choices": [
+                        "The woman should hire more staff.",
+                        "The new file clerk might be dismissed.",
+                        "The procedure for hiring staff is outdated.",
+                        "The woman is too concerned about Brent."
+                    ],
+                    "answer": 4,
+                    "explanation": "男性はBrentの業績が十分なら問題にするべきではない、今は他に忙しいことがたくさんあると言い、女性がBrentを気にしすぎだと示唆しています。",
+                    "highlights": [
+                        "if his performance is adequate, let's leave well enough alone",
+                        "We've got too much on our plates as is"
+                    ],
+                    "choiceAnalysis": "選択肢1「もっとスタッフを雇うべき」→言及なし。選択肢2「新しいファイル係が解雇されるかも」→言及なし。選択肢3「スタッフ採用手続きが古い」→言及なし。選択肢4「女性がBrentを気にしすぎ」→正解。問題ないなら放っておくべきと示唆。"
+                },
+                {
+                    "number": 12,
+                    "audioFile": "audio/part1_q12.mp3",
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I got some bad news about our car insurance."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Is the company raising the fee?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah, to $200 a month!"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Wow! I knew we'd be penalized after my accident, but that's pretty steep."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah. I guess it will go back down eventually, but maybe we should consider switching companies."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I doubt it's worth it. We'd probably pay the same or even more. I'd get rid of the car if I didn't need it for work."
+                        }
+                    ],
+                    "question": "What will the couple probably do?",
+                    "choices": [
+                        "Attempt to sell the car.",
+                        "Stay with their current insurance company.",
+                        "Report the man's accident.",
+                        "Cancel their insurance policy."
+                    ],
+                    "answer": 2,
+                    "explanation": "保険料が値上がりしたが、他社に変えても同じかもっと高くなるだろうと男性が述べ、現状維持を選びそうです。",
+                    "highlights": [
+                        "I doubt it's worth it",
+                        "We'd probably pay the same or even more"
+                    ],
+                    "choiceAnalysis": "選択肢1「車を売る」→仕事に必要。選択肢2「現在の保険会社にとどまる」→正解。他社に変えても意味がないと判断。選択肢3「事故を報告する」→すでに反映済み。選択肢4「保険を解約」→言及なし。"
+                }
+            ]
         },
         {
-          "number": 2,
-          "audioFile": "audio/part1_q02.mp3",
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "My tooth is killing me!"
-            },
-            {
-              "speaker": "female",
-              "text": "When did you last see a dentist, honey?"
-            },
-            {
-              "speaker": "male",
-              "text": "Maybe a few years ago. I never seem to have the time."
-            },
-            {
-              "speaker": "female",
-              "text": "And look where that's gotten you! Well, Dr. Prashad opens at 8:30, but she's always busy in the mornings, so you'd have to wait a while. Or you could take the afternoon off."
-            },
-            {
-              "speaker": "male",
-              "text": "I have an important meeting after lunch, so that's out. I'll just have to go to the office late this morning."
-            }
-          ],
-          "question": "What will the man probably do?",
-          "choices": [
-            "Cancel his meeting.",
-            "Take the afternoon off.",
-            "Wait to see if the pain decreases.",
-            "Go to the dentist this morning."
-          ],
-          "answer": 4,
-          "explanation": "男性は午後に重要な会議があるので午後は取れず、朝Dr. Prashad（8:30開院）に行くことにしました。朝は混んでいるが待つ覚悟です。",
-          "highlights": [
-            "I have an important meeting after lunch, so that's out",
-            "I'll just have to go to the office late this morning"
-          ],
-          "choiceAnalysis": "選択肢1「会議をキャンセル」→言及なし。選択肢2「午後休を取る」→会議があるので不可。選択肢3「痛みが減るか様子を見る」→すぐ行く。選択肢4「今朝歯医者へ」→正解。朝遅刻して受診を選択。"
+            "name": "第2部",
+            "nameEn": "Part 2",
+            "description": "英文を聞いて、質問に対する最も適切な答えを選ぶ形式です。各パッセージに2問ずつです。",
+            "questionRange": "No. 13 〜 No. 24",
+            "questions": [
+                {
+                    "number": 13,
+                    "audioFile": "audio/part2_q13.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Argan oil is often considered to be a wonder product, with cosmetics companies promoting its antiaging properties. It comes from the fruit of the argan tree, which grows in the dry landscape of Morocco, and is also used in food and medicine. Harvesting the fruit and producing the oil is a long, labor-intensive process that has traditionally been done by local women. However, trading the oil is often done by local men, with women earning little or no income."
+                        }
+                    ],
+                    "question": "What is one thing we learn about the production of argan oil?",
+                    "choices": [
+                        "It causes the trees to die.",
+                        "It is impossible in dry areas.",
+                        "It requires considerable effort.",
+                        "It can damage the local environment."
+                    ],
+                    "answer": 3,
+                    "explanation": "アルガンオイルの生産は長く労働集約的なプロセスで、果実の収穫と油の生産にはかなりの労力が必要です。",
+                    "highlights": [
+                        "a long, labor-intensive process",
+                        "Harvesting the fruit and producing the oil"
+                    ],
+                    "choiceAnalysis": "選択肢1「木が枯れる」→言及なし。選択肢2「乾燥地域では不可能」→乾燥地域で栽培。選択肢3「かなりの労力が必要」→正解。labor-intensiveと明記。選択肢4「地域環境にダメージを与えうる」→逆に環境に良い。"
+                },
+                {
+                    "number": 14,
+                    "audioFile": "audio/part2_q14.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "NGOs have therefore helped establish workers' cooperatives that educate the women and help them trade and sell the oil in local markets. The cooperatives also help them negotiate with international customers. It is hoped that expanding production of argan oil will lift local women out of poverty and benefit the environment as more trees will need to be planted to produce the oil."
+                        }
+                    ],
+                    "question": "What have NGOs done for local women?",
+                    "choices": [
+                        "Helped them gain business skills.",
+                        "Found them jobs in cosmetics companies.",
+                        "Located foreign producers for them.",
+                        "Established schools for their children."
+                    ],
+                    "answer": 1,
+                    "explanation": "NGOは労働者協同組合を設立し、女性にオイルの取引・販売方法を教え、国際顧客との交渉も支援しています。ビジネススキルの獲得を支援。",
+                    "highlights": [
+                        "helped establish workers' cooperatives that educate the women",
+                        "help them trade and sell the oil in local markets"
+                    ],
+                    "choiceAnalysis": "選択肢1「ビジネススキルの習得を支援」→正解。取引・販売の教育。選択肢2「化粧品会社での就職先を見つけた」→言及なし。選択肢3「海外の生産者を見つけた」→言及なし。選択肢4「子供のための学校を設立」→言及なし。"
+                },
+                {
+                    "number": 15,
+                    "audioFile": "audio/part2_q15.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "The Brooklyn Bridge in New York City is one of the great engineering achievements of the nineteenth century. It was designed by John Roebling, whose son Washington took over as the bridge's chief engineer after his father's death. It was built to connect the island of Manhattan with Brooklyn, nearly 2 kilometers away. While it was not the first suspension bridge, no other bridge of this kind had ever crossed such an enormous distance."
+                        }
+                    ],
+                    "question": "What made the Brooklyn Bridge such an achievement at the time?",
+                    "choices": [
+                        "It was the first bridge to connect two islands.",
+                        "It was the longest bridge of its kind.",
+                        "It was designed by a woman.",
+                        "It was the first suspension bridge."
+                    ],
+                    "answer": 2,
+                    "explanation": "ブルックリン橋はこの種の橋（吊り橋）としてこれほど巨大な距離を渡ったことがなかった点で画期的でした。",
+                    "highlights": [
+                        "no other bridge of this kind had ever crossed such an enormous distance"
+                    ],
+                    "choiceAnalysis": "選択肢1「2つの島を結ぶ最初の橋」→島同士ではない。選択肢2「この種の橋として最長」→正解。吊り橋としてかつてない距離。選択肢3「女性が設計」→John Roeblingが設計。選択肢4「最初の吊り橋」→最初ではないと明記。"
+                },
+                {
+                    "number": 16,
+                    "audioFile": "audio/part2_q16.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Much of the bridge's construction was supervised by a woman, Emily Roebling. This was at a time when women were not allowed to vote. Emily was married to Washington, who became critically ill shortly after construction began. Emily delivered his daily instructions to the construction site, and over the next decade or so became highly knowledgeable about bridge specifications and construction materials. She subsequently oversaw the successful completion of the project."
+                        }
+                    ],
+                    "question": "Why did Emily Roebling become involved in the bridge's construction?",
+                    "choices": [
+                        "She was familiar with bridge construction.",
+                        "She was best qualified for the job.",
+                        "She was appointed by her father-in-law.",
+                        "She was representing her husband."
+                    ],
+                    "answer": 4,
+                    "explanation": "Emily Roeblingは夫Washingtonが重病になったため、夫の代わりに建設現場に毎日の指示を伝え、最終的にプロジェクトの完成を監督しました。",
+                    "highlights": [
+                        "Washington, who became critically ill",
+                        "Emily delivered his daily instructions to the construction site"
+                    ],
+                    "choiceAnalysis": "選択肢1「橋の建設に詳しかった」→後から知識を得た。選択肢2「最も適任だった」→言及なし。選択肢3「義父に任命された」→義父は死亡済み。選択肢4「夫の代理」→正解。病気の夫の代わりに監督。"
+                },
+                {
+                    "number": 17,
+                    "audioFile": "audio/part2_q17.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "One day, a Norwegian man called Jon Larsen noticed a tiny, shiny object on an outdoor table. Because it looked so unusual, he thought it might be a micrometeorite, a small piece of rock from space. After finding more, he asked scientists to analyze them. At the time, most micrometeorites had been found in remote areas such as Antarctica, so many scientists were doubtful about his discovery. One, however, took Larsen seriously. Together, they proved that these micrometeorites are always falling to Earth, and further research has shown that micrometeorites can be found all over the planet."
+                        }
+                    ],
+                    "question": "What is one thing we learn about micrometeorites?",
+                    "choices": [
+                        "They are less common than originally thought.",
+                        "They are only found in cold places.",
+                        "They can be found anywhere on Earth.",
+                        "They can be harder than rocks from Earth."
+                    ],
+                    "answer": 3,
+                    "explanation": "Larsenの研究により、微小隕石は地球上のどこにでも見つかることが証明されました。以前は南極などの遠隔地でしか見つかっていませんでした。",
+                    "highlights": [
+                        "micrometeorites can be found all over the planet",
+                        "micrometeorites are always falling to Earth"
+                    ],
+                    "choiceAnalysis": "選択肢1「当初考えられていたより珍しい」→逆、どこにでもある。選択肢2「寒い場所にしかない」→どこにでもある。選択肢3「地球上のどこにでもある」→正解。選択肢4「地球の岩石より硬い」→言及なし。"
+                },
+                {
+                    "number": 18,
+                    "audioFile": "audio/part2_q18.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Larsen's discovery is significant because micrometeorites can help us understand how our solar system was formed. Because of their great age, they provide hints about what materials were common when the sun was young. Larsen has shown that it is not always experts who help scientists learn new things about our universe."
+                        }
+                    ],
+                    "question": "Why is Jon Larsen's discovery important?",
+                    "choices": [
+                        "It provides useful information about our solar system.",
+                        "It led to the discovery of a new material.",
+                        "It shows that most micrometeorites are older than predicted.",
+                        "It helped to prove the age of the sun."
+                    ],
+                    "answer": 1,
+                    "explanation": "微小隕石は非常に古く、太陽系の形成過程を理解するのに役立ちます。太陽が若かった頃の物質についての手がかりを提供します。",
+                    "highlights": [
+                        "micrometeorites can help us understand how our solar system was formed",
+                        "they provide hints about what materials were common when the sun was young"
+                    ],
+                    "choiceAnalysis": "選択肢1「太陽系について有用な情報を提供」→正解。太陽系形成の理解に貢献。選択肢2「新素材の発見につながった」→言及なし。選択肢3「大半の微小隕石は予測より古い」→言及なし。選択肢4「太陽の年齢を証明」→言及なし。"
+                },
+                {
+                    "number": 19,
+                    "audioFile": "audio/part2_q19.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "One day in 1911, an Italian man named Vincenzo Peruggia entered the Louvre Museum in Paris and stole the Mona Lisa, a painting by the Italian artist Leonardo da Vinci. Later, Peruggia tried to sell the painting to an art dealer in Italy, but the dealer reported him to the police. When Peruggia was arrested, he claimed he wanted to return the painting to its native country. Peruggia mistakenly believed the Mona Lisa had once been stolen from Italy."
+                        }
+                    ],
+                    "question": "Why did Vincenzo Peruggia say he took the Mona Lisa?",
+                    "choices": [
+                        "He was hired to steal it by an art dealer.",
+                        "He wanted to show that the museum had poor security.",
+                        "He thought it should be returned to Italy.",
+                        "He believed it was a forgery."
+                    ],
+                    "answer": 3,
+                    "explanation": "Peruggiaは逮捕時、モナリザをイタリアに返すべきだと考えて盗んだと主張しました。モナリザがかつてイタリアから盗まれたと誤って信じていました。",
+                    "highlights": [
+                        "he claimed he wanted to return the painting to its native country",
+                        "Peruggia mistakenly believed the Mona Lisa had once been stolen from Italy"
+                    ],
+                    "choiceAnalysis": "選択肢1「画商に雇われて盗んだ」→画商に売ろうとしたが雇われたわけではない。選択肢2「美術館の警備が甘いと示したかった」→言及なし。選択肢3「イタリアに返すべきだと思った」→正解。故国に返したかった。選択肢4「偽物だと信じていた」→言及なし。"
+                },
+                {
+                    "number": 20,
+                    "audioFile": "audio/part2_q20.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "While police were searching for the Mona Lisa, newspapers around the world reported the incident. It was the first time an art piece had received such worldwide media attention. Although it was a well-known painting before being stolen, many people believe it would not be as famous today had it not been for Peruggia."
+                        }
+                    ],
+                    "question": "What do some people now believe about the theft?",
+                    "choices": [
+                        "It harmed Italy's reputation.",
+                        "It increased the Mona Lisa's level of fame.",
+                        "It lowered the value of the Mona Lisa.",
+                        "It led to changes in Italian laws."
+                    ],
+                    "answer": 2,
+                    "explanation": "盗難事件は世界中の新聞で報道され、美術作品がこれほどメディアの注目を集めたのは初めてでした。Peruggiaがいなければ今日ほど有名ではなかったと多くの人が信じています。",
+                    "highlights": [
+                        "the first time an art piece had received such worldwide media attention",
+                        "many people believe it would not be as famous today had it not been for Peruggia"
+                    ],
+                    "choiceAnalysis": "選択肢1「イタリアの評判を傷つけた」→言及なし。選択肢2「モナリザの知名度を上げた」→正解。世界的報道で知名度が向上。選択肢3「モナリザの価値を下げた」→逆に知名度上昇。選択肢4「イタリアの法律改正につながった」→言及なし。"
+                },
+                {
+                    "number": 21,
+                    "audioFile": "audio/part2_q21.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Modern farmers struggle with long working hours and often live in isolated areas. Though these problems are not unique to farming, it can be more difficult for farmers to take time off. Livestock and crops require daily attention, and even simple things, like forgetting to close a gate, can quickly lead to expensive losses. With so many serious issues to consider, simply asking a friend or neighbor to take over for a week or two is not usually possible."
+                        }
+                    ],
+                    "question": "What is one thing the speaker says about farming?",
+                    "choices": [
+                        "It can be hard for farmers to take vacations.",
+                        "Government funding is being reduced.",
+                        "Crop farming is becoming less profitable.",
+                        "Keeping animals is more difficult than growing crops."
+                    ],
+                    "answer": 1,
+                    "explanation": "農家は長時間労働で孤立した地域に住み、休暇を取るのが特に難しいです。家畜や作物は毎日の手入れが必要で、門を閉め忘れるだけでも損害につながります。",
+                    "highlights": [
+                        "it can be more difficult for farmers to take time off",
+                        "Livestock and crops require daily attention"
+                    ],
+                    "choiceAnalysis": "選択肢1「農家が休暇を取るのは難しい」→正解。毎日の管理が必要。選択肢2「政府の補助金が削減」→言及なし。選択肢3「作物栽培の収益性低下」→言及なし。選択肢4「動物の飼育は作物より難しい」→言及なし。"
+                },
+                {
+                    "number": 22,
+                    "audioFile": "audio/part2_q22.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "This is where professional farm-sitters can help. With extensive experience and knowledge, professional farm-sitters can look after an entire operation. They can also enjoy the farming experience without having to own a farm. One big challenge, though, is that every farm operates differently. There are also difficult circumstances, like poor weather or disease outbreaks, that can be hard to handle. That is why good, experienced farm-sitters are in high demand."
+                        }
+                    ],
+                    "question": "What is one problem that farm-sitters face?",
+                    "choices": [
+                        "A lack of trust from farm owners.",
+                        "Intense competition for jobs.",
+                        "Convincing farmers to change their procedures.",
+                        "Becoming familiar with operations on each farm."
+                    ],
+                    "answer": 4,
+                    "explanation": "プロのファームシッターにとって、農場ごとに運営方法が異なることが大きな課題です。悪天候や病気の発生など、難しい状況にも対処する必要があります。",
+                    "highlights": [
+                        "every farm operates differently",
+                        "difficult circumstances, like poor weather or disease outbreaks"
+                    ],
+                    "choiceAnalysis": "選択肢1「農場オーナーからの信頼不足」→言及なし。選択肢2「仕事の激しい競争」→需要が高い。選択肢3「農家に手順変更を説得」→言及なし。選択肢4「各農場の運営に精通する」→正解。農場ごとに異なる運営への対応。"
+                },
+                {
+                    "number": 23,
+                    "audioFile": "audio/part2_q23.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Several cities in the United States are installing 'smart' streetlights equipped with sensors and cameras that collect data on pedestrian traffic, automobile traffic, and air quality. This information is shared with smartphone applications so that people can track parking availability, traffic conditions, and air pollution. Companies are also developing streetlights that will be able to communicate with traffic signals to help police, firefighters, and ambulances reach their destinations faster."
+                        }
+                    ],
+                    "question": "What is one thing companies hope 'smart' streetlights will do?",
+                    "choices": [
+                        "Improve air quality.",
+                        "Reduce traffic accidents.",
+                        "Help emergency services.",
+                        "Increase security for pedestrians."
+                    ],
+                    "answer": 3,
+                    "explanation": "企業は交通信号と通信できるスマート街灯を開発中で、警察・消防・救急車が目的地に迅速に到着できるようにすることを目指しています。",
+                    "highlights": [
+                        "communicate with traffic signals to help police, firefighters, and ambulances reach their destinations faster"
+                    ],
+                    "choiceAnalysis": "選択肢1「空気の質を改善」→データ収集はするが主目的ではない。選択肢2「交通事故を減らす」→言及なし。選択肢3「緊急サービスを支援」→正解。警察・消防・救急車を支援。選択肢4「歩行者の安全を向上」→言及なし。"
+                },
+                {
+                    "number": 24,
+                    "audioFile": "audio/part2_q24.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Critics, however, worry that the gathering and sharing of all this data will put people's privacy at risk. They also argue that the costly technology is not a good use of limited city funds. In response, the developers say details like license plate numbers and people's faces will be deleted before the data is shared. They also say the streetlights will lower electricity use and, since they can be remotely controlled, will reduce maintenance costs as well."
+                        }
+                    ],
+                    "question": "What is one concern that critics have?",
+                    "choices": [
+                        "The technology needed is not yet good enough.",
+                        "The streetlights record people's private information.",
+                        "The remote controls require too much electricity.",
+                        "The streetlights are unsuitable for most cities."
+                    ],
+                    "answer": 2,
+                    "explanation": "批評家はデータの収集・共有がプライバシーのリスクにさらすと懸念し、高コストの技術は限られた市の予算の有効活用ではないと主張しています。",
+                    "highlights": [
+                        "the gathering and sharing of all this data will put people's privacy at risk",
+                        "the costly technology is not a good use of limited city funds"
+                    ],
+                    "choiceAnalysis": "選択肢1「技術がまだ十分でない」→言及なし。選択肢2「街灯が個人情報を記録」→正解。プライバシーリスクへの懸念。選択肢3「リモコンの電力消費が多い」→逆に電力削減。選択肢4「街灯がほとんどの都市に不向き」→言及なし。"
+                }
+            ]
         },
         {
-          "number": 3,
-          "audioFile": "audio/part1_q03.mp3",
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "I can't believe this heat wave—over 35 degrees for 10 days straight."
-            },
-            {
-              "speaker": "female",
-              "text": "I think this must be a record. Global warming is really kicking in."
-            },
-            {
-              "speaker": "male",
-              "text": "I wouldn't go that far. The world's climate has always gone through cycles."
-            },
-            {
-              "speaker": "female",
-              "text": "This is no cycle. Scientists say it's pollution, and it's getting worse."
-            },
-            {
-              "speaker": "male",
-              "text": "They'll all be proven wrong in another 100 years."
-            },
-            {
-              "speaker": "female",
-              "text": "I hope you're right!"
-            }
-          ],
-          "question": "What does the woman think?",
-          "choices": [
-            "Scientists often make wrong predictions.",
-            "Pollution levels do not affect the weather.",
-            "The high temperatures are nothing to worry about.",
-            "The heat wave is related to global warming."
-          ],
-          "answer": 4,
-          "explanation": "女性は猛暑が地球温暖化の影響だと確信しており、科学者も汚染が原因で悪化していると述べていると主張しています。",
-          "highlights": [
-            "Global warming is really kicking in",
-            "Scientists say it's pollution, and it's getting worse"
-          ],
-          "choiceAnalysis": "選択肢1「科学者はよく間違った予測をする」→男性の意見。選択肢2「汚染は天候に影響しない」→女性は逆の主張。選択肢3「高温は心配ない」→男性の立場。選択肢4「猛暑は地球温暖化に関連」→正解。女性の主張。"
-        },
-        {
-          "number": 4,
-          "audioFile": "audio/part1_q04.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Peter, some of the parents at the kids' playgroup are talking about having another picnic."
-            },
-            {
-              "speaker": "male",
-              "text": "Sounds like fun. Let me know when you've decided on a date."
-            },
-            {
-              "speaker": "female",
-              "text": "Actually, we were wondering if you could organize it."
-            },
-            {
-              "speaker": "male",
-              "text": "That depends on when you have in mind. I'm away on business for a week this month."
-            },
-            {
-              "speaker": "female",
-              "text": "Either Saturday the 14th or the 21st."
-            },
-            {
-              "speaker": "male",
-              "text": "Hmm... The 14th should be OK. How does Fairfield Park sound?"
-            },
-            {
-              "speaker": "female",
-              "text": "Perfect. The kids love the jungle gym there."
-            }
-          ],
-          "question": "What does the woman ask the man to do?",
-          "choices": [
-            "Change the dates of his business trip.",
-            "Arrange a picnic for the playgroup.",
-            "Find a park with a jungle gym.",
-            "Give her directions to Fairfield Park."
-          ],
-          "answer": 2,
-          "explanation": "女性はplaygroup のピクニックの企画を夫に依頼しています。日程調整やFairfield Parkの提案など段取りを頼んでいます。",
-          "highlights": [
-            "we were wondering if you could organize it",
-            "How does Fairfield Park sound?"
-          ],
-          "choiceAnalysis": "選択肢1「出張日程を変更する」→言及なし。選択肢2「ピクニックを企画する」→正解。女性がピクニックの企画を依頼。選択肢3「ジャングルジムのある公園を探す」→すでにFairfield Park提案。選択肢4「Fairfield Parkへの道順を教える」→言及なし。"
-        },
-        {
-          "number": 5,
-          "audioFile": "audio/part1_q05.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "We have so many things to throw away before we move!"
-            },
-            {
-              "speaker": "male",
-              "text": "Let's have another yard sale."
-            },
-            {
-              "speaker": "female",
-              "text": "We only made a little money with the last one. The newspaper ad was expensive, and the sale took up so much time."
-            },
-            {
-              "speaker": "male",
-              "text": "Well, even a little extra cash would help."
-            },
-            {
-              "speaker": "female",
-              "text": "It's not worth it, considering all the other stuff we need to do before we move."
-            },
-            {
-              "speaker": "male",
-              "text": "Yeah, I guess you're right. Let's just give what we don't need to charity."
-            }
-          ],
-          "question": "What do we learn about the woman?",
-          "choices": [
-            "She does not want to give their things to charity.",
-            "She does not want to have another yard sale.",
-            "She wants to change the moving date.",
-            "She wants to advertise in the newspaper."
-          ],
-          "answer": 2,
-          "explanation": "女性は前回のヤードセールで新聞広告が高く手間もかかった割に少ししか稼げなかったので、もう一度やりたくないと言っています。",
-          "highlights": [
-            "We only made a little money with the last one",
-            "It's not worth it"
-          ],
-          "choiceAnalysis": "選択肢1「チャリティーに出したくない」→最終的にチャリティーに同意。選択肢2「またヤードセールをしたくない」→正解。手間と効果が見合わない。選択肢3「引越し日を変えたい」→言及なし。選択肢4「新聞に広告を出したい」→広告が高かったと不満。"
-        },
-        {
-          "number": 6,
-          "audioFile": "audio/part1_q06.mp3",
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hi, Peggy. What's the matter?"
-            },
-            {
-              "speaker": "female",
-              "text": "I almost didn't make it to work today. My babysitter cancelled."
-            },
-            {
-              "speaker": "male",
-              "text": "Again? Gosh, she doesn't sound very reliable."
-            },
-            {
-              "speaker": "female",
-              "text": "She's not, but I haven't found a new sitter yet. I had to leave the baby with a friend."
-            },
-            {
-              "speaker": "male",
-              "text": "Hey, you know my sister Carol? She's great with kids, and she's looking for extra work. Shall I give you her number?"
-            },
-            {
-              "speaker": "female",
-              "text": "Thanks. Let me just grab a pen and some paper."
-            }
-          ],
-          "question": "What does the man suggest to Peggy?",
-          "choices": [
-            "That she call his sister.",
-            "That she ask a friend for help.",
-            "That she start work later.",
-            "That she take care of Carol's kids."
-          ],
-          "answer": 1,
-          "explanation": "男性は妹のCarolが子供の面倒を見るのが上手で追加の仕事を探しているので、Peggyに電話番号を教えると提案しています。つまり妹に電話するよう勧めています。",
-          "highlights": [
-            "my sister Carol? She's great with kids, and she's looking for extra work",
-            "Shall I give you her number?"
-          ],
-          "choiceAnalysis": "選択肢1「妹に電話する」→正解。Carolの番号を教えるので電話するよう提案。選択肢2「友人に助けを求める」→友人は一時的な対応。選択肢3「仕事を遅く始める」→言及なし。選択肢4「Carolの子供の面倒を見る」→逆、CarolがPeggyの子供を見る。"
-        },
-        {
-          "number": 7,
-          "audioFile": "audio/part1_q07.mp3",
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Ms. Hattori, have those textbooks we ordered arrived yet?"
-            },
-            {
-              "speaker": "female",
-              "text": "No, they haven't. I called Mr. Abe, their sales rep, yesterday and he says his records show that they were shipped last Friday."
-            },
-            {
-              "speaker": "male",
-              "text": "I see. Then could you please contact the delivery service and have them track the order?"
-            },
-            {
-              "speaker": "female",
-              "text": "I did that right after I spoke with Mr. Abe. The delivery people said they'd check their records and get back to us ASAP."
-            },
-            {
-              "speaker": "male",
-              "text": "Alright. Keep me informed. I really need those books."
-            }
-          ],
-          "question": "What is the status of the order?",
-          "choices": [
-            "It will arrive no later than Friday.",
-            "It is being looked into.",
-            "It was sent back to the manufacturer.",
-            "It has not yet been shipped."
-          ],
-          "answer": 2,
-          "explanation": "テキストは出荷済みだが届いていないため、配送業者に追跡を依頼し、調査中で回答待ちの状態です。",
-          "highlights": [
-            "they were shipped last Friday",
-            "The delivery people said they'd check their records and get back to us"
-          ],
-          "choiceAnalysis": "選択肢1「金曜までに届く」→言及なし。選択肢2「調査中」→正解。配送業者が記録を確認中。選択肢3「メーカーに返送された」→言及なし。選択肢4「まだ出荷されていない」→出荷済み。"
-        },
-        {
-          "number": 8,
-          "audioFile": "audio/part1_q08.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "What happened to Ray? I haven't seen him for a while."
-            },
-            {
-              "speaker": "male",
-              "text": "He quit his teaching job and opened up a restaurant in San Francisco."
-            },
-            {
-              "speaker": "female",
-              "text": "You're kidding! What a switch! He's always been into teaching."
-            },
-            {
-              "speaker": "male",
-              "text": "I know. It was all so sudden that I didn't even get the chance to say good-bye."
-            }
-          ],
-          "question": "What happened to Ray?",
-          "choices": [
-            "He is now working as a teacher.",
-            "He quit his restaurant job.",
-            "He started a new career.",
-            "He went back to school."
-          ],
-          "answer": 3,
-          "explanation": "Rayは教師の仕事を辞めて、サンフランシスコでレストランを開きました。全く新しいキャリアを始めたのです。",
-          "highlights": [
-            "He quit his teaching job and opened up a restaurant",
-            "What a switch!"
-          ],
-          "choiceAnalysis": "選択肢1「教師として働いている」→辞めた。選択肢2「レストランの仕事を辞めた」→教師を辞めた。選択肢3「新しいキャリアを始めた」→正解。教師からレストラン経営へ転身。選択肢4「学校に戻った」→言及なし。"
-        },
-        {
-          "number": 9,
-          "audioFile": "audio/part1_q09.mp3",
-          "lines": [
-            {
-              "speaker": "male",
-              "text": "Hi, Charlene. How's life on the 10th floor? Have you settled into your new office yet?"
-            },
-            {
-              "speaker": "female",
-              "text": "Getting there. I still have some boxes to unpack, though."
-            },
-            {
-              "speaker": "male",
-              "text": "Too bad they moved your project team. It was more convenient having you on the 6th floor with us."
-            },
-            {
-              "speaker": "female",
-              "text": "True, but the new space is much bigger and brighter. I know we have to meet with you guys regularly, but there are only a few floors between us."
-            },
-            {
-              "speaker": "male",
-              "text": "I guess it'll be good exercise if we use the stairs!"
-            }
-          ],
-          "question": "What does the woman imply?",
-          "choices": [
-            "She will soon start work on a bigger project.",
-            "She prefers her new office space.",
-            "She wants her staff to hold fewer meetings.",
-            "She is looking for a new office."
-          ],
-          "answer": 2,
-          "explanation": "女性は新しいオフィスが広くて明るいと述べ、移動の不便さはあるが新スペースを気に入っている様子です。",
-          "highlights": [
-            "the new space is much bigger and brighter",
-            "there are only a few floors between us"
-          ],
-          "choiceAnalysis": "選択肢1「大きなプロジェクトに取りかかる」→言及なし。選択肢2「新しいオフィスの方が好き」→正解。広くて明るいと好感。選択肢3「会議を減らしたい」→言及なし。選択肢4「新しいオフィスを探している」→すでに移動済み。"
-        },
-        {
-          "number": 10,
-          "audioFile": "audio/part1_q10.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "What's up, Rick? You look frustrated."
-            },
-            {
-              "speaker": "male",
-              "text": "I'm trying to put together my presentation for Friday's class."
-            },
-            {
-              "speaker": "female",
-              "text": "Right, you told me about that. Not going well?"
-            },
-            {
-              "speaker": "male",
-              "text": "Not really. I don't have much experience giving presentations, and the topic the instructor assigned is pretty dull."
-            },
-            {
-              "speaker": "female",
-              "text": "He doesn't let you choose your own topic?"
-            },
-            {
-              "speaker": "male",
-              "text": "After the first presentation, he does. I guess I'll just have to suffer through this one."
-            },
-            {
-              "speaker": "female",
-              "text": "Let me know if you want some help."
-            }
-          ],
-          "question": "What is one problem the man has?",
-          "choices": [
-            "The class instructor is likely to fail him.",
-            "He is concerned he will not meet the deadline.",
-            "The woman refused to practice with him.",
-            "He is not used to making presentations."
-          ],
-          "answer": 4,
-          "explanation": "男性はプレゼンの経験があまりなく、割り当てられたトピックもつまらないと苦戦しています。最初のプレゼンは自由にトピックを選べません。",
-          "highlights": [
-            "I don't have much experience giving presentations",
-            "the topic the instructor assigned is pretty dull"
-          ],
-          "choiceAnalysis": "選択肢1「講師に不合格にされそう」→言及なし。選択肢2「期限に間に合わないか心配」→言及なし。選択肢3「女性が練習を断った」→言及なし。選択肢4「プレゼンに慣れていない」→正解。経験不足を述べている。"
-        },
-        {
-          "number": 11,
-          "audioFile": "audio/part1_q11.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "Romesh, I'd like a word with you about the new file clerk."
-            },
-            {
-              "speaker": "male",
-              "text": "You mean Brent? He seems to work hard, and he's friendly enough, isn't he?"
-            },
-            {
-              "speaker": "female",
-              "text": "Well, that may be, but I heard he was fired from his last position. Were his references checked thoroughly?"
-            },
-            {
-              "speaker": "male",
-              "text": "I assume so. It's standard procedure. Anyway, if his performance is adequate, let's leave well enough alone for now. We've got too much on our plates as is."
-            },
-            {
-              "speaker": "female",
-              "text": "I suppose you're right."
-            }
-          ],
-          "question": "What does the man imply?",
-          "choices": [
-            "The woman should hire more staff.",
-            "The new file clerk might be dismissed.",
-            "The procedure for hiring staff is outdated.",
-            "The woman is too concerned about Brent."
-          ],
-          "answer": 4,
-          "explanation": "男性はBrentの業績が十分なら問題にするべきではない、今は他に忙しいことがたくさんあると言い、女性がBrentを気にしすぎだと示唆しています。",
-          "highlights": [
-            "if his performance is adequate, let's leave well enough alone",
-            "We've got too much on our plates as is"
-          ],
-          "choiceAnalysis": "選択肢1「もっとスタッフを雇うべき」→言及なし。選択肢2「新しいファイル係が解雇されるかも」→言及なし。選択肢3「スタッフ採用手続きが古い」→言及なし。選択肢4「女性がBrentを気にしすぎ」→正解。問題ないなら放っておくべきと示唆。"
-        },
-        {
-          "number": 12,
-          "audioFile": "audio/part1_q12.mp3",
-          "lines": [
-            {
-              "speaker": "female",
-              "text": "I got some bad news about our car insurance."
-            },
-            {
-              "speaker": "male",
-              "text": "Is the company raising the fee?"
-            },
-            {
-              "speaker": "female",
-              "text": "Yeah, to $200 a month!"
-            },
-            {
-              "speaker": "male",
-              "text": "Wow! I knew we'd be penalized after my accident, but that's pretty steep."
-            },
-            {
-              "speaker": "female",
-              "text": "Yeah. I guess it will go back down eventually, but maybe we should consider switching companies."
-            },
-            {
-              "speaker": "male",
-              "text": "I doubt it's worth it. We'd probably pay the same or even more. I'd get rid of the car if I didn't need it for work."
-            }
-          ],
-          "question": "What will the couple probably do?",
-          "choices": [
-            "Attempt to sell the car.",
-            "Stay with their current insurance company.",
-            "Report the man's accident.",
-            "Cancel their insurance policy."
-          ],
-          "answer": 2,
-          "explanation": "保険料が値上がりしたが、他社に変えても同じかもっと高くなるだろうと男性が述べ、現状維持を選びそうです。",
-          "highlights": [
-            "I doubt it's worth it",
-            "We'd probably pay the same or even more"
-          ],
-          "choiceAnalysis": "選択肢1「車を売る」→仕事に必要。選択肢2「現在の保険会社にとどまる」→正解。他社に変えても意味がないと判断。選択肢3「事故を報告する」→すでに反映済み。選択肢4「保険を解約」→言及なし。"
+            "name": "第3部",
+            "nameEn": "Part 3",
+            "description": "実生活の場面を想定した英文を聞き、質問に対して最も適切な答えを選ぶ形式です。放送前に状況と質問を読む時間が10秒与えられます。",
+            "questionRange": "No. 25 〜 No. 29",
+            "questions": [
+                {
+                    "number": 25,
+                    "audioFile": "audio/part3_no25.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "This is John Goddard from the Languages Department of Larkspur University. I'm calling about scheduling a second interview for the Japanese Language Instructor position. We have your résumé and recent publications on file, but we're still waiting for a letter of recommendation from your former employer. Could you ask them about that? When you get it, please e-mail it to us. Once we have that, we can set up a time for your second interview. If you're offered the position, and you don't have resident status in Canada, we'll need copies of your passport and your work permit, too."
+                        }
+                    ],
+                    "question": "What should you do first?",
+                    "choices": [
+                        "Send a copy of your passport.",
+                        "Contact your previous employer.",
+                        "Schedule your second interview.",
+                        "Send copies of your recent publications."
+                    ],
+                    "answer": 2,
+                    "situation": "You receive the following voice mail after your first interview for a university teaching position in Canada. You are a legal resident of Canada.",
+                    "explanation": "前の雇用主からの推薦状がまだ届いていないので、前の雇用主に問い合わせるのが最初にすべきことです。カナダの合法居住者なのでパスポートは不要。",
+                    "highlights": [
+                        "we're still waiting for a letter of recommendation from your former employer",
+                        "Could you ask them about that?"
+                    ],
+                    "choiceAnalysis": "選択肢1「パスポートのコピーを送る」→合法居住者なので不要。選択肢2「前の雇用主に連絡」→正解。推薦状の催促。選択肢3「2回目の面接を予約」→推薦状受領後。選択肢4「最近の出版物を送る」→すでに受領済み。"
+                },
+                {
+                    "number": 26,
+                    "audioFile": "audio/part3_no26.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "SuperBuzz guarantees our prices are the best, in-store and online! Shop from Monday to Wednesday for big discounts on all computers and software. On Thursday and Friday, we're offering special discounts on computer accessories like scanners and printers. Over the weekend, save big on entertainment electronics like surround-sound speakers and high-resolution TVs. Also, be sure to check our advertisements in your local newspaper or our website for coupons with discounts on heaters, air conditioners, and vacuum cleaners. You can also download our smartphone application for huge savings this week on home entertainment systems."
+                        }
+                    ],
+                    "question": "What should you do?",
+                    "choices": [
+                        "Make your purchase on Thursday or Friday.",
+                        "Wait until the weekend.",
+                        "Download the store's smartphone app.",
+                        "Bring in a coupon from a newspaper."
+                    ],
+                    "answer": 1,
+                    "situation": "You hear the following commercial from SuperBuzz electronics store. You need a new printer for your home office and want the best deal.",
+                    "explanation": "プリンターはコンピューター周辺機器で、木曜日・金曜日にスキャナーやプリンターの特別割引があります。",
+                    "highlights": [
+                        "On Thursday and Friday, we're offering special discounts on computer accessories like scanners and printers"
+                    ],
+                    "choiceAnalysis": "選択肢1「木曜か金曜に購入」→正解。プリンターは周辺機器で木金が割引。選択肢2「週末まで待つ」→週末はエンタメ製品。選択肢3「スマホアプリをダウンロード」→ホームエンタメ用。選択肢4「新聞のクーポンを持参」→暖房器具等が対象。"
+                },
+                {
+                    "number": 27,
+                    "audioFile": "audio/part3_no27.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Hi, honey. I just heard the forecast. They're predicting heavy snow and wind tonight. Your car's tires aren't suitable for that kind of weather. We should've put snow tires on last weekend. I called our usual shop and they're busy but said they can put on new tires tomorrow. I know canceling the conference isn't an option since you're the main presenter, so please take my four-wheel drive. I can manage without it while you're away. We should also eventually buy chains, since winter will just get worse from here. Take care!"
+                        }
+                    ],
+                    "question": "What should you do?",
+                    "choices": [
+                        "Have the snow tires put on.",
+                        "Borrow your husband's vehicle.",
+                        "Purchase chains tonight.",
+                        "Cancel your attendance."
+                    ],
+                    "answer": 2,
+                    "situation": "Today, you need to drive to a nearby city for a two-day conference. Your husband has left a voice mail on your cell phone. You must depart within two hours.",
+                    "explanation": "スノータイヤは翌日まで装着不可。カンファレンスはメインプレゼンターなのでキャンセル不可。夫が四輪駆動車を使うよう提案しています。",
+                    "highlights": [
+                        "please take my four-wheel drive",
+                        "canceling the conference isn't an option since you're the main presenter"
+                    ],
+                    "choiceAnalysis": "選択肢1「スノータイヤを装着」→翌日まで待つ必要。選択肢2「夫の車を借りる」→正解。四輪駆動車を使う提案。選択肢3「今夜チェーンを購入」→今すぐではなくいずれ。選択肢4「参加をキャンセル」→メインプレゼンターなので不可。"
+                },
+                {
+                    "number": 28,
+                    "audioFile": "audio/part3_no28.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "I've been working on the timeline for establishing the Japan branch office. It needs to be up and running by April. It's October now, so moving there by the start of the year would be best, which means passing your current clients to coworkers so you can start building connections in Japan. However, that would leave us with nobody in your position here. That being the case, your priority right now should be selecting and training your replacement. Client introductions with your replacement will help ease him or her into taking over."
+                        }
+                    ],
+                    "question": "What should you do first?",
+                    "choices": [
+                        "Ask coworkers to take over your work now.",
+                        "Begin searching for new clients in Japan.",
+                        "Let your clients know you are leaving.",
+                        "Identify a suitable person for your position."
+                    ],
+                    "answer": 4,
+                    "situation": "You will head your company's new branch office in Japan. The company president tells you the following.",
+                    "explanation": "日本支社を4月までに立ち上げる必要があり、まず自分のポジションの後任を選んで育てることが最優先と言われています。",
+                    "highlights": [
+                        "your priority right now should be selecting and training your replacement"
+                    ],
+                    "choiceAnalysis": "選択肢1「同僚に引き継ぐよう頼む」→後任選定が先。選択肢2「日本の新規顧客を開拓」→まず後任選定。選択肢3「クライアントに知らせる」→後任紹介とセット。選択肢4「適任者を見つける」→正解。後任の選定・育成が最優先。"
+                },
+                {
+                    "number": 29,
+                    "audioFile": "audio/part3_no29.mp3",
+                    "lines": [
+                        {
+                            "speaker": "narrator",
+                            "text": "Good morning. Here's your ID badge and parking permit. Your boss, Ms. Rodriguez, is away on business and won't be available until tomorrow. So, you can give me the paperwork we asked you to fill out last week. If you have any questions about those forms, I can help with anything regarding your contract or health insurance. You can ask Stephanie in Accounting about anything related to pay, tax deductions, and so on. I need everything before you leave today, so prioritize that. After that, Julia can answer any questions about your office, but it should be ready for you."
+                        }
+                    ],
+                    "question": "What should you do first?",
+                    "choices": [
+                        "Contact Ms. Rodriguez.",
+                        "Ask the office manager for an ID.",
+                        "Speak with Stephanie.",
+                        "Meet Julia about getting an office."
+                    ],
+                    "answer": 3,
+                    "situation": "It is your first day at a new job. You have questions about the tax forms you need to complete. The office manager tells you the following.",
+                    "explanation": "税金に関する質問は経理のStephanieに聞くよう指示されています。書類を今日中に提出する必要があるのでそれが最優先です。",
+                    "highlights": [
+                        "You can ask Stephanie in Accounting about anything related to pay, tax deductions",
+                        "I need everything before you leave today, so prioritize that"
+                    ],
+                    "choiceAnalysis": "選択肢1「Ms. Rodriguezに連絡」→出張中で明日まで不在。選択肢2「オフィスマネージャーにIDを求める」→すでに受領済み。選択肢3「Stephanieに話す」→正解。税金の質問は経理のStephanieへ。選択肢4「Juliaにオフィスについて聞く」→書類提出後。"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "第2部",
-      "nameEn": "Part 2",
-      "description": "英文を聞いて、質問に対する最も適切な答えを選ぶ形式です。各パッセージに2問ずつです。",
-      "questionRange": "No. 13 〜 No. 24",
-      "questions": [
-        {
-          "number": 13,
-          "audioFile": "audio/part2_q13.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Argan oil is often considered to be a wonder product, with cosmetics companies promoting its antiaging properties. It comes from the fruit of the argan tree, which grows in the dry landscape of Morocco, and is also used in food and medicine. Harvesting the fruit and producing the oil is a long, labor-intensive process that has traditionally been done by local women. However, trading the oil is often done by local men, with women earning little or no income."
-            }
-          ],
-          "question": "What is one thing we learn about the production of argan oil?",
-          "choices": [
-            "It causes the trees to die.",
-            "It is impossible in dry areas.",
-            "It requires considerable effort.",
-            "It can damage the local environment."
-          ],
-          "answer": 3,
-          "explanation": "アルガンオイルの生産は長く労働集約的なプロセスで、果実の収穫と油の生産にはかなりの労力が必要です。",
-          "highlights": [
-            "a long, labor-intensive process",
-            "Harvesting the fruit and producing the oil"
-          ],
-          "choiceAnalysis": "選択肢1「木が枯れる」→言及なし。選択肢2「乾燥地域では不可能」→乾燥地域で栽培。選択肢3「かなりの労力が必要」→正解。labor-intensiveと明記。選択肢4「地域環境にダメージを与えうる」→逆に環境に良い。"
-        },
-        {
-          "number": 14,
-          "audioFile": "audio/part2_q14.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "NGOs have therefore helped establish workers' cooperatives that educate the women and help them trade and sell the oil in local markets. The cooperatives also help them negotiate with international customers. It is hoped that expanding production of argan oil will lift local women out of poverty and benefit the environment as more trees will need to be planted to produce the oil."
-            }
-          ],
-          "question": "What have NGOs done for local women?",
-          "choices": [
-            "Helped them gain business skills.",
-            "Found them jobs in cosmetics companies.",
-            "Located foreign producers for them.",
-            "Established schools for their children."
-          ],
-          "answer": 1,
-          "explanation": "NGOは労働者協同組合を設立し、女性にオイルの取引・販売方法を教え、国際顧客との交渉も支援しています。ビジネススキルの獲得を支援。",
-          "highlights": [
-            "helped establish workers' cooperatives that educate the women",
-            "help them trade and sell the oil in local markets"
-          ],
-          "choiceAnalysis": "選択肢1「ビジネススキルの習得を支援」→正解。取引・販売の教育。選択肢2「化粧品会社での就職先を見つけた」→言及なし。選択肢3「海外の生産者を見つけた」→言及なし。選択肢4「子供のための学校を設立」→言及なし。"
-        },
-        {
-          "number": 15,
-          "audioFile": "audio/part2_q15.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "The Brooklyn Bridge in New York City is one of the great engineering achievements of the nineteenth century. It was designed by John Roebling, whose son Washington took over as the bridge's chief engineer after his father's death. It was built to connect the island of Manhattan with Brooklyn, nearly 2 kilometers away. While it was not the first suspension bridge, no other bridge of this kind had ever crossed such an enormous distance."
-            }
-          ],
-          "question": "What made the Brooklyn Bridge such an achievement at the time?",
-          "choices": [
-            "It was the first bridge to connect two islands.",
-            "It was the longest bridge of its kind.",
-            "It was designed by a woman.",
-            "It was the first suspension bridge."
-          ],
-          "answer": 2,
-          "explanation": "ブルックリン橋はこの種の橋（吊り橋）としてこれほど巨大な距離を渡ったことがなかった点で画期的でした。",
-          "highlights": [
-            "no other bridge of this kind had ever crossed such an enormous distance"
-          ],
-          "choiceAnalysis": "選択肢1「2つの島を結ぶ最初の橋」→島同士ではない。選択肢2「この種の橋として最長」→正解。吊り橋としてかつてない距離。選択肢3「女性が設計」→John Roeblingが設計。選択肢4「最初の吊り橋」→最初ではないと明記。"
-        },
-        {
-          "number": 16,
-          "audioFile": "audio/part2_q16.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Much of the bridge's construction was supervised by a woman, Emily Roebling. This was at a time when women were not allowed to vote. Emily was married to Washington, who became critically ill shortly after construction began. Emily delivered his daily instructions to the construction site, and over the next decade or so became highly knowledgeable about bridge specifications and construction materials. She subsequently oversaw the successful completion of the project."
-            }
-          ],
-          "question": "Why did Emily Roebling become involved in the bridge's construction?",
-          "choices": [
-            "She was familiar with bridge construction.",
-            "She was best qualified for the job.",
-            "She was appointed by her father-in-law.",
-            "She was representing her husband."
-          ],
-          "answer": 4,
-          "explanation": "Emily Roeblingは夫Washingtonが重病になったため、夫の代わりに建設現場に毎日の指示を伝え、最終的にプロジェクトの完成を監督しました。",
-          "highlights": [
-            "Washington, who became critically ill",
-            "Emily delivered his daily instructions to the construction site"
-          ],
-          "choiceAnalysis": "選択肢1「橋の建設に詳しかった」→後から知識を得た。選択肢2「最も適任だった」→言及なし。選択肢3「義父に任命された」→義父は死亡済み。選択肢4「夫の代理」→正解。病気の夫の代わりに監督。"
-        },
-        {
-          "number": 17,
-          "audioFile": "audio/part2_q17.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "One day, a Norwegian man called Jon Larsen noticed a tiny, shiny object on an outdoor table. Because it looked so unusual, he thought it might be a micrometeorite, a small piece of rock from space. After finding more, he asked scientists to analyze them. At the time, most micrometeorites had been found in remote areas such as Antarctica, so many scientists were doubtful about his discovery. One, however, took Larsen seriously. Together, they proved that these micrometeorites are always falling to Earth, and further research has shown that micrometeorites can be found all over the planet."
-            }
-          ],
-          "question": "What is one thing we learn about micrometeorites?",
-          "choices": [
-            "They are less common than originally thought.",
-            "They are only found in cold places.",
-            "They can be found anywhere on Earth.",
-            "They can be harder than rocks from Earth."
-          ],
-          "answer": 3,
-          "explanation": "Larsenの研究により、微小隕石は地球上のどこにでも見つかることが証明されました。以前は南極などの遠隔地でしか見つかっていませんでした。",
-          "highlights": [
-            "micrometeorites can be found all over the planet",
-            "micrometeorites are always falling to Earth"
-          ],
-          "choiceAnalysis": "選択肢1「当初考えられていたより珍しい」→逆、どこにでもある。選択肢2「寒い場所にしかない」→どこにでもある。選択肢3「地球上のどこにでもある」→正解。選択肢4「地球の岩石より硬い」→言及なし。"
-        },
-        {
-          "number": 18,
-          "audioFile": "audio/part2_q18.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Larsen's discovery is significant because micrometeorites can help us understand how our solar system was formed. Because of their great age, they provide hints about what materials were common when the sun was young. Larsen has shown that it is not always experts who help scientists learn new things about our universe."
-            }
-          ],
-          "question": "Why is Jon Larsen's discovery important?",
-          "choices": [
-            "It provides useful information about our solar system.",
-            "It led to the discovery of a new material.",
-            "It shows that most micrometeorites are older than predicted.",
-            "It helped to prove the age of the sun."
-          ],
-          "answer": 1,
-          "explanation": "微小隕石は非常に古く、太陽系の形成過程を理解するのに役立ちます。太陽が若かった頃の物質についての手がかりを提供します。",
-          "highlights": [
-            "micrometeorites can help us understand how our solar system was formed",
-            "they provide hints about what materials were common when the sun was young"
-          ],
-          "choiceAnalysis": "選択肢1「太陽系について有用な情報を提供」→正解。太陽系形成の理解に貢献。選択肢2「新素材の発見につながった」→言及なし。選択肢3「大半の微小隕石は予測より古い」→言及なし。選択肢4「太陽の年齢を証明」→言及なし。"
-        },
-        {
-          "number": 19,
-          "audioFile": "audio/part2_q19.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "One day in 1911, an Italian man named Vincenzo Peruggia entered the Louvre Museum in Paris and stole the Mona Lisa, a painting by the Italian artist Leonardo da Vinci. Later, Peruggia tried to sell the painting to an art dealer in Italy, but the dealer reported him to the police. When Peruggia was arrested, he claimed he wanted to return the painting to its native country. Peruggia mistakenly believed the Mona Lisa had once been stolen from Italy."
-            }
-          ],
-          "question": "Why did Vincenzo Peruggia say he took the Mona Lisa?",
-          "choices": [
-            "He was hired to steal it by an art dealer.",
-            "He wanted to show that the museum had poor security.",
-            "He thought it should be returned to Italy.",
-            "He believed it was a forgery."
-          ],
-          "answer": 3,
-          "explanation": "Peruggiaは逮捕時、モナリザをイタリアに返すべきだと考えて盗んだと主張しました。モナリザがかつてイタリアから盗まれたと誤って信じていました。",
-          "highlights": [
-            "he claimed he wanted to return the painting to its native country",
-            "Peruggia mistakenly believed the Mona Lisa had once been stolen from Italy"
-          ],
-          "choiceAnalysis": "選択肢1「画商に雇われて盗んだ」→画商に売ろうとしたが雇われたわけではない。選択肢2「美術館の警備が甘いと示したかった」→言及なし。選択肢3「イタリアに返すべきだと思った」→正解。故国に返したかった。選択肢4「偽物だと信じていた」→言及なし。"
-        },
-        {
-          "number": 20,
-          "audioFile": "audio/part2_q20.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "While police were searching for the Mona Lisa, newspapers around the world reported the incident. It was the first time an art piece had received such worldwide media attention. Although it was a well-known painting before being stolen, many people believe it would not be as famous today had it not been for Peruggia."
-            }
-          ],
-          "question": "What do some people now believe about the theft?",
-          "choices": [
-            "It harmed Italy's reputation.",
-            "It increased the Mona Lisa's level of fame.",
-            "It lowered the value of the Mona Lisa.",
-            "It led to changes in Italian laws."
-          ],
-          "answer": 2,
-          "explanation": "盗難事件は世界中の新聞で報道され、美術作品がこれほどメディアの注目を集めたのは初めてでした。Peruggiaがいなければ今日ほど有名ではなかったと多くの人が信じています。",
-          "highlights": [
-            "the first time an art piece had received such worldwide media attention",
-            "many people believe it would not be as famous today had it not been for Peruggia"
-          ],
-          "choiceAnalysis": "選択肢1「イタリアの評判を傷つけた」→言及なし。選択肢2「モナリザの知名度を上げた」→正解。世界的報道で知名度が向上。選択肢3「モナリザの価値を下げた」→逆に知名度上昇。選択肢4「イタリアの法律改正につながった」→言及なし。"
-        },
-        {
-          "number": 21,
-          "audioFile": "audio/part2_q21.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Modern farmers struggle with long working hours and often live in isolated areas. Though these problems are not unique to farming, it can be more difficult for farmers to take time off. Livestock and crops require daily attention, and even simple things, like forgetting to close a gate, can quickly lead to expensive losses. With so many serious issues to consider, simply asking a friend or neighbor to take over for a week or two is not usually possible."
-            }
-          ],
-          "question": "What is one thing the speaker says about farming?",
-          "choices": [
-            "It can be hard for farmers to take vacations.",
-            "Government funding is being reduced.",
-            "Crop farming is becoming less profitable.",
-            "Keeping animals is more difficult than growing crops."
-          ],
-          "answer": 1,
-          "explanation": "農家は長時間労働で孤立した地域に住み、休暇を取るのが特に難しいです。家畜や作物は毎日の手入れが必要で、門を閉め忘れるだけでも損害につながります。",
-          "highlights": [
-            "it can be more difficult for farmers to take time off",
-            "Livestock and crops require daily attention"
-          ],
-          "choiceAnalysis": "選択肢1「農家が休暇を取るのは難しい」→正解。毎日の管理が必要。選択肢2「政府の補助金が削減」→言及なし。選択肢3「作物栽培の収益性低下」→言及なし。選択肢4「動物の飼育は作物より難しい」→言及なし。"
-        },
-        {
-          "number": 22,
-          "audioFile": "audio/part2_q22.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "This is where professional farm-sitters can help. With extensive experience and knowledge, professional farm-sitters can look after an entire operation. They can also enjoy the farming experience without having to own a farm. One big challenge, though, is that every farm operates differently. There are also difficult circumstances, like poor weather or disease outbreaks, that can be hard to handle. That is why good, experienced farm-sitters are in high demand."
-            }
-          ],
-          "question": "What is one problem that farm-sitters face?",
-          "choices": [
-            "A lack of trust from farm owners.",
-            "Intense competition for jobs.",
-            "Convincing farmers to change their procedures.",
-            "Becoming familiar with operations on each farm."
-          ],
-          "answer": 4,
-          "explanation": "プロのファームシッターにとって、農場ごとに運営方法が異なることが大きな課題です。悪天候や病気の発生など、難しい状況にも対処する必要があります。",
-          "highlights": [
-            "every farm operates differently",
-            "difficult circumstances, like poor weather or disease outbreaks"
-          ],
-          "choiceAnalysis": "選択肢1「農場オーナーからの信頼不足」→言及なし。選択肢2「仕事の激しい競争」→需要が高い。選択肢3「農家に手順変更を説得」→言及なし。選択肢4「各農場の運営に精通する」→正解。農場ごとに異なる運営への対応。"
-        },
-        {
-          "number": 23,
-          "audioFile": "audio/part2_q23.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Several cities in the United States are installing 'smart' streetlights equipped with sensors and cameras that collect data on pedestrian traffic, automobile traffic, and air quality. This information is shared with smartphone applications so that people can track parking availability, traffic conditions, and air pollution. Companies are also developing streetlights that will be able to communicate with traffic signals to help police, firefighters, and ambulances reach their destinations faster."
-            }
-          ],
-          "question": "What is one thing companies hope 'smart' streetlights will do?",
-          "choices": [
-            "Improve air quality.",
-            "Reduce traffic accidents.",
-            "Help emergency services.",
-            "Increase security for pedestrians."
-          ],
-          "answer": 3,
-          "explanation": "企業は交通信号と通信できるスマート街灯を開発中で、警察・消防・救急車が目的地に迅速に到着できるようにすることを目指しています。",
-          "highlights": [
-            "communicate with traffic signals to help police, firefighters, and ambulances reach their destinations faster"
-          ],
-          "choiceAnalysis": "選択肢1「空気の質を改善」→データ収集はするが主目的ではない。選択肢2「交通事故を減らす」→言及なし。選択肢3「緊急サービスを支援」→正解。警察・消防・救急車を支援。選択肢4「歩行者の安全を向上」→言及なし。"
-        },
-        {
-          "number": 24,
-          "audioFile": "audio/part2_q24.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Critics, however, worry that the gathering and sharing of all this data will put people's privacy at risk. They also argue that the costly technology is not a good use of limited city funds. In response, the developers say details like license plate numbers and people's faces will be deleted before the data is shared. They also say the streetlights will lower electricity use and, since they can be remotely controlled, will reduce maintenance costs as well."
-            }
-          ],
-          "question": "What is one concern that critics have?",
-          "choices": [
-            "The technology needed is not yet good enough.",
-            "The streetlights record people's private information.",
-            "The remote controls require too much electricity.",
-            "The streetlights are unsuitable for most cities."
-          ],
-          "answer": 2,
-          "explanation": "批評家はデータの収集・共有がプライバシーのリスクにさらすと懸念し、高コストの技術は限られた市の予算の有効活用ではないと主張しています。",
-          "highlights": [
-            "the gathering and sharing of all this data will put people's privacy at risk",
-            "the costly technology is not a good use of limited city funds"
-          ],
-          "choiceAnalysis": "選択肢1「技術がまだ十分でない」→言及なし。選択肢2「街灯が個人情報を記録」→正解。プライバシーリスクへの懸念。選択肢3「リモコンの電力消費が多い」→逆に電力削減。選択肢4「街灯がほとんどの都市に不向き」→言及なし。"
-        }
-      ]
-    },
-    {
-      "name": "第3部",
-      "nameEn": "Part 3",
-      "description": "実生活の場面を想定した英文を聞き、質問に対して最も適切な答えを選ぶ形式です。放送前に状況と質問を読む時間が10秒与えられます。",
-      "questionRange": "No. 25 〜 No. 29",
-      "questions": [
-        {
-          "number": 25,
-          "audioFile": "audio/part3_no25.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "This is John Goddard from the Languages Department of Larkspur University. I'm calling about scheduling a second interview for the Japanese Language Instructor position. We have your résumé and recent publications on file, but we're still waiting for a letter of recommendation from your former employer. Could you ask them about that? When you get it, please e-mail it to us. Once we have that, we can set up a time for your second interview. If you're offered the position, and you don't have resident status in Canada, we'll need copies of your passport and your work permit, too."
-            }
-          ],
-          "question": "What should you do first?",
-          "choices": [
-            "Send a copy of your passport.",
-            "Contact your previous employer.",
-            "Schedule your second interview.",
-            "Send copies of your recent publications."
-          ],
-          "answer": 2,
-          "situation": "You receive the following voice mail after your first interview for a university teaching position in Canada. You are a legal resident of Canada.",
-          "explanation": "前の雇用主からの推薦状がまだ届いていないので、前の雇用主に問い合わせるのが最初にすべきことです。カナダの合法居住者なのでパスポートは不要。",
-          "highlights": [
-            "we're still waiting for a letter of recommendation from your former employer",
-            "Could you ask them about that?"
-          ],
-          "choiceAnalysis": "選択肢1「パスポートのコピーを送る」→合法居住者なので不要。選択肢2「前の雇用主に連絡」→正解。推薦状の催促。選択肢3「2回目の面接を予約」→推薦状受領後。選択肢4「最近の出版物を送る」→すでに受領済み。"
-        },
-        {
-          "number": 26,
-          "audioFile": "audio/part3_no26.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "SuperBuzz guarantees our prices are the best, in-store and online! Shop from Monday to Wednesday for big discounts on all computers and software. On Thursday and Friday, we're offering special discounts on computer accessories like scanners and printers. Over the weekend, save big on entertainment electronics like surround-sound speakers and high-resolution TVs. Also, be sure to check our advertisements in your local newspaper or our website for coupons with discounts on heaters, air conditioners, and vacuum cleaners. You can also download our smartphone application for huge savings this week on home entertainment systems."
-            }
-          ],
-          "question": "What should you do?",
-          "choices": [
-            "Make your purchase on Thursday or Friday.",
-            "Wait until the weekend.",
-            "Download the store's smartphone app.",
-            "Bring in a coupon from a newspaper."
-          ],
-          "answer": 1,
-          "situation": "You hear the following commercial from SuperBuzz electronics store. You need a new printer for your home office and want the best deal.",
-          "explanation": "プリンターはコンピューター周辺機器で、木曜日・金曜日にスキャナーやプリンターの特別割引があります。",
-          "highlights": [
-            "On Thursday and Friday, we're offering special discounts on computer accessories like scanners and printers"
-          ],
-          "choiceAnalysis": "選択肢1「木曜か金曜に購入」→正解。プリンターは周辺機器で木金が割引。選択肢2「週末まで待つ」→週末はエンタメ製品。選択肢3「スマホアプリをダウンロード」→ホームエンタメ用。選択肢4「新聞のクーポンを持参」→暖房器具等が対象。"
-        },
-        {
-          "number": 27,
-          "audioFile": "audio/part3_no27.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Hi, honey. I just heard the forecast. They're predicting heavy snow and wind tonight. Your car's tires aren't suitable for that kind of weather. We should've put snow tires on last weekend. I called our usual shop and they're busy but said they can put on new tires tomorrow. I know canceling the conference isn't an option since you're the main presenter, so please take my four-wheel drive. I can manage without it while you're away. We should also eventually buy chains, since winter will just get worse from here. Take care!"
-            }
-          ],
-          "question": "What should you do?",
-          "choices": [
-            "Have the snow tires put on.",
-            "Borrow your husband's vehicle.",
-            "Purchase chains tonight.",
-            "Cancel your attendance."
-          ],
-          "answer": 2,
-          "situation": "Today, you need to drive to a nearby city for a two-day conference. Your husband has left a voice mail on your cell phone. You must depart within two hours.",
-          "explanation": "スノータイヤは翌日まで装着不可。カンファレンスはメインプレゼンターなのでキャンセル不可。夫が四輪駆動車を使うよう提案しています。",
-          "highlights": [
-            "please take my four-wheel drive",
-            "canceling the conference isn't an option since you're the main presenter"
-          ],
-          "choiceAnalysis": "選択肢1「スノータイヤを装着」→翌日まで待つ必要。選択肢2「夫の車を借りる」→正解。四輪駆動車を使う提案。選択肢3「今夜チェーンを購入」→今すぐではなくいずれ。選択肢4「参加をキャンセル」→メインプレゼンターなので不可。"
-        },
-        {
-          "number": 28,
-          "audioFile": "audio/part3_no28.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "I've been working on the timeline for establishing the Japan branch office. It needs to be up and running by April. It's October now, so moving there by the start of the year would be best, which means passing your current clients to coworkers so you can start building connections in Japan. However, that would leave us with nobody in your position here. That being the case, your priority right now should be selecting and training your replacement. Client introductions with your replacement will help ease him or her into taking over."
-            }
-          ],
-          "question": "What should you do first?",
-          "choices": [
-            "Ask coworkers to take over your work now.",
-            "Begin searching for new clients in Japan.",
-            "Let your clients know you are leaving.",
-            "Identify a suitable person for your position."
-          ],
-          "answer": 4,
-          "situation": "You will head your company's new branch office in Japan. The company president tells you the following.",
-          "explanation": "日本支社を4月までに立ち上げる必要があり、まず自分のポジションの後任を選んで育てることが最優先と言われています。",
-          "highlights": [
-            "your priority right now should be selecting and training your replacement"
-          ],
-          "choiceAnalysis": "選択肢1「同僚に引き継ぐよう頼む」→後任選定が先。選択肢2「日本の新規顧客を開拓」→まず後任選定。選択肢3「クライアントに知らせる」→後任紹介とセット。選択肢4「適任者を見つける」→正解。後任の選定・育成が最優先。"
-        },
-        {
-          "number": 29,
-          "audioFile": "audio/part3_no29.mp3",
-          "lines": [
-            {
-              "speaker": "narrator",
-              "text": "Good morning. Here's your ID badge and parking permit. Your boss, Ms. Rodriguez, is away on business and won't be available until tomorrow. So, you can give me the paperwork we asked you to fill out last week. If you have any questions about those forms, I can help with anything regarding your contract or health insurance. You can ask Stephanie in Accounting about anything related to pay, tax deductions, and so on. I need everything before you leave today, so prioritize that. After that, Julia can answer any questions about your office, but it should be ready for you."
-            }
-          ],
-          "question": "What should you do first?",
-          "choices": [
-            "Contact Ms. Rodriguez.",
-            "Ask the office manager for an ID.",
-            "Speak with Stephanie.",
-            "Meet Julia about getting an office."
-          ],
-          "answer": 3,
-          "situation": "It is your first day at a new job. You have questions about the tax forms you need to complete. The office manager tells you the following.",
-          "explanation": "税金に関する質問は経理のStephanieに聞くよう指示されています。書類を今日中に提出する必要があるのでそれが最優先です。",
-          "highlights": [
-            "You can ask Stephanie in Accounting about anything related to pay, tax deductions",
-            "I need everything before you leave today, so prioritize that"
-          ],
-          "choiceAnalysis": "選択肢1「Ms. Rodriguezに連絡」→出張中で明日まで不在。選択肢2「オフィスマネージャーにIDを求める」→すでに受領済み。選択肢3「Stephanieに話す」→正解。税金の質問は経理のStephanieへ。選択肢4「Juliaにオフィスについて聞く」→書類提出後。"
-        }
-      ]
-    }
-  ]
+    ]
 }
