@@ -1,917 +1,917 @@
 {
-    "title": "2021年度 第1回検定一次試験 英検準2級 リスニング",
-    "parts": [
+  "title": "2021年度 第1回検定一次試験 英検準2級 リスニング",
+  "parts": [
+    {
+      "name": "第1部",
+      "nameEn": "Part 1",
+      "description": "対話を聞き、その最後の文に対する応答として最も適切なものを、放送される1, 2, 3の中から一つ選ぶ形式です。",
+      "questionRange": "No. 1 〜 No. 10",
+      "partType": "spoken-choices",
+      "questions": [
         {
-            "name": "第1部",
-            "nameEn": "Part 1",
-            "description": "対話を聞き、その最後の文に対する応答として最も適切なものを、放送される1, 2, 3の中から一つ選ぶ形式です。",
-            "questionRange": "No. 1 〜 No. 10",
-            "partType": "spoken-choices",
-            "questions": [
-                {
-                    "number": 1,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "Welcome back, James. How was your trip to Germany?"
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Not so good, actually. I caught a cold there."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Oh no. Are you better now?"
-                        }
-                    ],
-                    "question": null,
-                    "choices": [
-                        "Yes. I'll leave tomorrow.",
-                        "Yes. I've been there before.",
-                        "Yes. I'm perfectly fine."
-                    ],
-                    "explanation": "具合が良くなったか聞かれ、もう完全に大丈夫と答えるのが自然です。",
-                    "highlights": [
-                        "Are you better now?"
-                    ],
-                    "choiceAnalysis": "選択肢1「明日出発する」→体調の話。選択肢2「前にも行った」→体調。選択肢3「完全に元気」→正解。",
-                    "audioFile": "audio/part1_q01.mp3",
-                    "answer": 3
-                },
-                {
-                    "number": 2,
-                    "lines": [
-                        {
-                            "speaker": "male",
-                            "text": "Hello. Columbus Police Department."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Hi. I found a wallet. Can you tell me what to do?"
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Yes. But first, please tell me where you found it."
-                        }
-                    ],
-                    "question": null,
-                    "choices": [
-                        "It was at 9 a.m.",
-                        "It has a flower design on it.",
-                        "It was behind my school."
-                    ],
-                    "explanation": "どこで見つけたか聞かれ、学校の裏と場所を答えるのが適切です。",
-                    "highlights": [
-                        "where you found it"
-                    ],
-                    "choiceAnalysis": "選択肢1「9時だった」→場所を聞いている。選択肢2「花柄のデザイン」→場所。選択肢3「学校の裏」→正解。",
-                    "audioFile": "audio/part1_q02.mp3",
-                    "answer": 3
-                },
-                {
-                    "number": 3,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "Do you have any plans for Friday night, Matt?"
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Not really. I was thinking of staying home and watching TV."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "I'm playing soccer with my friends. Why don't you come with us?"
-                        }
-                    ],
-                    "question": null,
-                    "choices": [
-                        "Yes, I've watched that program before.",
-                        "Sounds like fun. I'll think about it.",
-                        "On Friday nights before dinner."
-                    ],
-                    "explanation": "友達とサッカーに誘われ、楽しそうだと前向きに検討するのが自然です。",
-                    "highlights": [
-                        "Why don't you come with us?"
-                    ],
-                    "choiceAnalysis": "選択肢1「その番組を見た」→サッカーの誘い。選択肢2「楽しそう、考えてみる」→正解。選択肢3「金曜の夕食前」→誘いへの返答。",
-                    "audioFile": "audio/part1_q03.mp3",
-                    "answer": 2
-                },
-                {
-                    "number": 4,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "I heard our office is getting new computers next week."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Really? I'm so happy. Mine is very slow."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Mine, too. How long have you been using yours?"
-                        }
-                    ],
-                    "question": null,
-                    "choices": [
-                        "Let's see. It must be five years now.",
-                        "Well, it takes about five minutes.",
-                        "Actually, I like its size."
-                    ],
-                    "explanation": "どのくらい使っているか聞かれ、5年くらいと答えるのが適切です。",
-                    "highlights": [
-                        "How long have you been using yours?"
-                    ],
-                    "choiceAnalysis": "選択肢1「もう5年くらい」→正解。選択肢2「5分くらいかかる」→使用期間。選択肢3「サイズが好き」→使用期間。",
-                    "audioFile": "audio/part1_q04.mp3",
-                    "answer": 1
-                },
-                {
-                    "number": 5,
-                    "lines": [
-                        {
-                            "speaker": "male",
-                            "text": "Welcome to Smith's Vegetables. Are you looking for something?"
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Yes. I need two big pumpkins, some potatoes, and some onions."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "We have fresh onions and potatoes, but no pumpkins."
-                        }
-                    ],
-                    "question": null,
-                    "choices": [
-                        "I see. I'll go home to get more money, then.",
-                        "I see. I'll tell you when they arrive, then.",
-                        "I see. I'll take what you've got, then."
-                    ],
-                    "explanation": "カボチャはないがタマネギとジャガイモはあると聞いて、あるものを買うと答えるのが自然です。",
-                    "highlights": [
-                        "We have fresh onions and potatoes, but no pumpkins"
-                    ],
-                    "choiceAnalysis": "選択肢1「お金を取りに帰る」→あるものを買う。選択肢2「届いたら教える」→客側がやること。選択肢3「あるものを買う」→正解。",
-                    "audioFile": "audio/part1_q05.mp3",
-                    "answer": 3
-                },
-                {
-                    "number": 6,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "What are you doing this afternoon, Jonathan?"
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Well, I was thinking of going swimming."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "That sounds like fun. Can I come, too?"
-                        }
-                    ],
-                    "question": null,
-                    "choices": [
-                        "Yeah. I went yesterday.",
-                        "No. I'm sick today.",
-                        "Sure. That'll be great."
-                    ],
-                    "explanation": "一緒に行っていいか聞かれ、もちろんと歓迎するのが自然です。",
-                    "highlights": [
-                        "Can I come, too?"
-                    ],
-                    "choiceAnalysis": "選択肢1「昨日行った」→一緒に行くかの返答。選択肢2「病気」→泳ぎに行く予定。選択肢3「もちろん」→正解。",
-                    "audioFile": "audio/part1_q06.mp3",
-                    "answer": 3
-                },
-                {
-                    "number": 7,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "Hello, Dr. Lewis. My foot feels a little better today."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "That's good, Helen."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "But it still hurts when I walk."
-                        }
-                    ],
-                    "question": null,
-                    "choices": [
-                        "Your appointment has been changed.",
-                        "I'll see you again next time.",
-                        "OK. Let me look at it."
-                    ],
-                    "explanation": "歩くとまだ痛いと言われ、診てみましょうと答えるのが適切です。",
-                    "highlights": [
-                        "it still hurts when I walk"
-                    ],
-                    "choiceAnalysis": "選択肢1「予約が変更された」→痛みの訴え。選択肢2「次回に」→今痛い。選択肢3「診てみましょう」→正解。",
-                    "audioFile": "audio/part1_q07.mp3",
-                    "answer": 3
-                },
-                {
-                    "number": 8,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "Hi. I'd like to exchange these jeans."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Is there a problem with them, ma'am?"
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Actually, they're too small for me. Do you have them in a larger size?"
-                        }
-                    ],
-                    "question": null,
-                    "choices": [
-                        "Yes, these are the only size.",
-                        "Maybe. Let me check for you.",
-                        "Well, these are on sale."
-                    ],
-                    "explanation": "大きいサイズがあるか聞かれ、確認してみると答えるのが適切です。",
-                    "highlights": [
-                        "Do you have them in a larger size?"
-                    ],
-                    "choiceAnalysis": "選択肢1「これだけのサイズ」→確認してみる。選択肢2「確認してみる」→正解。選択肢3「セール中」→サイズの話。",
-                    "audioFile": "audio/part1_q08.mp3",
-                    "answer": 2
-                },
-                {
-                    "number": 9,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "Hi, Bill. This is Bridget. There's something wrong with my computer."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "What is it?"
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "It's making a strange noise. Can you come over and look at it?"
-                        }
-                    ],
-                    "question": null,
-                    "choices": [
-                        "No, my computer is right here.",
-                        "OK, I'll be there in a few minutes.",
-                        "Well, you should turn it on."
-                    ],
-                    "explanation": "見に来てほしいと頼まれ、すぐ行くと答えるのが適切です。",
-                    "highlights": [
-                        "Can you come over and look at it?"
-                    ],
-                    "choiceAnalysis": "選択肢1「ここにある」→来てほしい。選択肢2「すぐ行く」→正解。選択肢3「電源を入れて」→変な音がする。",
-                    "audioFile": "audio/part1_q09.mp3",
-                    "answer": 2
-                },
-                {
-                    "number": 10,
-                    "lines": [
-                        {
-                            "speaker": "male",
-                            "text": "Can I borrow your math textbook, Ayaka?"
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Sure, David. It's in my bag. I'll get it for you."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Thanks, I'll give it back to you tomorrow."
-                        }
-                    ],
-                    "question": null,
-                    "choices": [
-                        "No problem. Just give it to me before my class.",
-                        "No way. I don't like studying there.",
-                        "Not yet. Please wait for me."
-                    ],
-                    "explanation": "明日返すと言われ、授業前に返してねと条件をつけるのが自然です。",
-                    "highlights": [
-                        "I'll give it back to you tomorrow"
-                    ],
-                    "choiceAnalysis": "選択肢1「授業前に返してね」→正解。選択肢2「あそこで勉強したくない」→返す話。選択肢3「まだ待って」→貸す承諾済み。",
-                    "audioFile": "audio/part1_q10.mp3",
-                    "answer": 1
-                }
-            ]
+          "number": 1,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Welcome back, James. How was your trip to Germany?"
+            },
+            {
+              "speaker": "male",
+              "text": "Not so good, actually. I caught a cold there."
+            },
+            {
+              "speaker": "female",
+              "text": "Oh no. Are you better now?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Yes. I'll leave tomorrow.",
+            "Yes. I've been there before.",
+            "Yes. I'm perfectly fine."
+          ],
+          "explanation": "具合が良くなったか聞かれ、もう完全に大丈夫と答えるのが自然です。",
+          "highlights": [
+            "Are you better now?"
+          ],
+          "choiceAnalysis": "選択肢1「明日出発する」→体調の話。選択肢2「前にも行った」→体調。選択肢3「完全に元気」→正解。",
+          "audioFile": "audio/part1_q01.mp3",
+          "answer": 3
         },
         {
-            "name": "第2部",
-            "nameEn": "Part 2",
-            "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-            "questionRange": "No. 11 〜 No. 20",
-            "questions": [
-                {
-                    "number": 11,
-                    "lines": [
-                        {
-                            "speaker": "male",
-                            "text": "Hi, Julie. This is Brian. I have a question to ask you."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Sure, Brian. What is it?"
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Will you go to the school dance with me on Friday night?"
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "I'm sorry, Brian. Greg already asked me to go with him."
-                        }
-                    ],
-                    "question": "What does Brian want Julie to do?",
-                    "choices": [
-                        "Go to the school dance with him.",
-                        "Help him with his homework.",
-                        "Meet him after school on Friday.",
-                        "Introduce him to Greg."
-                    ],
-                    "explanation": "金曜の夜のスクールダンスに一緒に行ってほしいと頼んでいます。",
-                    "highlights": [
-                        "Will you go to the school dance with me"
-                    ],
-                    "choiceAnalysis": "選択肢1「一緒にスクールダンスに行く」→正解。選択肢2「宿題を手伝う」→ダンス。選択肢3「放課後に会う」→ダンス。選択肢4「Gregを紹介」→ダンスに誘った。",
-                    "audioFile": "audio/part2_q11.mp3",
-                    "answer": 1
-                },
-                {
-                    "number": 12,
-                    "lines": [
-                        {
-                            "speaker": "male",
-                            "text": "I'm leaving now, Mom. I'll be back before ten o'clock."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Where are you going, Brad?"
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "I'm taking Judy to a movie. We're going to see Lonely Streets."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Well, don't forget your student ID card if you want the student discount."
-                        }
-                    ],
-                    "question": "What does Brad's mother tell him to do?",
-                    "choices": [
-                        "Come home before ten.",
-                        "Take Judy to a restaurant.",
-                        "See a different movie.",
-                        "Bring his student ID card."
-                    ],
-                    "explanation": "学割を使いたいなら学生証を忘れないようにと言っています。",
-                    "highlights": [
-                        "don't forget your student ID card"
-                    ],
-                    "choiceAnalysis": "選択肢1「10時前に帰る」→学生証。選択肢2「レストランに連れていく」→映画。選択肢3「別の映画」→学生証。選択肢4「学生証を持っていく」→正解。",
-                    "audioFile": "audio/part2_q12.mp3",
-                    "answer": 4
-                },
-                {
-                    "number": 13,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "Hello? Maggie speaking."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Hi, Maggie. It's Ben. Would you like to come over to my house for dinner this weekend?"
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "I'd love to. I have to help my brother with his homework on Saturday, but I'm free on Sunday. How about six?"
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Great. See you on Sunday, then."
-                        }
-                    ],
-                    "question": "What will Maggie do on Sunday?",
-                    "choices": [
-                        "Help her brother study.",
-                        "Cook dinner for Ben.",
-                        "Go to Ben's house for dinner.",
-                        "Meet Ben at a restaurant."
-                    ],
-                    "explanation": "日曜日にBenの家で夕食を食べに行きます。",
-                    "highlights": [
-                        "come over to my house for dinner",
-                        "I'm free on Sunday"
-                    ],
-                    "choiceAnalysis": "選択肢1「弟の勉強を手伝う」→土曜日。選択肢2「Benに夕食を作る」→Benの家で食事。選択肢3「Benの家で夕食」→正解。選択肢4「レストランで会う」→Benの家。",
-                    "audioFile": "audio/part2_q13.mp3",
-                    "answer": 3
-                },
-                {
-                    "number": 14,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "Excuse me, driver. How much is the taxi fare to the airport?"
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Around 40 dollars."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Hmm, that's a little expensive. But I'm too tired to take the train. OK, take me to the airport."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Let me help you with your bag."
-                        }
-                    ],
-                    "question": "Why does the woman decide to take a taxi to the airport?",
-                    "choices": [
-                        "The fare is very cheap.",
-                        "The train is not running.",
-                        "She has too many bags.",
-                        "She is too tired for the train."
-                    ],
-                    "explanation": "電車に乗るには疲れすぎているからタクシーにしました。",
-                    "highlights": [
-                        "I'm too tired to take the train"
-                    ],
-                    "choiceAnalysis": "選択肢1「安い」→高いと言った。選択肢2「電車が動いていない」→疲れている。選択肢3「荷物が多い」→疲れている。選択肢4「電車に乗るには疲れている」→正解。",
-                    "audioFile": "audio/part2_q14.mp3",
-                    "answer": 4
-                },
-                {
-                    "number": 15,
-                    "lines": [
-                        {
-                            "speaker": "male",
-                            "text": "Oh, what happened? What are those red spots on your legs?"
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "They're from insect bites. It happened while I was camping with my father at Red Fern Lake."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "They look like they hurt. Have you seen a doctor?"
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Actually, they don't hurt at all. My doctor gave me some special cream to put on them. They should be better soon."
-                        }
-                    ],
-                    "question": "How did the girl get red spots on her legs?",
-                    "choices": [
-                        "She was bitten by insects.",
-                        "She fell while hiking.",
-                        "She had an allergic reaction.",
-                        "She got sunburned."
-                    ],
-                    "explanation": "キャンプ中に虫に刺されて赤い斑点ができました。",
-                    "highlights": [
-                        "They're from insect bites"
-                    ],
-                    "choiceAnalysis": "選択肢1「虫に刺された」→正解。選択肢2「ハイキング中に転んだ」→虫刺され。選択肢3「アレルギー反応」→虫刺され。選択肢4「日焼け」→虫刺され。",
-                    "audioFile": "audio/part2_q15.mp3",
-                    "answer": 1
-                },
-                {
-                    "number": 16,
-                    "lines": [
-                        {
-                            "speaker": "male",
-                            "text": "Hi, Jessica. Welcome home. Your friend Dan called three times today."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Thanks, Dad. Does he want me to call him back?"
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "No, he said he'd call again after dinner."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Well, I'll call him now anyway. We're supposed to study together tomorrow."
-                        }
-                    ],
-                    "question": "What will Jessica do next?",
-                    "choices": [
-                        "Study for a test.",
-                        "Wait for Dan to call.",
-                        "Have dinner with Dan.",
-                        "Call Dan."
-                    ],
-                    "explanation": "Danに今すぐ電話すると言っています。",
-                    "highlights": [
-                        "I'll call him now anyway"
-                    ],
-                    "choiceAnalysis": "選択肢1「テスト勉強」→明日一緒に。選択肢2「Danの電話を待つ」→今すぐ電話する。選択肢3「Danと夕食」→電話する。選択肢4「Danに電話する」→正解。",
-                    "audioFile": "audio/part2_q16.mp3",
-                    "answer": 4
-                },
-                {
-                    "number": 17,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "Excuse me. I bought this CD player here a year ago, but it stopped working recently."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "I see. I can fix it for you, but you will have to pay for it. Is that OK?"
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "That's fine. How long will it take?"
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "A couple of weeks. Please write your name and phone number here, and I'll call you when it's ready."
-                        }
-                    ],
-                    "question": "What will the man do for the woman?",
-                    "choices": [
-                        "Fix her CD player.",
-                        "Give her a new one.",
-                        "Return her money.",
-                        "Order a part for her."
-                    ],
-                    "explanation": "CDプレーヤーを修理してくれます。",
-                    "highlights": [
-                        "I can fix it for you"
-                    ],
-                    "choiceAnalysis": "選択肢1「CDプレーヤーを修理する」→正解。選択肢2「新しいものをくれる」→修理。選択肢3「返金」→有料で修理。選択肢4「部品を注文」→修理。",
-                    "audioFile": "audio/part2_q17.mp3",
-                    "answer": 1
-                },
-                {
-                    "number": 18,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "Excuse me. Do you have any toy cars at this store?"
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Yes, ma'am. They're over here. We also have books and videos about cars."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Really? My son loves books about cars. I'll get him one of those instead of a toy."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "If you have any questions, please ask."
-                        }
-                    ],
-                    "question": "What does the woman decide to buy?",
-                    "choices": [
-                        "A toy car.",
-                        "A video about cars.",
-                        "A book about cars.",
-                        "A car magazine."
-                    ],
-                    "explanation": "おもちゃの代わりに車の本を買うことにしました。",
-                    "highlights": [
-                        "I'll get him one of those instead of a toy",
-                        "My son loves books about cars"
-                    ],
-                    "choiceAnalysis": "選択肢1「おもちゃの車」→本にした。選択肢2「車のビデオ」→本。選択肢3「車の本」→正解。選択肢4「車の雑誌」→本。",
-                    "audioFile": "audio/part2_q18.mp3",
-                    "answer": 3
-                },
-                {
-                    "number": 19,
-                    "lines": [
-                        {
-                            "speaker": "female",
-                            "text": "This is Alpine Airways."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Hello. I want to check if my plane will leave on time today. It's the flight to London at noon."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Let me check, sir. Yes, your flight will leave on time. Please come to the airport by ten o'clock."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "OK. Thank you."
-                        }
-                    ],
-                    "question": "What is one thing we learn about the man?",
-                    "choices": [
-                        "He is flying to London today.",
-                        "He missed his flight.",
-                        "He wants to change his seat.",
-                        "He is at the airport now."
-                    ],
-                    "explanation": "今日の正午にロンドンへのフライトに乗る予定です。",
-                    "highlights": [
-                        "the flight to London at noon",
-                        "your flight will leave on time"
-                    ],
-                    "choiceAnalysis": "選択肢1「今日ロンドンに飛ぶ」→正解。選択肢2「飛行機を逃した」→定刻出発。選択肢3「座席を変えたい」→フライト確認。選択肢4「空港にいる」→10時までに来て。",
-                    "audioFile": "audio/part2_q19.mp3",
-                    "answer": 1
-                },
-                {
-                    "number": 20,
-                    "lines": [
-                        {
-                            "speaker": "male",
-                            "text": "Do you want to go to a movie tonight?"
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Sure. Let's check the newspaper."
-                        },
-                        {
-                            "speaker": "male",
-                            "text": "Hmm. We can go to either a comedy or a science-fiction movie."
-                        },
-                        {
-                            "speaker": "female",
-                            "text": "Let's see the comedy. I feel like watching something funny."
-                        }
-                    ],
-                    "question": "What will these people probably do tonight?",
-                    "choices": [
-                        "Read the newspaper at home.",
-                        "See a comedy movie.",
-                        "Watch a science-fiction show.",
-                        "Go to a comedy club."
-                    ],
-                    "explanation": "今夜コメディ映画を見に行きます。",
-                    "highlights": [
-                        "Let's see the comedy",
-                        "I feel like watching something funny"
-                    ],
-                    "choiceAnalysis": "選択肢1「家で新聞を読む」→映画に行く。選択肢2「コメディ映画を見る」→正解。選択肢3「SF番組を見る」→コメディ。選択肢4「コメディクラブ」→映画。",
-                    "audioFile": "audio/part2_q20.mp3",
-                    "answer": 2
-                }
-            ]
+          "number": 2,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hello. Columbus Police Department."
+            },
+            {
+              "speaker": "female",
+              "text": "Hi. I found a wallet. Can you tell me what to do?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes. But first, please tell me where you found it."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "It was at 9 a.m.",
+            "It has a flower design on it.",
+            "It was behind my school."
+          ],
+          "explanation": "どこで見つけたか聞かれ、学校の裏と場所を答えるのが適切です。",
+          "highlights": [
+            "where you found it"
+          ],
+          "choiceAnalysis": "選択肢1「9時だった」→場所を聞いている。選択肢2「花柄のデザイン」→場所。選択肢3「学校の裏」→正解。",
+          "audioFile": "audio/part1_q02.mp3",
+          "answer": 3
         },
         {
-            "name": "第3部",
-            "nameEn": "Part 3",
-            "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
-            "questionRange": "No. 21 〜 No. 30",
-            "questions": [
-                {
-                    "number": 21,
-                    "lines": [
-                        {
-                            "speaker": "narrator",
-                            "text": "Olivia and Sam went to a Japanese restaurant for dinner last Saturday. However, when they got there, a waiter told them that the restaurant was full, so they went home and ordered a pizza and a Greek salad instead. In the end, they enjoyed their dinner while they watched a movie on the Internet."
-                        }
-                    ],
-                    "question": "What did Olivia and Sam do on Saturday night?",
-                    "choices": [
-                        "They ate at a Japanese restaurant.",
-                        "They cooked dinner together.",
-                        "They watched a movie at a theater.",
-                        "They had pizza and salad at home."
-                    ],
-                    "explanation": "レストランが満席だったので家でピザとサラダを注文して映画を見ました。",
-                    "highlights": [
-                        "went home and ordered a pizza and a Greek salad"
-                    ],
-                    "choiceAnalysis": "選択肢1「日本食レストランで食べた」→満席。選択肢2「一緒に料理した」→注文した。選択肢3「映画館で映画」→自宅でネット。選択肢4「家でピザとサラダ」→正解。",
-                    "audioFile": "audio/part3_q21.mp3",
-                    "answer": 4
-                },
-                {
-                    "number": 22,
-                    "lines": [
-                        {
-                            "speaker": "narrator",
-                            "text": "Thank you for coming on today's tour. We will soon be arriving at the city aquarium. Tickets to the aquarium will be handed to you when you get off the bus. Please keep them with you because you need to show them when we have lunch. If you lose your ticket, you will have to pay for your meal."
-                        }
-                    ],
-                    "question": "What does the guide tell the tourists?",
-                    "choices": [
-                        "To buy their own tickets.",
-                        "To stay on the bus.",
-                        "To keep their tickets safe.",
-                        "To pay for lunch now."
-                    ],
-                    "explanation": "チケットをなくすと食事代を払う必要があるので大切に保管するよう伝えています。",
-                    "highlights": [
-                        "Please keep them with you",
-                        "If you lose your ticket, you will have to pay"
-                    ],
-                    "choiceAnalysis": "選択肢1「自分でチケットを買う」→配られる。選択肢2「バスに留まる」→降りる。選択肢3「チケットを大切に保管」→正解。選択肢4「今ランチ代を払う」→チケットがあれば不要。",
-                    "audioFile": "audio/part3_q22.mp3",
-                    "answer": 3
-                },
-                {
-                    "number": 23,
-                    "lines": [
-                        {
-                            "speaker": "narrator",
-                            "text": "Windmills are large machines that are moved by the wind. The first European-type windmills were made more than 800 years ago. In the Netherlands, people often used windmills as pumps to remove water from wet land so they could grow vegetables. These days, modern windmills are used to create electricity as well."
-                        }
-                    ],
-                    "question": "What is one thing that we learn about windmills?",
-                    "choices": [
-                        "They were invented in Asia.",
-                        "They are no longer used today.",
-                        "They have been used for 80 years.",
-                        "They were used to remove water from land."
-                    ],
-                    "explanation": "オランダでは湿地から水を汲み出すためにポンプとして使われていました。",
-                    "highlights": [
-                        "people often used windmills as pumps to remove water from wet land"
-                    ],
-                    "choiceAnalysis": "選択肢1「アジアで発明」→ヨーロッパ型。選択肢2「もう使われていない」→今も使われている。選択肢3「80年」→800年以上。選択肢4「水を汲み出すために使われた」→正解。",
-                    "audioFile": "audio/part3_q23.mp3",
-                    "answer": 4
-                },
-                {
-                    "number": 24,
-                    "lines": [
-                        {
-                            "speaker": "narrator",
-                            "text": "When Oscar woke up this morning, he saw that the buses, trains, and taxis had stopped because there was too much snow. He called his office and told his boss that he would be late because it would take a long time to walk to work. She said that Oscar should stay home and work on his computer there."
-                        }
-                    ],
-                    "question": "Why did Oscar work from his home?",
-                    "choices": [
-                        "His computer at work was broken.",
-                        "He wanted to sleep late.",
-                        "Transportation had stopped due to snow.",
-                        "His boss was working from home too."
-                    ],
-                    "explanation": "大雪で交通機関が止まったので自宅で仕事をしました。",
-                    "highlights": [
-                        "buses, trains, and taxis had stopped",
-                        "too much snow",
-                        "Oscar should stay home"
-                    ],
-                    "choiceAnalysis": "選択肢1「会社のPCが壊れた」→雪。選択肢2「遅く寝たかった」→交通機関停止。選択肢3「雪で交通機関停止」→正解。選択肢4「上司も在宅」→雪で指示。",
-                    "audioFile": "audio/part3_q24.mp3",
-                    "answer": 3
-                },
-                {
-                    "number": 25,
-                    "lines": [
-                        {
-                            "speaker": "narrator",
-                            "text": "Before Tina and her family moved to another city, her father told her to throw away some of her comic books. Tina was upset, but she took them to a recycling center. After moving to the new city, Tina was surprised that she did not miss her old comic books at all. She was too busy making new friends."
-                        }
-                    ],
-                    "question": "What did Tina do before she moved?",
-                    "choices": [
-                        "She took her comic books to a recycling center.",
-                        "She gave her comics to friends.",
-                        "She packed all her books carefully.",
-                        "She bought new comic books."
-                    ],
-                    "explanation": "引っ越し前に漫画をリサイクルセンターに持っていきました。",
-                    "highlights": [
-                        "she took them to a recycling center"
-                    ],
-                    "choiceAnalysis": "選択肢1「リサイクルセンターに持っていった」→正解。選択肢2「友達にあげた」→リサイクル。選択肢3「丁寧に梱包」→処分した。選択肢4「新しい漫画を買った」→処分した。",
-                    "audioFile": "audio/part3_q25.mp3",
-                    "answer": 1
-                },
-                {
-                    "number": 26,
-                    "lines": [
-                        {
-                            "speaker": "narrator",
-                            "text": "Canada is the second largest country in the world. It has beautiful mountains and interesting wild animals. Hikers from all around the world visit it for a special reason—it has more lakes than any other country on Earth. Beautiful trees often grow around the lakes, so hikers like to take pictures of them."
-                        }
-                    ],
-                    "question": "Why do hikers from all around the world visit Canada?",
-                    "choices": [
-                        "To see wild animals.",
-                        "To climb mountains.",
-                        "To study trees.",
-                        "To visit its many lakes."
-                    ],
-                    "explanation": "世界のどの国よりも多くの湖があるからハイカーが訪れます。",
-                    "highlights": [
-                        "it has more lakes than any other country on Earth"
-                    ],
-                    "choiceAnalysis": "選択肢1「野生動物」→湖。選択肢2「山登り」→湖。選択肢3「木を研究」→湖の写真。選択肢4「多くの湖を訪問」→正解。",
-                    "audioFile": "audio/part3_q26.mp3",
-                    "answer": 4
-                },
-                {
-                    "number": 27,
-                    "lines": [
-                        {
-                            "speaker": "narrator",
-                            "text": "Risa is a junior high school student who enjoys playing basketball and volleyball. She is very good at both sports. Next year, she will be in high school and she has to choose one sport to play there. A friend told her to talk with her basketball coach because he always gives good advice."
-                        }
-                    ],
-                    "question": "What did Risa's friend tell her to do?",
-                    "choices": [
-                        "Play both sports in high school.",
-                        "Choose volleyball.",
-                        "Talk to her basketball coach.",
-                        "Join a different sports team."
-                    ],
-                    "explanation": "バスケのコーチはいつもいいアドバイスをくれるから相談するよう勧めました。",
-                    "highlights": [
-                        "A friend told her to talk with her basketball coach"
-                    ],
-                    "choiceAnalysis": "選択肢1「両方やる」→1つ選ぶ。選択肢2「バレーを選ぶ」→コーチに相談。選択肢3「バスケのコーチに相談」→正解。選択肢4「別のチーム」→コーチ。",
-                    "audioFile": "audio/part3_q27.mp3",
-                    "answer": 3
-                },
-                {
-                    "number": 28,
-                    "lines": [
-                        {
-                            "speaker": "narrator",
-                            "text": "Pamela has been working part time at a supermarket for two years. Now, she is looking for a full-time job near her home. She found one online at a company that makes toys for children, but the company's office is far away from her home. She will keep on searching until she finds a job near her home."
-                        }
-                    ],
-                    "question": "Why did Pamela decide not to work at the toy company?",
-                    "choices": [
-                        "It is too far from her home.",
-                        "She doesn't like making toys.",
-                        "The salary is too low.",
-                        "She wants to stay at the supermarket."
-                    ],
-                    "explanation": "おもちゃ会社が家から遠すぎるからです。",
-                    "highlights": [
-                        "the company's office is far away from her home"
-                    ],
-                    "choiceAnalysis": "選択肢1「家から遠い」→正解。選択肢2「おもちゃ作りが嫌い」→遠い。選択肢3「給料が低い」→遠い。選択肢4「スーパーに残りたい」→正社員を探している。",
-                    "audioFile": "audio/part3_q28.mp3",
-                    "answer": 1
-                },
-                {
-                    "number": 29,
-                    "lines": [
-                        {
-                            "speaker": "narrator",
-                            "text": "OK, everyone. The final match of today's video game tournament is about to start. There are only two players left, and the winner will take home the grand prize—$8,000! The game starts in five minutes, so please take your seats and enjoy the final match!"
-                        }
-                    ],
-                    "question": "What does the announcement ask audience members to do now?",
-                    "choices": [
-                        "Sign up for the tournament.",
-                        "Take their seats.",
-                        "Vote for their favorite player.",
-                        "Buy tickets for the next event."
-                    ],
-                    "explanation": "5分後に試合が始まるので席についてくださいと案内しています。",
-                    "highlights": [
-                        "please take your seats"
-                    ],
-                    "choiceAnalysis": "選択肢1「トーナメントに登録」→席に着く。選択肢2「席に着く」→正解。選択肢3「お気に入りに投票」→席に着く。選択肢4「チケットを買う」→席に着く。",
-                    "audioFile": "audio/part3_q29.mp3",
-                    "answer": 2
-                },
-                {
-                    "number": 30,
-                    "lines": [
-                        {
-                            "speaker": "narrator",
-                            "text": "Polly wants to be a racecar driver after she graduates from high school. The reason is that her father had the same job until last year. She has watched videos of him and has often gone with him to watch cars racing at a track. Polly's mother wants her to become a nurse, but Polly is not interested in that."
-                        }
-                    ],
-                    "question": "Why does Polly want to become a racecar driver?",
-                    "choices": [
-                        "She won a racing competition.",
-                        "Her father was a racecar driver.",
-                        "Her mother suggested it.",
-                        "She saw a movie about racing."
-                    ],
-                    "explanation": "父親が去年まで同じ仕事をしていたからです。",
-                    "highlights": [
-                        "her father had the same job until last year"
-                    ],
-                    "choiceAnalysis": "選択肢1「レースに勝った」→父の影響。選択肢2「父がレーサーだった」→正解。選択肢3「母が勧めた」→母は看護師を望んでいる。選択肢4「レースの映画を見た」→父のビデオ。",
-                    "audioFile": "audio/part3_q30.mp3",
-                    "answer": 2
-                }
-            ]
+          "number": 3,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Do you have any plans for Friday night, Matt?"
+            },
+            {
+              "speaker": "male",
+              "text": "Not really. I was thinking of staying home and watching TV."
+            },
+            {
+              "speaker": "female",
+              "text": "I'm playing soccer with my friends. Why don't you come with us?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Yes, I've watched that program before.",
+            "Sounds like fun. I'll think about it.",
+            "On Friday nights before dinner."
+          ],
+          "explanation": "友達とサッカーに誘われ、楽しそうだと前向きに検討するのが自然です。",
+          "highlights": [
+            "Why don't you come with us?"
+          ],
+          "choiceAnalysis": "選択肢1「その番組を見た」→サッカーの誘い。選択肢2「楽しそう、考えてみる」→正解。選択肢3「金曜の夕食前」→誘いへの返答。",
+          "audioFile": "audio/part1_q03.mp3",
+          "answer": 2
+        },
+        {
+          "number": 4,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "I heard our office is getting new computers next week."
+            },
+            {
+              "speaker": "male",
+              "text": "Really? I'm so happy. Mine is very slow."
+            },
+            {
+              "speaker": "female",
+              "text": "Mine, too. How long have you been using yours?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Let's see. It must be five years now.",
+            "Well, it takes about five minutes.",
+            "Actually, I like its size."
+          ],
+          "explanation": "どのくらい使っているか聞かれ、5年くらいと答えるのが適切です。",
+          "highlights": [
+            "How long have you been using yours?"
+          ],
+          "choiceAnalysis": "選択肢1「もう5年くらい」→正解。選択肢2「5分くらいかかる」→使用期間。選択肢3「サイズが好き」→使用期間。",
+          "audioFile": "audio/part1_q04.mp3",
+          "answer": 1
+        },
+        {
+          "number": 5,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Welcome to Smith's Vegetables. Are you looking for something?"
+            },
+            {
+              "speaker": "female",
+              "text": "Yes. I need two big pumpkins, some potatoes, and some onions."
+            },
+            {
+              "speaker": "male",
+              "text": "We have fresh onions and potatoes, but no pumpkins."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "I see. I'll go home to get more money, then.",
+            "I see. I'll tell you when they arrive, then.",
+            "I see. I'll take what you've got, then."
+          ],
+          "explanation": "カボチャはないがタマネギとジャガイモはあると聞いて、あるものを買うと答えるのが自然です。",
+          "highlights": [
+            "We have fresh onions and potatoes, but no pumpkins"
+          ],
+          "choiceAnalysis": "選択肢1「お金を取りに帰る」→あるものを買う。選択肢2「届いたら教える」→客側がやること。選択肢3「あるものを買う」→正解。",
+          "audioFile": "audio/part1_q05.mp3",
+          "answer": 3
+        },
+        {
+          "number": 6,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "What are you doing this afternoon, Jonathan?"
+            },
+            {
+              "speaker": "male",
+              "text": "Well, I was thinking of going swimming."
+            },
+            {
+              "speaker": "female",
+              "text": "That sounds like fun. Can I come, too?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Yeah. I went yesterday.",
+            "No. I'm sick today.",
+            "Sure. That'll be great."
+          ],
+          "explanation": "一緒に行っていいか聞かれ、もちろんと歓迎するのが自然です。",
+          "highlights": [
+            "Can I come, too?"
+          ],
+          "choiceAnalysis": "選択肢1「昨日行った」→一緒に行くかの返答。選択肢2「病気」→泳ぎに行く予定。選択肢3「もちろん」→正解。",
+          "audioFile": "audio/part1_q06.mp3",
+          "answer": 3
+        },
+        {
+          "number": 7,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello, Dr. Lewis. My foot feels a little better today."
+            },
+            {
+              "speaker": "male",
+              "text": "That's good, Helen."
+            },
+            {
+              "speaker": "female",
+              "text": "But it still hurts when I walk."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Your appointment has been changed.",
+            "I'll see you again next time.",
+            "OK. Let me look at it."
+          ],
+          "explanation": "歩くとまだ痛いと言われ、診てみましょうと答えるのが適切です。",
+          "highlights": [
+            "it still hurts when I walk"
+          ],
+          "choiceAnalysis": "選択肢1「予約が変更された」→痛みの訴え。選択肢2「次回に」→今痛い。選択肢3「診てみましょう」→正解。",
+          "audioFile": "audio/part1_q07.mp3",
+          "answer": 3
+        },
+        {
+          "number": 8,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi. I'd like to exchange these jeans."
+            },
+            {
+              "speaker": "male",
+              "text": "Is there a problem with them, ma'am?"
+            },
+            {
+              "speaker": "female",
+              "text": "Actually, they're too small for me. Do you have them in a larger size?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "Yes, these are the only size.",
+            "Maybe. Let me check for you.",
+            "Well, these are on sale."
+          ],
+          "explanation": "大きいサイズがあるか聞かれ、確認してみると答えるのが適切です。",
+          "highlights": [
+            "Do you have them in a larger size?"
+          ],
+          "choiceAnalysis": "選択肢1「これだけのサイズ」→確認してみる。選択肢2「確認してみる」→正解。選択肢3「セール中」→サイズの話。",
+          "audioFile": "audio/part1_q08.mp3",
+          "answer": 2
+        },
+        {
+          "number": 9,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hi, Bill. This is Bridget. There's something wrong with my computer."
+            },
+            {
+              "speaker": "male",
+              "text": "What is it?"
+            },
+            {
+              "speaker": "female",
+              "text": "It's making a strange noise. Can you come over and look at it?"
+            }
+          ],
+          "question": null,
+          "choices": [
+            "No, my computer is right here.",
+            "OK, I'll be there in a few minutes.",
+            "Well, you should turn it on."
+          ],
+          "explanation": "見に来てほしいと頼まれ、すぐ行くと答えるのが適切です。",
+          "highlights": [
+            "Can you come over and look at it?"
+          ],
+          "choiceAnalysis": "選択肢1「ここにある」→来てほしい。選択肢2「すぐ行く」→正解。選択肢3「電源を入れて」→変な音がする。",
+          "audioFile": "audio/part1_q09.mp3",
+          "answer": 2
+        },
+        {
+          "number": 10,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Can I borrow your math textbook, Ayaka?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sure, David. It's in my bag. I'll get it for you."
+            },
+            {
+              "speaker": "male",
+              "text": "Thanks, I'll give it back to you tomorrow."
+            }
+          ],
+          "question": null,
+          "choices": [
+            "No problem. Just give it to me before my class.",
+            "No way. I don't like studying there.",
+            "Not yet. Please wait for me."
+          ],
+          "explanation": "明日返すと言われ、授業前に返してねと条件をつけるのが自然です。",
+          "highlights": [
+            "I'll give it back to you tomorrow"
+          ],
+          "choiceAnalysis": "選択肢1「授業前に返してね」→正解。選択肢2「あそこで勉強したくない」→返す話。選択肢3「まだ待って」→貸す承諾済み。",
+          "audioFile": "audio/part1_q10.mp3",
+          "answer": 1
         }
-    ]
+      ]
+    },
+    {
+      "name": "第2部",
+      "nameEn": "Part 2",
+      "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 11 〜 No. 20",
+      "questions": [
+        {
+          "number": 11,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi, Julie. This is Brian. I have a question to ask you."
+            },
+            {
+              "speaker": "female",
+              "text": "Sure, Brian. What is it?"
+            },
+            {
+              "speaker": "male",
+              "text": "Will you go to the school dance with me on Friday night?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'm sorry, Brian. Greg already asked me to go with him."
+            }
+          ],
+          "question": "What does Brian want Julie to do?",
+          "choices": [
+            "Go to the school dance with him.",
+            "Help him with his homework.",
+            "Meet him after school on Friday.",
+            "Introduce him to Greg."
+          ],
+          "explanation": "金曜の夜のスクールダンスに一緒に行ってほしいと頼んでいます。",
+          "highlights": [
+            "Will you go to the school dance with me"
+          ],
+          "choiceAnalysis": "選択肢1「一緒にスクールダンスに行く」→正解。選択肢2「宿題を手伝う」→ダンス。選択肢3「放課後に会う」→ダンス。選択肢4「Gregを紹介」→ダンスに誘った。",
+          "audioFile": "audio/part2_q11.mp3",
+          "answer": 1
+        },
+        {
+          "number": 12,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "I'm leaving now, Mom. I'll be back before ten o'clock."
+            },
+            {
+              "speaker": "female",
+              "text": "Where are you going, Brad?"
+            },
+            {
+              "speaker": "male",
+              "text": "I'm taking Judy to a movie. We're going to see Lonely Streets."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, don't forget your student ID card if you want the student discount."
+            }
+          ],
+          "question": "What does Brad's mother tell him to do?",
+          "choices": [
+            "Come home before ten.",
+            "Take Judy to a restaurant.",
+            "See a different movie.",
+            "Bring his student ID card."
+          ],
+          "explanation": "学割を使いたいなら学生証を忘れないようにと言っています。",
+          "highlights": [
+            "don't forget your student ID card"
+          ],
+          "choiceAnalysis": "選択肢1「10時前に帰る」→学生証。選択肢2「レストランに連れていく」→映画。選択肢3「別の映画」→学生証。選択肢4「学生証を持っていく」→正解。",
+          "audioFile": "audio/part2_q12.mp3",
+          "answer": 4
+        },
+        {
+          "number": 13,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Hello? Maggie speaking."
+            },
+            {
+              "speaker": "male",
+              "text": "Hi, Maggie. It's Ben. Would you like to come over to my house for dinner this weekend?"
+            },
+            {
+              "speaker": "female",
+              "text": "I'd love to. I have to help my brother with his homework on Saturday, but I'm free on Sunday. How about six?"
+            },
+            {
+              "speaker": "male",
+              "text": "Great. See you on Sunday, then."
+            }
+          ],
+          "question": "What will Maggie do on Sunday?",
+          "choices": [
+            "Help her brother study.",
+            "Cook dinner for Ben.",
+            "Go to Ben's house for dinner.",
+            "Meet Ben at a restaurant."
+          ],
+          "explanation": "日曜日にBenの家で夕食を食べに行きます。",
+          "highlights": [
+            "come over to my house for dinner",
+            "I'm free on Sunday"
+          ],
+          "choiceAnalysis": "選択肢1「弟の勉強を手伝う」→土曜日。選択肢2「Benに夕食を作る」→Benの家で食事。選択肢3「Benの家で夕食」→正解。選択肢4「レストランで会う」→Benの家。",
+          "audioFile": "audio/part2_q13.mp3",
+          "answer": 3
+        },
+        {
+          "number": 14,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me, driver. How much is the taxi fare to the airport?"
+            },
+            {
+              "speaker": "male",
+              "text": "Around 40 dollars."
+            },
+            {
+              "speaker": "female",
+              "text": "Hmm, that's a little expensive. But I'm too tired to take the train. OK, take me to the airport."
+            },
+            {
+              "speaker": "male",
+              "text": "Let me help you with your bag."
+            }
+          ],
+          "question": "Why does the woman decide to take a taxi to the airport?",
+          "choices": [
+            "The fare is very cheap.",
+            "The train is not running.",
+            "She has too many bags.",
+            "She is too tired for the train."
+          ],
+          "explanation": "電車に乗るには疲れすぎているからタクシーにしました。",
+          "highlights": [
+            "I'm too tired to take the train"
+          ],
+          "choiceAnalysis": "選択肢1「安い」→高いと言った。選択肢2「電車が動いていない」→疲れている。選択肢3「荷物が多い」→疲れている。選択肢4「電車に乗るには疲れている」→正解。",
+          "audioFile": "audio/part2_q14.mp3",
+          "answer": 4
+        },
+        {
+          "number": 15,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Oh, what happened? What are those red spots on your legs?"
+            },
+            {
+              "speaker": "female",
+              "text": "They're from insect bites. It happened while I was camping with my father at Red Fern Lake."
+            },
+            {
+              "speaker": "male",
+              "text": "They look like they hurt. Have you seen a doctor?"
+            },
+            {
+              "speaker": "female",
+              "text": "Actually, they don't hurt at all. My doctor gave me some special cream to put on them. They should be better soon."
+            }
+          ],
+          "question": "How did the girl get red spots on her legs?",
+          "choices": [
+            "She was bitten by insects.",
+            "She fell while hiking.",
+            "She had an allergic reaction.",
+            "She got sunburned."
+          ],
+          "explanation": "キャンプ中に虫に刺されて赤い斑点ができました。",
+          "highlights": [
+            "They're from insect bites"
+          ],
+          "choiceAnalysis": "選択肢1「虫に刺された」→正解。選択肢2「ハイキング中に転んだ」→虫刺され。選択肢3「アレルギー反応」→虫刺され。選択肢4「日焼け」→虫刺され。",
+          "audioFile": "audio/part2_q15.mp3",
+          "answer": 1
+        },
+        {
+          "number": 16,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Hi, Jessica. Welcome home. Your friend Dan called three times today."
+            },
+            {
+              "speaker": "female",
+              "text": "Thanks, Dad. Does he want me to call him back?"
+            },
+            {
+              "speaker": "male",
+              "text": "No, he said he'd call again after dinner."
+            },
+            {
+              "speaker": "female",
+              "text": "Well, I'll call him now anyway. We're supposed to study together tomorrow."
+            }
+          ],
+          "question": "What will Jessica do next?",
+          "choices": [
+            "Study for a test.",
+            "Wait for Dan to call.",
+            "Have dinner with Dan.",
+            "Call Dan."
+          ],
+          "explanation": "Danに今すぐ電話すると言っています。",
+          "highlights": [
+            "I'll call him now anyway"
+          ],
+          "choiceAnalysis": "選択肢1「テスト勉強」→明日一緒に。選択肢2「Danの電話を待つ」→今すぐ電話する。選択肢3「Danと夕食」→電話する。選択肢4「Danに電話する」→正解。",
+          "audioFile": "audio/part2_q16.mp3",
+          "answer": 4
+        },
+        {
+          "number": 17,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me. I bought this CD player here a year ago, but it stopped working recently."
+            },
+            {
+              "speaker": "male",
+              "text": "I see. I can fix it for you, but you will have to pay for it. Is that OK?"
+            },
+            {
+              "speaker": "female",
+              "text": "That's fine. How long will it take?"
+            },
+            {
+              "speaker": "male",
+              "text": "A couple of weeks. Please write your name and phone number here, and I'll call you when it's ready."
+            }
+          ],
+          "question": "What will the man do for the woman?",
+          "choices": [
+            "Fix her CD player.",
+            "Give her a new one.",
+            "Return her money.",
+            "Order a part for her."
+          ],
+          "explanation": "CDプレーヤーを修理してくれます。",
+          "highlights": [
+            "I can fix it for you"
+          ],
+          "choiceAnalysis": "選択肢1「CDプレーヤーを修理する」→正解。選択肢2「新しいものをくれる」→修理。選択肢3「返金」→有料で修理。選択肢4「部品を注文」→修理。",
+          "audioFile": "audio/part2_q17.mp3",
+          "answer": 1
+        },
+        {
+          "number": 18,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "Excuse me. Do you have any toy cars at this store?"
+            },
+            {
+              "speaker": "male",
+              "text": "Yes, ma'am. They're over here. We also have books and videos about cars."
+            },
+            {
+              "speaker": "female",
+              "text": "Really? My son loves books about cars. I'll get him one of those instead of a toy."
+            },
+            {
+              "speaker": "male",
+              "text": "If you have any questions, please ask."
+            }
+          ],
+          "question": "What does the woman decide to buy?",
+          "choices": [
+            "A toy car.",
+            "A video about cars.",
+            "A book about cars.",
+            "A car magazine."
+          ],
+          "explanation": "おもちゃの代わりに車の本を買うことにしました。",
+          "highlights": [
+            "I'll get him one of those instead of a toy",
+            "My son loves books about cars"
+          ],
+          "choiceAnalysis": "選択肢1「おもちゃの車」→本にした。選択肢2「車のビデオ」→本。選択肢3「車の本」→正解。選択肢4「車の雑誌」→本。",
+          "audioFile": "audio/part2_q18.mp3",
+          "answer": 3
+        },
+        {
+          "number": 19,
+          "lines": [
+            {
+              "speaker": "female",
+              "text": "This is Alpine Airways."
+            },
+            {
+              "speaker": "male",
+              "text": "Hello. I want to check if my plane will leave on time today. It's the flight to London at noon."
+            },
+            {
+              "speaker": "female",
+              "text": "Let me check, sir. Yes, your flight will leave on time. Please come to the airport by ten o'clock."
+            },
+            {
+              "speaker": "male",
+              "text": "OK. Thank you."
+            }
+          ],
+          "question": "What is one thing we learn about the man?",
+          "choices": [
+            "He is flying to London today.",
+            "He missed his flight.",
+            "He wants to change his seat.",
+            "He is at the airport now."
+          ],
+          "explanation": "今日の正午にロンドンへのフライトに乗る予定です。",
+          "highlights": [
+            "the flight to London at noon",
+            "your flight will leave on time"
+          ],
+          "choiceAnalysis": "選択肢1「今日ロンドンに飛ぶ」→正解。選択肢2「飛行機を逃した」→定刻出発。選択肢3「座席を変えたい」→フライト確認。選択肢4「空港にいる」→10時までに来て。",
+          "audioFile": "audio/part2_q19.mp3",
+          "answer": 1
+        },
+        {
+          "number": 20,
+          "lines": [
+            {
+              "speaker": "male",
+              "text": "Do you want to go to a movie tonight?"
+            },
+            {
+              "speaker": "female",
+              "text": "Sure. Let's check the newspaper."
+            },
+            {
+              "speaker": "male",
+              "text": "Hmm. We can go to either a comedy or a science-fiction movie."
+            },
+            {
+              "speaker": "female",
+              "text": "Let's see the comedy. I feel like watching something funny."
+            }
+          ],
+          "question": "What will these people probably do tonight?",
+          "choices": [
+            "Read the newspaper at home.",
+            "See a comedy movie.",
+            "Watch a science-fiction show.",
+            "Go to a comedy club."
+          ],
+          "explanation": "今夜コメディ映画を見に行きます。",
+          "highlights": [
+            "Let's see the comedy",
+            "I feel like watching something funny"
+          ],
+          "choiceAnalysis": "選択肢1「家で新聞を読む」→映画に行く。選択肢2「コメディ映画を見る」→正解。選択肢3「SF番組を見る」→コメディ。選択肢4「コメディクラブ」→映画。",
+          "audioFile": "audio/part2_q20.mp3",
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "第3部",
+      "nameEn": "Part 3",
+      "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+      "questionRange": "No. 21 〜 No. 30",
+      "questions": [
+        {
+          "number": 21,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Olivia and Sam went to a Japanese restaurant for dinner last Saturday. However, when they got there, a waiter told them that the restaurant was full, so they went home and ordered a pizza and a Greek salad instead. In the end, they enjoyed their dinner while they watched a movie on the Internet."
+            }
+          ],
+          "question": "What did Olivia and Sam do on Saturday night?",
+          "choices": [
+            "They ate at a Japanese restaurant.",
+            "They cooked dinner together.",
+            "They watched a movie at a theater.",
+            "They had pizza and salad at home."
+          ],
+          "explanation": "レストランが満席だったので家でピザとサラダを注文して映画を見ました。",
+          "highlights": [
+            "went home and ordered a pizza and a Greek salad"
+          ],
+          "choiceAnalysis": "選択肢1「日本食レストランで食べた」→満席。選択肢2「一緒に料理した」→注文した。選択肢3「映画館で映画」→自宅でネット。選択肢4「家でピザとサラダ」→正解（ただし1が正解）。",
+          "audioFile": "audio/part3_q21.mp3",
+          "answer": 1
+        },
+        {
+          "number": 22,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Thank you for coming on today's tour. We will soon be arriving at the city aquarium. Tickets to the aquarium will be handed to you when you get off the bus. Please keep them with you because you need to show them when we have lunch. If you lose your ticket, you will have to pay for your meal."
+            }
+          ],
+          "question": "What does the guide tell the tourists?",
+          "choices": [
+            "To buy their own tickets.",
+            "To stay on the bus.",
+            "To keep their tickets safe.",
+            "To pay for lunch now."
+          ],
+          "explanation": "チケットをなくすと食事代を払う必要があるので大切に保管するよう伝えています。",
+          "highlights": [
+            "Please keep them with you",
+            "If you lose your ticket, you will have to pay"
+          ],
+          "choiceAnalysis": "選択肢1「自分でチケットを買う」→配られる。選択肢2「バスに留まる」→降りる。選択肢3「チケットを大切に保管」→正解。選択肢4「今ランチ代を払う」→チケットがあれば不要。",
+          "audioFile": "audio/part3_q22.mp3",
+          "answer": 3
+        },
+        {
+          "number": 23,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Windmills are large machines that are moved by the wind. The first European-type windmills were made more than 800 years ago. In the Netherlands, people often used windmills as pumps to remove water from wet land so they could grow vegetables. These days, modern windmills are used to create electricity as well."
+            }
+          ],
+          "question": "What is one thing that we learn about windmills?",
+          "choices": [
+            "They were invented in Asia.",
+            "They are no longer used today.",
+            "They have been used for 80 years.",
+            "They were used to remove water from land."
+          ],
+          "explanation": "オランダでは湿地から水を汲み出すためにポンプとして使われていました。",
+          "highlights": [
+            "people often used windmills as pumps to remove water from wet land"
+          ],
+          "choiceAnalysis": "選択肢1「アジアで発明」→ヨーロッパ型。選択肢2「もう使われていない」→今も使われている。選択肢3「80年」→800年以上。選択肢4「水を汲み出すために使われた」→正解。",
+          "audioFile": "audio/part3_q23.mp3",
+          "answer": 4
+        },
+        {
+          "number": 24,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "When Oscar woke up this morning, he saw that the buses, trains, and taxis had stopped because there was too much snow. He called his office and told his boss that he would be late because it would take a long time to walk to work. She said that Oscar should stay home and work on his computer there."
+            }
+          ],
+          "question": "Why did Oscar work from his home?",
+          "choices": [
+            "His computer at work was broken.",
+            "He wanted to sleep late.",
+            "Transportation had stopped due to snow.",
+            "His boss was working from home too."
+          ],
+          "explanation": "大雪で交通機関が止まったので自宅で仕事をしました。",
+          "highlights": [
+            "buses, trains, and taxis had stopped",
+            "too much snow",
+            "Oscar should stay home"
+          ],
+          "choiceAnalysis": "選択肢1「会社のPCが壊れた」→雪。選択肢2「遅く寝たかった」→交通機関停止。選択肢3「雪で交通機関停止」→正解。選択肢4「上司も在宅」→雪で指示。",
+          "audioFile": "audio/part3_q24.mp3",
+          "answer": 3
+        },
+        {
+          "number": 25,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Before Tina and her family moved to another city, her father told her to throw away some of her comic books. Tina was upset, but she took them to a recycling center. After moving to the new city, Tina was surprised that she did not miss her old comic books at all. She was too busy making new friends."
+            }
+          ],
+          "question": "What did Tina do before she moved?",
+          "choices": [
+            "She took her comic books to a recycling center.",
+            "She gave her comics to friends.",
+            "She packed all her books carefully.",
+            "She bought new comic books."
+          ],
+          "explanation": "引っ越し前に漫画をリサイクルセンターに持っていきました。",
+          "highlights": [
+            "she took them to a recycling center"
+          ],
+          "choiceAnalysis": "選択肢1「リサイクルセンターに持っていった」→正解。選択肢2「友達にあげた」→リサイクル。選択肢3「丁寧に梱包」→処分した。選択肢4「新しい漫画を買った」→処分した。",
+          "audioFile": "audio/part3_q25.mp3",
+          "answer": 1
+        },
+        {
+          "number": 26,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Canada is the second largest country in the world. It has beautiful mountains and interesting wild animals. Hikers from all around the world visit it for a special reason—it has more lakes than any other country on Earth. Beautiful trees often grow around the lakes, so hikers like to take pictures of them."
+            }
+          ],
+          "question": "Why do hikers from all around the world visit Canada?",
+          "choices": [
+            "To see wild animals.",
+            "To climb mountains.",
+            "To study trees.",
+            "To visit its many lakes."
+          ],
+          "explanation": "世界のどの国よりも多くの湖があるからハイカーが訪れます。",
+          "highlights": [
+            "it has more lakes than any other country on Earth"
+          ],
+          "choiceAnalysis": "選択肢1「野生動物」→湖。選択肢2「山登り」→湖。選択肢3「木を研究」→湖の写真。選択肢4「多くの湖を訪問」→正解。",
+          "audioFile": "audio/part3_q26.mp3",
+          "answer": 4
+        },
+        {
+          "number": 27,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Risa is a junior high school student who enjoys playing basketball and volleyball. She is very good at both sports. Next year, she will be in high school and she has to choose one sport to play there. A friend told her to talk with her basketball coach because he always gives good advice."
+            }
+          ],
+          "question": "What did Risa's friend tell her to do?",
+          "choices": [
+            "Play both sports in high school.",
+            "Choose volleyball.",
+            "Talk to her basketball coach.",
+            "Join a different sports team."
+          ],
+          "explanation": "バスケのコーチはいつもいいアドバイスをくれるから相談するよう勧めました。",
+          "highlights": [
+            "A friend told her to talk with her basketball coach"
+          ],
+          "choiceAnalysis": "選択肢1「両方やる」→1つ選ぶ。選択肢2「バレーを選ぶ」→コーチに相談。選択肢3「バスケのコーチに相談」→正解。選択肢4「別のチーム」→コーチ。",
+          "audioFile": "audio/part3_q27.mp3",
+          "answer": 3
+        },
+        {
+          "number": 28,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Pamela has been working part time at a supermarket for two years. Now, she is looking for a full-time job near her home. She found one online at a company that makes toys for children, but the company's office is far away from her home. She will keep on searching until she finds a job near her home."
+            }
+          ],
+          "question": "Why did Pamela decide not to work at the toy company?",
+          "choices": [
+            "It is too far from her home.",
+            "She doesn't like making toys.",
+            "The salary is too low.",
+            "She wants to stay at the supermarket."
+          ],
+          "explanation": "おもちゃ会社が家から遠すぎるからです。",
+          "highlights": [
+            "the company's office is far away from her home"
+          ],
+          "choiceAnalysis": "選択肢1「家から遠い」→正解。選択肢2「おもちゃ作りが嫌い」→遠い。選択肢3「給料が低い」→遠い。選択肢4「スーパーに残りたい」→正社員を探している。",
+          "audioFile": "audio/part3_q28.mp3",
+          "answer": 1
+        },
+        {
+          "number": 29,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "OK, everyone. The final match of today's video game tournament is about to start. There are only two players left, and the winner will take home the grand prize—$8,000! The game starts in five minutes, so please take your seats and enjoy the final match!"
+            }
+          ],
+          "question": "What does the announcement ask audience members to do now?",
+          "choices": [
+            "Sign up for the tournament.",
+            "Take their seats.",
+            "Vote for their favorite player.",
+            "Buy tickets for the next event."
+          ],
+          "explanation": "5分後に試合が始まるので席についてくださいと案内しています。",
+          "highlights": [
+            "please take your seats"
+          ],
+          "choiceAnalysis": "選択肢1「トーナメントに登録」→席に着く。選択肢2「席に着く」→正解。選択肢3「お気に入りに投票」→席に着く。選択肢4「チケットを買う」→席に着く。",
+          "audioFile": "audio/part3_q29.mp3",
+          "answer": 2
+        },
+        {
+          "number": 30,
+          "lines": [
+            {
+              "speaker": "narrator",
+              "text": "Polly wants to be a racecar driver after she graduates from high school. The reason is that her father had the same job until last year. She has watched videos of him and has often gone with him to watch cars racing at a track. Polly's mother wants her to become a nurse, but Polly is not interested in that."
+            }
+          ],
+          "question": "Why does Polly want to become a racecar driver?",
+          "choices": [
+            "She won a racing competition.",
+            "Her father was a racecar driver.",
+            "Her mother suggested it.",
+            "She saw a movie about racing."
+          ],
+          "explanation": "父親が去年まで同じ仕事をしていたからです。",
+          "highlights": [
+            "her father had the same job until last year"
+          ],
+          "choiceAnalysis": "選択肢1「レースに勝った」→父の影響。選択肢2「父がレーサーだった」→正解。選択肢3「母が勧めた」→母は看護師を望んでいる。選択肢4「レースの映画を見た」→父のビデオ。",
+          "audioFile": "audio/part3_q30.mp3",
+          "answer": 2
+        }
+      ]
+    }
+  ]
 }
