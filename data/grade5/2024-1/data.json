@@ -1,0 +1,577 @@
+{
+    "title": "2024年度 第1回検定一次試験 英検5級 リスニング",
+    "parts": [
+        {
+            "name": "第1部",
+            "nameEn": "Part 1",
+            "partType": "spoken-choices",
+            "description": "イラストを参考にしながら英文を聞き、その文に対する応答として最も適切なものを選ぶ形式です。",
+            "questionRange": "No. 1 〜 No. 10",
+            "questions": [
+                {
+                    "number": 1,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Excuse me.  Where is the post office?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I can’t run.",
+                        "No, I’m not.",
+                        "I don’t know."
+                    ],
+                    "explanation": "「すみません。郵便局はどこですか？」への返答。",
+                    "choiceAnalysis": "1「走れません」→無関係。2「いいえ」→無関係。3「わかりません」→正解。",
+                    "highlights": [
+                        "Where is the post office?"
+                    ],
+                    "audioFile": "audio/part1_q01.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q01.png"
+                },
+                {
+                    "number": 2,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Can I watch TV, Mom?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "To school.",
+                        "I have some.",
+                        "Sure, you can."
+                    ],
+                    "explanation": "「テレビを見てもいい？」への返答。",
+                    "choiceAnalysis": "1「学校へ」→無関係。2「いくつかあります」→無関係。3「いいわよ」→正解。",
+                    "highlights": [
+                        "Can I watch TV, Mom?"
+                    ],
+                    "audioFile": "audio/part1_q02.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q02.png"
+                },
+                {
+                    "number": 3,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "How do you come to school?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I like school.",
+                        "At eight o’clock.",
+                        "By bus."
+                    ],
+                    "explanation": "「どうやって学校に来ますか？」への返答。",
+                    "choiceAnalysis": "1「学校が好きです」→無関係。2「8時に」→時間。3「バスで」→正解。",
+                    "highlights": [
+                        "How do you come to school?"
+                    ],
+                    "audioFile": "audio/part1_q03.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q03.png"
+                },
+                {
+                    "number": 4,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Whose flute is that?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "On the table.",
+                        "My brother’s.",
+                        "This CD."
+                    ],
+                    "explanation": "「あのフルートは誰のですか？」への返答。",
+                    "choiceAnalysis": "1「テーブルの上に」→場所。2「兄のです」→正解。3「このCD」→無関係。",
+                    "highlights": [
+                        "Whose flute is that?"
+                    ],
+                    "audioFile": "audio/part1_q04.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q04.png"
+                },
+                {
+                    "number": 5,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "When do you take a bath?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I’m home.",
+                        "Nice to meet you.",
+                        "Before dinner."
+                    ],
+                    "explanation": "「いつお風呂に入りますか？」への返答。",
+                    "choiceAnalysis": "1「家にいます」→場所。2「はじめまして」→挨拶。3「夕食前に」→正解。",
+                    "highlights": [
+                        "When do you take a bath?"
+                    ],
+                    "audioFile": "audio/part1_q05.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q05.png"
+                },
+                {
+                    "number": 6,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Which T-shirt do you like?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "Yes, I am.",
+                        "The pink one.",
+                        "Ten dollars, please."
+                    ],
+                    "explanation": "「どのTシャツが好きですか？」への返答。",
+                    "choiceAnalysis": "1「はい、そうです」→Yes/No不適。2「ピンクのです」→正解。3「10ドルです」→値段。",
+                    "highlights": [
+                        "Which T-shirt do you like?"
+                    ],
+                    "audioFile": "audio/part1_q06.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q06.png"
+                },
+                {
+                    "number": 7,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "How many lemons do we need, Mom?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "Yes, they are.",
+                        "For summer camp.",
+                        "Ten."
+                    ],
+                    "explanation": "「レモンは何個必要？」への返答。",
+                    "choiceAnalysis": "1「はい、そうです」→Yes/No不適。2「サマーキャンプ用に」→目的。3「10個」→正解。",
+                    "highlights": [
+                        "How many lemons do we need, Mom?"
+                    ],
+                    "audioFile": "audio/part1_q07.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q07.png"
+                },
+                {
+                    "number": 8,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hello, how are you this morning?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "No, I’m not.",
+                        "Good, thanks.",
+                        "At 3:00 p.m."
+                    ],
+                    "explanation": "「今朝の調子はどう？」への返答。",
+                    "choiceAnalysis": "1「いいえ、違います」→無関係。2「元気です、ありがとう」→正解。3「午後3時に」→時間。",
+                    "highlights": [
+                        "Hello, how are you this morning?"
+                    ],
+                    "audioFile": "audio/part1_q08.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q08.png"
+                },
+                {
+                    "number": 9,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I’m at the shopping mall with my friends."
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "Have a good time.",
+                        "It’s my favorite store.",
+                        "Not much."
+                    ],
+                    "explanation": "「ショッピングモールにいます」への返答。",
+                    "choiceAnalysis": "1「楽しんでね」→正解。2「お気に入りの店です」→無関係。3「あまり」→無関係。",
+                    "highlights": [
+                        "I'm at the shopping mall with my friends."
+                    ],
+                    "audioFile": "audio/part1_q09.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q09.png"
+                },
+                {
+                    "number": 10,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Can I play with your robot?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "It’s on Saturday.",
+                        "Yes, have fun.",
+                        "Yes, it does."
+                    ],
+                    "explanation": "「あなたのロボットで遊んでいい？」への返答。",
+                    "choiceAnalysis": "1「土曜日です」→無関係。2「いいよ、楽しんで」→正解。3「はい、します」→無関係。",
+                    "highlights": [
+                        "Can I play with your robot?"
+                    ],
+                    "audioFile": "audio/part1_q10.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q10.png"
+                }
+            ]
+        },
+        {
+            "name": "第2部",
+            "nameEn": "Part 2",
+            "description": "対話を聞き、その質問に対して最も適切な答えを選ぶ形式です。",
+            "questionRange": "No. 11 〜 No. 15",
+            "questions": [
+                {
+                    "number": 11,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Hi, I want some chocolate pie, please."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That’s $2.60."
+                        }
+                    ],
+                    "question": "How much is the chocolate pie?",
+                    "choices": [
+                        "$2.00.",
+                        "$2.06.",
+                        "$2.16.",
+                        "$2.60."
+                    ],
+                    "explanation": "「チョコレートパイはいくらですか？」→「2ドル60セントです」。",
+                    "choiceAnalysis": "1「2ドル」→違う。2「2ドル16セント」→違う。3「2ドル60セント」→正解。4「6ドル」→違う。",
+                    "highlights": [
+                        "That's $2.60."
+                    ],
+                    "audioFile": "audio/part2_q11.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 12,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Can I have the sugar, please?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Sure, here you are."
+                        }
+                    ],
+                    "question": "What does the boy want?",
+                    "choices": [
+                        "The  sugar.",
+                        "The  salt.",
+                        "His  dinner.",
+                        "Some  tea."
+                    ],
+                    "explanation": "「男の子は何が欲しいですか？」→「砂糖をもらえますか」。",
+                    "choiceAnalysis": "1「鉛筆」→違う。2「砂糖」→正解。3「消しゴム」→違う。4「ノート」→違う。",
+                    "highlights": [
+                        "Can I have the sugar, please?"
+                    ],
+                    "audioFile": "audio/part2_q12.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 13,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Nancy, can you help me with my homework on Friday?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Sorry.  I have a piano lesson every Friday."
+                        }
+                    ],
+                    "question": "What does Nancy do on Fridays?",
+                    "choices": [
+                        "She  has  a  piano  lesson.",
+                        "She  helps  her  friend.",
+                        "She  does  her  homework.",
+                        "She  goes  home."
+                    ],
+                    "explanation": "「ナンシーは金曜日に何をしますか？」→「ピアノのレッスンがあります」。",
+                    "choiceAnalysis": "1「サッカーの練習」→違う。2「英語の授業」→違う。3「ピアノのレッスン」→正解。4「水泳の授業」→違う。",
+                    "highlights": [
+                        "I have a piano lesson every Friday."
+                    ],
+                    "audioFile": "audio/part2_q13.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 14,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "I like pets.  Do you have one?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes, I have a brown dog."
+                        }
+                    ],
+                    "question": "What are they talking about?",
+                    "choices": [
+                        "Pets.",
+                        "Family.",
+                        "Fruits.",
+                        "School."
+                    ],
+                    "explanation": "「何について話していますか？」→「ペットが好き。茶色い犬を飼っている」。",
+                    "choiceAnalysis": "1「好きな色」→違う。2「学校生活」→違う。3「好きな食べ物」→違う。4「ペット」→正解。",
+                    "highlights": [
+                        "I like pets.",
+                        "I have a brown dog."
+                    ],
+                    "audioFile": "audio/part2_q14.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 15,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Is your brother playing basketball?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "No, he’s climbing a tree."
+                        }
+                    ],
+                    "question": "What is the boy’s brother doing?",
+                    "choices": [
+                        "He  is  playing  basketball.",
+                        "He  is  picking  flowers.",
+                        "He  is  eating  lunch.",
+                        "He  is  climbing  a  tree."
+                    ],
+                    "explanation": "「男の子の兄は何をしていますか？」→「木に登っています」。",
+                    "choiceAnalysis": "1「サッカーをしている」→違う。2「バスケをしている」→質問の内容。3「走っている」→違う。4「木に登っている」→正解。",
+                    "highlights": [
+                        "he's climbing a tree."
+                    ],
+                    "audioFile": "audio/part2_q15.mp3",
+                    "answer": 4
+                }
+            ]
+        },
+        {
+            "name": "第3部",
+            "nameEn": "Part 3",
+            "partType": "spoken-choices",
+            "description": "三つの英文を聞き、その中から絵の内容を最もよく表しているものを一つ選ぶ形式です。",
+            "questionRange": "No. 16 〜 No. 25",
+            "questions": [
+                {
+                    "number": 16,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Tim works in a restaurant.",
+                        "Tim works in a post office.",
+                        "Tim works in a museum."
+                    ],
+                    "explanation": "ティムは博物館で働いています。",
+                    "choiceAnalysis": "1「レストラン」→違う。2「郵便局」→違う。3「博物館」→正解。",
+                    "highlights": [
+                        "Tim works in a museum."
+                    ],
+                    "audioFile": "audio/part3_q16.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q16.png"
+                },
+                {
+                    "number": 17,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Taro is calling a friend.",
+                        "Taro is reading a magazine.",
+                        "Taro is writing a letter."
+                    ],
+                    "explanation": "「タロウは雑誌を読んでいます。」",
+                    "choiceAnalysis": "1「電話をしている」→違う。2「雑誌を読んでいる」→正解。3「手紙を書いている」→違う。",
+                    "highlights": [
+                        "Taro is reading a magazine."
+                    ],
+                    "audioFile": "audio/part3_q17.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q17.png"
+                },
+                {
+                    "number": 18,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Jane is dancing with her friends.",
+                        "Jane is running with her friends.",
+                        "Jane is speaking with her friends."
+                    ],
+                    "explanation": "ジェーンは友達と話しています。",
+                    "choiceAnalysis": "1「踊っている」→違う。2「走っている」→違う。3「話している」→正解。",
+                    "highlights": [
+                        "Jane is speaking with her friends."
+                    ],
+                    "audioFile": "audio/part3_q18.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q18.png"
+                },
+                {
+                    "number": 19,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Open your textbooks to page one hundred and fifteen.",
+                        "Open your textbooks to page one hundred and fifty.",
+                        "Open your textbooks to page one hundred and fifty-five."
+                    ],
+                    "explanation": "「教科書の150ページを開いてください。」",
+                    "choiceAnalysis": "1「115ページ」→違う。2「150ページ」→正解。3「155ページ」→違う。",
+                    "highlights": [
+                        "Open your textbooks to page one hundred and fifty."
+                    ],
+                    "audioFile": "audio/part3_q19.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q19.png"
+                },
+                {
+                    "number": 20,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Two rabbits are on the rock.",
+                        "Two rabbits are in the river.",
+                        "Two rabbits are under the tree."
+                    ],
+                    "explanation": "「2匹のウサギが木の下にいます。」",
+                    "choiceAnalysis": "1「岩の上」→違う。2「川の中」→違う。3「木の下」→正解。",
+                    "highlights": [
+                        "Two rabbits are under the tree."
+                    ],
+                    "audioFile": "audio/part3_q20.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q20.png"
+                },
+                {
+                    "number": 21,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Mr. Morris is painting an apple.",
+                        "Mr. Morris is cutting an apple.",
+                        "Mr. Morris is buying an apple."
+                    ],
+                    "explanation": "「モリスさんはリンゴを切っています。」",
+                    "choiceAnalysis": "1「リンゴを描いている」→違う。2「リンゴを切っている」→正解。3「リンゴを買っている」→違う。",
+                    "highlights": [
+                        "Mr. Morris is cutting an apple."
+                    ],
+                    "audioFile": "audio/part3_q21.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q21.png"
+                },
+                {
+                    "number": 22,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Alice is a writer.",
+                        "Alice is a nurse.",
+                        "Alice is an artist."
+                    ],
+                    "explanation": "アリスは芸術家です。",
+                    "choiceAnalysis": "1「作家」→違う。2「看護師」→違う。3「芸術家」→正解。",
+                    "highlights": [
+                        "Alice is an artist."
+                    ],
+                    "audioFile": "audio/part3_q22.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q22.png"
+                },
+                {
+                    "number": 23,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Mark is washing the dishes.",
+                        "Mark is washing a car.",
+                        "Mark is washing some clothes."
+                    ],
+                    "explanation": "マークは車を洗っています。",
+                    "choiceAnalysis": "1「皿を洗っている」→違う。2「車を洗っている」→正解。3「服を洗っている」→違う。",
+                    "highlights": [
+                        "Mark is washing a car."
+                    ],
+                    "audioFile": "audio/part3_q23.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q23.png"
+                },
+                {
+                    "number": 24,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Sara is looking at a penguin.",
+                        "Sara is looking at a lion.",
+                        "Sara is looking at a kangaroo."
+                    ],
+                    "explanation": "サラはカンガルーを見ています。",
+                    "choiceAnalysis": "1「ペンギン」→違う。2「ライオン」→違う。3「カンガルー」→正解。",
+                    "highlights": [
+                        "Sara is looking at a kangaroo."
+                    ],
+                    "audioFile": "audio/part3_q24.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q24.png"
+                },
+                {
+                    "number": 25,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Hiro is in the bathroom.",
+                        "Hiro is in the kitchen.",
+                        "Hiro is in the bedroom."
+                    ],
+                    "explanation": "ヒロはバスルームにいます。",
+                    "choiceAnalysis": "1「バスルーム」→正解。2「キッチン」→違う。3「寝室」→違う。",
+                    "highlights": [
+                        "Hiro is in the bathroom."
+                    ],
+                    "audioFile": "audio/part3_q25.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q25.png"
+                }
+            ]
+        }
+    ]
+}

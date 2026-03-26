@@ -1,0 +1,576 @@
+{
+    "title": "2025年度 第3回検定一次試験 英検5級 リスニング",
+    "parts": [
+        {
+            "name": "第1部",
+            "nameEn": "Part 1",
+            "partType": "spoken-choices",
+            "description": "イラストを参考にしながら英文を聞き、その文に対する応答として最も適切なものを選ぶ形式です。",
+            "questionRange": "No. 1 〜 No. 10",
+            "questions": [
+                {
+                    "number": 1,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Who likes tennis in your family?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "My sister does.",
+                        "It’s a racket.",
+                        "At school."
+                    ],
+                    "explanation": "「あなたの家族で誰がテニスを好きですか？」への返答。",
+                    "choiceAnalysis": "1「私の姉（妹）です」→正解。2「それはラケットです」→無関係。3「学校で」→場所。",
+                    "audioFile": "audio/part1_q01.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q01.png",
+                    "highlights": [
+                        "Who likes tennis in your family?"
+                    ]
+                },
+                {
+                    "number": 2,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "What’s that bird over there?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I don’t know.",
+                        "I like this park.",
+                        "Thank you."
+                    ],
+                    "explanation": "「あそこにいるあの鳥は何ですか？」への返答。",
+                    "choiceAnalysis": "1「知りません」→正解。2「私はこの公園が好きです」→無関係。3「ありがとう」→無関係。",
+                    "audioFile": "audio/part1_q02.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q02.png",
+                    "highlights": [
+                        "What’s that bird over there?"
+                    ]
+                },
+                {
+                    "number": 3,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I like cats.  How about you?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "Over there.",
+                        "Good idea.",
+                        "Me, too."
+                    ],
+                    "explanation": "「私は猫が好きです。あなたはどうですか？」への返答。",
+                    "choiceAnalysis": "1「あちらに」→場所。2「いい考えですね」→提案への返事。3「私もです」→正解。",
+                    "audioFile": "audio/part1_q03.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q03.png",
+                    "highlights": [
+                        "How about you?"
+                    ]
+                },
+                {
+                    "number": 4,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "How many baseball gloves do you have?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "By bike.",
+                        "Only one.",
+                        "My favorite player."
+                    ],
+                    "explanation": "「野球のグローブをいくつ持っていますか？」への返答。",
+                    "choiceAnalysis": "1「自転車で」→手段。2「1つだけです」→正解。3「私の好きな選手」→無関係。",
+                    "audioFile": "audio/part1_q04.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q04.png",
+                    "highlights": [
+                        "How many baseball gloves do you have?"
+                    ]
+                },
+                {
+                    "number": 5,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "How old is your baby?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "10 months old.",
+                        "He’s fine.",
+                        "Good job."
+                    ],
+                    "explanation": "「あなたの赤ちゃんは何歳ですか？」への返答。",
+                    "choiceAnalysis": "1「生後10ヶ月です」→正解。2「彼は元気です」→状態。3「よくやったね」→無関係。",
+                    "audioFile": "audio/part1_q05.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q05.png",
+                    "highlights": [
+                        "How old is your baby?"
+                    ]
+                },
+                {
+                    "number": 6,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Do you live in London?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "That’s right.",
+                        "By bus.",
+                        "Nice to meet you."
+                    ],
+                    "explanation": "「あなたはロンドンに住んでいますか？」への返答。",
+                    "choiceAnalysis": "1「その通りです」→正解。2「バスで」→手段。3「はじめまして」→挨拶。",
+                    "audioFile": "audio/part1_q06.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q06.png",
+                    "highlights": [
+                        "Do you live in London?"
+                    ]
+                },
+                {
+                    "number": 7,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Does Aunt Cathy have a dog?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "No, she’s your teacher.",
+                        "It’s a big pet shop.",
+                        "No, she doesn’t."
+                    ],
+                    "explanation": "「キャシーおばさんは犬を飼っていますか？」への返答。",
+                    "choiceAnalysis": "1「いいえ、彼女はあなたの先生です」→無関係。2「それは大きなペットショップです」→場所。3「いいえ、飼っていません」→正解。",
+                    "audioFile": "audio/part1_q07.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q07.png",
+                    "highlights": [
+                        "Does Aunt Cathy have a dog?"
+                    ]
+                },
+                {
+                    "number": 8,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "My birthday is September 2."
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "It’s a big party.",
+                        "Mine is in April.",
+                        "I like winter."
+                    ],
+                    "explanation": "「私の誕生日は9月2日です」への返答。",
+                    "choiceAnalysis": "1「それは大きなパーティーです」→無関係。2「私のは4月です」→正解。3「私は冬が好きです」→季節。",
+                    "audioFile": "audio/part1_q08.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q08.png",
+                    "highlights": [
+                        "My birthday is September 2."
+                    ]
+                },
+                {
+                    "number": 9,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "When is your birthday party?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I want a cake.",
+                        "Please buy some flowers.",
+                        "It’s next week."
+                    ],
+                    "explanation": "「あなたの誕生日パーティーはいつですか？」への返答。",
+                    "choiceAnalysis": "1「ケーキが欲しいです」→無関係。2「いくつか花を買ってください」→無関係。3「来週です」→正解。",
+                    "audioFile": "audio/part1_q09.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q09.png",
+                    "highlights": [
+                        "When is your birthday party?"
+                    ]
+                },
+                {
+                    "number": 10,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "We have a lot of cookies."
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "Yes, it is.",
+                        "We can share them.",
+                        "I don’t like salad."
+                    ],
+                    "explanation": "「クッキーがたくさんあります」への返答。",
+                    "choiceAnalysis": "1「はい、そうです」→無関係。2「分け合うことができますね」→正解。3「私はサラダが好きではありません」→無関係。",
+                    "audioFile": "audio/part1_q10.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q10.png",
+                    "highlights": [
+                        "We have a lot of cookies."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "第2部",
+            "nameEn": "Part 2",
+            "description": "対話を聞き、その質問に対して最も適切な答えを選ぶ形式です。",
+            "questionRange": "No. 11 〜 No. 15",
+            "questions": [
+                {
+                    "number": 11,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I can’t find my red pen.  It’s not in my pencil case."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "It’s under your chair."
+                        }
+                    ],
+                    "question": "Where is the girl’s red pen?",
+                    "choices": [
+                        "In her pencil case.",
+                        "In her bag.",
+                        "Under her chair.",
+                        "Under her textbook."
+                    ],
+                    "explanation": "「女の子の赤いペンはどこにありますか？」「あなたの椅子の下にありますよ」。",
+                    "choiceAnalysis": "1「彼女の筆箱の中」→ない。2「彼女のバッグの中」→違う。3「彼女の椅子の下」→正解。4「彼女の教科書の下」→違う。",
+                    "audioFile": "audio/part2_q11.mp3",
+                    "answer": 3,
+                    "highlights": [
+                        "It’s under your chair."
+                    ]
+                },
+                {
+                    "number": 12,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "I play soccer.  What do you like?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I like volleyball.  It’s fun."
+                        }
+                    ],
+                    "question": "What does the girl like?",
+                    "choices": [
+                        "Soccer.",
+                        "Volleyball.",
+                        "Tennis.",
+                        "Basketball."
+                    ],
+                    "explanation": "「女の子は何が好きですか？」「私はバレーボールが好きです」。",
+                    "choiceAnalysis": "1「サッカー」→男の子。2「バレーボール」→正解。3「テニス」→無関係。4「バスケットボール」→無関係。",
+                    "audioFile": "audio/part2_q12.mp3",
+                    "answer": 2,
+                    "highlights": [
+                        "I like volleyball."
+                    ]
+                },
+                {
+                    "number": 13,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I go to the bookstore every Saturday."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "On Saturdays, I go to the beach or the park."
+                        }
+                    ],
+                    "question": "Where does the girl go every Saturday?",
+                    "choices": [
+                        "To the park.",
+                        "To the beach.",
+                        "To the pool.",
+                        "To the bookstore."
+                    ],
+                    "explanation": "「女の子は毎週土曜日どこへ行きますか？」「毎週土曜日本屋に行きます」。",
+                    "choiceAnalysis": "1「公園」→男の子。2「ビーチ」→男の子。3「プール」→無関係。4「本屋」→正解。",
+                    "audioFile": "audio/part2_q13.mp3",
+                    "answer": 4,
+                    "highlights": [
+                        "I go to the bookstore every Saturday."
+                    ]
+                },
+                {
+                    "number": 14,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Do you have a Chinese book?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No.  I have an English book."
+                        }
+                    ],
+                    "question": "What does the girl have?",
+                    "choices": [
+                        "A French book.",
+                        "A Chinese book.",
+                        "An English book.",
+                        "A Korean book."
+                    ],
+                    "explanation": "「女の子は何を持っていますか？」「私は英語の本を持っています」。",
+                    "choiceAnalysis": "1「フランス語の本」→違う。2「中国語の本」→持っていない。3「英語の本」→正解。4「韓国語の本」→違う。",
+                    "audioFile": "audio/part2_q14.mp3",
+                    "answer": 3,
+                    "highlights": [
+                        "I have an English book."
+                    ]
+                },
+                {
+                    "number": 15,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Is your mom cooking fish for dinner?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "No, she’s making soup."
+                        }
+                    ],
+                    "question": "What is the boy’s mother making for dinner?",
+                    "choices": [
+                        "Soup.",
+                        "Salad.",
+                        "Fish.",
+                        "Pasta."
+                    ],
+                    "explanation": "「男の子のお母さんは夕食に何を作っていますか？」「彼女はスープを作っています」。",
+                    "choiceAnalysis": "1「スープ」→正解。2「サラダ」→違う。3「魚」→作っていない。4「パスタ」→違う。",
+                    "audioFile": "audio/part2_q15.mp3",
+                    "answer": 1,
+                    "highlights": [
+                        "she’s making soup."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "第3部",
+            "nameEn": "Part 3",
+            "partType": "spoken-choices",
+            "description": "三つの英文を聞き、その中から絵の内容を最もよく表しているものを一つ選ぶ形式です。",
+            "questionRange": "No. 16 〜 No. 25",
+            "questions": [
+                {
+                    "number": 16,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "The apples are in the box.",
+                        "The apples are under the box.",
+                        "The apples are on the box."
+                    ],
+                    "explanation": "「リンゴは箱の中にあります。」",
+                    "choiceAnalysis": "1「リンゴは箱の中にあります」→正解。2「リンゴは箱の下にあります」→違う。3「リンゴは箱の上にあります」→違う。",
+                    "audioFile": "audio/part3_q16.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q16.png",
+                    "highlights": [
+                        "The apples are in the box."
+                    ]
+                },
+                {
+                    "number": 17,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Tony is in the library.",
+                        "Tony is in the gym.",
+                        "Tony is in the park."
+                    ],
+                    "explanation": "「トニーは体育館にいます。」",
+                    "choiceAnalysis": "1「トニーは図書館にいます」→違う。2「トニーは体育館にいます」→正解。3「トニーは公園にいます」→違う。",
+                    "audioFile": "audio/part3_q17.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q17.png",
+                    "highlights": [
+                        "Tony is in the gym."
+                    ]
+                },
+                {
+                    "number": 18,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "It’s snowing in Chicago.",
+                        "It’s windy in Chicago.",
+                        "It’s cloudy in Chicago."
+                    ],
+                    "explanation": "「シカゴは風が強いです。」",
+                    "choiceAnalysis": "1「シカゴは雪が降っています」→違う。2「シカゴは風が強いです」→正解。3「シカゴは曇っています」→違う。",
+                    "audioFile": "audio/part3_q18.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q18.png",
+                    "highlights": [
+                        "It’s windy in Chicago."
+                    ]
+                },
+                {
+                    "number": 19,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "It’s September 3rd.",
+                        "It’s September 13th.",
+                        "It’s September 23rd."
+                    ],
+                    "explanation": "「9月23日です。」",
+                    "choiceAnalysis": "1「9月3日です」→違う。2「9月13日です」→違う。3「9月23日です」→正解。",
+                    "audioFile": "audio/part3_q19.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q19.png",
+                    "highlights": [
+                        "It’s September 23rd."
+                    ]
+                },
+                {
+                    "number": 20,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Bill is talking on the train.",
+                        "Bill is sitting on the train.",
+                        "Bill is standing on the train."
+                    ],
+                    "explanation": "「ビルは電車の中で立っています。」",
+                    "choiceAnalysis": "1「ビルは電車の中で話しています」→違う。2「ビルは電車の中で座っています」→違う。3「ビルは電車の中で立っています」→正解。",
+                    "audioFile": "audio/part3_q20.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q20.png",
+                    "highlights": [
+                        "Bill is standing on the train."
+                    ]
+                },
+                {
+                    "number": 21,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Ron is riding a bike.",
+                        "Ron is cleaning a bike.",
+                        "Ron is painting a bike."
+                    ],
+                    "explanation": "「ロンは自転車に乗っています。」",
+                    "choiceAnalysis": "1「ロンは自転車に乗っています」→正解。2「ロンは自転車を掃除しています」→違う。3「ロンは自転車に色を塗っています」→違う。",
+                    "audioFile": "audio/part3_q21.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q21.png",
+                    "highlights": [
+                        "Ron is riding a bike."
+                    ]
+                },
+                {
+                    "number": 22,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Harry has an apple in his hand.",
+                        "Harry has a hat in his hand.",
+                        "Harry has a magazine in his hand."
+                    ],
+                    "explanation": "「ハリーは手に雑誌を持っています。」",
+                    "choiceAnalysis": "1「ハリーは手にリンゴを持っています」→違う。2「ハリーは手に帽子を持っています」→違う。3「ハリーは手に雑誌を持っています」→正解。",
+                    "audioFile": "audio/part3_q22.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q22.png",
+                    "highlights": [
+                        "Harry has a magazine in his hand."
+                    ]
+                },
+                {
+                    "number": 23,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Nanako is singing a song.",
+                        "Nanako is doing her homework.",
+                        "Nanako is playing a guitar."
+                    ],
+                    "explanation": "「ナナコは宿題をしています。」",
+                    "choiceAnalysis": "1「ナナコは歌を歌っています」→違う。2「ナナコは宿題をしています」→正解。3「ナナコはギターを弾いています」→違う。",
+                    "audioFile": "audio/part3_q23.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q23.png",
+                    "highlights": [
+                        "Nanako is doing her homework."
+                    ]
+                },
+                {
+                    "number": 24,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "Alice is using the computer.",
+                        "Alice is using the telephone.",
+                        "Alice is using the scissors."
+                    ],
+                    "explanation": "「アリスはハサミを使っています。」",
+                    "choiceAnalysis": "1「アリスはコンピューターを使っています」→違う。2「アリスは電話を使っています」→違う。3「アリスはハサミを使っています」→正解。",
+                    "audioFile": "audio/part3_q24.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q24.png",
+                    "highlights": [
+                        "Alice is using the scissors."
+                    ]
+                },
+                {
+                    "number": 25,
+                    "lines": [],
+                    "question": "Choose the best sentence for the picture.",
+                    "choices": [
+                        "The bus comes at 9:05 a.m.",
+                        "The bus comes at 9:20 a.m.",
+                        "The bus comes at 9:25 a.m."
+                    ],
+                    "explanation": "「バスは午前9時25分に来ます。」",
+                    "choiceAnalysis": "1「バスは午前9時5分に来ます」→違う。2「バスは午前9時20分に来ます」→違う。3「バスは午前9時25分に来ます」→正解。",
+                    "audioFile": "audio/part3_q25.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q25.png",
+                    "highlights": [
+                        "The bus comes at 9:25 a.m."
+                    ]
+                }
+            ]
+        }
+    ]
+}

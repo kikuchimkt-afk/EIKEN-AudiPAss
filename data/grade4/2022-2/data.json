@@ -1,0 +1,926 @@
+{
+    "title": "2022年度 第2回検定一次試験 英検4級 リスニング",
+    "parts": [
+        {
+            "name": "第1部",
+            "nameEn": "Part 1",
+            "partType": "spoken-choices",
+            "description": "イラストを参考にしながら対話を聞き、その最後の文に対する応答として最も適切なものを選ぶ形式です。選択肢は音声で放送されます。",
+            "questionRange": "No. 1 〜 No. 10",
+            "questions": [
+                {
+                    "number": 1,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "These newspapers are heavy!"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Are you recycling them?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes.  Could you help me?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "Sure, Mom.",
+                        "I like reading.",
+                        "I don’t understand."
+                    ],
+                    "answer": 1,
+                    "audioFile": "audio/part1_q01.mp3",
+                    "illustrationFile": "images/q01.png",
+                    "explanation": "「新聞をリサイクルするの、手伝ってくれる？」への返答。",
+                    "highlights": [
+                        "Could you help me?"
+                    ],
+                    "choiceAnalysis": "1「いいよ、お母さん」→正解。2「読書が好き」→新聞。3「理解できない」→無関係。"
+                },
+                {
+                    "number": 2,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Is your sister in a band, too?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "What does she play?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "The trumpet.",
+                        "At high school.",
+                        "Our music teacher."
+                    ],
+                    "answer": 1,
+                    "audioFile": "audio/part1_q02.mp3",
+                    "illustrationFile": "images/q02.png",
+                    "explanation": "バンドにいる姉妹について「彼女は何の楽器を演奏するの？」への返答。",
+                    "highlights": [
+                        "What does she play?"
+                    ],
+                    "choiceAnalysis": "1「トランペットだよ」→正解。2「高校で」→場所。3「音楽の先生」→無関係。"
+                },
+                {
+                    "number": 3,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "What are you going to get for Dad’s birthday?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Some socks.  How about you?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I’ll make him a photo frame."
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "He’ll like that.",
+                        "He’ll call later.",
+                        "He’ll get some cake."
+                    ],
+                    "answer": 1,
+                    "audioFile": "audio/part1_q03.mp3",
+                    "illustrationFile": "images/q03.png",
+                    "explanation": "「お父さんの誕生日に写真立てを作ろうと思うの」への返答。",
+                    "highlights": [
+                        "I’ll make him a photo frame."
+                    ],
+                    "choiceAnalysis": "1「お父さんは喜ぶよ」→正解。2「あとで電話するよ」→無関係。3「ケーキをもらうよ」→無関係。"
+                },
+                {
+                    "number": 4,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Mr. Warner, you have a visitor."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Who is it?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Mr. Smith."
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "Two o’clock is fine.",
+                        "This is my report.",
+                        "I’ll be there soon."
+                    ],
+                    "answer": 3,
+                    "audioFile": "audio/part1_q04.mp3",
+                    "illustrationFile": "images/q04.png",
+                    "explanation": "「お客様のスミスさんがいらっしゃってます」への返答。",
+                    "highlights": [
+                        "Mr. Smith."
+                    ],
+                    "choiceAnalysis": "1「2時で大丈夫」→時間。2「これが私のレポートです」→無関係。3「すぐに行くよ」→正解。"
+                },
+                {
+                    "number": 5,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Happy birthday, James."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Thanks, Grandma."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Are you going to have a party tonight?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "Yes, it was delicious.",
+                        "Yes, at a restaurant.",
+                        "Yes, a new jacket."
+                    ],
+                    "answer": 2,
+                    "audioFile": "audio/part1_q05.mp3",
+                    "illustrationFile": "images/q05.png",
+                    "explanation": "「今夜パーティーをするの？」への返答。",
+                    "highlights": [
+                        "Are you going to have a party tonight?"
+                    ],
+                    "choiceAnalysis": "1「美味しかった」→過去形。2「うん、レストランでね」→正解。3「新しいジャケットだよ」→無関係。"
+                },
+                {
+                    "number": 6,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "What did you do yesterday?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I watched a movie about birds."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "How was it?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I have two fish.",
+                        "It was interesting.",
+                        "That’s all."
+                    ],
+                    "answer": 2,
+                    "audioFile": "audio/part1_q06.mp3",
+                    "illustrationFile": "images/q06.png",
+                    "explanation": "「映画（鳥について）はどうだった？」への返答。",
+                    "highlights": [
+                        "How was it?"
+                    ],
+                    "choiceAnalysis": "1「魚を2匹飼っている」→無関係。2「面白かったよ」→正解。3「それだけだよ」→不適切。"
+                },
+                {
+                    "number": 7,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "I went to the shopping mall today."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Did you buy anything?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes.  These gloves."
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "They’re nice.",
+                        "I’ll find them.",
+                        "It’s closed today."
+                    ],
+                    "answer": 1,
+                    "audioFile": "audio/part1_q07.mp3",
+                    "illustrationFile": "images/q07.png",
+                    "explanation": "「（ショッピングモールで）この手袋を買ったんだ」への返答。",
+                    "highlights": [
+                        "Did you buy anything?",
+                        "Yes.  These gloves."
+                    ],
+                    "choiceAnalysis": "1「いいね」→正解。2「私が見つけるよ」→無関係。3「今日は閉まっているよ」→無関係。"
+                },
+                {
+                    "number": 8,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Are you looking for a cap?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes.  I want a white one."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "This one is only $10."
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I’ll take it.",
+                        "I think so.",
+                        "I can show you."
+                    ],
+                    "answer": 1,
+                    "audioFile": "audio/part1_q08.mp3",
+                    "illustrationFile": "images/q08.png",
+                    "explanation": "「この（白い帽子）はたったの10ドルだよ」への返答。",
+                    "highlights": [
+                        "This one is only ."
+                    ],
+                    "choiceAnalysis": "1「これにします」→正解。2「そう思うよ」→無関係。3「案内できるよ」→無関係。"
+                },
+                {
+                    "number": 9,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Let’s buy some flowers for your mother."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Good idea."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Is there a flower shop near here?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I bought 12 roses.",
+                        "They’re very pretty.",
+                        "There’s one by the supermarket."
+                    ],
+                    "answer": 3,
+                    "audioFile": "audio/part1_q09.mp3",
+                    "illustrationFile": "images/q09.png",
+                    "explanation": "「この近くに花屋さんはある？」への返答。",
+                    "highlights": [
+                        "Is there a flower shop near here?"
+                    ],
+                    "choiceAnalysis": "1「バラを12本買ったよ」→買った後。2「とても綺麗だね」→無関係。3「スーパーのそばにあるよ」→正解。"
+                },
+                {
+                    "number": 10,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Do you have any pets?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes, I have two hamsters."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Where are they?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "They’re 10 months old.",
+                        "They like carrots.",
+                        "They’re in my bedroom."
+                    ],
+                    "answer": 3,
+                    "audioFile": "audio/part1_q10.mp3",
+                    "illustrationFile": "images/q10.png",
+                    "explanation": "「ハムスターは（今）どこにいるの？」への返答。",
+                    "highlights": [
+                        "Where are they?"
+                    ],
+                    "choiceAnalysis": "1「生後10ヶ月だよ」→年齢ではない。2「ニンジンが好きだよ」→好物ではない。3「私の寝室にいるよ」→正解。"
+                }
+            ]
+        },
+        {
+            "name": "第2部",
+            "nameEn": "Part 2",
+            "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 11 〜 No. 20",
+            "questions": [
+                {
+                    "number": 11,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Mom, I need to go to school early tomorrow."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Why?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I have band practice for the concert."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "OK."
+                        }
+                    ],
+                    "question": "Why does the boy have to go to school early tomorrow?",
+                    "choices": [
+                        "To watch a concert.",
+                        "To practice with the band.",
+                        "To do his homework.",
+                        "To clean his classroom."
+                    ],
+                    "answer": 2,
+                    "audioFile": "audio/part2_q11.mp3",
+                    "explanation": "「男の子が明日早く学校に行く理由は？」「バンドの練習があるから」。",
+                    "highlights": [
+                        "I have band practice for the concert."
+                    ],
+                    "choiceAnalysis": "1「コンサートを見るため」→練習。2「バンドの練習」→正解。3「宿題をするため」→無関係。4「教室を掃除するため」→無関係。"
+                },
+                {
+                    "number": 12,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I’m sorry I’m late, Dad."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Did you take the bus?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No.  It didn’t come, so I walked home."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Next time, call me.  I’ll pick you up."
+                        }
+                    ],
+                    "question": "Why was the girl late?",
+                    "choices": [
+                        "The bus didn’t come.",
+                        "The train stopped.",
+                        "She couldn’t find her phone.",
+                        "She took the wrong bus."
+                    ],
+                    "answer": 1,
+                    "audioFile": "audio/part2_q12.mp3",
+                    "explanation": "「女の子が遅刻した理由は？」「バスが来なかったから歩いた」。",
+                    "highlights": [
+                        "It didn’t come, so I walked home."
+                    ],
+                    "choiceAnalysis": "1「バスが来なかった」→正解。2「電車が止まった」→バス。3「電話が見つからなかった」→無関係。4「間違ったバスに乗った」→乗れなかった。"
+                },
+                {
+                    "number": 13,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Marcy, walk the dog."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Can I do it after lunch?  I’m watching TV now."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "No, we’re going to visit Grandpa then."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "OK, I’ll do it."
+                        }
+                    ],
+                    "question": "What is Marcy doing now?",
+                    "choices": [
+                        "Visiting her grandfather.",
+                        "Walking the dog.",
+                        "Cooking lunch.",
+                        "Watching TV."
+                    ],
+                    "answer": 4,
+                    "audioFile": "audio/part2_q13.mp3",
+                    "explanation": "「マーシーは今何をしている？」「テレビを見ている」。",
+                    "highlights": [
+                        "I’m watching TV now."
+                    ],
+                    "choiceAnalysis": "1「祖父を訪問している」→後で。2「犬の散歩」→後で。3「昼食を作っている」→無関係。4「テレビを見ている」→正解。"
+                },
+                {
+                    "number": 14,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Do you want to play tennis?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I left my racket at school."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That’s OK.  You can use my mom’s."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Great, thanks."
+                        }
+                    ],
+                    "question": "Whose tennis racket will the girl use?",
+                    "choices": [
+                        "The boy’s.",
+                        "The boy’s mother’s.",
+                        "Her own.",
+                        "Her mother’s."
+                    ],
+                    "answer": 2,
+                    "audioFile": "audio/part2_q14.mp3",
+                    "explanation": "「女の子は誰のラケットを使う？」「男の子の母親のもの」。",
+                    "highlights": [
+                        "You can use my mom’s."
+                    ],
+                    "choiceAnalysis": "1「男の子のもの」→母親の。2「男の子の母親のもの」→正解。3「自分自身の」→忘れた。4「彼女の母親のもの」→男の子の母親のもの。"
+                },
+                {
+                    "number": 15,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Mom, do you know Uncle Bill’s address?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes.  Why?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I want to send him a birthday card."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "That’s nice of you."
+                        }
+                    ],
+                    "question": "What does the boy want to do?",
+                    "choices": [
+                        "Buy a map.",
+                        "Send a card.",
+                        "Call his uncle.",
+                        "Use the computer."
+                    ],
+                    "answer": 2,
+                    "audioFile": "audio/part2_q15.mp3",
+                    "explanation": "「男の子は何をしたい？」「（ビルおじさんの）誕生日カードを送りたい」。",
+                    "highlights": [
+                        "I want to send him a birthday card."
+                    ],
+                    "choiceAnalysis": "1「地図を買う」→無関係。2「カードを送る」→正解。3「おじに電話する」→無関係。4「コンピュータを使う」→無関係。"
+                },
+                {
+                    "number": 16,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hello?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Hi, Mike.  Are you watching the basketball game on TV?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Of course."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Jaylen Porter is playing very well."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes, he is."
+                        }
+                    ],
+                    "question": "What are they talking about?",
+                    "choices": [
+                        "Their basketball coach.",
+                        "Their new TV.",
+                        "A basketball game.",
+                        "A new teacher."
+                    ],
+                    "answer": 3,
+                    "audioFile": "audio/part2_q16.mp3",
+                    "explanation": "「ふたりは何について話している？」「テレビでやっているバスケの試合」。",
+                    "highlights": [
+                        "Are you watching the basketball game"
+                    ],
+                    "choiceAnalysis": "1「バスケのコーチ」→プロ選手の話。2「新しいテレビ」→試合。3「バスケの試合」→正解。4「新しい先生」→無関係。"
+                },
+                {
+                    "number": 17,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "What did you do today, Tim?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I went to the shopping center to buy a notebook."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Is it for school?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes, for Spanish class."
+                        }
+                    ],
+                    "question": "Why did Tim go to the shopping center?",
+                    "choices": [
+                        "To meet his classmate.",
+                        "To meet his mother.",
+                        "To buy a notebook.",
+                        "To buy some Spanish food."
+                    ],
+                    "answer": 3,
+                    "audioFile": "audio/part2_q17.mp3",
+                    "explanation": "「ティムがショッピングセンターに行った理由は？」「（スペイン語の授業の）ノートを買うため」。",
+                    "highlights": [
+                        "to buy a notebook."
+                    ],
+                    "choiceAnalysis": "1「同級生に会う」→無関係。2「母親に会う」→無関係。3「ノートを買う」→正解。4「スペインの食べ物を買う」→ノート。"
+                },
+                {
+                    "number": 18,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Happy birthday, Jim."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Thanks, Ms. Clark."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Did you get any cards from your classmates?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I got one from Maria and one from Sam."
+                        }
+                    ],
+                    "question": "Whose birthday is it today?",
+                    "choices": [
+                        "Jim’s.",
+                        "Maria’s.",
+                        "Sam’s.",
+                        "Ms. Clark’s."
+                    ],
+                    "answer": 1,
+                    "audioFile": "audio/part2_q18.mp3",
+                    "explanation": "「今日は誰の誕生日？」「『誕生日おめでとう、ジム』と言っている」。",
+                    "highlights": [
+                        "Happy birthday, Jim."
+                    ],
+                    "choiceAnalysis": "1「ジムの」→正解。2「マリアの」→無関係。3「サムの」→無関係。4「クラーク先生の」→無関係。"
+                },
+                {
+                    "number": 19,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Dad, do you have to work this weekend?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Only on Saturday morning."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Can we go to the park on Sunday afternoon?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Sure."
+                        }
+                    ],
+                    "question": "When will they go to the park?",
+                    "choices": [
+                        "On Saturday morning.",
+                        "On Saturday afternoon.",
+                        "On Sunday morning.",
+                        "On Sunday afternoon."
+                    ],
+                    "answer": 4,
+                    "audioFile": "audio/part2_q19.mp3",
+                    "explanation": "「彼らはいつ公園に行く？」「（男の子）日曜日の午後行ける？」「（父）もちろん」。",
+                    "highlights": [
+                        "Can we go to the park on Sunday afternoon?"
+                    ],
+                    "choiceAnalysis": "1「土曜日の朝」→仕事。2「土曜日の午後」→日曜。3「日曜日の朝」→午後。4「日曜日の午後」→正解。"
+                },
+                {
+                    "number": 20,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Hello.  What would you like?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Two sandwiches and one rice ball, please."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Would you like some drinks, too?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes.  Three bottles of cola."
+                        }
+                    ],
+                    "question": "How many sandwiches does the woman want?",
+                    "choices": [
+                        "One.",
+                        "Two.",
+                        "Three.",
+                        "Four."
+                    ],
+                    "answer": 2,
+                    "audioFile": "audio/part2_q20.mp3",
+                    "explanation": "「女性はサンドイッチをいくつ欲しい？」「サンドイッチを2つ、おにぎりを1つ」。",
+                    "highlights": [
+                        "Two sandwiches"
+                    ],
+                    "choiceAnalysis": "1「1つ」→おにぎり。2「2つ」→正解。3「3つ」→コーラの本数。4「4つ」→無関係。"
+                }
+            ]
+        },
+        {
+            "name": "第3部",
+            "nameEn": "Part 3",
+            "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 21 〜 No. 30",
+            "questions": [
+                {
+                    "number": 21,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Here is your key.  Your room number is 205.  The restaurant on the second floor is open until ten o’clock.  Enjoy your stay."
+                        }
+                    ],
+                    "question": "Where is the man talking?",
+                    "choices": [
+                        "In a school.",
+                        "In a hotel.",
+                        "In a café.",
+                        "In a train station."
+                    ],
+                    "answer": 2,
+                    "audioFile": "audio/part3_q21.mp3",
+                    "explanation": "「男性はどこで話している？」「鍵です。部屋は205号室です。2階のレストランは10時まで…」。",
+                    "highlights": [
+                        "Your room number is 205.  The restaurant on the second floor",
+                        "Enjoy your stay."
+                    ],
+                    "choiceAnalysis": "1「学校」→無関係。2「ホテル」→正解。3「カフェ」→無関係。4「駅」→無関係。"
+                },
+                {
+                    "number": 22,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "My American friends came to Japan last week.  I took them to a sumo tournament.  We also went sightseeing, but they enjoyed eating sushi the most."
+                        }
+                    ],
+                    "question": "What did the man’s friends enjoy the most?",
+                    "choices": [
+                        "Watching a sumo tournament.",
+                        "Going sightseeing.",
+                        "Taking a Japanese bath.",
+                        "Eating sushi."
+                    ],
+                    "answer": 4,
+                    "audioFile": "audio/part3_q22.mp3",
+                    "explanation": "「男性の友人が一番楽しんだことは何？」「（相撲や観光もしたが）寿司を食べるのを一番楽しんだ」。",
+                    "highlights": [
+                        "they enjoyed eating sushi the most."
+                    ],
+                    "choiceAnalysis": "1「相撲を見ること」→一番ではない。2「観光」→一番ではない。3「風呂」→無関係。4「寿司を食べること」→正解。"
+                },
+                {
+                    "number": 23,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "My friend Sarah had a party tonight.  But I was sick and couldn’t go.  I stayed at home."
+                        }
+                    ],
+                    "question": "What did the boy do tonight?",
+                    "choices": [
+                        "He went to a party.",
+                        "He visited his friend.",
+                        "He stayed at home.",
+                        "He went to a hospital."
+                    ],
+                    "answer": 3,
+                    "audioFile": "audio/part3_q23.mp3",
+                    "explanation": "「男の子は今夜何をした？」「サラのパーティーに行けず、家にいた」。",
+                    "highlights": [
+                        "I was sick and couldn’t go.  I stayed at home."
+                    ],
+                    "choiceAnalysis": "1「パーティーに行った」→行けなかった。2「友人を訪問した」→行けなかった。3「家にいた」→正解。4「病院に行った」→言及なし。"
+                },
+                {
+                    "number": 24,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "This morning, Sally made a doll.  Tomorrow, she’s going to visit her grandfather.  She wants to show him the doll."
+                        }
+                    ],
+                    "question": "What is Sally going to do tomorrow?",
+                    "choices": [
+                        "Visit her grandfather.",
+                        "Make a doll.",
+                        "Go to a toy store.",
+                        "Buy a doll."
+                    ],
+                    "answer": 1,
+                    "audioFile": "audio/part3_q24.mp3",
+                    "explanation": "「サリーは明日何をする？」「（今日作った人形を）おじいちゃんに見せるために会いに行く」。",
+                    "highlights": [
+                        "Tomorrow, she’s going to visit her grandfather."
+                    ],
+                    "choiceAnalysis": "1「祖父を訪問する」→正解。2「人形を作る」→今日作った。3「おもちゃ屋に行く」→無関係。4「人形を買う」→作った。"
+                },
+                {
+                    "number": 25,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "It’s my father’s birthday today, so I’m making a cake.  It’s in the oven now, but I just remembered something important.  I forgot to use sugar!"
+                        }
+                    ],
+                    "question": "What is the girl’s problem?",
+                    "choices": [
+                        "She didn’t clean the kitchen.",
+                        "She didn’t buy a present.",
+                        "She forgot to use sugar.",
+                        "She forgot to buy a cake."
+                    ],
+                    "answer": 3,
+                    "audioFile": "audio/part3_q25.mp3",
+                    "explanation": "「女の子の問題は何？」「ケーキを焼いているが、砂糖を使い忘れた」。",
+                    "highlights": [
+                        "I forgot to use sugar!"
+                    ],
+                    "choiceAnalysis": "1「掃除しなかった」→無関係。2「プレゼントを買わなかった」→作っている。3「砂糖を使い忘れた」→正解。4「ケーキを買い忘れた」→作っている。"
+                },
+                {
+                    "number": 26,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Good morning, class.  This week, we have some exciting events at school.  The speech contest is on Wednesday.  And on Friday, a jazz band will perform in the gym."
+                        }
+                    ],
+                    "question": "When is the speech contest?",
+                    "choices": [
+                        "On Wednesday.",
+                        "On Thursday.",
+                        "On Friday.",
+                        "On the weekend."
+                    ],
+                    "answer": 1,
+                    "audioFile": "audio/part3_q26.mp3",
+                    "explanation": "「スピーチコンテストはいつ？」「スピーチコンテストは水曜日です」。",
+                    "highlights": [
+                        "The speech contest is on Wednesday."
+                    ],
+                    "choiceAnalysis": "1「水曜日」→正解。2「木曜日」→無関係。3「金曜日」→バンド演奏。4「週末」→無関係。"
+                },
+                {
+                    "number": 27,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Debra wanted to take her umbrella to school today because it was raining.  It wasn’t by the front door, so she looked in her father’s car.  She found it there."
+                        }
+                    ],
+                    "question": "Where was Debra’s umbrella?",
+                    "choices": [
+                        "At school.",
+                        "By the front door.",
+                        "In her father’s car.",
+                        "In her room."
+                    ],
+                    "answer": 3,
+                    "audioFile": "audio/part3_q27.mp3",
+                    "explanation": "「デブラの傘はどこにあった？」「玄関にはなく、父親の車の中で見つけた」。",
+                    "highlights": [
+                        "she looked in her father’s car.  She found it there."
+                    ],
+                    "choiceAnalysis": "1「学校」→無関係。2「玄関のドアのそば」→なかった。3「父親の車の中」→正解。4「彼女の部屋」→無関係。"
+                },
+                {
+                    "number": 28,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Yuka loves cooking.  She cooks dinner for her family twice a week.  She also makes pancakes for breakfast once a month."
+                        }
+                    ],
+                    "question": "How often does Yuka make pancakes for breakfast?",
+                    "choices": [
+                        "Once a month.",
+                        "Twice a month.",
+                        "Once a week.",
+                        "Twice a week."
+                    ],
+                    "answer": 1,
+                    "audioFile": "audio/part3_q28.mp3",
+                    "explanation": "「ユカはどのくらいの頻度で朝食にパンケーキを作る？」「月に一回」。",
+                    "highlights": [
+                        "makes pancakes for breakfast once a month."
+                    ],
+                    "choiceAnalysis": "1「月に1回」→正解。2「月に2回」→夕食。3「週に1回」→無関係。4「週に2回」→夕食。"
+                },
+                {
+                    "number": 29,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I like making clothes.  Last month, I made a sweater and a dress.  Next, I’m going to make a scarf for my husband."
+                        }
+                    ],
+                    "question": "What will the woman make next?",
+                    "choices": [
+                        "A sweater.",
+                        "A scarf.",
+                        "A dress.",
+                        "A shirt."
+                    ],
+                    "answer": 2,
+                    "audioFile": "audio/part3_q29.mp3",
+                    "explanation": "「女性は次に何を作る？」「夫のためにスカーフ（マフラー）を作る」。",
+                    "highlights": [
+                        "Next, I’m going to make a scarf for my husband."
+                    ],
+                    "choiceAnalysis": "1「セーター」→先月。2「スカーフ（マフラー）」→正解。3「ドレス」→先月。4「シャツ」→無関係。"
+                },
+                {
+                    "number": 30,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Yesterday, Matt’s basketball team had a picnic.  He took some potato chips, and his friend took some cookies.  His coach took many drinks."
+                        }
+                    ],
+                    "question": "What did Matt take to the picnic?",
+                    "choices": [
+                        "Salad.",
+                        "Cookies.",
+                        "Drinks.",
+                        "Potato chips."
+                    ],
+                    "answer": 4,
+                    "audioFile": "audio/part3_q30.mp3",
+                    "explanation": "「マットは何を持っていった？」「彼（マット）はポテトチップスを持って行った」。",
+                    "highlights": [
+                        "He took some potato chips"
+                    ],
+                    "choiceAnalysis": "1「サラダ」→無関係。2「クッキー」→友人が。3「飲み物」→コーチが。4「ポテトチップス」→正解。"
+                }
+            ]
+        }
+    ]
+}
