@@ -730,6 +730,14 @@
     renderTabs();
     renderPartInfo();
     renderQuestions();
+
+    // QRロックモード: トップページ経由でない場合、「トップへ」リンクを非表示
+    if (!sessionStorage.getItem('audipass-nav')) {
+      const backLink = document.getElementById('backLink');
+      if (backLink) {
+        backLink.style.display = 'none';
+      }
+    }
   }
 
   // Start
