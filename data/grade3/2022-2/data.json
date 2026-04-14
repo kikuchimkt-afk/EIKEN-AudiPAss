@@ -1,0 +1,940 @@
+{
+    "title": "2022年度 第2回検定一次試験 英検3級 リスニング",
+    "parts": [
+        {
+            "name": "第1部",
+            "nameEn": "Part 1",
+            "partType": "spoken-choices",
+            "description": "イラストを参考にしながら対話を聞き、その最後の文に対する応答として最も適切なものを選ぶ形式です。",
+            "questionRange": "No. 1 〜 No. 10",
+            "questions": [
+                {
+                    "number": 1,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "I like the book you lent me."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Did you finish it?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "No.  Can I keep it longer?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "Sure.  Give it back to me next week.",
+                        "Yes.  I always study hard.",
+                        "OK.  It was five dollars."
+                    ],
+                    "explanation": "本を長く借りていたいとお願いする応答として、3（いいよ。5ドルだったよ）や2（はい。私はいつも一生懸命勉強します）は不自然です。1（もちろん。来週返して）が正解です。",
+                    "choiceAnalysis": "Can I keep it longer?（もっと長く借りていてもいい？）という依頼に対する許可と条件を述べています。",
+                    "highlights": [
+                        {
+                            "text": "Can I keep it longer?",
+                            "translation": "もっと長く借りていてもいい？",
+                            "note": "Can I keep it longer?（もっと長く借りていてもいい？）という依頼に対する許可と条件を述べています。"
+                        }
+                    ],
+                    "audioFile": "audio/part1_q01.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q01.png"
+                },
+                {
+                    "number": 2,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "How did you do on the science test?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I did well."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Did you study for a long time?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "For about five hours.",
+                        "It was difficult.",
+                        "Math is my favorite subject."
+                    ],
+                    "explanation": "理科のテストはどうだったかと聞かれ「I did well（よくできたよ）」と答えた後、「長く勉強したの？」と聞かれているので、勉強時間を答える1（約5時間）が正解です。",
+                    "choiceAnalysis": "Did you study for a long time?（長く勉強したの？）に対して具体的な時間を答えます。",
+                    "highlights": [
+                        {
+                            "text": "Did you study...? / For about five hours.",
+                            "translation": "長く勉強したの？ / 約5時間。",
+                            "note": "Did you study for a long time?（長く勉強したの？）に対して具体的な時間を答えます。"
+                        }
+                    ],
+                    "audioFile": "audio/part1_q02.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q02.png"
+                },
+                {
+                    "number": 3,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Excuse me."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes, ma’am?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Where are the lockers in this station?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "For 200 yen a day.",
+                        "To Kyoto and Osaka.",
+                        "Beside the ticket machines."
+                    ],
+                    "explanation": "駅のロッカーの場所（Where）を聞かれているため、場所を答えている3（券売機のそばです）が正解です。",
+                    "choiceAnalysis": "Where are the lockers...?（ロッカーはどこですか？）に対して場所（Beside...）で答えています。",
+                    "highlights": [
+                        {
+                            "text": "Where are... / Beside the ticket machines.",
+                            "translation": "どこにありますか？ / 券売機のそばに。",
+                            "note": "Where are the lockers...?（ロッカーはどこですか？）に対して場所（Beside...）で答えています。"
+                        }
+                    ],
+                    "audioFile": "audio/part1_q03.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q03.png"
+                },
+                {
+                    "number": 4,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "When did you get this computer, Grandpa?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "In December."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Was it a Christmas present?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "No, I’m still learning.",
+                        "No, this one’s fine.",
+                        "No, I bought it myself."
+                    ],
+                    "explanation": "「それはクリスマスプレゼントだったの？」と聞かれているので、自分で買ったと答える3（いいえ、自分で買いました）が正解です。",
+                    "choiceAnalysis": "Was it a Christmas present?（それはクリスマスプレゼントだったの？）に対し、否定して購入元を説明しています。",
+                    "highlights": [
+                        {
+                            "text": "bought it myself",
+                            "translation": "自分でそれを買った",
+                            "note": "Was it a Christmas present?（それはクリスマスプレゼントだったの？）に対し、否定して購入元を説明しています。"
+                        }
+                    ],
+                    "audioFile": "audio/part1_q04.mp3",
+                    "answer": 4,
+                    "illustrationFile": "images/q04.png"
+                },
+                {
+                    "number": 5,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Look at all these leaves."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yeah.  There are a lot."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I’ll need another bag."
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I’ll get you one.",
+                        "It was last weekend.",
+                        "You’re welcome."
+                    ],
+                    "explanation": "「別の袋が必要だわ」という言葉に対して、袋を持ってくることを申し出る1（僕が一つ持ってくるよ）が正解です。",
+                    "choiceAnalysis": "I'll get you one. の one は bag の代わりです。「持ってきてあげるよ」という申し出になります。",
+                    "highlights": [
+                        {
+                            "text": "I'll need another bag. / I'll get you one.",
+                            "translation": "別の袋が必要だわ。 / 僕が一つ持ってくるよ。",
+                            "note": "I'll get you one. の one は bag の代わりです。「持ってきてあげるよ」という申し出になります。"
+                        }
+                    ],
+                    "audioFile": "audio/part1_q05.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q05.png"
+                },
+                {
+                    "number": 6,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Has Grandma seen the photos from our trip yet?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No.  Let’s e-mail them to her."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "I don’t know how."
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I’ll show you.",
+                        "It’s over here.",
+                        "She has some."
+                    ],
+                    "explanation": "「やり方が分からない」と言う相手に対し、「教えてあげるよ」と申し出る1が正解です。",
+                    "choiceAnalysis": "how（やり方）が分からない相手に、show you（見せてあげる＝教えてあげる）と助けています。",
+                    "highlights": [
+                        {
+                            "text": "I don't know how. / I'll show you.",
+                            "translation": "やり方を知りません。 / 教えてあげるよ。",
+                            "note": "how（やり方）が分からない相手に、show you（見せてあげる＝教えてあげる）と助けています。"
+                        }
+                    ],
+                    "audioFile": "audio/part1_q06.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q06.png"
+                },
+                {
+                    "number": 7,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I have to make a speech tomorrow."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Good luck."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I hope my classmates like it."
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I took one, too.",
+                        "I’m sure they will.",
+                        "You’re very early."
+                    ],
+                    "explanation": "「明日スピーチをしなければならない」「クラスメイトが気に入ってくれるといいな」という言葉に対して、「きっと気に入るよ（I'm sure they will.）」と励ます2が正解です。",
+                    "choiceAnalysis": "I'm sure they will (like it). と、相手の不安を打ち消し励ましています。",
+                    "highlights": [
+                        {
+                            "text": "I hope my classmates like it. / I'm sure they will.",
+                            "translation": "クラスメイトが気に入ってくれるといいな。 / きっと気に入るよ。",
+                            "note": "I'm sure they will (like it). と、相手の不安を打ち消し励ましています。"
+                        }
+                    ],
+                    "audioFile": "audio/part1_q07.mp3",
+                    "answer": 3,
+                    "illustrationFile": "images/q07.png"
+                },
+                {
+                    "number": 8,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Can I help you, ma’am?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes.  Do you sell badminton rackets?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Sorry.  We don’t."
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "Yes, I’m on the team.",
+                        "OK, thanks anyway.",
+                        "Well, I’ll think about it."
+                    ],
+                    "explanation": "バドミントンのラケットを売っているか尋ね「We don't.（売っていません）」と答えた後なので、2（わかりました。とにかくありがとう）が正解です。",
+                    "choiceAnalysis": "相手の申し出や回答が期待通りでなかったときに使う thanks anyway（とにかくありがとう）が使われています。",
+                    "highlights": [
+                        {
+                            "text": "thanks anyway",
+                            "translation": "とにかくありがとう",
+                            "note": "相手の申し出や回答が期待通りでなかったときに使う thanks anyway（とにかくありがとう）が使われています。"
+                        }
+                    ],
+                    "audioFile": "audio/part1_q08.mp3",
+                    "answer": 4,
+                    "illustrationFile": "images/q08.png"
+                },
+                {
+                    "number": 9,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I’m going ice-skating on Saturday."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Great."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Do you want to go with me?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "I like your jacket.",
+                        "Sorry, but I’m busy then.",
+                        "I don’t have any."
+                    ],
+                    "explanation": "「アイストスケートに行くけど、一緒に行かない？」と誘われて、断る理由を述べている2（ごめんなさい、でもその時は忙しいの）が正解です。",
+                    "choiceAnalysis": "Do you want to go with me? という誘いに対して、Sorry, but...（ごめんなさい、でも…）と断っています。",
+                    "highlights": [
+                        {
+                            "text": "Do you want to go with me? / Sorry, but I'm busy then.",
+                            "translation": "一緒に行きたい？ / ごめんなさい、でもその時は忙しいの。",
+                            "note": "Do you want to go with me? という誘いに対して、Sorry, but...（ごめんなさい、でも…）と断っています。"
+                        }
+                    ],
+                    "audioFile": "audio/part1_q09.mp3",
+                    "answer": 2,
+                    "illustrationFile": "images/q09.png"
+                },
+                {
+                    "number": 10,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "We missed the train!"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Don’t worry about it."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "When’s the next one?"
+                        }
+                    ],
+                    "question": "What is the best response?",
+                    "choices": [
+                        "It’ll arrive in 10 minutes.",
+                        "I lost my ticket.",
+                        "I went by bus."
+                    ],
+                    "explanation": "「次の（電車）はいつ？」と聞かれているため、時間やタイミングを答える1（10分後に到着するよ）が正解です。",
+                    "choiceAnalysis": "When is the next one?（次はいつ？）に対して in 10 minutes（10分後）で答えています。",
+                    "highlights": [
+                        {
+                            "text": "When's the next one? / It'll arrive in 10 minutes.",
+                            "translation": "次の（電車）はいつ？ / 10分後に到着するよ。",
+                            "note": "When is the next one?（次はいつ？）に対して in 10 minutes（10分後）で答えています。"
+                        }
+                    ],
+                    "audioFile": "audio/part1_q10.mp3",
+                    "answer": 1,
+                    "illustrationFile": "images/q10.png"
+                }
+            ]
+        },
+        {
+            "name": "第2部",
+            "nameEn": "Part 2",
+            "description": "対話を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 11 〜 No. 20",
+            "questions": [
+                {
+                    "number": 11,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Do you want to go to a movie?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Sure, Mom.  Can we eat lunch first?  I’m hungry."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "OK.  I’ll make sandwiches."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Great."
+                        }
+                    ],
+                    "question": "What is the boy’s mother going to do now?",
+                    "choices": [],
+                    "explanation": "少年は映画に行く前に昼食を食べたいと言い、母親はサンドイッチを作ると言っています。したがって母親がこれからすることは3（サンドイッチを作ること）です。",
+                    "choiceAnalysis": "I'll make sandwiches. という母親のセリフから、これからサンドイッチを作ることがわかります。",
+                    "highlights": [
+                        {
+                            "text": "I'll make sandwiches.",
+                            "translation": "サンドイッチを作るわ。",
+                            "note": "I'll make sandwiches. という母親のセリフから、これからサンドイッチを作ることがわかります。"
+                        }
+                    ],
+                    "audioFile": "audio/part2_q11.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 12,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Excuse me.  Is that your dog?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Sorry, but you can’t bring dogs into this park."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Oh, I didn’t know that.  I’ll get him and leave right away."
+                        }
+                    ],
+                    "question": "What will the woman do next?",
+                    "choices": [],
+                    "explanation": "公園に犬は入れないと注意された女性は、「知らなかった。すぐに連れて帰ります」と言っています。したがって彼女がすることは3（犬と一緒に公園を出ること）です。",
+                    "choiceAnalysis": "I didn't know that. I'll get him and leave right away. から、犬を連れてすぐに出ることがわかります。",
+                    "highlights": [
+                        {
+                            "text": "leave right away",
+                            "translation": "すぐに出る",
+                            "note": "I didn't know that. I'll get him and leave right away. から、犬を連れてすぐに出ることがわかります。"
+                        }
+                    ],
+                    "audioFile": "audio/part2_q12.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 13,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "When does the next bus to Madison leave?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "In five minutes.  The one after that comes in two hours."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "OK.  Three tickets for the next bus, please."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "That’ll be $12."
+                        }
+                    ],
+                    "question": "How many tickets does the woman want to buy?",
+                    "choices": [],
+                    "explanation": "マディソン行きの次のバスは5分後に出発し、その次は2時間後です。女性は「次のバスのチケットを3枚お願いします」と言っているので、答えは2（3枚）です。",
+                    "choiceAnalysis": "Three tickets for the next bus, please. とはっきり枚数を述べています。",
+                    "highlights": [
+                        {
+                            "text": "Three tickets",
+                            "translation": "3枚のチケット",
+                            "note": "Three tickets for the next bus, please. とはっきり枚数を述べています。"
+                        }
+                    ],
+                    "audioFile": "audio/part2_q13.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 14,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Have you ever been to Hokkaido?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes.  My sister and I went there last year to visit our aunt."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Did you go hiking or skiing?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "No, we didn’t have time."
+                        }
+                    ],
+                    "question": "Why did the boy go to Hokkaido last year?",
+                    "choices": [],
+                    "explanation": "少年は昨年、姉と一緒に叔母さんに会いに行きました。ハイキングやスキーに行く時間はなかったと言っているので、理由は4（叔母さんを訪問すること）です。",
+                    "choiceAnalysis": "My sister and I went there last year to visit our aunt. というセリフが回答の根拠です。",
+                    "highlights": [
+                        {
+                            "text": "to visit our aunt",
+                            "translation": "私たちの叔母を訪問するため",
+                            "note": "My sister and I went there last year to visit our aunt. というセリフが回答の根拠です。"
+                        }
+                    ],
+                    "audioFile": "audio/part2_q14.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 15,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "When does band practice start on Saturday?  At 9:30?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "At nine.  My dad’s driving me.  Do you want to ride with us?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes, please."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "OK.  We’ll pick you up at 8:30."
+                        }
+                    ],
+                    "question": "What time will they meet on Saturday?",
+                    "choices": [],
+                    "explanation": "バンドの練習は土曜日の9時に始まり、少女のお父さんが車で送ってくれます。迎えに行く時間は「8時半（At 8:30）」と言っているので、答えは1（8:30）です。",
+                    "choiceAnalysis": "We'll pick you up at 8:30. というセリフから、待ち合わせ（迎え）の時間は8:30だとわかります。",
+                    "highlights": [
+                        {
+                            "text": "pick you up at 8:30",
+                            "translation": "あなたを8:30に迎えに行く",
+                            "note": "We'll pick you up at 8:30. というセリフから、待ち合わせ（迎え）の時間は8:30だとわかります。"
+                        }
+                    ],
+                    "audioFile": "audio/part2_q15.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 16,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Did you give Ms. Clark your social studies report?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yes, Dad."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Good.  Do you have any homework tonight?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I need to draw a picture of a flower for art class."
+                        }
+                    ],
+                    "question": "What does the girl have to do tonight?",
+                    "choices": [],
+                    "explanation": "少女は社会のレポートをクラーク先生に提出し、今夜宿題があるかと聞かれて「美術の授業のために花の絵を描かなければならない」と答えています。したがって答えは4（絵を描くこと）です。",
+                    "choiceAnalysis": "I need to draw a picture of a flower for art class. から宿題の内容がわかります。",
+                    "highlights": [
+                        {
+                            "text": "draw a picture of a flower",
+                            "translation": "花の絵を描く",
+                            "note": "I need to draw a picture of a flower for art class. から宿題の内容がわかります。"
+                        }
+                    ],
+                    "audioFile": "audio/part2_q16.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 17,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "We need some drinks for tomorrow night’s party."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I’ve already bought some juice."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Really?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Yeah.  I got some this morning.  I’ll buy some cola this afternoon."
+                        }
+                    ],
+                    "question": "When did the woman buy some juice?",
+                    "choices": [],
+                    "explanation": "明日の夜のパーティーに向けて、女性は「今日の朝にジュースをいくつか買った」と言っています。コーラは今日の午後買う予定です。したがってジュースを買った時期は3（今日の朝）です。",
+                    "choiceAnalysis": "I got some this morning.（今朝いくつか買いました）というセリフから時期がわかります。",
+                    "highlights": [
+                        {
+                            "text": "this morning",
+                            "translation": "今朝",
+                            "note": "I got some this morning.（今朝いくつか買いました）というセリフから時期がわかります。"
+                        }
+                    ],
+                    "audioFile": "audio/part2_q17.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 18,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "How was your weekend?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Good.  I went to the mall on Saturday."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Great."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yesterday, I took some photos of trees at the park."
+                        }
+                    ],
+                    "question": "Where did the boy go yesterday?",
+                    "choices": [],
+                    "explanation": "少年は土曜日にショッピングモールへ行き、昨日は「公園で木の写真を撮った」と言っています。したがって昨日行った場所は2（公園）です。",
+                    "choiceAnalysis": "Yesterday, I took some photos of trees at the park. という発言が直接の回答根拠です。",
+                    "highlights": [
+                        {
+                            "text": "at the park",
+                            "translation": "公園で",
+                            "note": "Yesterday, I took some photos of trees at the park. という発言が直接の回答根拠です。"
+                        }
+                    ],
+                    "audioFile": "audio/part2_q18.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 19,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Are you taller than your father, Jason?"
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Yes, Grandma.  He’s 170 centimeters, and I’m 175 centimeters."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "I’m only 160 centimeters."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "You’re taller than Mom."
+                        }
+                    ],
+                    "question": "How tall is Jason?",
+                    "choices": [],
+                    "explanation": "ジェイソンのお父さんは170センチで、ジェイソンは「175センチ」と答えています。おばあちゃんは160センチです。したがってジェイソンの身長は1（175センチ）です。",
+                    "choiceAnalysis": "I'm 175 centimeters. と自身の身長をはっきり述べています。",
+                    "highlights": [
+                        {
+                            "text": "I'm 175 centimeters.",
+                            "translation": "私は175センチメートルです。",
+                            "note": "I'm 175 centimeters. と自身の身長をはっきり述べています。"
+                        }
+                    ],
+                    "audioFile": "audio/part2_q19.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 20,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "You can speak French well, Olivia."
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "Thanks, Ben."
+                        },
+                        {
+                            "speaker": "male",
+                            "text": "Were you born in France?"
+                        },
+                        {
+                            "speaker": "female",
+                            "text": "No, but my older brother was."
+                        }
+                    ],
+                    "question": "Who was born in France?",
+                    "choices": [],
+                    "explanation": "オリビアはフランス語が上手ですが、フランスで生まれたか聞かれて「いいえ、でも兄（弟）がそうです」と答えています。したがってフランスで生まれたのは4（オリビアの兄/弟）です。",
+                    "choiceAnalysis": "No, but my older brother was (born in France). というセリフから兄が生まれたことがわかります。",
+                    "highlights": [
+                        {
+                            "text": "my older brother",
+                            "translation": "私の兄",
+                            "note": "No, but my older brother was (born in France). というセリフから兄が生まれたことがわかります。"
+                        }
+                    ],
+                    "audioFile": "audio/part2_q20.mp3",
+                    "answer": 4
+                }
+            ]
+        },
+        {
+            "name": "第3部",
+            "nameEn": "Part 3",
+            "description": "英文を聞き、その質問に対して最も適切な答えを1, 2, 3, 4の中から一つ選ぶ形式です。",
+            "questionRange": "No. 21 〜 No. 30",
+            "questions": [
+                {
+                    "number": 21,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I can’t swim at all, so I decided to take lessons.  In the future, I want to take my son to Hawaii and swim with him in the sea.  He loves swimming."
+                        }
+                    ],
+                    "question": "What did the woman decide to do?",
+                    "choices": [],
+                    "explanation": "女性はまったく泳げないので、レッスンを受けることにしたと言っています。将来はハワイに行って息子と一緒に泳ぎたいと思っています。したがって彼女が決めたことは2（レッスンを受けること）です。",
+                    "choiceAnalysis": "I decided to take lessons.（レッスンを受けることに決めた）という発言がそのまま根拠です。",
+                    "highlights": [
+                        {
+                            "text": "take lessons",
+                            "translation": "レッスンを受ける",
+                            "note": "I decided to take lessons.（レッスンを受けることに決めた）という発言がそのまま根拠です。"
+                        }
+                    ],
+                    "audioFile": "audio/part3_q21.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 22,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Last night, I had a party in my apartment.  After the party, I cleaned my living room, but I was too tired to wash the dishes.  I have to do that this morning."
+                        }
+                    ],
+                    "question": "What does the man need to do this morning?",
+                    "choices": [],
+                    "explanation": "男性は昨夜パーティーを開き、その後リビングを掃除しましたが、疲れて皿洗いができませんでした。そのため今朝しなければならないと言っているので、答えは4（皿を洗うこと）です。",
+                    "choiceAnalysis": "I was too tired to wash the dishes. I have to do that this morning. から今朝やるべきことが皿洗いだと読み取れます。",
+                    "highlights": [
+                        {
+                            "text": "wash the dishes",
+                            "translation": "皿を洗う",
+                            "note": "I was too tired to wash the dishes. I have to do that this morning. から今朝やるべきことが皿洗いだと読み取れます。"
+                        }
+                    ],
+                    "audioFile": "audio/part3_q22.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 23,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Yesterday, my school had a speech contest.  My friends’ speeches were really good. Jenny’s and Sara’s speeches were both about their hobbies.  Donna’s was about her mother. It was my favorite one."
+                        }
+                    ],
+                    "question": "Whose speech did the boy like the best?",
+                    "choices": [],
+                    "explanation": "少年の学校でスピーチコンテストがあり、ジェニーやサラは趣味について、ドナは母親について話しました。そしてそれが「僕の一番のお気に入りだった」と言っているので、答えは3（ドナ）です。",
+                    "choiceAnalysis": "Donna's was about her mother. It was my favorite one. からドナのスピーチが一番好きだったことがわかります。",
+                    "highlights": [
+                        {
+                            "text": "Donna's",
+                            "translation": "ドナの（スピーチ）",
+                            "note": "Donna's was about her mother. It was my favorite one. からドナのスピーチが一番好きだったことがわかります。"
+                        }
+                    ],
+                    "audioFile": "audio/part3_q23.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 24,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Paul went to the library to study after school today.  When he got home, his mother was angry.  She said he should always call her if he goes somewhere after school."
+                        }
+                    ],
+                    "question": "Why was Paul’s mother angry?",
+                    "choices": [],
+                    "explanation": "ポールは放課後勉強しに図書館に行きました。家に帰ると、母親は「放課後どこかへ行くなら必ず電話すべき」と言って怒っていました。理由は2（彼はどこに行くか彼女に電話しなかったから）です。",
+                    "choiceAnalysis": "She said he should always call her if he goes somewhere after school. から、電話しなかったことが怒られた理由だとわかります。",
+                    "highlights": [
+                        {
+                            "text": "always call her if he goes somewhere",
+                            "translation": "もし彼がどこかへ行くならいつも彼女に電話する",
+                            "note": "She said he should always call her if he goes somewhere after school. から、電話しなかったことが怒られた理由だとわかります。"
+                        }
+                    ],
+                    "audioFile": "audio/part3_q24.mp3",
+                    "answer": 2
+                },
+                {
+                    "number": 25,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "Greg’s favorite holiday is Christmas.  This year, he got a bicycle, and his sister Peggy got a dress.  Greg’s mother gave his father a new computer.  He was very happy."
+                        }
+                    ],
+                    "question": "Who got a computer for Christmas?",
+                    "choices": [],
+                    "explanation": "グレッグのお気に入りの休日はクリスマスです。今年、彼は自転車を、妹のペギーはドレスをもらい、母親は父親に新しいコンピューターをあげたと言っています。したがってコンピューターをもらったのは1（グレッグの父親）です。",
+                    "choiceAnalysis": "Greg's mother gave his father a new computer. という一文から「父親がコンピューターをもらった」ことが判断できます。",
+                    "highlights": [
+                        {
+                            "text": "gave his father a new computer",
+                            "translation": "彼の父親に新しいコンピューターをあげた",
+                            "note": "Greg's mother gave his father a new computer. という一文から「父親がコンピューターをもらった」ことが判断できます。"
+                        }
+                    ],
+                    "audioFile": "audio/part3_q25.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 26,
+                    "lines": [
+                        {
+                            "speaker": "male",
+                            "text": "I played rugby this afternoon, and now my leg hurts.  My mom will take me to the doctor tomorrow morning.  My next rugby game is on Saturday.  I hope I can play."
+                        }
+                    ],
+                    "question": "When will the boy go to the doctor?",
+                    "choices": [],
+                    "explanation": "少年は今日の午後ラグビーをして足を痛めました。母親が「明日の朝（tomorrow morning）」に彼を医者へ連れて行くと言っているので、答えは1（明日の朝）です。",
+                    "choiceAnalysis": "My mom will take me to the doctor tomorrow morning. というセリフに時期が明示されています。",
+                    "highlights": [
+                        {
+                            "text": "tomorrow morning",
+                            "translation": "明日の朝",
+                            "note": "My mom will take me to the doctor tomorrow morning. というセリフに時期が明示されています。"
+                        }
+                    ],
+                    "audioFile": "audio/part3_q26.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 27,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "My mom loves vegetables.  She loves eating potatoes and lettuce, and she grows onions in our garden.  I think carrots are delicious, but I don’t like other kinds of vegetables."
+                        }
+                    ],
+                    "question": "What vegetable does the girl like?",
+                    "choices": [],
+                    "explanation": "少女の母親は野菜が大好きでじゃがいもやレタスを食べ、玉ねぎを育てています。少女は「にんじんはおいしいと思うけど、他の種類の野菜は嫌い」と言っているので、彼女が好きなのは4（にんじん）です。",
+                    "choiceAnalysis": "I think carrots are delicious, but I don't like other kinds of vegetables. から、ニンジンだけは好きであることがわかります。",
+                    "highlights": [
+                        {
+                            "text": "carrots",
+                            "translation": "にんじん",
+                            "note": "I think carrots are delicious, but I don't like other kinds of vegetables. から、ニンジンだけは好きであることがわかります。"
+                        }
+                    ],
+                    "audioFile": "audio/part3_q27.mp3",
+                    "answer": 4
+                },
+                {
+                    "number": 28,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "I love art.  I draw pictures every day, and I take an art class every Monday.  I also take my two daughters to an art museum once a month."
+                        }
+                    ],
+                    "question": "How often does the woman take an art class?",
+                    "choices": [],
+                    "explanation": "女性は美術が大好きで、毎日絵を描き、美術の授業を「毎週月曜日（every Monday）」に受けています。また娘を月1回美術館に連れて行きます。授業を受ける頻度は1（週に1回）です。",
+                    "choiceAnalysis": "I take an art class every Monday. という「毎週月曜日」が「週に1回（Once a week）」と一致します。",
+                    "highlights": [
+                        {
+                            "text": "every Monday",
+                            "translation": "毎週月曜日",
+                            "note": "I take an art class every Monday. という「毎週月曜日」が「週に1回（Once a week）」と一致します。"
+                        }
+                    ],
+                    "audioFile": "audio/part3_q28.mp3",
+                    "answer": 1
+                },
+                {
+                    "number": 29,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Henry always gives his family books for Christmas.  Last year, he got a book about gardening for his wife and one about animals for his daughter.  This year, he’ll give them books about traveling."
+                        }
+                    ],
+                    "question": "What did Henry give his daughter for Christmas last year?",
+                    "choices": [],
+                    "explanation": "ヘンリーはクリスマスにいつも家族に本を贈ります。昨年、彼は妻に庭いじりの本を、娘に動物についての本（one about animals）を贈りました。したがって昨年娘に贈ったのは3（動物についての本）です。",
+                    "choiceAnalysis": "one about animals for his daughter という部分から、娘には動物の本を贈ったことがわかります。",
+                    "highlights": [
+                        {
+                            "text": "about animals",
+                            "translation": "動物について（の本）",
+                            "note": "one about animals for his daughter という部分から、娘には動物の本を贈ったことがわかります。"
+                        }
+                    ],
+                    "audioFile": "audio/part3_q29.mp3",
+                    "answer": 3
+                },
+                {
+                    "number": 30,
+                    "lines": [
+                        {
+                            "speaker": "female",
+                            "text": "Welcome to Dirkby Department Store.  Today, we have some special events.  There will be a piano concert at two on the fourth floor.  And on the fifth floor, we have a sale on clothes."
+                        }
+                    ],
+                    "question": "Where will the piano concert be held?",
+                    "choices": [],
+                    "explanation": "ダークビーデパートでは、2時に「4階（the fourth floor）」でピアノ・コンサートが開かれます。5階では洋服のセールがあります。したがってコンサートが開かれる場所は1（4階）です。",
+                    "choiceAnalysis": "a piano concert at two on the fourth floor というアナウンスから場所は4階だとわかります。",
+                    "highlights": [
+                        {
+                            "text": "on the fourth floor",
+                            "translation": "4階で",
+                            "note": "a piano concert at two on the fourth floor というアナウンスから場所は4階だとわかります。"
+                        }
+                    ],
+                    "audioFile": "audio/part3_q30.mp3",
+                    "answer": 1
+                }
+            ]
+        }
+    ]
+}

@@ -107,6 +107,7 @@
             id: 'grade3', name: 'CEFR A1（３級相当）', nameEn: 'CSE 1456', icon: 'A1',
             color: '#f472b6', colorRgb: '244, 114, 182',
             exams: [
+                { id: '2022-2', label: '2022年度 第2回' },
                 { id: '2022-3', label: '2022年度 第3回' },
                 { id: '2023-1', label: '2023年度 第1回' },
                 { id: '2023-2', label: '2023年度 第2回' },
