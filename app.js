@@ -731,8 +731,8 @@
     renderPartInfo();
     renderQuestions();
 
-    // QRロックモード: トップページ経由でない場合、「トップへ」リンクを非表示
-    if (!sessionStorage.getItem('audipass-nav')) {
+    // QRロックモード: ?nav=1 がない場合（QRコードからの直接アクセス）、「トップへ」リンクを非表示
+    if (!params.get('nav')) {
       const backLink = document.getElementById('backLink');
       if (backLink) {
         backLink.style.display = 'none';
